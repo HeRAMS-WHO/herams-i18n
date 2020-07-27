@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 15:33+0000\n"
-"PO-Revision-Date: 2019-11-28 11:58+0000\n"
+"PO-Revision-Date: 2020-07-27 14:31+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8\n"
+"X-Generator: Weblate 4.1.1\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -840,14 +840,19 @@ msgid ""
 "A donut chart to highlight the categories of ownership as a percentage of"
 " the total number of MoSDs."
 msgstr ""
+"Un graphique en beignet indiquant les catégories de propriété en pourcentage "
+"du nombre total de FS."
 
 #: ../docs/index.rst:301
 msgid "External support:"
 msgstr "Soutien externe:"
 
 #: ../docs/index.rst:303
+#, fuzzy
 msgid "A donut  chart to illustrate the level of support provided by partners."
 msgstr ""
+"Un graphique en beignet pour illustrer le niveau de soutien fourni par les "
+"partenaires."
 
 #: ../docs/index.rst:310
 msgid "Basic Amenities"
