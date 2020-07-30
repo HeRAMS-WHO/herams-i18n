@@ -327,8 +327,8 @@ msgstr ""
 "ordre croissant"
 
 msgctxt "app"
-msgid "Discard & go to dashboard"
-msgstr "Annuler / Retourner au tableau de bord"
+msgid "Discard & go back"
+msgstr ""
 
 msgctxt "app"
 msgid "Donut"
@@ -1044,8 +1044,8 @@ msgid "Update "
 msgstr "Enregistrer "
 
 msgctxt "app"
-msgid "Update & go to dashboard"
-msgstr "Enregistrer / Retourner au tableau de bord"
+msgid "Update & go back"
+msgstr ""
 
 msgctxt "app"
 msgid "Update Page"
@@ -1316,6 +1316,14 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Discard & go to dashboard"
+#~ msgstr "Annuler / Retourner au tableau de bord"
+
+#~ msgctxt "app"
+#~ msgid "Update & go to dashboard"
+#~ msgstr "Enregistrer / Retourner au tableau de bord"
 
 #~ msgctxt "app"
 #~ msgid "Error!"

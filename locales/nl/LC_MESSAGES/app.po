@@ -317,7 +317,7 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
-msgid "Discard & go to dashboard"
+msgid "Discard & go back"
 msgstr ""
 
 msgctxt "app"
@@ -1012,7 +1012,7 @@ msgid "Update "
 msgstr ""
 
 msgctxt "app"
-msgid "Update & go to dashboard"
+msgid "Update & go back"
 msgstr ""
 
 msgctxt "app"

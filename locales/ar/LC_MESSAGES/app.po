@@ -319,7 +319,7 @@ msgid ""
 msgstr "يحدد ترتيب العناصر على الصفحة، والعناصر الموضحة بترتيب تصاعدي"
 
 msgctxt "app"
-msgid "Discard & go to dashboard"
+msgid "Discard & go back"
 msgstr ""
 
 msgctxt "app"
@@ -1025,8 +1025,8 @@ msgid "Update "
 msgstr ""
 
 msgctxt "app"
-msgid "Update & go to dashboard"
-msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
+msgid "Update & go back"
+msgstr ""
 
 msgctxt "app"
 msgid "Update Page"
@@ -1296,6 +1296,10 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Update & go to dashboard"
+#~ msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
 
 #~ msgctxt "app"
 #~ msgid "Error!"
