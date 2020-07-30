@@ -35,7 +35,7 @@ Creating a User Account
 
 .. image:: media/img/HeRAMS_register.png
    :alt: HeRAMS Login
-   :height: 150px
+   :height: 300px
    :align: center
 
 4. A confirmation email will be sent to the email address you entered. Confirm your registration by clicking the link in the email.
@@ -61,7 +61,7 @@ Logging in
 
 .. image:: media/img/HeRAMS_login.png
    :alt: HeRAMS Login
-   :height: 200px
+   :height: 300px
    :align: center
    
 
@@ -83,7 +83,7 @@ In case you forgot your password, the instructions below will guide you through 
 
 .. image:: media/img/HeRAMS_reset_password.png
    :alt: HeRAMS Login
-   :height: 200px
+   :height: 300px
    :align: center
 
 3. Enter your email address in the designated field and click the |request-password-reset| button.
@@ -160,7 +160,7 @@ This section aims to provide an overview of key icons used accross the platfrom 
 * |refresh| **Refresh Data Cache**: This button allows you to manually refresh the data cache of a workspace. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database.
 * |download| **Download Data**: Opens the data export interface, permitting users to export your data for further analysis in external applications. See `Download Data`_ for more information.
 * |pencil-thin| **Update Workspace**:  Enables *Project Admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.)
-* |share-icon| **Share Workspace**: Opens the user management page of a project or workspace. For more information on go to `User_management`__
+* |share-icon| **Share Workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_
 
 
 .. note: The number of buttons visible to you depends on your `user role<#user-roles>` and might vary from one workspace/project to another.
@@ -172,7 +172,7 @@ provide a simple way to access previous pages. In the example below, clicking on
 
 
 .. image:: media/img/HeRAMS_navigation_pane.png
-   :height: 30px
+   :height: 50px
    :align: center
 
 
@@ -428,7 +428,7 @@ For more information on how to grant users access to a workspace please view the
 2. Click the |workspace-button| button on the bottom right corner of the pop-up.
 
 .. image:: media/img/HeRAMS_popup_workspaces.png
-	:height: 150px
+	:height: 250px
 	:alt: share workspace
 	:align: center
 
@@ -455,7 +455,20 @@ The video below summarizes the steps to access the data entry interface.
    
 Favorites
 ---------
-*coming soon*
+To ease navigation, you can add workspaces you frequently access to your list of favorites. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen. 
+
+.. Note:: For user working on multiple project, please note that it is possible to add workspace from different projects to your list of favorites. 
+
+
+1. Navigate to the list of workspaces as outlined above. 
+2. In the second last column you should see a |star-hollow| icon. To add a workspace to your list of favorites, simply click the icon. 
+3. The icon should have changed to a filled star |star-filled|, indicating that your workspace was successfully added to your list of favorites.
+4. To view your favorites, click the white star icon in the top left corner of your screen. 
+
+5. To remove a workspace from your list of favorites, clicked the |star-filled| icon again. You should see the icon changing back to an unfilled |star-hollow|. 
+
+.. Note:: If the workspace does not automatically disappear from your list of favorites, try refreshing the page. 
+
 
 Edit a Health Facility Response
 -----------------------------
@@ -467,7 +480,7 @@ Edit a Health Facility Response
  
 .. tip:: Keep in mind that the table might have multiple pages. Use the button in the bottom right corner to advance to the next page. You can also reduce the number of records displayed by applying filters.
 
-.. image:: media/img/data_update_interface.png
+.. image:: media/img/HeRAMS_data_update_interface.png
    :height: 300px
    :alt: update data table
    :align: center
@@ -509,7 +522,7 @@ If HeRAMS is used as a monitoring tool, you can record changes to a health facil
 3. You should now see the history of response to the selected health facility. To add a new response, click the |add-response| button in the action column. 
 
  .. image:: media/img/HeRAMS_data_update_interface_add_responses.png
-   :height: 300px
+   :height: 200px
    :alt: update data table
    :align: center
 
@@ -660,7 +673,7 @@ HeRAMS User Roles
 There six standard roles that are used accross HeRAMS projects. 
 
   .. image:: media/img/HeRAMS_user_roles.png
-	:height: 200px
+	:height: 300px
 	:alt: user roles
 	:align: center
 	
@@ -713,7 +726,7 @@ Optionally, *Data Contributors* can also be granted permissions to download data
 
 Under special circumstance a *Project Admin* might grant a *Workspace Owner* admin permission to a workspace, allowing the *Workspace Owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary. 
 
-  .. image:: media/img/HeRAMS_permissions_workspace_owner2,png
+  .. image:: media/img/HeRAMS_permissions_workspace_owner2.png
 	:height: 200px
 	:alt: workspace owner (advanced)
 	:align: center
@@ -725,9 +738,9 @@ Under special circumstance a *Project Admin* might grant a *Workspace Owner* adm
 Add a User
 ~~~~~~~~~~
 
-1. To grant a user access to a workspace or project, navigate to the list of workspace or projects, respectively. For more details see `Access your worksapace`__.
+1. To grant a user access to a workspace or project, navigate to the list of workspace or projects, respectively. For more details see `Access your workspace`_.
 	
-2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings got `<#icons-and-their-meanings`__.  
+2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings go to `Icons and Their Meaning`_.  
 
 3. To grant a user access to a workspace or project, you have to *share* it with them. 
 
@@ -742,7 +755,7 @@ Add a User
 
   .. note: If you cannot find a user, it means the user has not yet created an account. Ask the user to create an account by registering on the HeRAMS platform and then retry. Should the issue persist, contact your system administrator or send an email to `herams@who.int <mailto:herams@who.int?>`_.
 
-5. Use the checkboxes to select the appropriate permission level. See `Access your workspace`__ or `<#project-permissions>`for further details on workspace permissions.
+5. Use the checkboxes to select the appropriate permission level. See `Access your workspace`_ or `Project Permissions`_ for further details on workspace permissions.
 
 6. Click the |share-button| button to grant users the desired permissions.
 
@@ -788,7 +801,7 @@ Managing the list of available workspaces is key component of the *Project Admin
 Create a Workspace
 ~~~~~~~~~~~~~~~~~~~~~~
 
-1. To create a new workspace, access the workspace page of your project. See `Access your worksapace`__ for more detailed instructions.
+1. To create a new workspace, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions.
 2. In the upper right corner, you will see a button labelled |create-workspace|.
 3. You will be directed to a page where you will be able to create a new workspace.
 4. Enter the workspace's name into the title field.
@@ -804,7 +817,7 @@ Create a Workspace
 Rename a Workspace
 ~~~~~~~~~~~~~~~
 
-1. To rename a workspace, access the workspace page of your project. See `Access your worksapace`__ for more detailed instructions. 
+1. To rename a workspace, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions. 
 2. Open the *Workspace settings* by click the |pencil-thin| icon next to your workspace's name.
 3. You should now be able to modfiy the Title of your workspace. 
 
@@ -813,21 +826,8 @@ Rename a Workspace
 Delete a Workspace
 ~~~~~~~~~~~~~~~~~~~
 
-1. To remove a workspace from the list of workspaces, access the workspace page of your project. See `Access your worksapace`__ for more detailed instructions. 
+1. To remove a workspace from the list of workspaces, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions. 
 2. You can now remove a workspace by clicking the |delete| icon in the **Actions** column next to the selected workspace.
-
- 
-Manage a Project
----------------
-
-To obtain
-
-Modify a Project
-~~~~~~~~~~~~~~~~
-
-1. To modify the project properties, open the admin interface by clicking the |settings| button in the top right corner of the page.
-  
-2. Open the **Projects** page by selecting `Projects <https://herams.org/project/index>`_ in the navigation pane on the left.
 
 
 Configure the Project Dashboard
@@ -1010,7 +1010,7 @@ Who has access to your project?
 
 In-country administrators and users responsible for a project or workspace can verify the list of users having access to the
 project and/or workspace as well as their permission levels.
-See `HeRAMS Administration`_ for more information on sharing `Projects`_ and `Workspaces`_.
+See `Add a User`_ for more information on granting users access to a *Project* or *Workspace*.
 
 Data editing & downloading
 --------------------------
