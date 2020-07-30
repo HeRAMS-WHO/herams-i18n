@@ -149,7 +149,7 @@ Icons and Their Meaning
 This section aims to provide an overview of key icons used accross the platfrom and explains their meanings.
 
 
-* |favorites| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute Data`_ chapter.
+* |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute Data`_ chapter.
 * |settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS Administration`_ chapter.
 * |user-guide| **User Guide**: Opens the **HeRAMS User Guide**.
 * |workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`__ for more information on workspaces. 
@@ -436,15 +436,15 @@ For more information on how to grant users access to a workspace please view the
   
 .. tip:: The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times.
 
-5. To view the list of health facilities associated with a specific workspace, click the |update-data| icon in the **Action** column.
-6. Use the |forward-page| buttons to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.
+4. To view the list of health facilities associated with a specific workspace, click the |update-data| icon in the **Action** column.
+5. Use the |forward-page| buttons to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.
 
 .. image:: media/img/HeRAMS_workspace_filter.png
    :height: 300px
    :alt: filter workspaces
    :align: center
    
-7. You should now see a table with all the health facilities of the selected workspace.
+6. You should now see a table with all the health facilities of the selected workspace.
 
 The video below summarizes the steps to access the data entry interface.
 
@@ -492,13 +492,13 @@ Edit a Health Facility Response
   - |delete| delete: Permanently deletes a response form a health facility. See `Remove a Response from Health Facility`_ for more information.
  
  .. image:: media/img/HeRAMS_data_update_interface_action_buttons.png
-   :height: 300px
+   :height: 200px
    :alt: update data table
    :align: center
  
 .. Note:: The number of action buttons visible depends on your project's settings.
   
-4. To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected record. Use the |next| buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
+4. To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected record. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 5. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button.
 6. If you would like to discard your edits, click the |clear| button in the lower right corner of the page.
 
@@ -526,7 +526,7 @@ If HeRAMS is used as a monitoring tool, you can record changes to a health facil
    :alt: update data table
    :align: center
 
-4. You should now be able to edit the selected record. Use the |next| buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
+4. You should now be able to edit the selected record. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 5. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button.
 6. If you would like to discard your edits, click the |clear| button in the lower right corner of the page.
 
@@ -835,94 +835,92 @@ Configure the Project Dashboard
 
 For each HeRAMS Project, an interactive dashboard can be configured providing summarizing key indicators and findings of a project. This section provides project administrators with a detailed description on how to edit these dashboards. An overview of the standard dashboard pages is available `here <#default-dashboard-pages>`__.
     
-Create Dashboard Pages
+Create a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
-1. To add a new page to a dashboard, open the Project's property page. (Follow steps 1 - 3 in the `Modify a Project`_ section.
-2. You should now see a page similar to the one displayed below.
+1. To add a new page to a dashboard, open the admin interface by clicking the |settings| icon in the top right corner of the screen.
+2. In the navigation pane on the left, click **Projects** . This will open a overview table of all ongoing Projects in HeRAMS.
+3. In the rightmost column of the table, you should see several Action buttons. Click the |modify-dashboard| icon. 
+4. You should now see a page displaying the list of existing dashboard pages. To add a new page click the |create-page| button.
+
+4. You should now see a page similar to the one displayed below.
 
 .. image:: media/img/HeRAMS_dashboard_create_page.png
 	:height: 250px
 	:alt: create-dashboard-page
 	:align: center
 
-3. Enter the page name in the top field.
-4. For sub-pages, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**.
+3. Enter the page name in the top field. It is recommended to select an item from the drop-down list. This will assure the page title is automatically translated into other languages. 
+4. If you are adding a sub-page to an existing page, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**.
 5. Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page.
 6. Click the |create-page| button to add the page to the dashboard.
 7. If you return to the previous page, you will see the page appearing in the list of available pages.
 
   .. note: You only created an empty page. To add elements to your page, see section `Add a New Element to a Page`_.
 
-Modify Dashboard Pages
+Modify a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
-1. To alter an existing page, click the |pencil| icon next to the page's name. This will open the page's settings. You are now able to change the title and the order of the page. See `above <#add-a-new-page-to-a-dashboard>`__ for further details.
-2. On the page that opens, you should now be able to alter the page name and the display order.
+1. To modify an existing page, access the list of existing pages as detailed above <#create-a-dashboard-page>`__.  
+2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `Create a Dashboard Element`_ for more information on how to add dashboard elements to your page.
 3. Save your changes by clicking the |update-page| button.
 
-Delete Dashboard Pages
+Delete a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
-1. To delete a dashboard page, open the Project's property page. (Follow steps 1 - 3 in the `Modify a Project`_ section.
+1. To permanently delete a page, access the list of existing pages as detailed above <#create-a-dashboard-page>`__. 
 2. In the list of available page, use the |delete| icon next to the page you would like to delete.
 
-  .. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanetly delete the page including potential sub-pages. 
+  .. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages. 
 
-Create Dashboard Elements
+Create a Dashboard Element
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `Add a New Page to a Dashboard`_ for further information.
+This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `Create a Dashboard Page`_ for further information.
 
-1. Open the Project's property page (Follow steps 1 - 3 in the `Modify a Project`_ section.
-2. In the bottom half of the page you will see a list of all available dashboard pages. For each page, the table displays the:
+1. To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`__ section.  
+2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. 
+3. On the right side of the page you should see a list of available dashboard elements. Above this list, you have three buttons |create-elements|. Select the type of element you would like to add by clicking the corresponding button.
 
-	- page ID;
-	- title;
-	- parent page; and 
-	- sort ID.
-
-.. image:: media/img/HeRAMS_dashboard_pages_table.png
+.. image:: media/img/HeRAMS_modify_dashboard_element.png
 	:height: 350px
 	:alt: Dashboard pages
 	:align: center
 
-3. Open the page you would like to modify using the |pencil-thin| icon next to the page's name. 
-4. In the bottom half of the page, you should see the following three buttons |create-elements|. Select the type of element you would like to add by clicking the corresponding button.
-5. You should now see a page similar to the one displayed below.
+4. You should now see a page similar to the one displayed below.
 
 .. image:: media/img/HeRAMS_dashboard_create_element.png
 	:height: 300px
 	:alt: Dashboard pages
 	:align: center
 	
-6. The **Transpose** feature allows to switch between aggregating data at the health facility and the health service level. Set the feature to **No** to display data aggregated at the health facility level.
-7. Now use the **Code** dropdown list to select which field you would like to display on your element.
+5. The **Transpose** feature allows to switch between aggregating data at the health facility and the health service level. Set the feature to **No** to display data aggregated at the health facility level.
+6. Now use the **Code** dropdown list to select which field you would like to display on your element.
 
   .. tip: Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits.
 
-8. Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page.
-9. The **Width** and **Height** fields allow to create a custom-sized element.
+7. Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page.
+8. The **Width** and **Height** fields allow to create a custom-sized element.
 
   .. tip: For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly.
 
-10. Optionally, the **Title** field allows you to overwrite the default title.
-11. For **Maps & Charts**, The bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you pick custom colors.
-12. For **Maps**, you can further specify the size of the dots by increasing/decreasing the  **Marker Radius**.
+9. Optionally, the **Title** field allows you to overwrite the default title.
+10. For **Maps & Charts**, The bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you pick custom colors.
+11. For **Maps**, you can further specify the size of the dots by increasing/decreasing the  **Marker Radius**.
 
 .. image:: media/vid/HeRAMS_create_dashboard_element.gif
 	:height: 300px
 	:alt: create-dashboard-element
 	:align: center
 
-13. For **tables**, two additional fields will be displayed to specify the **Reason Code** and **Group Code**.
+12. For **tables**, two additional fields will be displayed to specify the **Reason Code** and **Group Code**.
 
 .. image:: media/img/HeRAMS_dashboard_create_table.png
 	:height: 300px
 	:alt: create-table
 	:align: center
 
-14. Finally, click the |create-element-blue| button to add the element to the dashboard page.
+13. Finally, click the |create-element-blue| button to add the element to the dashboard page.
 
 Modify Dashboard Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1018,7 +1016,7 @@ Data editing & downloading
 Data updates don't appear on the dashboard
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Workspaces`_.
+It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and Their Meaning`_.
  
 Exported data is unreadable / contains strange characters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1027,222 +1025,236 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
 
 
 .. |add-response| image:: media/img/bt_add_response.png
-     :height: 1.5em
+     :height: 1.3em
      :align: top
      :alt: add response
 
 .. |applyfilter| image:: media/img/bt_apply_filter.png
-     :height: 1.5em
+     :height: 1.3em
      :align: top
      :alt: apply filter
 
    
 .. |clear| image:: media/img/bt_clear.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: clear
    :align: top	
 
 .. |clearfilter| image:: media/img/bt_clear_filter.png
-   :height: 1.5em
+   :height: 1.3em
    :align: top
    :alt: clearfilter
 
 .. |create-element-blue| image:: media/img/bt_create_element_blue.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: create-element
    :align: top
    
 .. |create-elements| image:: media/img/bt_create_element_white.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: create-element
    :align: top
 
 .. |create-page| image:: media/img/bt_create_page_blue   .png
-   :height: 1.5em
+   :height: 1.3em
    :alt: create-element
    :align: top
    
 .. |create-workspace| image:: media/img/bt_create_workspace.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: create-workspace
    :align: top
 
 .. |dashboard| image:: media/img/icon_dashboard.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: dashboard
    :align: top
 
 .. |dashboard-button| image:: media/img/bt_dashboard.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: dashboard
    :align: top
 
 .. |delete| image:: media/img/icon_delete.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: delete
    :align: top   
 
-
 .. |download| image:: media/img/icon_download.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: download
    :align: top
    
-.. |favorites| image:: media/img/icon_favorite.png
-   :height: 1.5em
+.. |star-filled| image:: media/img/icon_star_filled.png
+   :height: 1.3em
+   :align: top	
+   :alt: favorite
+
+.. |star-hollow| image:: media/img/icon_star_hollow.png
+   :height: 1.3em
    :align: top	
    :alt: favorite
    
 .. |filter| image:: media/img/bt_filter.png
-   :height: 1.5em
+   :height: 1.3em
    :align: top	
 	
 .. |forward| image:: media/img/icon_forward.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: forward
    :align: top	
    
 .. |forward-page| image:: media/img/icon_page_forward.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: forward
    :align: top
 
 .. |login| image:: media/img/bt_login.png
-   :height: 1.5em
+   :height: 1.3em
    :align: top
    :alt: login
 
 .. |logout| image:: media/img/bt_logout.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: logout
    :align: top   
+   
+.. |modify-dashboard| image:: media/img/icon_modify_dashboard.png
+   :height: 1.3em
+   :alt: modify dashboard
+   :align: top    
 
 .. |next| image:: media/img/bt_next.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: next
    :align: top
 
 .. |new-record| image:: media/img/bt_new_record.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: submit
    :align: top
 
 .. |pdf| image:: media/img/bt_pdf.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: edit
    :align: top
    
 .. |pencil| image:: media/img/icon_pencil.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: edit
    :align: top
    
 
 .. |pencil-thin| image:: media/img/icon_pencil_thin.png
-   :height: 1.5em
+   :height: 1.3em
+   :alt: pencil
+   :align: top
+
+.. |previous| image:: media/img/previous.png
+   :height: 1.3em
    :alt: pencil
    :align: top
    
 .. |refresh| image:: media/img/icon_refresh_data.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: refresh
    :align: top 
 
 .. |register-white| image:: media/img/bt_register_white.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: register
    :align: top  
 
 .. |register-blue| image:: media/img/bt_register_blue.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: register
    :align: top 
 
 .. |request-password-reset| image:: media/img/bt_request_password_reset.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: register
    :align: top 
 
 .. |reset-password| image:: media/img/bt_reset_password.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: refresh
    :align: top  
 
 
 .. |share-icon| image:: media/img/icon_share.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: share
    :align: top
    
 .. |share-button| image:: media/img/bt_share.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: share
    :align: top
    
 .. |settings| image:: media/img/icon_settings.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: settings
    :align: top 
    
 .. |send-confirmation| image:: media/img/bt_send_confirmation.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: send confirmation
    :align: top 
 
    
 .. |submit| image:: media/img/bt_submit.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: submit
    :align: top
    
    
 .. |update-data| image:: media/img/icon_data_update_black.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: update-data
    :align: top 
 
 .. |update-element| image:: media/img/bt_update_element.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: update-element
    :align: top
 
 .. |update-page| image:: media/img/bt_update_page.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: update-page
    :align: top
 
 
 .. |update-page| image:: media/img/bt_update_page.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: update-page
    :align: top
 
 .. |update-password| image:: media/img/bt_update_password.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: update-project
    :align: top
 
 .. |update-profile| image:: media/img/bt_update_profile.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: update-project
    :align: top 
 
 .. |user-guide| image:: media/img/icon_user_guide.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: user-guide
    :align: top    
 
 .. |view| image:: media/img/icon_view.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: user-guide
    :align: top  
    
 .. |workspace| image:: media/img/icon_workspace.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: workspace
    :align: top
    
 .. |workspace-button| image:: media/img/bt_workspace.png
-   :height: 1.5em
+   :height: 1.3em
    :alt: workspace
    :align: top
