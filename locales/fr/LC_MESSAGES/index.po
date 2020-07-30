@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 15:33+0000\n"
-"PO-Revision-Date: 2020-07-27 14:31+0000\n"
+"PO-Revision-Date: 2020-07-30 18:31+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -848,7 +848,6 @@ msgid "External support:"
 msgstr "Soutien externe:"
 
 #: ../docs/index.rst:303
-#, fuzzy
 msgid "A donut  chart to illustrate the level of support provided by partners."
 msgstr ""
 "Un graphique en beignet pour illustrer le niveau de soutien fourni par les "
@@ -863,6 +862,9 @@ msgid ""
 "Information on **Basic Amenities** is presented in a series of subpages. "
 "Each subpage is dedicated to a particular category and includes:"
 msgstr ""
+"L'information sur les **Aménagements structurels** est présentée dans une "
+"série de sous-pages. Chaque sous-page est dédiée à une catégorie "
+"particulière et comprend :"
 
 #: ../docs/index.rst:314
 msgid "a map displying the availability and sufficiency of the basic amenity; and"
@@ -875,6 +877,9 @@ msgid ""
 "donut charts highlighting the percentage of MoSDs with sufficient "
 "availability of the amenity as well as main sources."
 msgstr ""
+"des graphiques en beignets  indiquant le pourcentage de FS ayant une "
+"disponibilité suffisante de l'aménagement structurel ainsi que les "
+"principales sources disponibles."
 
 #: ../docs/index.rst:323
 msgid "Service Availability"
@@ -897,16 +902,14 @@ msgstr ""
 "le(s) service(s) de santé sélectionné(s);"
 
 #: ../docs/index.rst:328
-#, fuzzy
 msgid ""
 "donut charts to summarize the level of service availability as well as "
 "the underlying causes of unavailability of the service; and"
 msgstr ""
-"des graphiques de beignes pour résumer le niveau de fonctionnalité ainsi "
-"que les principales causes de non-fonctionnalité ; et"
+"des graphiques de beignes pour résumer le niveau de fonctionnalité ainsi que "
+"les principales causes de non-fonctionnalité ; et"
 
 #: ../docs/index.rst:329
-#, fuzzy
 msgid ""
 "a table displaying the list of priority areas per service unavailability "
 "and the main reported underlying causes."
@@ -1046,7 +1049,7 @@ msgstr ""
 
 #: ../docs/index.rst:375
 msgid "Edit a Health Facility Record"
-msgstr ""
+msgstr "Modifier l'enregistrement d'une FS"
 
 #: ../docs/index.rst:377
 msgid ""
@@ -1119,7 +1122,7 @@ msgstr ""
 
 #: ../docs/index.rst:399
 msgid "Update a Health Facility Record"
-msgstr ""
+msgstr "Mise à jour d'un enregistrement d'une FS"
 
 #: ../docs/index.rst:401
 msgid ""
@@ -1136,6 +1139,9 @@ msgid ""
 "Contact your country focal point or send an email to `herams@who.int "
 "<mailto:herams@who.int?>`_ for further information."
 msgstr ""
+"La fonction de mise à jour des FS n'est pas activée dans tous les projets. "
+"Contactez votre point focal national ou envoyez un e-mail à `herams@who.int "
+"<mailto:herams@who.int?>`_ pour plus d'informations."
 
 #: ../docs/index.rst:405
 msgid ""
@@ -1157,7 +1163,7 @@ msgstr ""
 
 #: ../docs/index.rst:421
 msgid "Delete a Health Facility Record"
-msgstr ""
+msgstr "Supprimer l'enregistrement d'une FS"
 
 #: ../docs/index.rst:423
 msgid "To delete a record, click the |delete-blue| icon in the first column."
@@ -1200,6 +1206,11 @@ msgid ""
 "each workspace. You can then merge the data in your analysis tool of "
 "choice."
 msgstr ""
+"Suivez les instructions ci-dessous pour télécharger les données d'un seul "
+"espace de travail. Si vous avez besoin de données provenant de plusieurs "
+"espaces de travail, veuillez répéter les étapes ci-dessous pour chaque "
+"espace de travail. Vous pouvez ensuite fusionner les données dans l'outil "
+"d'analyse de votre choix."
 
 #: ../docs/index.rst:438
 msgid ""
@@ -1207,6 +1218,9 @@ msgid ""
 "Contact your system administrator to elevate your access rights if "
 "needed."
 msgstr ""
+"Pour télécharger des données, vous devez avoir accès à votre espace de "
+"travail. Contactez votre administrateur système pour augmenter vos droits "
+"d'accès si nécessaire."
 
 #: ../docs/index.rst:440
 msgid ""
@@ -1245,6 +1259,10 @@ msgid ""
 "above. The permission to download the entire data set is restricted to a "
 "few users. Contact your system administrator for further information."
 msgstr ""
+"Les utilisateurs sont invités à télécharger les données pour chaque espace "
+"de travail comme indiqué ci-dessus. L'autorisation de télécharger l'ensemble "
+"des données est limitée à quelques utilisateurs. Contactez votre "
+"administrateur système pour plus d'informations."
 
 #: ../docs/index.rst:450
 msgid "*Coming soon*"
@@ -1270,6 +1288,10 @@ msgid ""
 "character and can result in the data being unreadable. For example, "
 "instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
+"Les problèmes d'encodage sont particulièrement fréquents dans les langues "
+"contenant des caractères spéciaux et peuvent rendre les données illisibles. "
+"Par exemple, au lieu de **camp de réfugiés** vous obtenez **Camp de "
+"rÃ©fugiÃ©s**."
 
 #: ../docs/index.rst:458
 msgid ""
@@ -1361,6 +1383,18 @@ msgid ""
 "underlying data. While most users only have access to a single workspace,"
 " project administrators might have access to several or all workspaces."
 msgstr ""
+"HeRAMS utilise le concept d'espaces de travail pour gérer les permissions "
+"des utilisateurs. Chaque espace de travail se compose de plusieurs "
+"établissements de santé et dispose d'un point focal dédié que est "
+"responsable de la mise à jour de ces enregistrements. Un espace de travail "
+"peut, par exemple, inclure tous les MoSDs d'une région géographique, les "
+"MoSDs gérés par un partenaire spécifique ou toute autre catégorie logique. "
+"Ainsi, l'utilisation d'espaces de travail en combinaison avec différents "
+"niveaux de permissions (voir ci-dessous) assure un contrôle d'accès "
+"granulaire, basé sur les rôles, à un projet et aux données sous-jacentes. "
+"Alors que la plupart des utilisateurs n'ont accès qu'à un seul espace de "
+"travail, les administrateurs de projets peuvent avoir accès à plusieurs ou à "
+"tous les espaces de travail d'un projet."
 
 #: ../docs/index.rst:485
 msgid ""
@@ -1371,6 +1405,14 @@ msgid ""
 "data cache of a workspace the time lag limitation can be overcome and the"
 " changes made will become visible immediately."
 msgstr ""
+"|refresh| **Rafraîchir le cache de données** : Ce bouton permet aux "
+"utilisateurs de rafraîchir manuellement le cache de données d'un espace de "
+"travail. Les données sont automatiquement rafraîchies toutes les 30 minutes. "
+"Cela signifie que si un enregistrement est mis à jour, les modifications ne "
+"sont pas immédiatement affichées dans le tableau de bord. Ainsi, en "
+"rafraîchissant manuellement le cache de données d'un espace de travail, la "
+"limitation du délai peut être surmontée et les changements effectués "
+"deviennent immédiatement visibles."
 
 #: ../docs/index.rst:486
 msgid ""
@@ -1430,13 +1472,15 @@ msgstr "Il y a deux niveaux d'autorisation pour les espaces de travail:"
 
 #: ../docs/index.rst:499
 msgid "access to manage the underlying responses’ data; and"
-msgstr ""
+msgstr "l'accès pour gérer les données des réponses sous-jacentes; et"
 
 #: ../docs/index.rst:500
 msgid ""
 "full access (includes editing the workspace properties, token and "
 "responses’ data)."
 msgstr ""
+"un accès complet (incluant l'édition des propriétés de l'espace de travail, "
+"du jeton et des données des réponses)."
 
 #: ../docs/index.rst:502
 msgid ""
