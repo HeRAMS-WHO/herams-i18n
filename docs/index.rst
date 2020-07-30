@@ -273,7 +273,7 @@ Depending on the zoom level applied to a map, it may happen that several points 
 
 .. image:: media/vid/HeRAMS_dashboard_customize_maps.gif
    :height: 300px
-   
+   :align: center
    
 
 Exporting a dashboard
@@ -287,6 +287,7 @@ Dashboards can be printed or exported as PDF document.
 
 .. image:: media/img/HeRAMS_dashboard_pdf.png
    :height: 300px
+   :align: center
 
 3. This will open a new tab containing a printable version of the dashboard. Click `CTRL`+ `P` to print the dashboard or save it as a pdf. 
 
@@ -308,7 +309,7 @@ The **Overview** page provides a summary, in form of:
 .. note:: The service availability indicator is country-specific. Thus, direct comparisons from one country to another should be avoided.
 
 .. image:: media/img/HeRAMS_dashboard_overview.png
-   :height: 300px
+   :height: 350px
    :align: center
 
 Infrastructure
@@ -321,7 +322,7 @@ The **Infrastructure** page displays a descriptive analysis, including:
 * a table to illustrate reported accessibility barriers.
 
 .. image:: media/img/HeRAMS_dashboard_infastructure.png
-   :height: 300px
+   :height: 350px
    :align: center
 
 Condition
@@ -334,7 +335,7 @@ The **Condition** page displays the level of reported damage to MoSD buildings f
 *	a table to provide the name of the prioritized localities in terms of damage and their main causes.
 
 .. image:: media/img/HeRAMS_dashboard_condition.png
-   :height: 300px
+   :height: 350px
    :align: center
    
 Functionality
@@ -347,7 +348,7 @@ The **Functionality** page displays the level of functionality of the MoSDs foll
 *	a table displays the list of priority areas in terms of non-functional health facilities and reported causes.
 
 .. image:: media/img/HeRAMS_dashboard_functionality.png
-   :height: 300px
+   :height: 350px
    :align: center
    
 Accessibility
@@ -360,7 +361,7 @@ The **Accessibility** page displays the level of accessibility to MoSDs followin
 *	a table displays the list of priority areas with inaccessible MoSDs and the main reported cause of inaccessibility.
 
 .. image:: media/img/HeRAMS_dashboard_accessibility.png
-   :height: 300px
+   :height: 350px
    :align: center
    
 Management & support
@@ -378,7 +379,7 @@ The **Management & support** page displays information on the management of the 
   * A donut  chart to illustrate the level of support provided by partners.
 
 .. image:: media/img/HeRAMS_dashboard_management_support.png
-   :height: 300px
+   :height: 350px
    :align: center
    
 Basic Amenities
@@ -391,7 +392,7 @@ Information on **Basic Amenities** is presented in a series of subpages. Each su
 
 
 .. image:: media/img/HeRAMS_dashboard_basic_amenities.png
-   :height: 300px
+   :height: 350px
    :align: center
    
 Service Availability
@@ -404,7 +405,7 @@ The **Service Availability** page displays multiple pages per type of service. E
 *	a table displaying the list of priority areas per service unavailability and the main reported underlying causes.
 
 .. image:: media/img/HeRAMS_dashboard_service_availability.png
-   :height: 300px
+   :height: 350px
    :align: center
 
 
@@ -414,14 +415,14 @@ Contribute Data
 This chapter is intended for data managers responsible to update HeRAMS data. It covers all aspects related to data editing, including registering new health facilities, updating the status of existing health facilities as well as deleting erroneous records (e.g. duplicates). 
 
 .. note:: Access to the data edit interface is limited to users responsible to update the data. If you require your access permissions to be changed, kindly contact the *Workspace Owner*, your *Project Admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered.
-
+<
 Access your workspace
 ---------------------
 HeRAMS uses so-called *Workspaces* to manage access permissions to the underlying data.
 A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. 
 Each workspace has a dedicated focal point, the *Workspace Owner*, who is responsible for updating and maintaining health facility records of their workspace. 
 *Workspace Owners* may invite additional users to contribute to their data. 
-For more information on how to grant users access to a workspace please view the `User management`__ section. 
+For more information on how to grant users access to a workspace please view the `User management`_ section. 
 
 
 1. Open the project summary pop-up by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map.
@@ -861,14 +862,14 @@ Create a Dashboard Page
 Modify a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
-1. To modify an existing page, access the list of existing pages as detailed above <#create-a-dashboard-page>`__.  
+1. To modify an existing page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__.  
 2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `Create a Dashboard Element`_ for more information on how to add dashboard elements to your page.
 3. Save your changes by clicking the |update-page| button.
 
 Delete a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
-1. To permanently delete a page, access the list of existing pages as detailed above <#create-a-dashboard-page>`__. 
+1. To permanently delete a page, access the list of existing pages as detailed above `<#create-a-dashboard-page>`__. 
 2. In the list of available page, use the |delete| icon next to the page you would like to delete.
 
   .. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages. 
@@ -949,7 +950,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 Delete Dashboard Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Open the Project's property page (Follow steps 1 - 3 in the `Modify a Project`_ section.
+1. Access the list of exisitng dashboard elements as described `here <#create-a-dashboard-element>`.
 2. In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify.
 3. In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element.
 
@@ -1150,9 +1151,9 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :alt: pencil
    :align: top
 
-.. |previous| image:: media/img/previous.png
+.. |previous| image:: media/img/bt_previous.png
    :height: 1.3em
-   :alt: pencil
+   :alt: previous
    :align: top
    
 .. |refresh| image:: media/img/icon_refresh_data.png
