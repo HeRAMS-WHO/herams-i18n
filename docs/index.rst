@@ -415,7 +415,7 @@ Contribute Data
 This chapter is intended for data managers responsible to update HeRAMS data. It covers all aspects related to data editing, including registering new health facilities, updating the status of existing health facilities as well as deleting erroneous records (e.g. duplicates). 
 
 .. note:: Access to the data edit interface is limited to users responsible to update the data. If you require your access permissions to be changed, kindly contact the *Workspace Owner*, your *Project Admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered.
-<
+
 Access your workspace
 ---------------------
 HeRAMS uses so-called *Workspaces* to manage access permissions to the underlying data.
@@ -437,7 +437,7 @@ For more information on how to grant users access to a workspace please view the
   
 .. tip:: The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times.
 
-4. To view the list of health facilities associated with a specific workspace, click the |update-data| icon in the **Action** column.
+4. To view the list of health facilities associated with a specific workspace, click the |pencil| icon in the **Action** column.
 5. Use the |forward-page| buttons to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.
 
 .. image:: media/img/HeRAMS_workspace_filter.png
