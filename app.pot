@@ -287,10 +287,6 @@ msgid "Dashboard"
 msgstr ""
 
 msgctxt "app"
-msgid "Data update"
-msgstr ""
-
-msgctxt "app"
 msgid "Date"
 msgstr ""
 
@@ -1103,11 +1099,19 @@ msgid "Width"
 msgstr ""
 
 msgctxt "app"
+msgid "Workspace"
+msgstr ""
+
+msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
 msgstr ""
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}</strong>"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace datas"
 msgstr ""
 
 msgctxt "app"
@@ -1160,6 +1164,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "in progress"
+msgstr ""
+
+msgctxt "app"
+msgid "share Workspace "
+msgstr ""
+
+msgctxt "app"
+msgid "update Workspace"
 msgstr ""
 
 msgctxt "app"
