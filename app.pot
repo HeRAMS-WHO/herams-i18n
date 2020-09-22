@@ -287,6 +287,10 @@ msgid "Dashboard"
 msgstr ""
 
 msgctxt "app"
+msgid "Data update"
+msgstr ""
+
+msgctxt "app"
 msgid "Date"
 msgstr ""
 
