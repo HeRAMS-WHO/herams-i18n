@@ -1007,10 +1007,6 @@ msgid "Update account information"
 msgstr ""
 
 msgctxt "app"
-msgid "Update data for {workspace}"
-msgstr ""
-
-msgctxt "app"
 msgid "Update element"
 msgstr ""
 
@@ -1100,10 +1096,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Width"
-msgstr ""
-
-msgctxt "app"
-msgid "Workspace"
 msgstr ""
 
 msgctxt "app"
