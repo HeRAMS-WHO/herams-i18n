@@ -1032,10 +1032,6 @@ msgid "Update account information"
 msgstr ""
 
 msgctxt "app"
-msgid "Update data for {workspace}"
-msgstr ""
-
-msgctxt "app"
 msgid "Update element"
 msgstr ""
 
@@ -1139,6 +1135,10 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
+msgid "Workspace datas"
+msgstr ""
+
+msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr ""
 
@@ -1190,6 +1190,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "in progress"
+msgstr ""
+
+msgctxt "app"
+msgid "share Workspace "
+msgstr ""
+
+msgctxt "app"
+msgid "update Workspace"
 msgstr ""
 
 msgctxt "app"

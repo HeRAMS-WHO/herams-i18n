@@ -1045,10 +1045,6 @@ msgid "Update account information"
 msgstr "تحديث معلومات الحساب"
 
 msgctxt "app"
-msgid "Update data for {workspace}"
-msgstr "تحديث البيانات ل {workspace}"
-
-msgctxt "app"
 msgid "Update element"
 msgstr "تحديث عنصر"
 
@@ -1156,6 +1152,10 @@ msgstr ""
 "strong>"
 
 msgctxt "app"
+msgid "Workspace datas"
+msgstr ""
+
+msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "مساحة العمل {workspace}"
 
@@ -1207,6 +1207,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "in progress"
+msgstr ""
+
+msgctxt "app"
+msgid "share Workspace "
+msgstr ""
+
+msgctxt "app"
+msgid "update Workspace"
 msgstr ""
 
 msgctxt "app"
@@ -1296,6 +1304,10 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Update data for {workspace}"
+#~ msgstr "تحديث البيانات ل {workspace}"
 
 #~ msgctxt "app"
 #~ msgid "Update & go to dashboard"
