@@ -291,6 +291,10 @@ msgid "Data update"
 msgstr ""
 
 msgctxt "app"
+msgid "Datas"
+msgstr ""
+
+msgctxt "app"
 msgid "Date"
 msgstr ""
 
@@ -879,6 +883,10 @@ msgid "Share workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
+msgid "Sharing"
+msgstr ""
+
+msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
 msgstr ""
 
@@ -1107,10 +1115,6 @@ msgid "Workspace <strong>{modelName}</strong> has been shared with: <strong>{use
 msgstr ""
 
 msgctxt "app"
-msgid "Workspace datas"
-msgstr ""
-
-msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr ""
 
@@ -1160,14 +1164,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "in progress"
-msgstr ""
-
-msgctxt "app"
-msgid "share Workspace "
-msgstr ""
-
-msgctxt "app"
-msgid "update Workspace"
 msgstr ""
 
 msgctxt "app"
