@@ -304,6 +304,10 @@ msgid "Data update"
 msgstr "Mise à jour des données"
 
 msgctxt "app"
+msgid "Datas"
+msgstr ""
+
+msgctxt "app"
 msgid "Date"
 msgstr "Date"
 
@@ -921,6 +925,10 @@ msgid "Share workspace {workspace}"
 msgstr "Partager l'espace de travail {workspace}"
 
 msgctxt "app"
+msgid "Sharing"
+msgstr ""
+
+msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
 msgstr "Créer un compte"
 
@@ -1170,10 +1178,6 @@ msgstr ""
 "</strong>"
 
 msgctxt "app"
-msgid "Workspace datas"
-msgstr ""
-
-msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "Espace de travail {workspace}"
 
@@ -1228,14 +1232,6 @@ msgstr ""
 msgctxt "app"
 msgid "in progress"
 msgstr "en cours"
-
-msgctxt "app"
-msgid "share Workspace "
-msgstr ""
-
-msgctxt "app"
-msgid "update Workspace"
-msgstr ""
 
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"

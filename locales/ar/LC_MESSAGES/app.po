@@ -298,6 +298,10 @@ msgid "Data update"
 msgstr "تحديث البيانات"
 
 msgctxt "app"
+msgid "Datas"
+msgstr ""
+
+msgctxt "app"
 msgid "Date"
 msgstr ""
 
@@ -907,6 +911,10 @@ msgid "Share workspace {workspace}"
 msgstr "مشاركة مساحة العمل {workspace}"
 
 msgctxt "app"
+msgid "Sharing"
+msgstr ""
+
+msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
 msgstr "قم بالتسجيل في منصة هيرامس"
 
@@ -1152,10 +1160,6 @@ msgstr ""
 "strong>"
 
 msgctxt "app"
-msgid "Workspace datas"
-msgstr ""
-
-msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "مساحة العمل {workspace}"
 
@@ -1207,14 +1211,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "in progress"
-msgstr ""
-
-msgctxt "app"
-msgid "share Workspace "
-msgstr ""
-
-msgctxt "app"
-msgid "update Workspace"
 msgstr ""
 
 msgctxt "app"
