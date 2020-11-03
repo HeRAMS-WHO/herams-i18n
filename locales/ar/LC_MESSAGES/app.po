@@ -461,7 +461,7 @@ msgid "Global admin"
 msgstr "المسؤول العام"
 
 msgctxt "app"
-msgid "Global admins"
+msgid "Global permissions"
 msgstr ""
 
 msgctxt "app"
@@ -912,6 +912,10 @@ msgstr "مشاركة مساحة العمل {workspace}"
 
 msgctxt "app"
 msgid "Sharing"
+msgstr ""
+
+msgctxt "app"
+msgid "Show the debug toolbar"
 msgstr ""
 
 msgctxt "app"

@@ -456,7 +456,7 @@ msgid "Global admin"
 msgstr ""
 
 msgctxt "app"
-msgid "Global admins"
+msgid "Global permissions"
 msgstr ""
 
 msgctxt "app"
@@ -901,6 +901,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Sharing"
+msgstr ""
+
+msgctxt "app"
+msgid "Show the debug toolbar"
 msgstr ""
 
 msgctxt "app"

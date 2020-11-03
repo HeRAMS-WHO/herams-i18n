@@ -469,8 +469,8 @@ msgid "Global admin"
 msgstr "Administration globale"
 
 msgctxt "app"
-msgid "Global admins"
-msgstr "Administrateur globale"
+msgid "Global permissions"
+msgstr ""
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
@@ -929,6 +929,10 @@ msgid "Sharing"
 msgstr ""
 
 msgctxt "app"
+msgid "Show the debug toolbar"
+msgstr ""
+
+msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
 msgstr "Créer un compte"
 
@@ -1320,6 +1324,10 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Global admins"
+#~ msgstr "Administrateur globale"
 
 #~ msgctxt "app"
 #~ msgid "Update data for {workspace}"
