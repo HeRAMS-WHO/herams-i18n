@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-02 10:41+0200\n"
-"PO-Revision-Date: 2020-11-09 08:37+0000\n"
+"PO-Revision-Date: 2020-11-09 11:36+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -57,14 +57,14 @@ msgid ""
 "Support Team <mailto:herams@who.int?>`_."
 msgstr ""
 "Il est à noter que le guide ne traite que des questions relatives à la plate-"
-"forme `HeRAMS <https://herams.org>`__. Il est à noter que le guide ne traite "
+"forme `HeRAMS <https://herams.org>`_. Il est à noter que le guide ne traite "
 "que des questions relatives à la plate-forme `HeRAMS <https://herams.org/"
-"user/login>`__ . Pour des informations générales sur l'approche HeRAMS et "
-"des conseils techniques, veuillez consulter la page Web officielle de l’OMS "
-"dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`__. Pour des "
-"questions supplémentaires qui ne sont pas abordées dans ce guide, veuillez "
-"contacter l’équipe de support HeRAMS en envoyant un courriel à `herams@"
-"who.int <mailto:herams@who.int?>`__."
+"user/login>`_ . Pour des informations générales sur l'approche HeRAMS et des "
+"conseils techniques, veuillez consulter la page Web officielle de l’OMS "
+"dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`_. Pour des questions "
+"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter l’"
+"équipe de support HeRAMS en envoyant un courriel à `herams@who.int "
+"<mailto:herams@who.int?>`_."
 
 #: docs/index.rst:21
 msgid "Getting started"
@@ -82,14 +82,14 @@ msgid ""
 "efficient way to navigate the platfrom."
 msgstr ""
 "Ce chapitre est dédié aux nouveaux utilisateurs de la plateforme `HeRAMS "
-"<https://herams.org/>`_. Il couvre toutes les questions liées à la "
-"registration <#creating-a-user-account>`__ et à l'accès <#logining-in>`__ à "
-"la plate-forme ainsi qu'à la gestion de votre profil utilisateur <#update-"
-"your-user-profile>`__. Pour vous aider à naviguer sur la plate-forme par "
-"vous-même, la dernière partie de ce chapitre donne un aperçu des \"icônes "
-"récurrentes <#icons-and-their-meanings>`__ utilisées sur la plate-forme "
-"ainsi que quelques conseils utiles sur la façon d'utiliser les `chapelures`_ "
-"comme moyen efficace de naviguer sur la plate-forme."
+"<https://herams.org/>`_. Il couvre toutes les questions liées à `la "
+"registration <#creating-a-user-account>`_ et à `l'accès <#logining-in>`_ à "
+"la plate-forme ainsi qu'à la gestion de votre `profil utilisateur <#update-"
+"your-user-profile>`_. Pour vous aider à naviguer sur la plate-forme par vous-"
+"même, la dernière partie de ce chapitre donne un aperçu des `icônes "
+"récurrentes <#icons-and-their-meanings>`_ utilisées sur la plate-forme ainsi "
+"que quelques conseils utiles sur la façon d'utiliser les `Chapelures`_ comme "
+"moyen efficace de naviguer sur la plate-forme."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
@@ -118,12 +118,12 @@ msgstr ""
 "cliquez sur le bouton |register-white|."
 
 #: docs/index.rst:41
-#, fuzzy
-#| msgid "A confirmation email will be sent to the email address you entered."
 msgid ""
 "A confirmation email will be sent to the email address you entered. Confirm "
 "your registration by clicking the link in the email."
-msgstr "Un e-mail automatique de confirmation sera envoyé sur votre compte."
+msgstr ""
+"Un e-mail automatique de confirmation sera envoyé sur votre compte. "
+"Confirmez votre inscription en cliquant sur le lien dans l'e-mail."
 
 #: docs/index.rst:43
 msgid ""
@@ -138,12 +138,17 @@ msgid ""
 "A new tab will open prompting you to enter your name and password. Click the "
 "|register-blue| button to finalize your registration."
 msgstr ""
+"Un nouvel onglet devrait s'ouvrir et vous invite à saisir votre nom et votre "
+"mot de passe. Cliquez sur le bouton |register-blue| pour finaliser votre "
+"inscription."
 
 #: docs/index.rst:47
 msgid ""
 "If you are not automatically logged-in, please follow the steps outlined "
 "below to login as existing user."
 msgstr ""
+"Si vous n'êtes pas automatiquement connecté, veuillez suivre les étapes "
+"décrites ci-dessous pour vous connecter en tant qu'utilisateur existant."
 
 #: docs/index.rst:55
 msgid "Logging in"
@@ -167,14 +172,13 @@ msgstr ""
 "votre navigateur."
 
 #: docs/index.rst:60
-#, fuzzy
-#| msgid "Enter your email address and password in the designated fields."
 msgid ""
 "Enter your email address and password in the designated fields in the top "
 "half of the page and click the |login| button."
 msgstr ""
 "Veuillez saisir vos informations d'identification (e-mail et mot de passe) "
-"dans les champs désignés."
+"dans les champs désignés dans la moitié supérieure de la page et cliquez sur "
+"le bouton |login|."
 
 #: docs/index.rst:71
 msgid "Logging out"
@@ -577,7 +581,7 @@ msgstr ""
 
 #: docs/index.rst:169
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "Chapelures"
 
 #: docs/index.rst:170
 msgid ""
