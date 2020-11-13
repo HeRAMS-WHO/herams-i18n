@@ -10,17 +10,17 @@
 Introduction
 ============
 
-Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instruction on how to register and access the platform as well as a brief overview on key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how to edit data in the `Contribute Data`_ section.
-For more advanced topics related to user management and project administration, please consult the `HeRAMS Administration`_ section.
+Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instruction on how to register and access the platform as well as a brief overview on key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how to edit data in the `Contribute data`_ section.
+For more advanced topics related to user management and project administration, please consult the `HeRAMS administration`_ section.
 
 It should be noted that this guide only addresses issues related to the `HeRAMS platform <https://herams.org/>`_. 
-For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_. For additional questions that are not covered in this guide, please contact the `HeRAMS Support Team <mailto:herams@who.int?>`_.
+For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_ or contact the `HeRAMS support team <mailto:herams@who.int?>`_.
 
 
 Getting started
 ===============
 
-This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers all issues related to `registering <#creating-a-user-account>`__ and `accessing <#logging-in>`__ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`__ used across the platform as well as some useful tips on how to use `Breadcrumbs`_ as an efficient way to navigate the platfrom. 
+This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `Breadcrumbs`_ as an efficient way to navigate the platform. 
 
 
 Creating a User Account
@@ -31,7 +31,7 @@ Creating a User Account
 
 .. tip:: It is strongly recommended to either user FireFox or Chrome.
 
-2. In the lower half of the screen you should see an option to register as new user. Enter your email address and click the |register-white| button.
+2. In the lower half of the screen you should see an option to register as a new user. Enter your email address and click the |register-white| button.
 
 .. image:: media/img/HeRAMS_register.png
    :alt: HeRAMS Login
@@ -44,7 +44,7 @@ Creating a User Account
 
 5. A new tab will open prompting you to enter your name and password. Click the |register-blue| button to finalize your registration.
 
-.. note:: If you are not automatically logged-in, please follow the steps outlined below to login as existing user. 
+.. note:: If you are not automatically logged-in, please follow the steps below to login as existing user. 
 
 
 .. image:: media/vid/HeRAMS_register.gif
@@ -65,7 +65,7 @@ Logging in
    :align: center
    
 
-.. tip:: It is strongly recommended to either user FireFox or Chrome.
+.. tip:: It is strongly recommended to user either FireFox or Chrome.
 
 Logging out
 -----------
@@ -109,9 +109,9 @@ Change Password
 
 1. To change your password, open your user profile as explained `above <#update-your-user-profile>`_.
 2. In the pop-up window that opens, select the **Password**  tab.  
-3. You should be able to change your email address and enter a new password.
+3. You should now be able to change your email address and enter a new password.
 4. Make sure to click the |update-password| button to confirm your changes.
-5. To return to the main page, close the pop-up by clicking the X in the top right corner of the pop-up window.
+5. To return to the main page, close the pop-up by clicking the **X** in the top right corner of the pop-up window.
 
 .. image:: media/vid/HeRAMS_change_password.gif
    :alt: change password video
@@ -144,29 +144,29 @@ Change Email Address
 3. Click the |send-confirmation| button. This will send a confirmation email to your new email address.
 4. Click the link in the confirmation email to validate your new email address.
    
-Icons and Their Meaning
+Icons and their Meaning
 -----------------------
-This section aims to provide an overview of key icons used accross the platfrom and explains their meanings.
+This section aims to provide an overview of key icons used accross the platform and explains their meanings.
 
 
-* |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute Data`_ chapter.
-* |settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS Administration`_ chapter.
-* |user-guide| **User Guide**: Opens the **HeRAMS User Guide**.
+* |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter.
+* |settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter.
+* |user-guide| **User guide**: Opens the **HeRAMS User Guide**.
 * |workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`__ for more information on workspaces. 
-* |dashboard| **Dashboard**: Opens the `Project Dashboard`_.
-* |view| **View Response**: Grants you view access to a specific item or record. 
+* |dashboard| **Dashboard**: Opens the `Project dashboard`_.
+* |view| **View**: Grants you view access to a specific item or record. 
 * |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#edit-date>`__.
 * |delete| **Delete**: Deletes a specific item or record. 
-* |refresh| **Refresh Data Cache**: This button allows you to manually refresh the data cache of a workspace. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database.
-* |download| **Download Data**: Opens the data export interface, permitting users to export your data for further analysis in external applications. See `Download Data`_ for more information.
-* |pencil-thin| **Update Workspace**:  Enables *Project Admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.)
-* |share-icon| **Share Workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_
+* |refresh| **Refresh data cache**: This button allows you to manually refresh a workspace's data cache. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh the data in your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database.
+* |download| **Download data**: Opens the data export interface, permitting users to export data for further analysis in external applications. See `Download data`_ for more information.
+* |pencil-thin| **Update workspace**:  Enables *Project admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.)
+* |share-icon| **Share workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_
 
 
 .. note: The number of buttons visible to you depends on your `user role<#user-roles>` and might vary from one workspace/project to another.
 
 Breadcrumbs
------------------------
+-----------
 Across the platform, breadcrumb trails are shown on top of every page. They intend to help you navigate the platform more effectively and 
 provide a simple way to access previous pages. In the example below, clicking on **Nigeria** in the breadcrumb trail allows you to return to the dashboard overview page from any of the sub-pages. 
 
@@ -177,9 +177,9 @@ provide a simple way to access previous pages. In the example below, clicking on
 
 
 View a Project
-=================
+==============
 
-This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce an alaysis for specific areas and indicators of interest. 
+This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce indepth alayses for specific areas and indicators of interest. 
 
 
 Project Overview
@@ -201,7 +201,7 @@ In addition, a brief summary on the number of projects available in HeRAMS, the 
    :align: center
 
 
-Project Dashboard
+Project dashboard
 ------------------
 Each project in HeRAMS has a custom interactive dashboard providing an instant and in-depth analysis based on the available data.
 
@@ -414,15 +414,15 @@ Contribute Data
 
 This chapter is intended for data managers responsible to update HeRAMS data. It covers all aspects related to data editing, including registering new health facilities, updating the status of existing health facilities as well as deleting erroneous records (e.g. duplicates). 
 
-.. note:: Access to the data edit interface is limited to users responsible to update the data. If you require your access permissions to be changed, kindly contact the *Workspace Owner*, your *Project Admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered.
+.. note:: Access to the data edit interface is limited to users responsible to update data. If you require your access permissions to be changed, kindly contact the *Workspace owner*, your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered.
 
 Access your workspace
 ---------------------
-HeRAMS uses so-called *Workspaces* to manage access permissions to the underlying data.
+HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data.
 A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. 
-Each workspace has a dedicated focal point, the *Workspace Owner*, who is responsible for updating and maintaining health facility records of their workspace. 
-*Workspace Owners* may invite additional users to contribute to their data. 
-For more information on how to grant users access to a workspace please view the `User management`_ section. 
+Each workspace has a dedicated focal point, the *Workspace owner*, who is responsible for updating and maintaining health facility records of their workspace. 
+*Workspace owners* may invite additional users to contribute to their data. 
+For more information on how to grant users access to a workspace please view the `user management`_ section. 
 
 
 1. Open the project summary pop-up by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map.
@@ -433,7 +433,7 @@ For more information on how to grant users access to a workspace please view the
 	:alt: share workspace
 	:align: center
 
-3. This opens the list of available workspace of the selected project. For each project, the table displays the number **Workspaces**, **Contributors**, **Health facilities** and **Responses**.
+3. This opens the list of available workspace of the selected project. For each project, the table displays the number **workspaces**, **contributors**, **health facilities** and **responses**.
   
 .. tip:: The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times.
 
@@ -456,7 +456,7 @@ The video below summarizes the steps to access the data entry interface.
    
 Favorites
 ---------
-To ease navigation, you can add workspaces you frequently access to your list of favorites. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen. 
+To simplify navigation, it is recommended that you add frequently accessed workspaces to your list of. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen. 
 
 .. Note:: For user working on multiple project, please note that it is possible to add workspace from different projects to your list of favorites. 
 
@@ -488,9 +488,9 @@ Edit a Health Facility Response
  
 3. You should now see a list of all responses belonging to the selected health facility. In the left-most column of the list, there are three buttons allowing to preform the following actions. 
  
-  - |view| view : Click this button to view the full response 
-  - |pencil| edit: Allows you to modify an existing response. This will permanently overwrite the exisitng infomration of a response and cannot be undone.
-  - |delete| delete: Permanently deletes a response form a health facility. See `Remove a Response from Health Facility`_ for more information.
+  - |view| View : Click this button to view the full response 
+  - |pencil| Edit: Allows you to modify an existing response. This will permanently overwrite the exisitng infomration of a response and cannot be undone.
+  - |delete| Delete: Permanently deletes a response form a health facility. See `remove a response from health facility`_ for more information.
  
  .. image:: media/img/HeRAMS_data_update_interface_action_buttons.png
    :height: 200px
@@ -503,7 +503,7 @@ Edit a Health Facility Response
 5. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button.
 6. If you would like to discard your edits, click the |clear| button in the lower right corner of the page.
 
-.. note:: While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button.
+.. note:: While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and in the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page (*Validate*) and click the |submit| button.
 
 
 .. image:: media/vid/HeRAMS_edit_health_facility.gif
@@ -514,9 +514,9 @@ Edit a Health Facility Response
 Add a Response to a Health Facility Record
 ------------------------------------------
 
-If HeRAMS is used as a monitoring tool, you can record changes to a health facility while keeping the existing information.
+If HeRAMS is used as a monitoring tool, you can record changes to a health facility  by adding a new reponse. This will add a new response to your health facility while keeping the history of your updates.
 
-.. note:: The feature to update health facilities is not enabled in all projects. Contact your *Project Admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information.
+.. note:: The feature to update health facilities is not enabled in all projects. Contact your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information.
 
 1. To update the status of a health facility, open the `data update interface <#access-the-data-update-interface>`__.
 2. Click the health facility record you would like to add a response to. 
@@ -531,7 +531,7 @@ If HeRAMS is used as a monitoring tool, you can record changes to a health facil
 5. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button.
 6. If you would like to discard your edits, click the |clear| button in the lower right corner of the page.
 
-.. note:: While your project may allow you to save your repose and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button.
+.. note:: While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, (*Validate*) and click the |submit| button.
 
 
 Register a New Health Facility
@@ -555,7 +555,7 @@ Remove a Response from Health Facility
 .. note:: Only delete all response to a health facility if you are sure that it was entered by mistake (e.g. duplicated record). For health facility that are permanently closed, add a new response and change the status to *permanently closed*. 
 
 
-.. Warning:: Deleting responses cannot be undone. Be careful when deleting responses.
+.. Warning:: Deleting responses cannot be undone. Thus, be careful when deleting responses.
 
 
 Download Data
@@ -563,7 +563,7 @@ Download Data
 
 Data for individual health facilities can be downloaded as **CSV** or **Excel** file. 
 
-.. note:: Whether you have access to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your country focal point or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered.
+.. note:: Whether you have permissions to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your workspace owner, project admin or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered.
 
 Download Workspace Data
 -----------------------
@@ -594,9 +594,9 @@ Project administrators or users with special permissions can export the entire p
 .. note:: Access to project level data is limited to selected users only. Contact your country administrator for further information.
 
 1. Open the admin interface by clicking the |settings| icon in the top right corner of the screen.
-2. In the navigation pane on the left, click `Projects <https://herams.org/project/index>`__ . This will open a overview table of all ongoing **Projects** in HeRAMS. 
+2. In the navigation pane on the left, click `Projects <https://herams.org/project/index>`_ . This will open a overview table of all ongoing HeRAMS projects. 
 3. In the rightmost column of the table, you should see several **Action** buttons. Click the |download| icon. This will open  the download settings. 
-4. You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`__.
+4. You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`_.
 
 Data Encoding in Excel
 ----------------------
@@ -622,10 +622,10 @@ The below instructions guide users through the steps to define the data encoding
 HeRAMS Administration
 =====================
 
-This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace Owners* and *Project Admins*). The first part of the chapter focuses on user management. It provides an overview of the default HeRAMS **User roles** used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project Admins* on how to administer a project locally. 
+This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project admins* on how to administer a project locally. 
 
 
-.. note:: Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project Admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered.
+.. note:: Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered.
 
 User Management
 ---------------
@@ -641,7 +641,7 @@ Granting a user permission to a workspace enables them to contribute or download
 
 **Manage users**: Permits users to share access to a workspace with other users.
 
-**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used very carefully. 
+**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used sparingly. 
 
   .. Note: Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **Manage users** is not able to grant access to edit data to other users. 
 
@@ -651,11 +651,11 @@ Workspace permission should always be assigned with regards to the user roles. T
 Project Permissions
 ~~~~~~~~~~~~~~~~~~~~~
 
-Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *Project level*, users are being granted access to all workspaces. For example, if a user is granted *Edit* permission at the *Project level*, they can edit data for all workspace. In contrast, if a user is granted access at the *Workspace level*, they are only able to contribute data to that specific workspace.
+Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *project level*, users are being granted access to all workspaces. For example, if a user is granted *edit* permission at the **project level**, they can edit data for all workspace. In contrast, if a user is granted access at the **workspace level**, they are only able to contribute data to that specific workspace.
 
 There are five permissions that can be granted at the project level.
 
-**View dashboard**: Grants access exclusively to the *Project Dashboard*. Granting users explicit access to the *Project Dashboard* is only required for *Closed* or *Private* projects. For all other projects, any user subscribed to the platform will be able to view the *Project Dashboard*. 
+**View dashboard**: Grants access exclusively to the *Project dashboard*. Granting users explicit access to the *Project dashboard* is only required for *closed* or *private* projects. For all other projects, any user subscribed to the platform will be able to view the *Project dashboard*. 
 
 **Edit data**: Allows user to create, edit and delete records in any workspace of the project. 
 
@@ -663,15 +663,15 @@ There are five permissions that can be granted at the project level.
 
 **Manage workspaces**: Grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace. 
 
-.. Warning: *Workspace Owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces.
+.. Warning: *Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces.
 
-**Configure dashboard**: Grants users the ability to edit and configure their *Project Dashboard*. 
+**Configure dashboard**: Grants users the ability to configure their project dashboard. 
 
 
-HeRAMS User Roles
-~~~~~~~~~~~~~~~~~
+User Roles
+~~~~~~~~~~
 
-There six standard roles that are used accross HeRAMS projects. 
+There are six standard roles used accross HeRAMS projects. 
 
   .. image:: media/img/HeRAMS_user_roles.png
 	:height: 300px
@@ -679,60 +679,60 @@ There six standard roles that are used accross HeRAMS projects.
 	:align: center
 	
 
-**Project Owner**: Designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality.
+**Project owner**: Designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality.
 
-**Project Admin**: The *Project Owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS Project and assigns them the role of *Project Admin*. The *Project Admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *Project Admins* are responsible for the overall training and management of users, they can assign *Workspace Owners* to manage individual workspaces.
+**Project admin**: The *project owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS Project and assigns them the role of *project admin*. The *project admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *project admins* are responsible for the overall training and management of users, they can assign *Workspace owners* to manage individual workspaces.
 
-**Workspace Owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *Workspace Owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard.
+**Workspace owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *workspace owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard.
 
-**Data Contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *Workspace Owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard.
+**Data contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *workspace owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard.
 
-**Data Viewers**: Under exceptional situations, a user might be granted a role of *Data Viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard. 
+**Data viewers**: Under exceptional situations, a user might be granted a role of *data viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard. 
 
-**Project Viewer:** The role of *Project Viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces.
+**Project viewer:** The role of *project viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces.
 
-.. Note: If a project is set to **Private** or **Closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses. 
+.. Note: If a project is set to **private** or **closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses. 
 
 
 Mapping User Roles to Permissions
 """""""""""""""""""""""""""""""""
 
-**Data contributors**: *Data Contributors* are granted access to *Edit Data* for individual workspaces.
+**Data contributors**: *data contributors* are granted access to *edit data* for individual workspaces.
 
   .. image:: media/img/HeRAMS_permissions_data_contributor1.png
 	:height: 200px
 	:alt: data contributor
 	:align: center
 	
-Optionally, *Data Contributors* can also be granted permissions to download data.
+Optionally, *data contributors* can also be granted permissions to download data.
 
   .. image:: media/img/HeRAMS_permissions_data_contributor2.png
 	:height: 200px
 	:alt: data contributor (advanced)
 	:align: center
 
-**Data Viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only. 
+**Data viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only. 
 
   .. image:: media/img/HeRAMS_permissions_data_viewer.png
 	:height: 200px
 	:alt: data viewer
 	:align: center
 
-**Workspace Owners**: In addition to editing and downloading data, *Workspace Owners* are granted the permission to *Manage Users*. This grants them the ability to invite other users to contribute to their workspace.
+**Workspace owners**: In addition to editing and downloading data, *workspace owners* are granted the permission to *manage users*. This grants them the ability to invite other users to contribute to their workspace.
 
   .. image:: media/img/HeRAMS_permissions_workspace_owner.png
 	:height: 200px
 	:alt: workspace owner
 	:align: center
 
-Under special circumstance a *Project Admin* might grant a *Workspace Owner* admin permission to a workspace, allowing the *Workspace Owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary. 
+Under special circumstance a *project admin* might grant a *workspace owner* admin permission to a workspace, allowing the *workspace owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary. 
 
   .. image:: media/img/HeRAMS_permissions_workspace_owner2.png
 	:height: 200px
 	:alt: workspace owner (advanced)
 	:align: center
 	
-.. Warning: While a *Workspace Owner* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it. 
+.. Warning: While *workspace owners* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it. 
 
 
 
@@ -741,7 +741,7 @@ Add a User
 
 1. To grant a user access to a workspace or project, navigate to the list of workspace or projects, respectively. For more details see `Access your workspace`_.
 	
-2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings go to `Icons and Their Meaning`_.  
+2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings go to `Icons and their meaning`_.  
 
 3. To grant a user access to a workspace or project, you have to *share* it with them. 
 
@@ -797,7 +797,7 @@ Remove a User from a Workspace
 
 Manage Workspaces
 -----------------
-Managing the list of available workspaces is key component of the *Project Admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace Owners* and granting them appropriate permissions. 
+Managing the list of available workspaces is key component of the *Project admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace owners* and granting them appropriate permissions. 
 
 Create a Workspace
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -831,7 +831,7 @@ Delete a Workspace
 2. You can now remove a workspace by clicking the |delete| icon in the **Actions** column next to the selected workspace.
 
 
-Configure the Project Dashboard
+Configure the Project dashboard
 -------------------------------
 
 For each HeRAMS Project, an interactive dashboard can be configured providing summarizing key indicators and findings of a project. This section provides project administrators with a detailed description on how to edit these dashboards. An overview of the standard dashboard pages is available `here <#default-dashboard-pages>`__.
@@ -1017,7 +1017,7 @@ Data editing & downloading
 Data updates don't appear on the dashboard
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and Their Meaning`_.
+It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and their Meaning`_.
  
 Exported data is unreadable / contains strange characters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
