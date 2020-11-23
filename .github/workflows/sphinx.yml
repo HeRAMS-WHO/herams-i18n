@@ -1,5 +1,6 @@
 name: Update POT file
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'docs/index.rst'
