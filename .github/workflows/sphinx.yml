@@ -13,12 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ammaraskar/sphinx-action@master
         with:
-          build-command: "sphinx-build -b gettext docs/ ."
-      - uses: actions/checkout@v2
-        with:
-          repository: 'WorldHealthOrganization/herams-i18n'
-          path: 'herams-i18n'
-        name: Checkout i18n repo
+          build-command: "sphinx-build -b gettext . ../"
       - name: Configure git
         run: git config --global user.name "Github Action" && git config --global user.email '<>'
       - name: Commit changes
