@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 10:41+0200\n"
+"POT-Creation-Date: 2020-11-23 10:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,11 +21,11 @@ msgid "Introduction"
 msgstr ""
 
 #: docs/index.rst:13
-msgid "Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instruction on how to register and access the platform as well as a brief overview on key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how edit data in the `Contribute Data`_ section. For more advanced topics related to user management and project administration, please consult the `HeRAMS Administration`_ section."
+msgid "Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instruction on how to register and access the platform as well as a brief overview on key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how to edit data in the `Contribute data`_ section. For more advanced topics related to user management and project administration, please consult the `HeRAMS administration`_ section."
 msgstr ""
 
 #: docs/index.rst:16
-msgid "It should be noted that this guide only addresses issues related to the `HeRAMS platform <https://herams.org/>`_. For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_. For additional questions that are not covered in this guide, please contact the `HeRAMS Support Team <mailto:herams@who.int?>`_."
+msgid "It should be noted that this guide only addresses issues related to the `HeRAMS platform <https://herams.org/>`_. For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_ or contact the `HeRAMS support team <mailto:herams@who.int?>`_."
 msgstr ""
 
 #: docs/index.rst:21
@@ -33,7 +33,7 @@ msgid "Getting started"
 msgstr ""
 
 #: docs/index.rst:23
-msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers all issues related to `registering <#creating-a-user-account>`__ and `accessing <#logging-in>`__ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`__ used across the platform as well as some useful tips on how to use `Breadcrumbs`_ as an efficient way to navigate the platfrom."
+msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `Breadcrumbs`_ as an efficient way to navigate the platform."
 msgstr ""
 
 #: docs/index.rst:27
@@ -45,12 +45,11 @@ msgid "To register as a new user, open the link `herams.org <https://herams.org>
 msgstr ""
 
 #: docs/index.rst:32
-#: docs/index.rst:68
 msgid "It is strongly recommended to either user FireFox or Chrome."
 msgstr ""
 
 #: docs/index.rst:34
-msgid "In the lower half of the screen you should see an option to register as new user. Enter your email address and click the |register-white| button."
+msgid "In the lower half of the screen you should see an option to register as a new user. Enter your email address and click the |register-white| button."
 msgstr ""
 
 #: docs/index.rst:41
@@ -66,7 +65,7 @@ msgid "A new tab will open prompting you to enter your name and password. Click 
 msgstr ""
 
 #: docs/index.rst:47
-msgid "If you are not automatically logged-in, please follow the steps outlined below to login as existing user."
+msgid "If you are not automatically logged-in, please follow the steps below to login as existing user."
 msgstr ""
 
 #: docs/index.rst:55
@@ -84,6 +83,10 @@ msgstr ""
 
 #: docs/index.rst:60
 msgid "Enter your email address and password in the designated fields in the top half of the page and click the |login| button."
+msgstr ""
+
+#: docs/index.rst:68
+msgid "It is strongly recommended to user either FireFox or Chrome."
 msgstr ""
 
 #: docs/index.rst:71
@@ -159,7 +162,7 @@ msgid "In the pop-up window that opens, select the **Password**  tab."
 msgstr ""
 
 #: docs/index.rst:112
-msgid "You should be able to change your email address and enter a new password."
+msgid "You should now be able to change your email address and enter a new password."
 msgstr ""
 
 #: docs/index.rst:113
@@ -167,7 +170,7 @@ msgid "Make sure to click the |update-password| button to confirm your changes."
 msgstr ""
 
 #: docs/index.rst:114
-msgid "To return to the main page, close the pop-up by clicking the X in the top right corner of the pop-up window."
+msgid "To return to the main page, close the pop-up by clicking the **X** in the top right corner of the pop-up window."
 msgstr ""
 
 #: docs/index.rst:122
@@ -215,23 +218,23 @@ msgid "Click the link in the confirmation email to validate your new email addre
 msgstr ""
 
 #: docs/index.rst:148
-msgid "Icons and Their Meaning"
+msgid "Icons and their Meaning"
 msgstr ""
 
 #: docs/index.rst:149
-msgid "This section aims to provide an overview of key icons used accross the platfrom and explains their meanings."
+msgid "This section aims to provide an overview of key icons used accross the platform and explains their meanings."
 msgstr ""
 
 #: docs/index.rst:152
-msgid "|star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute Data`_ chapter."
+msgid "|star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter."
 msgstr ""
 
 #: docs/index.rst:153
-msgid "|settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS Administration`_ chapter."
+msgid "|settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter."
 msgstr ""
 
 #: docs/index.rst:154
-msgid "|user-guide| **User Guide**: Opens the **HeRAMS User Guide**."
+msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
 
 #: docs/index.rst:155
@@ -239,11 +242,11 @@ msgid "|workspace| **Workspaces**: This opens the list of workspaces belonging t
 msgstr ""
 
 #: docs/index.rst:156
-msgid "|dashboard| **Dashboard**: Opens the `Project Dashboard`_."
+msgid "|dashboard| **Dashboard**: Opens the `Project dashboard`_."
 msgstr ""
 
 #: docs/index.rst:157
-msgid "|view| **View Response**: Grants you view access to a specific item or record."
+msgid "|view| **View**: Grants you view access to a specific item or record."
 msgstr ""
 
 #: docs/index.rst:158
@@ -255,19 +258,19 @@ msgid "|delete| **Delete**: Deletes a specific item or record."
 msgstr ""
 
 #: docs/index.rst:160
-msgid "|refresh| **Refresh Data Cache**: This button allows you to manually refresh the data cache of a workspace. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database."
+msgid "|refresh| **Refresh data cache**: This button allows you to manually refresh a workspace's data cache. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh the data in your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database."
 msgstr ""
 
 #: docs/index.rst:161
-msgid "|download| **Download Data**: Opens the data export interface, permitting users to export your data for further analysis in external applications. See `Download Data`_ for more information."
+msgid "|download| **Download data**: Opens the data export interface, permitting users to export data for further analysis in external applications. See `Download data`_ for more information."
 msgstr ""
 
 #: docs/index.rst:162
-msgid "|pencil-thin| **Update Workspace**:  Enables *Project Admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.)"
+msgid "|pencil-thin| **Update workspace**:  Enables *Project admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.)"
 msgstr ""
 
 #: docs/index.rst:163
-msgid "|share-icon| **Share Workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_"
+msgid "|share-icon| **Share workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_"
 msgstr ""
 
 #: docs/index.rst:169
@@ -283,7 +286,7 @@ msgid "View a Project"
 msgstr ""
 
 #: docs/index.rst:182
-msgid "This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce an alaysis for specific areas and indicators of interest."
+msgid "This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce indepth alayses for specific areas and indicators of interest."
 msgstr ""
 
 #: docs/index.rst:186
@@ -311,7 +314,7 @@ msgid "Access to the project dashboards may restricted to selected users. If you
 msgstr ""
 
 #: docs/index.rst:205
-msgid "Project Dashboard"
+msgid "Project dashboard"
 msgstr ""
 
 #: docs/index.rst:206
@@ -623,7 +626,7 @@ msgid "This chapter is intended for data managers responsible to update HeRAMS d
 msgstr ""
 
 #: docs/index.rst:417
-msgid "Access to the data edit interface is limited to users responsible to update the data. If you require your access permissions to be changed, kindly contact the *Workspace Owner*, your *Project Admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered."
+msgid "Access to the data edit interface is limited to users responsible to update data. If you require your access permissions to be changed, kindly contact the *Workspace owner*, your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
 
 #: docs/index.rst:420
@@ -631,7 +634,7 @@ msgid "Access your workspace"
 msgstr ""
 
 #: docs/index.rst:421
-msgid "HeRAMS uses so-called *Workspaces* to manage access permissions to the underlying data. A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. Each workspace has a dedicated focal point, the *Workspace Owner*, who is responsible for updating and maintaining health facility records of their workspace. *Workspace Owners* may invite additional users to contribute to their data. For more information on how to grant users access to a workspace please view the `User management`_ section."
+msgid "HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data. A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. Each workspace has a dedicated focal point, the *Workspace owner*, who is responsible for updating and maintaining health facility records of their workspace. *Workspace owners* may invite additional users to contribute to their data. For more information on how to grant users access to a workspace please view the `user management`_ section."
 msgstr ""
 
 #: docs/index.rst:428
@@ -643,7 +646,7 @@ msgid "Click the |workspace-button| button on the bottom right corner of the pop
 msgstr ""
 
 #: docs/index.rst:436
-msgid "This opens the list of available workspace of the selected project. For each project, the table displays the number **Workspaces**, **Contributors**, **Health facilities** and **Responses**."
+msgid "This opens the list of available workspace of the selected project. For each project, the table displays the number **workspaces**, **contributors**, **health facilities** and **responses**."
 msgstr ""
 
 #: docs/index.rst:438
@@ -671,7 +674,7 @@ msgid "Favorites"
 msgstr ""
 
 #: docs/index.rst:459
-msgid "To ease navigation, you can add workspaces you frequently access to your list of favorites. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen."
+msgid "To simplify navigation, it is recommended that you add frequently accessed workspaces to your list of. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen."
 msgstr ""
 
 #: docs/index.rst:461
@@ -727,15 +730,15 @@ msgid "You should now see a list of all responses belonging to the selected heal
 msgstr ""
 
 #: docs/index.rst:491
-msgid "|view| view : Click this button to view the full response"
+msgid "|view| View : Click this button to view the full response"
 msgstr ""
 
 #: docs/index.rst:492
-msgid "|pencil| edit: Allows you to modify an existing response. This will permanently overwrite the exisitng infomration of a response and cannot be undone."
+msgid "|pencil| Edit: Allows you to modify an existing response. This will permanently overwrite the exisitng infomration of a response and cannot be undone."
 msgstr ""
 
 #: docs/index.rst:493
-msgid "|delete| delete: Permanently deletes a response form a health facility. See `Remove a Response from Health Facility`_ for more information."
+msgid "|delete| Delete: Permanently deletes a response form a health facility. See `remove a response from health facility`_ for more information."
 msgstr ""
 
 #: docs/index.rst:500
@@ -759,8 +762,7 @@ msgid "If you would like to discard your edits, click the |clear| button in the 
 msgstr ""
 
 #: docs/index.rst:506
-#: docs/index.rst:546
-msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button."
+msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and in the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page (*Validate*) and click the |submit| button."
 msgstr ""
 
 #: docs/index.rst:515
@@ -768,11 +770,11 @@ msgid "Add a Response to a Health Facility Record"
 msgstr ""
 
 #: docs/index.rst:517
-msgid "If HeRAMS is used as a monitoring tool, you can record changes to a health facility while keeping the existing information."
+msgid "If HeRAMS is used as a monitoring tool, you can record changes to a health facility  by adding a new reponse. This will add a new response to your health facility while keeping the history of your updates."
 msgstr ""
 
 #: docs/index.rst:519
-msgid "The feature to update health facilities is not enabled in all projects. Contact your *Project Admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information."
+msgid "The feature to update health facilities is not enabled in all projects. Contact your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information."
 msgstr ""
 
 #: docs/index.rst:521
@@ -792,7 +794,7 @@ msgid "You should now be able to edit the selected record. Use the buttons in th
 msgstr ""
 
 #: docs/index.rst:534
-msgid "While your project may allow you to save your repose and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button."
+msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, (*Validate*) and click the |submit| button."
 msgstr ""
 
 #: docs/index.rst:538
@@ -809,6 +811,10 @@ msgstr ""
 
 #: docs/index.rst:542
 msgid "Use the |next| buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
+msgstr ""
+
+#: docs/index.rst:546
+msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button."
 msgstr ""
 
 #: docs/index.rst:549
@@ -832,7 +838,7 @@ msgid "Only delete all response to a health facility if you are sure that it was
 msgstr ""
 
 #: docs/index.rst:558
-msgid "Deleting responses cannot be undone. Be careful when deleting responses."
+msgid "Deleting responses cannot be undone. Thus, be careful when deleting responses."
 msgstr ""
 
 #: docs/index.rst:562
@@ -844,7 +850,7 @@ msgid "Data for individual health facilities can be downloaded as **CSV** or **E
 msgstr ""
 
 #: docs/index.rst:566
-msgid "Whether you have access to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your country focal point or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered."
+msgid "Whether you have permissions to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your workspace owner, project admin or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
 
 #: docs/index.rst:569
@@ -912,7 +918,7 @@ msgid "Open the admin interface by clicking the |settings| icon in the top right
 msgstr ""
 
 #: docs/index.rst:597
-msgid "In the navigation pane on the left, click `Projects <https://herams.org/project/index>`__ . This will open a overview table of all ongoing **Projects** in HeRAMS."
+msgid "In the navigation pane on the left, click `Projects <https://herams.org/project/index>`_ . This will open a overview table of all ongoing HeRAMS projects."
 msgstr ""
 
 #: docs/index.rst:598
@@ -920,7 +926,7 @@ msgid "In the rightmost column of the table, you should see several **Action** b
 msgstr ""
 
 #: docs/index.rst:599
-msgid "You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`__."
+msgid "You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`_."
 msgstr ""
 
 #: docs/index.rst:602
@@ -964,11 +970,11 @@ msgid "HeRAMS Administration"
 msgstr ""
 
 #: docs/index.rst:625
-msgid "This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace Owners* and *Project Admins*). The first part of the chapter focuses on user management. It provides an overview of the default HeRAMS **User roles** used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project Admins* on how to administer a project locally."
+msgid "This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project admins* on how to administer a project locally."
 msgstr ""
 
 #: docs/index.rst:628
-msgid "Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project Admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered."
+msgid "Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered."
 msgstr ""
 
 #: docs/index.rst:631
@@ -996,7 +1002,7 @@ msgid "**Manage users**: Permits users to share access to a workspace with other
 msgstr ""
 
 #: docs/index.rst:644
-msgid "**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used very carefully."
+msgid "**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used sparingly."
 msgstr ""
 
 #: docs/index.rst:648
@@ -1008,7 +1014,7 @@ msgid "Project Permissions"
 msgstr ""
 
 #: docs/index.rst:654
-msgid "Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *Project level*, users are being granted access to all workspaces. For example, if a user is granted *Edit* permission at the *Project level*, they can edit data for all workspace. In contrast, if a user is granted access at the *Workspace level*, they are only able to contribute data to that specific workspace."
+msgid "Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *project level*, users are being granted access to all workspaces. For example, if a user is granted *edit* permission at the **project level**, they can edit data for all workspace. In contrast, if a user is granted access at the **workspace level**, they are only able to contribute data to that specific workspace."
 msgstr ""
 
 #: docs/index.rst:656
@@ -1016,7 +1022,7 @@ msgid "There are five permissions that can be granted at the project level."
 msgstr ""
 
 #: docs/index.rst:658
-msgid "**View dashboard**: Grants access exclusively to the *Project Dashboard*. Granting users explicit access to the *Project Dashboard* is only required for *Closed* or *Private* projects. For all other projects, any user subscribed to the platform will be able to view the *Project Dashboard*."
+msgid "**View dashboard**: Grants access exclusively to the *Project dashboard*. Granting users explicit access to the *Project dashboard* is only required for *closed* or *private* projects. For all other projects, any user subscribed to the platform will be able to view the *Project dashboard*."
 msgstr ""
 
 #: docs/index.rst:660
@@ -1032,39 +1038,39 @@ msgid "**Manage workspaces**: Grants a user access to create, modify and delete 
 msgstr ""
 
 #: docs/index.rst:668
-msgid "**Configure dashboard**: Grants users the ability to edit and configure their *Project Dashboard*."
+msgid "**Configure dashboard**: Grants users the ability to configure their project dashboard."
 msgstr ""
 
 #: docs/index.rst:672
-msgid "HeRAMS User Roles"
+msgid "User Roles"
 msgstr ""
 
 #: docs/index.rst:674
-msgid "There six standard roles that are used accross HeRAMS projects."
+msgid "There are six standard roles used accross HeRAMS projects."
 msgstr ""
 
 #: docs/index.rst:682
-msgid "**Project Owner**: Designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality."
+msgid "**Project owner**: Designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality."
 msgstr ""
 
 #: docs/index.rst:684
-msgid "**Project Admin**: The *Project Owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS Project and assigns them the role of *Project Admin*. The *Project Admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *Project Admins* are responsible for the overall training and management of users, they can assign *Workspace Owners* to manage individual workspaces."
+msgid "**Project admin**: The *project owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS Project and assigns them the role of *project admin*. The *project admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *project admins* are responsible for the overall training and management of users, they can assign *Workspace owners* to manage individual workspaces."
 msgstr ""
 
 #: docs/index.rst:686
-msgid "**Workspace Owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *Workspace Owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard."
+msgid "**Workspace owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *workspace owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard."
 msgstr ""
 
 #: docs/index.rst:688
-msgid "**Data Contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *Workspace Owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard."
+msgid "**Data contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *workspace owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard."
 msgstr ""
 
 #: docs/index.rst:690
-msgid "**Data Viewers**: Under exceptional situations, a user might be granted a role of *Data Viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard."
+msgid "**Data viewers**: Under exceptional situations, a user might be granted a role of *data viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard."
 msgstr ""
 
 #: docs/index.rst:692
-msgid "**Project Viewer:** The role of *Project Viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces."
+msgid "**Project viewer:** The role of *project viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces."
 msgstr ""
 
 #: docs/index.rst:698
@@ -1072,23 +1078,23 @@ msgid "Mapping User Roles to Permissions"
 msgstr ""
 
 #: docs/index.rst:700
-msgid "**Data contributors**: *Data Contributors* are granted access to *Edit Data* for individual workspaces."
+msgid "**Data contributors**: *data contributors* are granted access to *edit data* for individual workspaces."
 msgstr ""
 
 #: docs/index.rst:707
-msgid "Optionally, *Data Contributors* can also be granted permissions to download data."
+msgid "Optionally, *data contributors* can also be granted permissions to download data."
 msgstr ""
 
 #: docs/index.rst:714
-msgid "**Data Viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only."
+msgid "**Data viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only."
 msgstr ""
 
 #: docs/index.rst:721
-msgid "**Workspace Owners**: In addition to editing and downloading data, *Workspace Owners* are granted the permission to *Manage Users*. This grants them the ability to invite other users to contribute to their workspace."
+msgid "**Workspace owners**: In addition to editing and downloading data, *workspace owners* are granted the permission to *manage users*. This grants them the ability to invite other users to contribute to their workspace."
 msgstr ""
 
 #: docs/index.rst:728
-msgid "Under special circumstance a *Project Admin* might grant a *Workspace Owner* admin permission to a workspace, allowing the *Workspace Owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary."
+msgid "Under special circumstance a *project admin* might grant a *workspace owner* admin permission to a workspace, allowing the *workspace owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary."
 msgstr ""
 
 #: docs/index.rst:740
@@ -1100,7 +1106,7 @@ msgid "To grant a user access to a workspace or project, navigate to the list of
 msgstr ""
 
 #: docs/index.rst:744
-msgid "You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings go to `Icons and Their Meaning`_."
+msgid "You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings go to `Icons and their meaning`_."
 msgstr ""
 
 #: docs/index.rst:746
@@ -1153,7 +1159,7 @@ msgid "Manage Workspaces"
 msgstr ""
 
 #: docs/index.rst:800
-msgid "Managing the list of available workspaces is key component of the *Project Admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace Owners* and granting them appropriate permissions."
+msgid "Managing the list of available workspaces is key component of the *Project admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace owners* and granting them appropriate permissions."
 msgstr ""
 
 #: docs/index.rst:803
@@ -1209,7 +1215,7 @@ msgid "You can now remove a workspace by clicking the |delete| icon in the **Act
 msgstr ""
 
 #: docs/index.rst:835
-msgid "Configure the Project Dashboard"
+msgid "Configure the Project dashboard"
 msgstr ""
 
 #: docs/index.rst:837
@@ -1514,7 +1520,7 @@ msgid "Data updates don't appear on the dashboard"
 msgstr ""
 
 #: docs/index.rst:1020
-msgid "It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and Their Meaning`_."
+msgid "It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and their Meaning`_."
 msgstr ""
 
 #: docs/index.rst:1023
