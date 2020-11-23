@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: ammaraskar/sphinx-action@master
-          with:
-            build-command: "sphinx-build -b gettext docs/ ."
+        with:
+          build-command: "sphinx-build -b gettext docs/ ."
       - uses: actions/checkout@v2
         with:
           repository: 'WorldHealthOrganization/herams-i18n'
