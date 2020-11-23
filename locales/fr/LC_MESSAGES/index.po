@@ -26,16 +26,6 @@ msgstr "Introduction"
 
 #: docs/index.rst:13
 #, fuzzy
-#| msgid ""
-#| "Welcome to the **HeRAMS User Guide**. This user guide was designed for "
-#| "users of the `HeRAMS platform <https://herams.org/>`_. It provides step-"
-#| "by-step instruction on how to register and access the platform as well as "
-#| "a brief overview on key components of the platform, including detailed "
-#| "information on how to explore the available data using the interactive "
-#| "dashboards. Data managers can find additional information on how edit "
-#| "data in the `Contribute Data`_ section. For more advanced topics related "
-#| "to user management and project administration, please consult the `HeRAMS "
-#| "Administration`_ section."
 msgid ""
 "Welcome to the **HeRAMS User Guide**. This user guide was designed for users "
 "of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step "
@@ -61,13 +51,6 @@ msgstr ""
 
 #: docs/index.rst:16
 #, fuzzy
-#| msgid ""
-#| "It should be noted that this guide only addresses issues related to the "
-#| "`HeRAMS platform <https://herams.org/>`_. For general information on the "
-#| "HeRAMS approach and for technical guidance please consult the official "
-#| "`WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_. For "
-#| "additional questions that are not covered in this guide, please contact "
-#| "the `HeRAMS Support Team <mailto:herams@who.int?>`_."
 msgid ""
 "It should be noted that this guide only addresses issues related to the "
 "`HeRAMS platform <https://herams.org/>`_. For general information on the "
@@ -91,15 +74,6 @@ msgstr "Prise en main"
 
 #: docs/index.rst:23
 #, fuzzy
-#| msgid ""
-#| "This chapter is intended for new users of the `HeRAMS platform <https://"
-#| "herams.org/>`_. It covers all issues related to `registering <#creating-a-"
-#| "user-account>`__ and `accessing <#logging-in>`__ the platform as well as "
-#| "managing your `user profile <#update-your-user-profile>`__. To help you "
-#| "navigate the platform on your own, the last part of this chapter provides "
-#| "an overview of `recurring icons <#icons-and-their-meanings>`__ used "
-#| "across the platform as well as some useful tips on how to use "
-#| "`Breadcrumbs`_ as an efficient way to navigate the platfrom."
 msgid ""
 "This chapter is intended for new users of the `HeRAMS platform <https://"
 "herams.org/>`_. It covers issues related to `registering <#creating-a-user-"
@@ -138,9 +112,6 @@ msgstr ""
 
 #: docs/index.rst:34
 #, fuzzy
-#| msgid ""
-#| "In the lower half of the screen you should see an option to register as "
-#| "new user. Enter your email address and click the |register-white| button."
 msgid ""
 "In the lower half of the screen you should see an option to register as a "
 "new user. Enter your email address and click the |register-white| button."
@@ -176,9 +147,6 @@ msgstr ""
 
 #: docs/index.rst:47
 #, fuzzy
-#| msgid ""
-#| "If you are not automatically logged-in, please follow the steps outlined "
-#| "below to login as existing user."
 msgid ""
 "If you are not automatically logged-in, please follow the steps below to "
 "login as existing user."
@@ -218,7 +186,6 @@ msgstr ""
 
 #: docs/index.rst:68
 #, fuzzy
-#| msgid "It is strongly recommended to either user FireFox or Chrome."
 msgid "It is strongly recommended to user either FireFox or Chrome."
 msgstr ""
 "Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
@@ -248,9 +215,6 @@ msgstr ""
 
 #: docs/index.rst:82
 #, fuzzy
-#| msgid ""
-#| "On the sign in page, click the `reset password <https://herams.org/user/"
-#| "forgot>`_ link located below the password field."
 msgid ""
 "On the sign in page, click the `Forgot your password <https://herams.org/"
 "user/request-reset>`_ link."
@@ -261,7 +225,6 @@ msgstr ""
 
 #: docs/index.rst:89
 #, fuzzy
-#| msgid "Enter your email address and password in the designated fields."
 msgid ""
 "Enter your email address in the designated field and click the |request-"
 "password-reset| button."
@@ -271,9 +234,6 @@ msgstr ""
 
 #: docs/index.rst:90
 #, fuzzy
-#| msgid ""
-#| "You will receive an email with a password reset link. Click the link to "
-#| "open the password reset page."
 msgid ""
 "You will receive an email with a password reset link. Click the link in the "
 "email to open the password reset page."
@@ -295,7 +255,6 @@ msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe.
 
 #: docs/index.rst:95
 #, fuzzy
-#| msgid "Click the |submit-en| button to confirm your new password."
 msgid "Click the |reset-password| button to confirm your new password."
 msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit-en|."
 
@@ -312,10 +271,6 @@ msgstr "Mise à jour du profil utilisateur"
 
 #: docs/index.rst:102
 #, fuzzy
-#| msgid ""
-#| "Each user has a profile associated with their account. This permits you "
-#| "do to customize your profile, change your email address or password "
-#| "without requiring additional support."
 msgid ""
 "Each user has a profile associated with their account. This permits you to "
 "change your user name, email address or password without requiring "
@@ -327,9 +282,6 @@ msgstr ""
 
 #: docs/index.rst:104
 #, fuzzy
-#| msgid ""
-#| "To update your user profile or account details, click your username shown "
-#| "on the top right corner of the page."
 msgid ""
 "To update your user profile, click your username shown on the top right "
 "corner of the page."
@@ -340,10 +292,6 @@ msgstr ""
 
 #: docs/index.rst:105
 #, fuzzy
-#| msgid ""
-#| "This opens your `user profile <https://herams.org/user/settings/"
-#| "profile>`_ and allows you to change your personal information such as "
-#| "your name, organization and contact details."
 msgid ""
 "This opens your `user profile <https://herams.org/user/account>`_ and allows "
 "you to change your personal information."
@@ -358,9 +306,6 @@ msgstr "Modifier le mot de passe"
 
 #: docs/index.rst:110
 #, fuzzy
-#| msgid ""
-#| "To alter your password, open your user profile as explained `above "
-#| "<#update-your-user-profile>`_."
 msgid ""
 "To change your password, open your user profile as explained `above <#update-"
 "your-user-profile>`_."
@@ -370,15 +315,11 @@ msgstr ""
 
 #: docs/index.rst:111
 #, fuzzy
-#| msgid "On the page that opens, enter your new password."
 msgid "In the pop-up window that opens, select the **Password**  tab."
 msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
 
 #: docs/index.rst:112
 #, fuzzy
-#| msgid ""
-#| "On the page opening, you should be able to change your email address and "
-#| "enter a new password."
 msgid ""
 "You should now be able to change your email address and enter a new password."
 msgstr ""
@@ -387,7 +328,6 @@ msgstr ""
 
 #: docs/index.rst:113
 #, fuzzy
-#| msgid "Make sure to click the |submit-en| button to confirm your changes."
 msgid ""
 "Make sure to click the |update-password| button to confirm your changes."
 msgstr ""
@@ -396,9 +336,6 @@ msgstr ""
 
 #: docs/index.rst:114
 #, fuzzy
-#| msgid ""
-#| "To grant a user access to a workspace, open the admin interface by "
-#| "clicking the |settings| icon in the top right corner of the screen."
 msgid ""
 "To return to the main page, close the pop-up by clicking the **X** in the "
 "top right corner of the pop-up window."
@@ -422,9 +359,6 @@ msgstr ""
 
 #: docs/index.rst:127
 #, fuzzy
-#| msgid ""
-#| "To alter your password, open your user profile as explained `above "
-#| "<#update-your-user-profile>`_."
 msgid ""
 "To change your language preference, open your user profile as explained "
 "`above <#update-your-user-profile>`_."
@@ -438,8 +372,6 @@ msgstr ""
 
 #: docs/index.rst:129
 #, fuzzy
-#| msgid ""
-#| "Make sure you save your changes by clicking the |update-project| button."
 msgid ""
 "Change the drop-down list to desired language and click the |update-profile| "
 "button."
@@ -460,9 +392,6 @@ msgstr ""
 
 #: docs/index.rst:142
 #, fuzzy
-#| msgid ""
-#| "To alter your password, open your user profile as explained `above "
-#| "<#update-your-user-profile>`_."
 msgid ""
 "To change your e-mail address, open your user profile as explained `above "
 "<#update-your-user-profile>`_."
@@ -518,10 +447,6 @@ msgstr ""
 
 #: docs/index.rst:155
 #, fuzzy
-#| msgid ""
-#| "|workspace| **Workspaces**: This opens the list of all available "
-#| "workspace belonging to the project. See `here <#workspaces>`__ for more "
-#| "information on workspaces."
 msgid ""
 "|workspace| **Workspaces**: This opens the list of workspaces belonging to a "
 "project. See `here <#workspaces>`__ for more information on workspaces."
@@ -532,9 +457,6 @@ msgstr ""
 
 #: docs/index.rst:156
 #, fuzzy
-#| msgid ""
-#| "|dashboard| **Dashboard**: By clicking the dashboard icon, the `Project "
-#| "Dashboard`_ will be opened."
 msgid "|dashboard| **Dashboard**: Opens the `Project dashboard`_."
 msgstr ""
 "|dashboard| **Tableau de bord** : En cliquant sur l'icône du tableau de "
@@ -546,10 +468,6 @@ msgstr ""
 
 #: docs/index.rst:158
 #, fuzzy
-#| msgid ""
-#| "|pencil-black| **Data Update**: This opens the data edit interface. More "
-#| "information on data editing and updating is available `here <#edit-"
-#| "date>`__."
 msgid ""
 "|pencil| **Edit**: Opens the data edit interface. More information on data "
 "editing and updating is available `here <#edit-date>`__."
@@ -564,13 +482,6 @@ msgstr ""
 
 #: docs/index.rst:160
 #, fuzzy
-#| msgid ""
-#| "|refresh| **Refresh Data Cache**: This button allows users to manually "
-#| "refresh the data cache of a workspace. Data is automatically refreshed "
-#| "every 30 minutes. This means if a record is updated, the changes are not "
-#| "immediately reflected on the dashboard. Thus, by manually refreshing the "
-#| "data cache of a workspace the time lag limitation can be overcome and the "
-#| "changes made will become visible immediately."
 msgid ""
 "|refresh| **Refresh data cache**: This button allows you to manually refresh "
 "a workspace's data cache. Data should be automatically synced upon creating, "
@@ -590,9 +501,6 @@ msgstr ""
 
 #: docs/index.rst:161
 #, fuzzy
-#| msgid ""
-#| "|download| **Download Data**: Downloads all records belonging to the "
-#| "selected workspace. See `Download Data`_ for more information."
 msgid ""
 "|download| **Download data**: Opens the data export interface, permitting "
 "users to export data for further analysis in external applications. See "
@@ -604,9 +512,6 @@ msgstr ""
 
 #: docs/index.rst:162
 #, fuzzy
-#| msgid ""
-#| "|pencil-thin| **Update Workspace**:  allows to change the title or token "
-#| "of a workspace."
 msgid ""
 "|pencil-thin| **Update workspace**:  Enables *Project admins* to alter the "
 "settings of an item (e.g. workspace, dashboard element, etc.)"
@@ -616,10 +521,6 @@ msgstr ""
 
 #: docs/index.rst:163
 #, fuzzy
-#| msgid ""
-#| "|workspace| **Workspaces**: This opens the list of all available "
-#| "workspace belonging to the project. See `here <#workspaces>`__ for more "
-#| "information on workspaces."
 msgid ""
 "|share-icon| **Share workspace**: Opens the user management page of a "
 "project or workspace. For more information on go to `User management`_"
@@ -643,7 +544,6 @@ msgstr ""
 
 #: docs/index.rst:180
 #, fuzzy
-#| msgid "Modify a Project"
 msgid "View a Project"
 msgstr "Modifier un projet"
 
@@ -660,7 +560,6 @@ msgstr ""
 
 #: docs/index.rst:186
 #, fuzzy
-#| msgid "Overview"
 msgid "Project Overview"
 msgstr "Vue d’ensemble"
 
@@ -705,9 +604,6 @@ msgstr ""
 
 #: docs/index.rst:194
 #, fuzzy
-#| msgid ""
-#| "For further details, click the |details| button. This will open the "
-#| "project dashboard."
 msgid ""
 "For further details, click the |dashboard-button| button. This will open the "
 "project dashboard."
@@ -717,12 +613,6 @@ msgstr ""
 
 #: docs/index.rst:196
 #, fuzzy
-#| msgid ""
-#| "Access to the project dashboards is restricted to selected users. If you "
-#| "would like to be granted access to a project dashboard, please contact "
-#| "your country focal point or send an email to `herams@who.int <mailto:"
-#| "herams@who.int?>`_ specifying your function and role as well as a brief "
-#| "explanation why you would like to access the dashboard."
 msgid ""
 "Access to the project dashboards may restricted to selected users. If you "
 "would like to be granted access to a project dashboard, please contact your "
@@ -739,7 +629,6 @@ msgstr ""
 
 #: docs/index.rst:205
 #, fuzzy
-#| msgid "Project Dashboard"
 msgid "Project dashboard"
 msgstr "Tableau de bord du projet"
 
@@ -764,9 +653,6 @@ msgstr ""
 
 #: docs/index.rst:210
 #, fuzzy
-#| msgid ""
-#| "In the pop-up window, click the |details| button. This will open the "
-#| "interactive dashboard."
 msgid ""
 "In the pop-up window, click the |dashboard-button| button. This will open "
 "the interactive dashboard."
@@ -809,15 +695,11 @@ msgstr "L'animation ci-dessous montre les tableaux de bord en action."
 
 #: docs/index.rst:234
 #, fuzzy
-#| msgid "Customizing the dashboard"
 msgid "Customizing a dashboard"
 msgstr "Personnaliser le tableau de bord"
 
 #: docs/index.rst:235
 #, fuzzy
-#| msgid ""
-#| "This section provides a few tips and tricks on how to customize the "
-#| "dashboard and view additional details."
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard by applying filters and alter some of default display options."
@@ -831,9 +713,6 @@ msgstr ""
 
 #: docs/index.rst:240
 #, fuzzy
-#| msgid ""
-#| "Data on the dashboard can be filtered. This allows you to scrutinise the "
-#| "data subsets that are of interest to you."
 msgid ""
 "Data on the dashboard can be filtered. This allows you to scrutinize the "
 "data subsets that are of interest to you."
@@ -895,7 +774,6 @@ msgstr ""
 
 #: docs/index.rst:260
 #, fuzzy
-#| msgid "Adjust the Map Zoom Level and Focus Area"
 msgid "Map Zoom Level and Focus Area"
 msgstr "Modifier le niveau de zoom et la zone de mise au point d'une carte"
 
@@ -947,7 +825,6 @@ msgstr ""
 
 #: docs/index.rst:280
 #, fuzzy
-#| msgid "Customizing the dashboard"
 msgid "Exporting a dashboard"
 msgstr "Personnaliser le tableau de bord"
 
@@ -961,10 +838,6 @@ msgstr ""
 
 #: docs/index.rst:285
 #, fuzzy
-#| msgid ""
-#| "to configure the project dashboard. Additional information on how to "
-#| "configure the project dashboard is available `here <#configure-the-"
-#| "project-dashboard>`__."
 msgid ""
 "To export a dashboard, open the desired dashboard as explained `here <#view-"
 "a-project-dashboard>`__."
@@ -975,8 +848,6 @@ msgstr ""
 
 #: docs/index.rst:286
 #, fuzzy
-#| msgid ""
-#| "To logout click the |logout| button in the top right corner of the screen."
 msgid "Click the |pdf| icon in the top right corner of your screen."
 msgstr ""
 "Pour vous déconnecter, veuillez cliquer sur le bouton |logout| dans le coin "
@@ -1306,11 +1177,6 @@ msgstr ""
 
 #: docs/index.rst:415
 #, fuzzy
-#| msgid ""
-#| "This chapter is itended primarily for data managers responsible to update "
-#| "the HeRAMS data. It covers all aspects related to data editing, including "
-#| "registering new health facilities, updating the status of exisiting "
-#| "health facilities as well as deleting erroneous records (e.g. duplicates)."
 msgid ""
 "This chapter is intended for data managers responsible to update HeRAMS "
 "data. It covers all aspects related to data editing, including registering "
@@ -1325,13 +1191,6 @@ msgstr ""
 
 #: docs/index.rst:417
 #, fuzzy
-#| msgid ""
-#| "Access to the data edit interface is limited to users responsible to "
-#| "update the data. If you require your access permissions to be changed, "
-#| "kindly contact your country focal point or send an email to `herams@who."
-#| "int <mailto:herams@who.int?>`_ specifying your function and role as well "
-#| "as a brief explanation on why you would like your access permissions to "
-#| "altered."
 msgid ""
 "Access to the data edit interface is limited to users responsible to update "
 "data. If you require your access permissions to be changed, kindly contact "
@@ -1365,11 +1224,6 @@ msgstr ""
 
 #: docs/index.rst:428
 #, fuzzy
-#| msgid ""
-#| "To view a project dashboard, open the project summary by selecting your "
-#| "project from the navigation pane on the left. Alternatively, you can open "
-#| "the project summary by clicking the corresponding blue dot on the world "
-#| "map."
 msgid ""
 "Open the project summary pop-up by selecting your project from the "
 "navigation pane on the left. Alternatively, you can open the project summary "
@@ -1381,8 +1235,6 @@ msgstr ""
 
 #: docs/index.rst:429
 #, fuzzy
-#| msgid ""
-#| "To logout click the |logout| button in the top right corner of the screen."
 msgid ""
 "Click the |workspace-button| button on the bottom right corner of the pop-up."
 msgstr ""
@@ -1391,10 +1243,6 @@ msgstr ""
 
 #: docs/index.rst:436
 #, fuzzy
-#| msgid ""
-#| "You should now see a table of all available projects. For each project, "
-#| "the table displays the number **Workspaces**, **Contributors**, **Health "
-#| "facilities** and **Responses**."
 msgid ""
 "This opens the list of available workspace of the selected project. For each "
 "project, the table displays the number **workspaces**, **contributors**, "
@@ -1416,9 +1264,6 @@ msgstr ""
 
 #: docs/index.rst:440
 #, fuzzy
-#| msgid ""
-#| "To view the health facilities that are part of a specific workspace, "
-#| "click the |update-data| icon in the Action column."
 msgid ""
 "To view the list of health facilities associated with a specific workspace, "
 "click the |pencil| icon in the **Action** column."
@@ -1486,8 +1331,6 @@ msgstr ""
 
 #: docs/index.rst:467
 #, fuzzy
-#| msgid ""
-#| "To logout click the |logout| button in the top right corner of the screen."
 msgid ""
 "To view your favorites, click the white star icon in the top left corner of "
 "your screen."
@@ -1510,16 +1353,11 @@ msgstr ""
 
 #: docs/index.rst:475
 #, fuzzy
-#| msgid "Edit a Health Facility Record"
 msgid "Edit a Health Facility Response"
 msgstr "Modifier l'enregistrement d'une FS"
 
 #: docs/index.rst:477
 #, fuzzy
-#| msgid ""
-#| "Editing a record will overwrite the existing record. If you would like to "
-#| "update the status of a health facility while keeping the history of "
-#| "changes, follow the instructions in the section below."
 msgid ""
 "Editing a response will overwrite the existing response. If you would like "
 "to update the status of a health facility while keeping the history of "
@@ -1577,9 +1415,6 @@ msgstr ""
 
 #: docs/index.rst:493
 #, fuzzy
-#| msgid ""
-#| "|delete-black| **Delete Workspace**: Permanently removes a workspace from "
-#| "a project. See `Delete a Workspace`_ for more information."
 msgid ""
 "|delete| Delete: Permanently deletes a response form a health facility. See "
 "`remove a response from health facility`_ for more information."
@@ -1595,12 +1430,6 @@ msgstr ""
 
 #: docs/index.rst:502
 #, fuzzy
-#| msgid ""
-#| "You should now be able to edit the selected record. Use the |next| "
-#| "buttons in the lower right corner to move to the next page of the "
-#| "questionnaire or return to the previous page. You can also use the "
-#| "navigation pane on the left to access a specific section of the "
-#| "questionnaire."
 msgid ""
 "To modify a record click the |pencil| icon in the *Actions* columns. You "
 "should now be able to edit the selected record. Use the buttons in the lower "
@@ -1642,15 +1471,11 @@ msgstr ""
 
 #: docs/index.rst:515
 #, fuzzy
-#| msgid "Update a Health Facility Record"
 msgid "Add a Response to a Health Facility Record"
 msgstr "Mise à jour d'un enregistrement d'une FS"
 
 #: docs/index.rst:517
 #, fuzzy
-#| msgid ""
-#| "If HeRAMS is used as a monitoring tool, you can record changes to a "
-#| "health facility while keeping the existing information."
 msgid ""
 "If HeRAMS is used as a monitoring tool, you can record changes to a health "
 "facility  by adding a new reponse. This will add a new response to your "
@@ -1662,10 +1487,6 @@ msgstr ""
 
 #: docs/index.rst:519
 #, fuzzy
-#| msgid ""
-#| "The feature to update health facilities is not enabled in all projects. "
-#| "Contact your country focal point or send an email to `herams@who.int "
-#| "<mailto:herams@who.int?>`_ for further information."
 msgid ""
 "The feature to update health facilities is not enabled in all projects. "
 "Contact your *Project admin* or send an email to `herams@who.int <mailto:"
@@ -1677,9 +1498,6 @@ msgstr ""
 
 #: docs/index.rst:521
 #, fuzzy
-#| msgid ""
-#| "Open the data update interface as outlined `above <#access-the-data-"
-#| "update-interface>`__."
 msgid ""
 "To update the status of a health facility, open the `data update interface "
 "<#access-the-data-update-interface>`__."
@@ -1699,12 +1517,6 @@ msgstr ""
 
 #: docs/index.rst:530
 #, fuzzy
-#| msgid ""
-#| "You should now be able to edit the selected record. Use the |next| "
-#| "buttons in the lower right corner to move to the next page of the "
-#| "questionnaire or return to the previous page. You can also use the "
-#| "navigation pane on the left to access a specific section of the "
-#| "questionnaire."
 msgid ""
 "You should now be able to edit the selected record. Use the buttons in the "
 "lower right corner to move to the |next| page of the questionnaire or return "
@@ -1731,9 +1543,6 @@ msgstr "Enregistrer une nouvelle FS"
 
 #: docs/index.rst:540
 #, fuzzy
-#| msgid ""
-#| "Open the data update interface as outlined `above <#access-the-data-"
-#| "update-interface>`__."
 msgid ""
 "To register a new health facility, navigate to the data `update interface "
 "<#access-the-data-update-interface>`__."
@@ -1749,12 +1558,6 @@ msgstr ""
 
 #: docs/index.rst:542
 #, fuzzy
-#| msgid ""
-#| "You should now be able to edit the selected record. Use the |next| "
-#| "buttons in the lower right corner to move to the next page of the "
-#| "questionnaire or return to the previous page. You can also use the "
-#| "navigation pane on the left to access a specific section of the "
-#| "questionnaire."
 msgid ""
 "Use the |next| buttons in the lower right corner to move to the next page of "
 "the questionnaire or return to the previous page. You can also use the "
@@ -1777,7 +1580,6 @@ msgstr ""
 
 #: docs/index.rst:549
 #, fuzzy
-#| msgid "Register a New Health Facility"
 msgid "Remove a Response from Health Facility"
 msgstr "Enregistrer une nouvelle FS"
 
@@ -1790,9 +1592,6 @@ msgstr ""
 
 #: docs/index.rst:552
 #, fuzzy
-#| msgid ""
-#| "To view the health facilities that are part of a specific workspace, "
-#| "click the |update-data| icon in the Action column."
 msgid ""
 "You should now see the history of response to the selected record. To remove "
 "a specific response, click the |delete| icon in the first column"
@@ -1816,8 +1615,6 @@ msgstr ""
 
 #: docs/index.rst:558
 #, fuzzy
-#| msgid ""
-#| "Deleting records cannot be undone. Be careful when deleting a record."
 msgid ""
 "Deleting responses cannot be undone. Thus, be careful when deleting "
 "responses."
@@ -1837,13 +1634,6 @@ msgstr ""
 
 #: docs/index.rst:566
 #, fuzzy
-#| msgid ""
-#| "Access to the data edit interface is limited to users responsible to "
-#| "update the data. If you require your access permissions to be changed, "
-#| "kindly contact your country focal point or send an email to `herams@who."
-#| "int <mailto:herams@who.int?>`_ specifying your function and role as well "
-#| "as a brief explanation on why you would like your access permissions to "
-#| "altered."
 msgid ""
 "Whether you have permissions to download data depends on your function and "
 "role. If you require your access permissions to be changed, kindly contact "
@@ -1865,11 +1655,6 @@ msgstr "Télécharger les données d'un espace de travail"
 
 #: docs/index.rst:571
 #, fuzzy
-#| msgid ""
-#| "Follow the instructions below to download data for a single workspace. If "
-#| "you require data from multiple workspaces, follow the below steps for "
-#| "each workspace. You can then merge the data in your analysis tool of "
-#| "choice."
 msgid ""
 "Follow the instructions below to download data for your workspace. If you "
 "require data from multiple workspaces, you can repeat the below steps and "
@@ -1883,9 +1668,6 @@ msgstr ""
 
 #: docs/index.rst:573
 #, fuzzy
-#| msgid ""
-#| "In order to download data, you will require access to your workspace. "
-#| "Contact your system administrator to elevate your access rights if needed."
 msgid ""
 "In order to download data, you will require special permissions to the "
 "workspace. Contact your system administrator to elevate your access rights "
@@ -1897,9 +1679,6 @@ msgstr ""
 
 #: docs/index.rst:576
 #, fuzzy
-#| msgid ""
-#| "Navigate to the workspace page of your project (see `Access the Data "
-#| "Update Interface`_ steps 1 - 4 for detailed instructions)."
 msgid ""
 "Navigate to the workspace page of your project (see `Access your workspace`_ "
 "steps 1 - 4 for detailed instructions)."
@@ -1910,9 +1689,6 @@ msgstr ""
 
 #: docs/index.rst:577
 #, fuzzy
-#| msgid ""
-#| "In the rightmost column, click the |download| button. This will download "
-#| "all records of this workspace."
 msgid ""
 "In the rightmost column, click the |download| icon. This will open a new "
 "page, allowing you to customize your export."
@@ -1988,9 +1764,6 @@ msgstr ""
 
 #: docs/index.rst:596
 #, fuzzy
-#| msgid ""
-#| "Open the admin interface by clicking the |settings| button on the top "
-#| "right corner of the page (next to your username)."
 msgid ""
 "Open the admin interface by clicking the |settings| icon in the top right "
 "corner of the screen."
@@ -2001,9 +1774,6 @@ msgstr ""
 
 #: docs/index.rst:597
 #, fuzzy
-#| msgid ""
-#| "In the navigation pane on the left, click `Projects <https://herams.org/"
-#| "project/index>`__ to open the **Projects** overview table."
 msgid ""
 "In the navigation pane on the left, click `Projects <https://herams.org/"
 "project/index>`_ . This will open a overview table of all ongoing HeRAMS "
@@ -2014,10 +1784,6 @@ msgstr ""
 
 #: docs/index.rst:598
 #, fuzzy
-#| msgid ""
-#| "In the rightmost column of the table, you should see several **Action** "
-#| "buttons. Click the |workspace| icon. This will open the workspace of the "
-#| "selected project."
 msgid ""
 "In the rightmost column of the table, you should see several **Action** "
 "buttons. Click the |download| icon. This will open  the download settings."
@@ -2106,13 +1872,6 @@ msgstr "HeRAMS Administration"
 
 #: docs/index.rst:625
 #, fuzzy
-#| msgid ""
-#| "This chapter provides an overview of the admin pages in HeRAMS and offers "
-#| "step-by-step instructions for common tasks performed by advanced users "
-#| "and project administrators. The first part of the chapter introduces the "
-#| "concept of `Workspaces`_ while the second part focuses on `Projects`_ "
-#| "level administration and the configuration of project specific `Project "
-#| "Dashboard`_."
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers "
 "step-by-step instructions for common tasks performed by advanced users (e.g. "
@@ -2133,11 +1892,6 @@ msgstr ""
 
 #: docs/index.rst:628
 #, fuzzy
-#| msgid ""
-#| "If you require your permissions to be changed, kindly contact your "
-#| "country focal point or send an email to `HeRAMS Support Team <mailto:"
-#| "herams@who.int?>`_ specifying your function and role as well as a brief "
-#| "explanation of why you would like your access permissions to altered."
 msgid ""
 "Access to different parts of the admin interface depend on your function and "
 "role. If you require your permissions to be changed, kindly contact your "
@@ -2203,7 +1957,6 @@ msgstr ""
 
 #: docs/index.rst:652
 #, fuzzy
-#| msgid "Change a User's Project Permissions"
 msgid "Project Permissions"
 msgstr "Modifier les autorisations de projet d'un utilisateur"
 
@@ -2319,7 +2072,6 @@ msgstr ""
 
 #: docs/index.rst:698
 #, fuzzy
-#| msgid "Change a User's Project Permissions"
 msgid "Mapping User Roles to Permissions"
 msgstr "Modifier les autorisations de projet d'un utilisateur"
 
@@ -2360,7 +2112,6 @@ msgstr ""
 
 #: docs/index.rst:740
 #, fuzzy
-#| msgid "Add a User to a Project"
 msgid "Add a User"
 msgstr "Ajouter un utilisateur à un projet"
 
@@ -2381,10 +2132,6 @@ msgstr ""
 
 #: docs/index.rst:746
 #, fuzzy
-#| msgid ""
-#| "To grant a user access to a workspace (e.g. to update the data), you have "
-#| "to share the workspace with them. Click the |share-icon| icon in the "
-#| "**Actions** column."
 msgid ""
 "To grant a user access to a workspace or project, you have to *share* it "
 "with them."
@@ -2405,9 +2152,6 @@ msgstr ""
 
 #: docs/index.rst:759
 #, fuzzy
-#| msgid ""
-#| "Use the checkboxes to select the appropriate permission level. See `above "
-#| "<#workspace-permissions>`__ for further details on workspace permissions."
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See `Access "
 "your workspace`_ or `Project Permissions`_ for further details on workspace "
@@ -2419,9 +2163,6 @@ msgstr ""
 
 #: docs/index.rst:761
 #, fuzzy
-#| msgid ""
-#| "Click the |share-button| button to share the workspace with the selected "
-#| "user(s)."
 msgid "Click the |share-button| button to grant users the desired permissions."
 msgstr ""
 "Cliquez sur le bouton |share-button| pour partager l'espace de travail avec "
@@ -2439,10 +2180,6 @@ msgstr ""
 
 #: docs/index.rst:774 docs/index.rst:787
 #, fuzzy
-#| msgid ""
-#| "On the second half of the page you will see a list of all users having "
-#| "access to the workspace. Click the |delete-black| icon to remove the user "
-#| "permanently."
 msgid ""
 "On the second half of the page you will see a list of all users having "
 "access to the workspace or project, including their permissions."
@@ -2476,7 +2213,6 @@ msgstr ""
 
 #: docs/index.rst:799
 #, fuzzy
-#| msgid "Workspaces"
 msgid "Manage Workspaces"
 msgstr "Les espaces de travail"
 
@@ -2490,16 +2226,11 @@ msgstr ""
 
 #: docs/index.rst:803
 #, fuzzy
-#| msgid "Create a New Workspace"
 msgid "Create a Workspace"
 msgstr "Créer un nouvel espace de travail"
 
 #: docs/index.rst:805
 #, fuzzy
-#| msgid ""
-#| "To create a new workspace, access the workspace page of your project. "
-#| "(Follow steps 1 - 5 outlined `above <#add-a-user-to-a-workspace>`__ to "
-#| "access the workspace)."
 msgid ""
 "To create a new workspace, access the workspace page of your project. See "
 "`Access your workspace`_ for more detailed instructions."
@@ -2510,9 +2241,6 @@ msgstr ""
 
 #: docs/index.rst:806
 #, fuzzy
-#| msgid ""
-#| "In the upper left corner, you will see a button labelled |create-"
-#| "workspace|."
 msgid ""
 "In the upper right corner, you will see a button labelled |create-workspace|."
 msgstr ""
@@ -2521,8 +2249,6 @@ msgstr ""
 
 #: docs/index.rst:807
 #, fuzzy
-#| msgid ""
-#| "On the page that opens, you should now be able to create a new workspace."
 msgid ""
 "You will be directed to a page where you will be able to create a new "
 "workspace."
@@ -2545,15 +2271,11 @@ msgstr ""
 
 #: docs/index.rst:819
 #, fuzzy
-#| msgid "Delete a Workspace"
 msgid "Rename a Workspace"
 msgstr "Supprimer un espace de travail"
 
 #: docs/index.rst:821
 #, fuzzy
-#| msgid ""
-#| "Navigate to the workspace page of your project (see `Access the Data "
-#| "Update Interface`_ steps 1 - 4 for detailed instructions)."
 msgid ""
 "To rename a workspace, access the workspace page of your project. See "
 "`Access your workspace`_ for more detailed instructions."
@@ -2564,9 +2286,6 @@ msgstr ""
 
 #: docs/index.rst:822
 #, fuzzy
-#| msgid ""
-#| "Open the page you would like to modify using the |pencil-thin| icon next "
-#| "to the page's name."
 msgid ""
 "Open the *Workspace settings* by click the |pencil-thin| icon next to your "
 "workspace's name."
@@ -2576,9 +2295,6 @@ msgstr ""
 
 #: docs/index.rst:823
 #, fuzzy
-#| msgid ""
-#| "You should now see a table with all the health facilities of the selected "
-#| "workspace."
 msgid "You should now be able to modfiy the Title of your workspace."
 msgstr ""
 "Vous devriez maintenant voir un tableau avec toutes les FS de l'espace de "
@@ -2590,9 +2306,6 @@ msgstr "Supprimer un espace de travail"
 
 #: docs/index.rst:830
 #, fuzzy
-#| msgid ""
-#| "Navigate to the workspace page of your project (see `Access the Data "
-#| "Update Interface`_ steps 1 - 4 for detailed instructions)."
 msgid ""
 "To remove a workspace from the list of workspaces, access the workspace page "
 "of your project. See `Access your workspace`_ for more detailed instructions."
@@ -2603,9 +2316,6 @@ msgstr ""
 
 #: docs/index.rst:831
 #, fuzzy
-#| msgid ""
-#| "You can remove a workspace by clicking the |delete-black| icon in the "
-#| "**Actions** column next to the selected workspace."
 msgid ""
 "You can now remove a workspace by clicking the |delete| icon in the "
 "**Actions** column next to the selected workspace."
@@ -2615,7 +2325,6 @@ msgstr ""
 
 #: docs/index.rst:835
 #, fuzzy
-#| msgid "Configure the Project Dashboard"
 msgid "Configure the Project dashboard"
 msgstr "Configurer le tableau de bord du projet"
 
@@ -2636,15 +2345,11 @@ msgstr ""
 
 #: docs/index.rst:840
 #, fuzzy
-#| msgid "Update a Dashboard Page"
 msgid "Create a Dashboard Page"
 msgstr "Mettre à jour une page de tableau de bord"
 
 #: docs/index.rst:842
 #, fuzzy
-#| msgid ""
-#| "To grant a user access to a workspace, open the admin interface by "
-#| "clicking the |settings| icon in the top right corner of the screen."
 msgid ""
 "To add a new page to a dashboard, open the admin interface by clicking the |"
 "settings| icon in the top right corner of the screen."
@@ -2655,9 +2360,6 @@ msgstr ""
 
 #: docs/index.rst:843
 #, fuzzy
-#| msgid ""
-#| "In the navigation pane on the left, click `Projects <https://herams.org/"
-#| "project/index>`_ to display the list of all available projects."
 msgid ""
 "In the navigation pane on the left, click **Projects** . This will open a "
 "overview table of all ongoing Projects in HeRAMS."
@@ -2667,9 +2369,6 @@ msgstr ""
 
 #: docs/index.rst:844
 #, fuzzy
-#| msgid ""
-#| "In the last of the table, you have several action buttons. Click the |"
-#| "share-icon| icon."
 msgid ""
 "In the rightmost column of the table, you should see several Action buttons. "
 "Click the |modify-dashboard| icon."
@@ -2697,9 +2396,6 @@ msgstr ""
 
 #: docs/index.rst:855
 #, fuzzy
-#| msgid ""
-#| "For sub-pages, select the parent page from the **Parent Id** drop-down "
-#| "list. For all other pages select **No parent**."
 msgid ""
 "If you are adding a sub-page to an existing page, select the parent page "
 "from the **Parent Id** drop-down list. For all other pages select **No "
@@ -2733,7 +2429,6 @@ msgstr ""
 
 #: docs/index.rst:863
 #, fuzzy
-#| msgid "Update a Dashboard Page"
 msgid "Modify a Dashboard Page"
 msgstr "Mettre à jour une page de tableau de bord"
 
@@ -2745,11 +2440,6 @@ msgstr ""
 
 #: docs/index.rst:866
 #, fuzzy
-#| msgid ""
-#| "To alter an existing page, click the |pencil-black| icon next to the "
-#| "page's name. This will open the page's settings. You are now able to "
-#| "change the title and the order of the page. See `above <#add-a-new-page-"
-#| "to-a-dashboard>`__ for further details."
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings. You are now able to change the page's settings as well as "
@@ -2779,9 +2469,6 @@ msgstr ""
 
 #: docs/index.rst:873
 #, fuzzy
-#| msgid ""
-#| "In the list of available page, use the |delete-black| icon next to the "
-#| "page you would like to delete."
 msgid ""
 "In the list of available page, use the |delete| icon next to the page you "
 "would like to delete."
@@ -2791,9 +2478,6 @@ msgstr ""
 
 #: docs/index.rst:875
 #, fuzzy
-#| msgid ""
-#| "Be careful when deleting pages or elements. Deleting dashboard pages will "
-#| "permanetly delete the page including potential sub-pages."
 msgid ""
 "Be careful when deleting pages or elements. Deleting dashboard pages will "
 "permanently delete the page including potential sub-pages."
@@ -2804,17 +2488,11 @@ msgstr ""
 
 #: docs/index.rst:878
 #, fuzzy
-#| msgid "Update a Dashboard Page"
 msgid "Create a Dashboard Element"
 msgstr "Mettre à jour une page de tableau de bord"
 
 #: docs/index.rst:880
 #, fuzzy
-#| msgid ""
-#| "This section covers the steps required to add a new element to an "
-#| "existing dashboard page. If you would like to extend your dashboard by "
-#| "adding additional pages, please see `Add a New Page to a Dashboard`_ for "
-#| "further information."
 msgid ""
 "This section covers the steps required to add a new element to an existing "
 "dashboard page. If you would like to extend your dashboard by adding "
@@ -2835,9 +2513,6 @@ msgstr ""
 
 #: docs/index.rst:883
 #, fuzzy
-#| msgid ""
-#| "Click the |pencil-thin| icon in the **Actions** column of your project. "
-#| "This will open the project properties page."
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings."
@@ -2847,10 +2522,6 @@ msgstr ""
 
 #: docs/index.rst:884
 #, fuzzy
-#| msgid ""
-#| "In the bottom half of the page, you should see the following three "
-#| "buttons |create-elements|. Select the type of element you would like to "
-#| "add by clicking the corresponding button."
 msgid ""
 "On the right side of the page you should see a list of available dashboard "
 "elements. Above this list, you have three buttons |create-elements|. Select "
@@ -2942,7 +2613,6 @@ msgstr ""
 
 #: docs/index.rst:927
 #, fuzzy
-#| msgid "Modify an Existing Dashboard Element"
 msgid "Modify Dashboard Elements"
 msgstr "Modifier un élément de tableau de bord existant"
 
@@ -2994,7 +2664,6 @@ msgstr ""
 
 #: docs/index.rst:951
 #, fuzzy
-#| msgid "Delete a Dashboard Page"
 msgid "Delete Dashboard Elements"
 msgstr "Supprimer une page du tableau de bord"
 
@@ -3016,10 +2685,6 @@ msgstr ""
 
 #: docs/index.rst:955
 #, fuzzy
-#| msgid ""
-#| "On the second half of the page you will see a list of all users having "
-#| "access to the workspace. Click the |delete-black| icon to remove the user "
-#| "permanently."
 msgid ""
 "In the lower half of the page you will see a list of all elements displayed "
 "on the dashboard page. Use the |delete| to permanently delete the element."
@@ -3156,12 +2821,6 @@ msgstr "Qui a accès à votre projet ?"
 
 #: docs/index.rst:1010
 #, fuzzy
-#| msgid ""
-#| "In-country administrators and users responsible for a project or "
-#| "workspace can verify the list of users having access to the project and/"
-#| "or workspace as well as their permission levels. See `HeRAMS "
-#| "Administration`_ for more information on sharing `Projects`_ and "
-#| "`Workspaces`_."
 msgid ""
 "In-country administrators and users responsible for a project or workspace "
 "can verify the list of users having access to the project and/or workspace "
@@ -3184,13 +2843,6 @@ msgstr "Les mises à jour des données n'apparaissent pas sur le tableau de bord
 
 #: docs/index.rst:1020
 #, fuzzy
-#| msgid ""
-#| "It is important to note that the data displayed on the interactive "
-#| "dashboards are only synchronized every 30 minutes. Thus, is it is "
-#| "possible that updates to the data don't show immediately on the "
-#| "dashboards. To solve the issue, manually sync the data cache of the "
-#| "workspace. For more information on data caching read the section on "
-#| "`Workspaces`_."
 msgid ""
 "It is important to note that the data displayed on the interactive "
 "dashboards are only synchronized every 30 minutes. Thus, is it is possible "
