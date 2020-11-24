@@ -163,7 +163,7 @@ This section aims to provide an overview of key icons used accross the platform 
 * |share-icon| **Share workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_
 
 
-.. note: The number of buttons visible to you depends on your `user role<#user-roles>` and might vary from one workspace/project to another.
+.. note:: The number of buttons visible to you depends on your `user role<#user-roles>` and might vary from one workspace/project to another.
 
 Breadcrumbs
 -----------
@@ -458,7 +458,7 @@ Favorites
 ---------
 To simplify navigation, it is recommended that you add frequently accessed workspaces to your list of. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen. 
 
-.. Note:: For user working on multiple project, please note that it is possible to add workspace from different projects to your list of favorites. 
+.. note:: For user working on multiple project, please note that it is possible to add workspace from different projects to your list of favorites. 
 
 
 1. Navigate to the list of workspaces as outlined above. 
@@ -468,13 +468,13 @@ To simplify navigation, it is recommended that you add frequently accessed works
 
 5. To remove a workspace from your list of favorites, clicked the |star-filled| icon again. You should see the icon changing back to an unfilled |star-hollow|. 
 
-.. Note:: If the workspace does not automatically disappear from your list of favorites, try refreshing the page. 
+.. note:: If the workspace does not automatically disappear from your list of favorites, try refreshing the page. 
 
 
 Edit a Health Facility Response
 -------------------------------
 
-.. Caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add-a-response-to-a-health-facility-record>`_.
+.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add-a-response-to-a-health-facility-record>`_.
 
 1. Open the data update interface as outlined `above <#access-the-data-update-interface>`__.
 2. To ease navigation, records are grouped by health facility. To edit a specific response, you first have to expand the health facility by clicking anywhere in the corresponding row.
@@ -497,7 +497,7 @@ Edit a Health Facility Response
    :alt: update data table
    :align: center
  
-.. Note:: The number of action buttons visible depends on your project's settings.
+.. note:: The number of action buttons visible depends on your project's settings.
   
 4. To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected record. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 5. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button.
@@ -555,7 +555,7 @@ Remove a Response from Health Facility
 .. note:: Only delete all response to a health facility if you are sure that it was entered by mistake (e.g. duplicated record). For health facility that are permanently closed, add a new response and change the status to *permanently closed*. 
 
 
-.. Warning:: Deleting responses cannot be undone. Thus, be careful when deleting responses.
+.. warning:: Deleting responses cannot be undone. Thus, be careful when deleting responses.
 
 
 Download Data
@@ -625,7 +625,7 @@ HeRAMS Administration
 This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project admins* on how to administer a project locally. 
 
 
-.. note:: Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered.
+.. note:: Access to different parts of the admin interface depends on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered.
 
 User Management
 ---------------
@@ -643,7 +643,7 @@ Granting a user permission to a workspace enables them to contribute or download
 
 **Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used sparingly. 
 
-  .. Note: Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **Manage users** is not able to grant access to edit data to other users. 
+.. note:: Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **Manage users** is not able to grant access to edit data to other users. 
 
 Workspace permission should always be assigned with regards to the user roles. The below screenshots indicate the level of permissions that should be granted to the respective user. For further details on the standard HeRAMS user roles, please consult the `previous section <#user-roles>`__.
 
@@ -663,7 +663,7 @@ There are five permissions that can be granted at the project level.
 
 **Manage workspaces**: Grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace. 
 
-.. Warning: *Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces.
+.. warning:: *Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces.
 
 **Configure dashboard**: Grants users the ability to configure their project dashboard. 
 
@@ -691,7 +691,7 @@ There are six standard roles used accross HeRAMS projects.
 
 **Project viewer:** The role of *project viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces.
 
-.. Note: If a project is set to **private** or **closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses. 
+.. note:: If a project is set to **private** or **closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses. 
 
 
 Mapping User Roles to Permissions
@@ -732,7 +732,7 @@ Under special circumstance a *project admin* might grant a *workspace owner* adm
 	:alt: workspace owner (advanced)
 	:align: center
 	
-.. Warning: While *workspace owners* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it. 
+.. warning:: While *workspace owners* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it. 
 
 
 
@@ -752,7 +752,7 @@ Add a User
 	:alt: share workspace
 	:align: center
    
-  .. tip: You can add multiple users add once as shown in the image above.
+.. tip:: You can add multiple users add once as shown in the image above.
 
   .. note: If you cannot find a user, it means the user has not yet created an account. Ask the user to create an account by registering on the HeRAMS platform and then retry. Should the issue persist, contact your system administrator or send an email to `herams@who.int <mailto:herams@who.int?>`_.
 
@@ -786,7 +786,7 @@ Remove a User from a Workspace
 2. On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions.
 3. To remove a user change all permissions to **Denied**. Upon reloading the page, you will see that the user has disappeared from the list.  
 
-.. Note: Removing a user from a **Workspace** will not revoke their **Project** level permissions and vice versa. 
+.. note:: Removing a user from a **Workspace** will not revoke their **Project** level permissions and vice versa. 
 
 
 Manage Workspaces
@@ -794,7 +794,7 @@ Manage Workspaces
 Managing the list of available workspaces is key component of the *Project admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace owners* and granting them appropriate permissions. 
 
 Create a Workspace
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 1. To create a new workspace, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions.
 2. In the upper right corner, you will see a button labelled |create-workspace|.
@@ -803,12 +803,13 @@ Create a Workspace
 5. Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**.
   
 .. image:: media/img/HeRAMS_workspace_create.png
-   	:height: 250px
-   	:alt: create-workspace
-   	:align: center
+   :alt: create workspace
+   :height: 350px
+   :align: center
+   
 
-	
-  .. Note: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.
+.. note:: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.
+
 
 Rename a Workspace
 ~~~~~~~~~~~~~~~~~~
@@ -852,7 +853,7 @@ Create a Dashboard Page
 6. Click the |create-page| button to add the page to the dashboard.
 7. If you return to the previous page, you will see the page appearing in the list of available pages.
 
-  .. note: You only created an empty page. To add elements to your page, see section `Add a New Element to a Page`_.
+.. note:: You only created an empty page. To add elements to your page, see section `Add a New Element to a Page`_.
 
 Modify a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -867,7 +868,7 @@ Delete a Dashboard Page
 1. To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__. 
 2. In the list of available page, use the |delete| icon next to the page you would like to delete.
 
-  .. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages. 
+.. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages. 
 
 Create a Dashboard Element
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -893,12 +894,12 @@ This section covers the steps required to add a new element to an existing dashb
 5. The **Transpose** feature allows to switch between aggregating data at the health facility and the health service level. Set the feature to **No** to display data aggregated at the health facility level.
 6. Now use the **Code** dropdown list to select which field you would like to display on your element.
 
-  .. tip: Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits.
+.. tip:: Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits.
 
 7. Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page.
 8. The **Width** and **Height** fields allow to create a custom-sized element.
 
-  .. tip: For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly.
+.. tip:: For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly.
 
 9. Optionally, the **Title** field allows you to overwrite the default title.
 10. For **Maps & Charts**, The bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you pick custom colors.
@@ -923,7 +924,7 @@ Modify Dashboard Elements
 
 Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard.
 
- .. tip: To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`_.
+.. tip:: To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`_.
    
 1. Open the dashboard and navigate to the element you would like to change.
 2. In the top right corner of the element you would like to change, you should see a |pencil-thin| icon. Right-click the icon to open the element's configuration page.
@@ -949,7 +950,7 @@ Delete Dashboard Elements
 2. In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify.
 3. In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element.
 
-  .. warning:: Be careful when deleting dashboard elements. Deleted elements cannot be restored.
+.. warning:: Be careful when deleting dashboard elements. Deleted elements cannot be restored.
 
 
 FAQ
@@ -1213,12 +1214,6 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :height: 1.3em
    :alt: update-element
    :align: top
-
-.. |update-page| image:: media/img/bt_update_page.png
-   :height: 1.3em
-   :alt: update-page
-   :align: top
-
 
 .. |update-page| image:: media/img/bt_update_page.png
    :height: 1.3em
