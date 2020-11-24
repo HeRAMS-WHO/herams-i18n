@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-23 10:42+0000\n"
-"PO-Revision-Date: 2020-11-09 11:36+0000\n"
+"PO-Revision-Date: 2020-11-24 10:32+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -25,7 +25,6 @@ msgid "Introduction"
 msgstr "Introduction"
 
 #: docs/index.rst:13
-#, fuzzy
 msgid ""
 "Welcome to the **HeRAMS User Guide**. This user guide was designed for users "
 "of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step "
@@ -50,7 +49,6 @@ msgstr ""
 "consulter la section `HeRAMS Administration`_."
 
 #: docs/index.rst:16
-#, fuzzy
 msgid ""
 "It should be noted that this guide only addresses issues related to the "
 "`HeRAMS platform <https://herams.org/>`_. For general information on the "
@@ -64,16 +62,15 @@ msgstr ""
 "user/login>`_ . Pour des informations générales sur l'approche HeRAMS et des "
 "conseils techniques, veuillez consulter la page Web officielle de l’OMS "
 "dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`_. Pour des questions "
-"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter "
-"l’équipe de support HeRAMS en envoyant un courriel à `herams@who.int <mailto:"
-"herams@who.int?>`_."
+"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter l’"
+"équipe de support HeRAMS en envoyant un courriel à `herams@who.int "
+"<mailto:herams@who.int?>`_."
 
 #: docs/index.rst:21
 msgid "Getting started"
 msgstr "Prise en main"
 
 #: docs/index.rst:23
-#, fuzzy
 msgid ""
 "This chapter is intended for new users of the `HeRAMS platform <https://"
 "herams.org/>`_. It covers issues related to `registering <#creating-a-user-"
@@ -111,7 +108,6 @@ msgstr ""
 "Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
 
 #: docs/index.rst:34
-#, fuzzy
 msgid ""
 "In the lower half of the screen you should see an option to register as a "
 "new user. Enter your email address and click the |register-white| button."
@@ -146,7 +142,6 @@ msgstr ""
 "inscription."
 
 #: docs/index.rst:47
-#, fuzzy
 msgid ""
 "If you are not automatically logged-in, please follow the steps below to "
 "login as existing user."
@@ -185,7 +180,6 @@ msgstr ""
 "le bouton |login|."
 
 #: docs/index.rst:68
-#, fuzzy
 msgid "It is strongly recommended to user either FireFox or Chrome."
 msgstr ""
 "Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
@@ -214,32 +208,29 @@ msgstr ""
 "aideront à réinitialiser votre mot de passe."
 
 #: docs/index.rst:82
-#, fuzzy
 msgid ""
 "On the sign in page, click the `Forgot your password <https://herams.org/"
 "user/request-reset>`_ link."
 msgstr ""
-"Sur la page d'ouverture de session, veuillez cliquer sur le lien `reset "
-"password <https://herams.org/user/forgot/>`_ situé en dessous du champs "
-"*Password*."
+"Sur la page d'ouverture de session, veuillez cliquer sur le lien `Forgot "
+"your password <https://herams.org/user/forgot/>`_ ."
 
 #: docs/index.rst:89
-#, fuzzy
 msgid ""
 "Enter your email address in the designated field and click the |request-"
 "password-reset| button."
 msgstr ""
 "Veuillez saisir vos informations d'identification (e-mail et mot de passe) "
-"dans les champs désignés."
+"dans les champs désignés et cliquez sur le bouton |request-password-reset|."
 
 #: docs/index.rst:90
-#, fuzzy
 msgid ""
 "You will receive an email with a password reset link. Click the link in the "
 "email to open the password reset page."
 msgstr ""
-"Un courriel automatique avec un lien pour réinitialiser votre mot de passe "
-"sera envoyé sur votre compte."
+"Vous devez recevoir un courriel avec un lien de réinitialisation du mot de "
+"passe. Cliquez sur le lien contenu dans le courriel pour ouvrir la page de "
+"réinitialisation du mot de passe."
 
 #: docs/index.rst:92
 msgid ""
@@ -254,9 +245,9 @@ msgid "On the page that opens, enter your new password."
 msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
 
 #: docs/index.rst:95
-#, fuzzy
 msgid "Click the |reset-password| button to confirm your new password."
-msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit-en|."
+msgstr ""
+"Confirmez votre nouvel mot de passe en cliquant le bouton |reset-password|."
 
 #: docs/index.rst:96
 msgid ""
@@ -264,13 +255,15 @@ msgid ""
 "platform, return to the `sign in page <https://herams.org>`_ and enter your "
 "credentials."
 msgstr ""
+"VVous avez réussi à modifier votre mot de passe. Pour accéder à la plate-"
+"forme HeRAMS, retournez à la page de connexion <https://herams.org>`_ et "
+"saisissez vos identifiants."
 
 #: docs/index.rst:101
 msgid "Update your User Profile"
 msgstr "Mise à jour du profil utilisateur"
 
 #: docs/index.rst:102
-#, fuzzy
 msgid ""
 "Each user has a profile associated with their account. This permits you to "
 "change your user name, email address or password without requiring "
@@ -291,14 +284,12 @@ msgstr ""
 "droit de la page."
 
 #: docs/index.rst:105
-#, fuzzy
 msgid ""
 "This opens your `user profile <https://herams.org/user/account>`_ and allows "
 "you to change your personal information."
 msgstr ""
-"Cela ouvre votre `profil d'utilisateur <https://herams.org/user/settings/"
-"profile>`_ et vous permet de modifier vos informations personnelles telles "
-"que votre nom, votre organisation et vos coordonnées."
+"Cela ouvre votre `profil d'utilisateur <https://herams.org/user/account>`_ "
+"et vous permet de modifier vos informations personnelles."
 
 #: docs/index.rst:108
 msgid "Change Password"
@@ -314,9 +305,9 @@ msgstr ""
 "l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`_."
 
 #: docs/index.rst:111
-#, fuzzy
 msgid "In the pop-up window that opens, select the **Password**  tab."
-msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
+msgstr ""
+"Dans la page qui s’affiche, veuillez saisir votre nouvel **mot de passe**."
 
 #: docs/index.rst:112
 #, fuzzy
@@ -327,26 +318,23 @@ msgstr ""
 "et entrer un nouveau mot de passe."
 
 #: docs/index.rst:113
-#, fuzzy
 msgid ""
 "Make sure to click the |update-password| button to confirm your changes."
 msgstr ""
-"Assurez-vous de cliquer sur le bouton |submit-en| pour confirmer vos "
+"Assurez-vous de cliquer sur le bouton |update-password| pour confirmer vos "
 "modifications."
 
 #: docs/index.rst:114
-#, fuzzy
 msgid ""
 "To return to the main page, close the pop-up by clicking the **X** in the "
 "top right corner of the pop-up window."
 msgstr ""
-"Pour accorder à un utilisateur l'accès à un espace de travail, ouvrez "
-"l'interface d'administration en cliquant sur l'icône |settings| dans le coin "
-"supérieur droit de l'écran."
+"Pour revenir à la page principale, fermez le pop-up en cliquant sur le **X** "
+"dans le coin supérieur droit de la fenêtre pop-up."
 
 #: docs/index.rst:122
 msgid "Change Language Preference"
-msgstr ""
+msgstr "Changer la langue préférée"
 
 #: docs/index.rst:123
 msgid ""
@@ -358,7 +346,6 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:127
-#, fuzzy
 msgid ""
 "To change your language preference, open your user profile as explained "
 "`above <#update-your-user-profile>`_."
@@ -369,15 +356,15 @@ msgstr ""
 #: docs/index.rst:128
 msgid "In the pop-up window that opens, navigate to the **Profile** tab."
 msgstr ""
+"Dans la fenêtre pop-up qui s'ouvre, naviguez jusqu'à l'onglet **Profil**."
 
 #: docs/index.rst:129
-#, fuzzy
 msgid ""
 "Change the drop-down list to desired language and click the |update-profile| "
 "button."
 msgstr ""
-"Assurez-vous d'enregistrer vos modifications en cliquant sur le bouton |"
-"update-project|."
+"Assurez-vous d'enregistrer vos modifications en cliquant sur le bouton "
+"|update-project|."
 
 #: docs/index.rst:131
 msgid ""
@@ -388,10 +375,9 @@ msgstr ""
 
 #: docs/index.rst:141
 msgid "Change Email Address"
-msgstr ""
+msgstr "Changer d'adresse de courriel"
 
 #: docs/index.rst:142
-#, fuzzy
 msgid ""
 "To change your e-mail address, open your user profile as explained `above "
 "<#update-your-user-profile>`_."
@@ -404,27 +390,35 @@ msgid ""
 "Open the **Email** tab and enter the new email address you would like to use "
 "for your HeRAMS account."
 msgstr ""
+"Veuillez ouvrir l'onglet **Email** et saisissez la nouvelle adresse "
+"électronique que vous souhaitez utiliser pour votre compte HeRAMS."
 
 #: docs/index.rst:144
 msgid ""
 "Click the |send-confirmation| button. This will send a confirmation email to "
 "your new email address."
 msgstr ""
+"Veuillez cliquer sur le bouton |send-confirmation|. Un courriel de "
+"confirmation sera envoyé à votre nouvelle adresse électronique."
 
 #: docs/index.rst:145
 msgid ""
 "Click the link in the confirmation email to validate your new email address."
 msgstr ""
+"Cliquez sur le lien dans le courriel de confirmation pour valider votre "
+"nouvelle adresse électronique."
 
 #: docs/index.rst:148
 msgid "Icons and their Meaning"
-msgstr ""
+msgstr "Les icônes et leur signification"
 
 #: docs/index.rst:149
 msgid ""
 "This section aims to provide an overview of key icons used accross the "
 "platform and explains their meanings."
 msgstr ""
+"Cette section vise à donner un aperçu des principales icônes utilisées sur "
+"la plate-forme et à expliquer leur signification."
 
 #: docs/index.rst:152
 msgid ""
@@ -433,6 +427,11 @@ msgid ""
 "information on how to add workspaces to your `Favorites`_ is available in "
 "the `Contribute data`_ chapter."
 msgstr ""
+"|star-filled| **Favorites** : Cela vous permet de créer une liste "
+"personnelle d'espaces de travail favoris, accessible directement à partir de "
+"la carte du monde. De plus amples informations sur la façon d'ajouter des "
+"espaces de travail à vos `Favoris`_ sont disponibles dans le chapitre `"
+"Contribuer aux données`_."
 
 #: docs/index.rst:153
 msgid ""
@@ -440,13 +439,18 @@ msgid ""
 "interface. Additional information on the HeRAMS admin interface is available "
 "in the `HeRAMS administration`_ chapter."
 msgstr ""
+"|settings| **Paramètres** : Utilisez ce bouton pour accéder à l'interface "
+"d'administration de HeRAMS. Des informations supplémentaires sur l'interface "
+"d'administration HeRAMS sont disponibles dans le chapitre \"Administration "
+"HeRAMS\"."
 
 #: docs/index.rst:154
 msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
+"|user-guide| **Guide de l'utilisateur**: Affiche le **Guide de l'utilisateur "
+"de HeRAMS**."
 
 #: docs/index.rst:155
-#, fuzzy
 msgid ""
 "|workspace| **Workspaces**: This opens the list of workspaces belonging to a "
 "project. See `here <#workspaces>`__ for more information on workspaces."
@@ -456,7 +460,6 @@ msgstr ""
 "pour plus d'informations sur les espaces de travail."
 
 #: docs/index.rst:156
-#, fuzzy
 msgid "|dashboard| **Dashboard**: Opens the `Project dashboard`_."
 msgstr ""
 "|dashboard| **Tableau de bord** : En cliquant sur l'icône du tableau de "
@@ -465,20 +468,22 @@ msgstr ""
 #: docs/index.rst:157
 msgid "|view| **View**: Grants you view access to a specific item or record."
 msgstr ""
+"|view| **View** : Permet de voir un élément ou à un enregistrement "
+"spécifique."
 
 #: docs/index.rst:158
-#, fuzzy
 msgid ""
 "|pencil| **Edit**: Opens the data edit interface. More information on data "
 "editing and updating is available `here <#edit-date>`__."
 msgstr ""
-"|pencil-black| **Mise à jour des données** : L'interface d'édition des "
-"données s'ouvre. Pour plus d'informations sur l'édition et la mise à jour "
-"des données, cliquez `ici <#edit-date>`__."
+"|pencil| **Éditer** : L'interface d'édition des données s'ouvre. Pour plus "
+"d'informations sur l'édition et la mise à jour des données, cliquez `ici "
+"<#edit-date>`__."
 
 #: docs/index.rst:159
 msgid "|delete| **Delete**: Deletes a specific item or record."
 msgstr ""
+"|delete| **Supprimer** : Supprime un élément ou un enregistrement spécifique."
 
 #: docs/index.rst:160
 #, fuzzy
