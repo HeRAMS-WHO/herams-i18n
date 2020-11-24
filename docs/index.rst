@@ -20,7 +20,7 @@ For general information on the HeRAMS approach and for technical guidance please
 Getting started
 ===============
 
-This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `Breadcrumbs`_ as an efficient way to navigate the platform. 
+This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform. 
 
 
 Creating a User Account
@@ -152,10 +152,10 @@ This section aims to provide an overview of key icons used accross the platform 
 * |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter.
 * |settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter.
 * |user-guide| **User guide**: Opens the **HeRAMS User Guide**.
-* |workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`__ for more information on workspaces. 
+* |workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`_ for more information on workspaces. 
 * |dashboard| **Dashboard**: Opens the `Project dashboard`_.
 * |view| **View**: Grants you view access to a specific item or record. 
-* |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#edit-date>`__.
+* |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`_.
 * |delete| **Delete**: Deletes a specific item or record. 
 * |refresh| **Refresh data cache**: This button allows you to manually refresh a workspace's data cache. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh the data in your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database.
 * |download| **Download data**: Opens the data export interface, permitting users to export data for further analysis in external applications. See `Download data`_ for more information.
@@ -179,7 +179,7 @@ provide a simple way to access previous pages. In the example below, clicking on
 View a Project
 ==============
 
-This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce indepth alayses for specific areas and indicators of interest. 
+This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce in-depth anlayses for specific areas and indicators of interest. 
 
 
 Project Overview
@@ -289,7 +289,7 @@ Dashboards can be printed or exported as PDF document.
    :height: 300px
    :align: center
 
-3. This will open a new tab containing a printable version of the dashboard. Click `CTRL`+ `P` to print the dashboard or save it as a pdf. 
+3. This will open a new tab containing a printable version of the dashboard. Click *CTRL*+ *P* to print the dashboard or save it as a pdf. 
 
 Default dashboard pages
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -474,7 +474,7 @@ To simplify navigation, it is recommended that you add frequently accessed works
 Edit a Health Facility Response
 -----------------------------
 
-.. Caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add_a_response_to_a_health_facility_record>`__.
+.. Caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add-a-response-to-a-health-facility-record>`_.
 
 1. Open the data update interface as outlined `above <#access-the-data-update-interface>`__.
 2. To ease navigation, records are grouped by health facility. To edit a specific response, you first have to expand the health facility by clicking anywhere in the corresponding row.
@@ -585,7 +585,7 @@ Follow the instructions below to download data for your workspace. If you requir
 
 .. note:: For large data sets, exporting data in Excel takes substantially longer than exporting as **CSV** format.  
 
-.. tip:: To avoid encoding issues, it is recommended that you download your data as Excel file if you select a language other than English. For more information of encoding of **CSV** files for use in Excel, see  `Data Encoding in Excel`_ .
+.. tip:: To avoid encoding issues, it is recommended that you download your data as Excel file if you select a language other than English. For more information of encoding of **CSV** files for use in Excel, see `Data Encoding in Excel`_.
 
 Download the Entire Data Set
 ----------------------------
@@ -863,13 +863,13 @@ Modify a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
 1. To modify an existing page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__.  
-2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `Create a Dashboard Element`_ for more information on how to add dashboard elements to your page.
+2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `create a dashboard element`_ for more information on how to add dashboard elements to your page.
 3. Save your changes by clicking the |update-page| button.
 
 Delete a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~
 
-1. To permanently delete a page, access the list of existing pages as detailed above `<#create-a-dashboard-page>`__. 
+1. To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__. 
 2. In the list of available page, use the |delete| icon next to the page you would like to delete.
 
   .. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages. 
@@ -877,9 +877,9 @@ Delete a Dashboard Page
 Create a Dashboard Element
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `Create a Dashboard Page`_ for further information.
+This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `create a dashboard page`_ for further information.
 
-1. To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`__ section.  
+1. To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`_ section.  
 2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. 
 3. On the right side of the page you should see a list of available dashboard elements. Above this list, you have three buttons |create-elements|. Select the type of element you would like to add by clicking the corresponding button.
 
