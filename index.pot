@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-24 14:50+0000\n"
+"POT-Creation-Date: 2020-11-24 15:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -271,6 +271,10 @@ msgstr ""
 
 #: docs/index.rst:163
 msgid "|share-icon| **Share workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_"
+msgstr ""
+
+#: docs/index.rst:166
+msgid "The number of buttons visible to you depends on your `user role<#user-roles>` and might vary from one workspace/project to another."
 msgstr ""
 
 #: docs/index.rst:169
@@ -974,7 +978,7 @@ msgid "This chapter provides an overview of the admin pages in HeRAMS and offers
 msgstr ""
 
 #: docs/index.rst:628
-msgid "Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered."
+msgid "Access to different parts of the admin interface depends on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered."
 msgstr ""
 
 #: docs/index.rst:631
@@ -1003,6 +1007,10 @@ msgstr ""
 
 #: docs/index.rst:644
 msgid "**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used sparingly."
+msgstr ""
+
+#: docs/index.rst:646
+msgid "Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **Manage users** is not able to grant access to edit data to other users."
 msgstr ""
 
 #: docs/index.rst:648
@@ -1035,6 +1043,10 @@ msgstr ""
 
 #: docs/index.rst:664
 msgid "**Manage workspaces**: Grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace."
+msgstr ""
+
+#: docs/index.rst:666
+msgid "*Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces."
 msgstr ""
 
 #: docs/index.rst:668
@@ -1073,6 +1085,10 @@ msgstr ""
 msgid "**Project viewer:** The role of *project viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces."
 msgstr ""
 
+#: docs/index.rst:694
+msgid "If a project is set to **private** or **closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses."
+msgstr ""
+
 #: docs/index.rst:698
 msgid "Mapping User Roles to Permissions"
 msgstr ""
@@ -1097,6 +1113,10 @@ msgstr ""
 msgid "Under special circumstance a *project admin* might grant a *workspace owner* admin permission to a workspace, allowing the *workspace owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary."
 msgstr ""
 
+#: docs/index.rst:735
+msgid "While *workspace owners* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it."
+msgstr ""
+
 #: docs/index.rst:740
 msgid "Add a User"
 msgstr ""
@@ -1115,6 +1135,10 @@ msgstr ""
 
 #: docs/index.rst:748
 msgid "You should now see a page similar to the image below. On the bottom half of the page, you can see a list of all users currently having access to the workspace including their permission level. In the top half of the page, you have the option to add a new user. Start typing the user’s name in the top field. You will notice that the list of available users dynamically filters as you are typing. Select the user you would like to add."
+msgstr ""
+
+#: docs/index.rst:755
+msgid "You can add multiple users add once as shown in the image above."
 msgstr ""
 
 #: docs/index.rst:759
@@ -1154,6 +1178,10 @@ msgstr ""
 msgid "To remove a user change all permissions to **Denied**. Upon reloading the page, you will see that the user has disappeared from the list."
 msgstr ""
 
+#: docs/index.rst:789
+msgid "Removing a user from a **Workspace** will not revoke their **Project** level permissions and vice versa."
+msgstr ""
+
 #: docs/index.rst:793
 msgid "Manage Workspaces"
 msgstr ""
@@ -1186,347 +1214,367 @@ msgstr ""
 msgid "Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**."
 msgstr ""
 
-#: docs/index.rst:814
+#: docs/index.rst:811
+msgid "Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token."
+msgstr ""
+
+#: docs/index.rst:815
 msgid "Rename a Workspace"
 msgstr ""
 
-#: docs/index.rst:816
+#: docs/index.rst:817
 msgid "To rename a workspace, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions."
 msgstr ""
 
-#: docs/index.rst:817
+#: docs/index.rst:818
 msgid "Open the *Workspace settings* by click the |pencil-thin| icon next to your workspace's name."
 msgstr ""
 
-#: docs/index.rst:818
+#: docs/index.rst:819
 msgid "You should now be able to modfiy the Title of your workspace."
 msgstr ""
 
-#: docs/index.rst:823
+#: docs/index.rst:824
 msgid "Delete a Workspace"
 msgstr ""
 
-#: docs/index.rst:825
+#: docs/index.rst:826
 msgid "To remove a workspace from the list of workspaces, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions."
 msgstr ""
 
-#: docs/index.rst:826
+#: docs/index.rst:827
 msgid "You can now remove a workspace by clicking the |delete| icon in the **Actions** column next to the selected workspace."
 msgstr ""
 
-#: docs/index.rst:830
+#: docs/index.rst:831
 msgid "Configure the Project dashboard"
 msgstr ""
 
-#: docs/index.rst:832
+#: docs/index.rst:833
 msgid "For each HeRAMS Project, an interactive dashboard can be configured providing summarizing key indicators and findings of a project. This section provides project administrators with a detailed description on how to edit these dashboards. An overview of the standard dashboard pages is available `here <#default-dashboard-pages>`__."
 msgstr ""
 
-#: docs/index.rst:835
+#: docs/index.rst:836
 msgid "Create a Dashboard Page"
 msgstr ""
 
-#: docs/index.rst:837
+#: docs/index.rst:838
 msgid "To add a new page to a dashboard, open the admin interface by clicking the |settings| icon in the top right corner of the screen."
 msgstr ""
 
-#: docs/index.rst:838
+#: docs/index.rst:839
 msgid "In the navigation pane on the left, click **Projects** . This will open a overview table of all ongoing Projects in HeRAMS."
 msgstr ""
 
-#: docs/index.rst:839
+#: docs/index.rst:840
 msgid "In the rightmost column of the table, you should see several Action buttons. Click the |modify-dashboard| icon."
 msgstr ""
 
-#: docs/index.rst:840
+#: docs/index.rst:841
 msgid "You should now see a page displaying the list of existing dashboard pages. To add a new page click the |create-page| button."
 msgstr ""
 
-#: docs/index.rst:842
-#: docs/index.rst:886
+#: docs/index.rst:843
+#: docs/index.rst:887
 msgid "You should now see a page similar to the one displayed below."
 msgstr ""
 
-#: docs/index.rst:849
+#: docs/index.rst:850
 msgid "Enter the page name in the top field. It is recommended to select an item from the drop-down list. This will assure the page title is automatically translated into other languages."
 msgstr ""
 
-#: docs/index.rst:850
+#: docs/index.rst:851
 msgid "If you are adding a sub-page to an existing page, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**."
 msgstr ""
 
-#: docs/index.rst:851
+#: docs/index.rst:852
 msgid "Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page."
 msgstr ""
 
-#: docs/index.rst:852
+#: docs/index.rst:853
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr ""
 
-#: docs/index.rst:853
+#: docs/index.rst:854
 msgid "If you return to the previous page, you will see the page appearing in the list of available pages."
 msgstr ""
 
-#: docs/index.rst:858
+#: docs/index.rst:856
+msgid "You only created an empty page. To add elements to your page, see section `Add a New Element to a Page`_."
+msgstr ""
+
+#: docs/index.rst:859
 msgid "Modify a Dashboard Page"
 msgstr ""
 
-#: docs/index.rst:860
+#: docs/index.rst:861
 msgid "To modify an existing page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:861
+#: docs/index.rst:862
 msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `create a dashboard element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
 
-#: docs/index.rst:862
+#: docs/index.rst:863
 msgid "Save your changes by clicking the |update-page| button."
 msgstr ""
 
-#: docs/index.rst:865
+#: docs/index.rst:866
 msgid "Delete a Dashboard Page"
 msgstr ""
 
-#: docs/index.rst:867
+#: docs/index.rst:868
 msgid "To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:868
+#: docs/index.rst:869
 msgid "In the list of available page, use the |delete| icon next to the page you would like to delete."
 msgstr ""
 
-#: docs/index.rst:870
+#: docs/index.rst:871
 msgid "Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages."
 msgstr ""
 
-#: docs/index.rst:873
+#: docs/index.rst:874
 msgid "Create a Dashboard Element"
 msgstr ""
 
-#: docs/index.rst:875
+#: docs/index.rst:876
 msgid "This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `create a dashboard page`_ for further information."
 msgstr ""
 
-#: docs/index.rst:877
+#: docs/index.rst:878
 msgid "To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
 
-#: docs/index.rst:878
+#: docs/index.rst:879
 msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings."
 msgstr ""
 
-#: docs/index.rst:879
+#: docs/index.rst:880
 msgid "On the right side of the page you should see a list of available dashboard elements. Above this list, you have three buttons |create-elements|. Select the type of element you would like to add by clicking the corresponding button."
 msgstr ""
 
-#: docs/index.rst:893
+#: docs/index.rst:894
 msgid "The **Transpose** feature allows to switch between aggregating data at the health facility and the health service level. Set the feature to **No** to display data aggregated at the health facility level."
 msgstr ""
 
-#: docs/index.rst:894
+#: docs/index.rst:895
 msgid "Now use the **Code** dropdown list to select which field you would like to display on your element."
 msgstr ""
 
-#: docs/index.rst:898
-msgid "Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page."
+#: docs/index.rst:897
+msgid "Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits."
 msgstr ""
 
 #: docs/index.rst:899
+msgid "Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page."
+msgstr ""
+
+#: docs/index.rst:900
 msgid "The **Width** and **Height** fields allow to create a custom-sized element."
 msgstr ""
 
-#: docs/index.rst:903
-msgid "Optionally, the **Title** field allows you to overwrite the default title."
+#: docs/index.rst:902
+msgid "For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly."
 msgstr ""
 
 #: docs/index.rst:904
-msgid "For **Maps & Charts**, The bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you pick custom colors."
+msgid "Optionally, the **Title** field allows you to overwrite the default title."
 msgstr ""
 
 #: docs/index.rst:905
+msgid "For **Maps & Charts**, The bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you pick custom colors."
+msgstr ""
+
+#: docs/index.rst:906
 msgid "For **Maps**, you can further specify the size of the dots by increasing/decreasing the  **Marker Radius**."
 msgstr ""
 
-#: docs/index.rst:912
+#: docs/index.rst:913
 msgid "For **tables**, two additional fields will be displayed to specify the **Reason Code** and **Group Code**."
 msgstr ""
 
-#: docs/index.rst:919
+#: docs/index.rst:920
 msgid "Finally, click the |create-element-blue| button to add the element to the dashboard page."
 msgstr ""
 
-#: docs/index.rst:922
+#: docs/index.rst:923
 msgid "Modify Dashboard Elements"
 msgstr ""
 
-#: docs/index.rst:924
+#: docs/index.rst:925
 msgid "Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard."
 msgstr ""
 
-#: docs/index.rst:928
-msgid "Open the dashboard and navigate to the element you would like to change."
+#: docs/index.rst:927
+msgid "To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`_."
 msgstr ""
 
 #: docs/index.rst:929
-msgid "In the top right corner of the element you would like to change, you should see a |pencil-thin| icon. Right-click the icon to open the element's configuration page."
+msgid "Open the dashboard and navigate to the element you would like to change."
 msgstr ""
 
 #: docs/index.rst:930
+msgid "In the top right corner of the element you would like to change, you should see a |pencil-thin| icon. Right-click the icon to open the element's configuration page."
+msgstr ""
+
+#: docs/index.rst:931
 msgid "You should now be able:"
 msgstr ""
 
-#: docs/index.rst:932
+#: docs/index.rst:933
 msgid "to change the variables displayed;"
 msgstr ""
 
-#: docs/index.rst:933
+#: docs/index.rst:934
 msgid "to change the colors of a map or a chart; and"
 msgstr ""
 
-#: docs/index.rst:934
+#: docs/index.rst:935
 msgid "to rename the element."
 msgstr ""
 
-#: docs/index.rst:938
+#: docs/index.rst:939
 msgid "Save your changes by clicking the |update-element| button."
 msgstr ""
 
-#: docs/index.rst:946
+#: docs/index.rst:947
 msgid "Delete Dashboard Elements"
 msgstr ""
 
-#: docs/index.rst:948
+#: docs/index.rst:949
 msgid "Access the list of exisitng dashboard elements as described `here <#create-a-dashboard-element>`__."
 msgstr ""
 
-#: docs/index.rst:949
+#: docs/index.rst:950
 msgid "In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify."
 msgstr ""
 
-#: docs/index.rst:950
+#: docs/index.rst:951
 msgid "In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element."
 msgstr ""
 
-#: docs/index.rst:952
+#: docs/index.rst:953
 msgid "Be careful when deleting dashboard elements. Deleted elements cannot be restored."
 msgstr ""
 
-#: docs/index.rst:956
+#: docs/index.rst:957
 msgid "FAQ"
 msgstr ""
 
-#: docs/index.rst:958
+#: docs/index.rst:959
 msgid "This section aims to help users troubleshoot frequently encountered issues. In case you encounter an issue that is not addressed here, please contact your country administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
 
-#: docs/index.rst:960
+#: docs/index.rst:961
 msgid "`General`_"
 msgstr ""
 
-#: docs/index.rst:962
+#: docs/index.rst:963
 msgid "`Confirmation email not received`_"
 msgstr ""
 
-#: docs/index.rst:963
+#: docs/index.rst:964
 msgid "`How to reset your password?`_"
 msgstr ""
 
-#: docs/index.rst:965
+#: docs/index.rst:966
 msgid "`View a project/dashboard`_"
 msgstr ""
 
-#: docs/index.rst:967
+#: docs/index.rst:968
 msgid "`Can't access a project dashboard`_"
 msgstr ""
 
-#: docs/index.rst:968
+#: docs/index.rst:969
 msgid "`Who has access to your project?`_"
 msgstr ""
 
-#: docs/index.rst:970
+#: docs/index.rst:971
 msgid "`Data editing & downloading`_"
 msgstr ""
 
-#: docs/index.rst:972
+#: docs/index.rst:973
 msgid "`Data updates don't appear on the dashboard`_"
 msgstr ""
 
-#: docs/index.rst:973
+#: docs/index.rst:974
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr ""
 
-#: docs/index.rst:977
+#: docs/index.rst:978
 msgid "General"
 msgstr ""
 
-#: docs/index.rst:980
+#: docs/index.rst:981
 msgid "Confirmation email not received"
 msgstr ""
 
-#: docs/index.rst:982
+#: docs/index.rst:983
 msgid "If you did not receive an email upon registering or resetting your password, follow the steps below to troubleshoot the issue."
 msgstr ""
 
-#: docs/index.rst:984
+#: docs/index.rst:985
 msgid "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
 
-#: docs/index.rst:985
+#: docs/index.rst:986
 msgid "Check your spam/junk folder."
 msgstr ""
 
-#: docs/index.rst:986
+#: docs/index.rst:987
 msgid "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
 
-#: docs/index.rst:987
+#: docs/index.rst:988
 msgid "If the above steps did not solve your issue, please contact your system administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
 
-#: docs/index.rst:990
+#: docs/index.rst:991
 msgid "How to reset your password?"
 msgstr ""
 
-#: docs/index.rst:992
+#: docs/index.rst:993
 msgid "If you forgot your password, follow the instructions provided `here <#reset-password>`__ to reset your password."
 msgstr ""
 
-#: docs/index.rst:995
+#: docs/index.rst:996
 msgid "View a project/dashboard"
 msgstr ""
 
-#: docs/index.rst:998
+#: docs/index.rst:999
 msgid "Can't access a project dashboard"
 msgstr ""
 
-#: docs/index.rst:1000
+#: docs/index.rst:1001
 msgid "For data protection reasons, access to the project dashboards is only granted upon request. If you require access to a project, please contact your country focal point or send an email to `hearms@who.int <mailto:herams@who.int?>`_, specifying why you require access to the project."
 msgstr ""
 
-#: docs/index.rst:1003
+#: docs/index.rst:1004
 msgid "Who has access to your project?"
 msgstr ""
 
-#: docs/index.rst:1005
+#: docs/index.rst:1006
 msgid "In-country administrators and users responsible for a project or workspace can verify the list of users having access to the project and/or workspace as well as their permission levels. See `Add a User`_ for more information on granting users access to a *Project* or *Workspace*."
 msgstr ""
 
-#: docs/index.rst:1010
+#: docs/index.rst:1011
 msgid "Data editing & downloading"
 msgstr ""
 
-#: docs/index.rst:1013
+#: docs/index.rst:1014
 msgid "Data updates don't appear on the dashboard"
 msgstr ""
 
-#: docs/index.rst:1015
+#: docs/index.rst:1016
 msgid "It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and their Meaning`_."
 msgstr ""
 
-#: docs/index.rst:1018
+#: docs/index.rst:1019
 msgid "Exported data is unreadable / contains strange characters"
 msgstr ""
 
-#: docs/index.rst:1020
+#: docs/index.rst:1021
 msgid "If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not displaying correctly, resulting in unreadable text. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct encoding type to read your data. To correct the issue, follow the instruction outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
