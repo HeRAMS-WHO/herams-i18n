@@ -20,7 +20,7 @@ For general information on the HeRAMS approach and for technical guidance please
 Getting started
 ===============
 
-This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform. 
+This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform. 
 
 
 Creating a User Account
@@ -102,7 +102,7 @@ Update your User Profile
 Each user has a profile associated with their account. This permits you to change your user name, email address or password without requiring additional support.
 
 1. To update your user profile, click your username shown on the top right corner of the page.
-2. This opens your `user profile <https://herams.org/user/account>`_ and allows you to change your personal information.
+2. This opens your `user profile <https://herams.org/user/account>`__ and allows you to change your personal information.
 
 Change Password
 ---------------
@@ -152,10 +152,10 @@ This section aims to provide an overview of key icons used accross the platform 
 * |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter.
 * |settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter.
 * |user-guide| **User guide**: Opens the **HeRAMS User Guide**.
-* |workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`_ for more information on workspaces. 
+* |workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#access-your-workspace>`__ for more information on workspaces. 
 * |dashboard| **Dashboard**: Opens the `Project dashboard`_.
 * |view| **View**: Grants you view access to a specific item or record. 
-* |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`_.
+* |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`__.
 * |delete| **Delete**: Deletes a specific item or record. 
 * |refresh| **Refresh data cache**: This button allows you to manually refresh a workspace's data cache. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh the data in your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database.
 * |download| **Download data**: Opens the data export interface, permitting users to export data for further analysis in external applications. See `Download data`_ for more information.
@@ -472,7 +472,7 @@ To simplify navigation, it is recommended that you add frequently accessed works
 
 
 Edit a Health Facility Response
------------------------------
+-------------------------------
 
 .. Caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add-a-response-to-a-health-facility-record>`_.
 
@@ -545,10 +545,10 @@ Register a New Health Facility
 
 .. note:: While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button.
 
-Remove a Response from Health Facility 
--------------------------------------
+Remove a Response from Health Facility
+--------------------------------------
 
-1. To delete a response from a health facility, open the `data update interface <#access-the-data-update-interface>`__ and click the health facility record from which you would like to remove a response.
+1. To delete a response from a health facility, open the `data update interface <#access-the-data-update-interface>`_ and click the health facility record from which you would like to remove a response.
 2. You should now see the history of response to the selected record. To remove a specific response, click the |delete| icon in the first column
 3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted.
 
@@ -596,7 +596,7 @@ Project administrators or users with special permissions can export the entire p
 1. Open the admin interface by clicking the |settings| icon in the top right corner of the screen.
 2. In the navigation pane on the left, click `Projects <https://herams.org/project/index>`_ . This will open a overview table of all ongoing HeRAMS projects. 
 3. In the rightmost column of the table, you should see several **Action** buttons. Click the |download| icon. This will open  the download settings. 
-4. You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`_.
+4. You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`__.
 
 Data Encoding in Excel
 ----------------------
@@ -759,25 +759,24 @@ Add a User
 5. Use the checkboxes to select the appropriate permission level. See `Access your workspace`_ or `Project Permissions`_ for further details on workspace permissions.
 
 6. Click the |share-button| button to grant users the desired permissions.
-
-
+   
 .. image:: media/vid/HeRAMS_workspace_share.gif
-    :height: 300px
-	:alt: share-workspace
-	:align: center
+   :height: 300px
+   :alt: share-workspace
+   :align: center
 	
 	
 Change a User's Workspace Permission
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Follow the instructions outlined  `above <#add-a-user>`__ to open the user management interface of your workspace or project. 
+1. Follow the instructions outlined  `above <#add-a-user>`_ to open the user management interface of your workspace or project. 
 2. On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions.
 3. You can change a users permission by flipping the corresponding switch button to **Allowed** or **Denied**. 
 
 .. image:: media/vid/HeRAMS_change_permissions.gif
-    :height: 300px
-	:alt: change-permissions
-	:align: center
+   :height: 300px
+   :alt: change permissions
+   :align: center
 	
 	
 Remove a User from a Workspace
@@ -786,11 +785,6 @@ Remove a User from a Workspace
 1. Open the user management interface of your *Workspace* or *Project*. See `here <#add-a-user>`__ for more details on how to access the user management interface. 
 2. On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions.
 3. To remove a user change all permissions to **Denied**. Upon reloading the page, you will see that the user has disappeared from the list.  
-
-.. image:: media/vid/HeRAMS_remove_user.gif
-    :height: 300px
-	:alt: remove-user
-	:align: center
 
 .. Note: Removing a user from a **Workspace** will not revoke their **Project** level permissions and vice versa. 
 
@@ -808,15 +802,15 @@ Create a Workspace
 4. Enter the workspace's name into the title field.
 5. Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**.
   
-  .. image:: media/img/HeRAMS_workspace_create.png
-     :height: 250px
-     :alt: create-workspace
-     :align: center
+.. image:: media/img/HeRAMS_workspace_create.png
+   :height: 250px
+   :alt: create-workspace
+   :align: center
      
   .. Note: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.
 
 Rename a Workspace
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 1. To rename a workspace, access the workspace page of your project. See `Access your workspace`_ for more detailed instructions. 
 2. Open the *Workspace settings* by click the |pencil-thin| icon next to your workspace's name.
@@ -950,7 +944,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 Delete Dashboard Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Access the list of exisitng dashboard elements as described `here <#create-a-dashboard-element>`.
+1. Access the list of exisitng dashboard elements as described `here <#create-a-dashboard-element>`__.
 2. In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify.
 3. In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element.
 
