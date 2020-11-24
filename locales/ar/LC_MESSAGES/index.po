@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-24 13:38+0000\n"
+"POT-Creation-Date: 2020-11-24 14:33+0000\n"
 "PO-Revision-Date: 2020-10-12 17:20+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
@@ -72,7 +72,7 @@ msgid ""
 "This chapter is intended for new users of the `HeRAMS platform <https://"
 "herams.org/>`_. It covers issues related to `registering <#creating-a-user-"
 "account>`_ and `accessing <#logging-in>`_ the platform as well as managing "
-"your `user profile <#update-your-user-profile>`_. To help you navigate the "
+"your `user profile <#update-your-user-profile>`__. To help you navigate the "
 "platform on your own, the last part of this chapter provides an overview of "
 "`recurring icons <#icons-and-their-meanings>`_ used across the platform and "
 "introduces `breadcrumbs`_ as an efficient way to navigate the platform."
@@ -258,8 +258,8 @@ msgstr ""
 #: docs/index.rst:105
 #, fuzzy
 msgid ""
-"This opens your `user profile <https://herams.org/user/account>`_ and allows "
-"you to change your personal information."
+"This opens your `user profile <https://herams.org/user/account>`__ and "
+"allows you to change your personal information."
 msgstr ""
 "يفتح هذا ملف ` تعريف المستخدم الخاص `بك <https://herams.org/user/settings/"
 "profile>`_ ويسمح لك بتغيير معلوماتك الشخصية مثل اسمك ومؤسستك وتفاصيل الاتصال "
@@ -409,7 +409,8 @@ msgstr ""
 #, fuzzy
 msgid ""
 "|workspace| **Workspaces**: This opens the list of workspaces belonging to a "
-"project. See `here <#workspaces>`_ for more information on workspaces."
+"project. See `here <#access-your-workspace>`__ for more information on "
+"workspaces."
 msgstr ""
 "|workspace| **مساحات العمل**: تفتح  قائمة بجميع مساحات العمل المتاحة "
 "للمشروع. انظر `هنا <#workspaces>`__  للحصول على مزيد من المعلومات حول مساحات "
@@ -430,7 +431,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "|pencil| **Edit**: Opens the data edit interface. More information on data "
-"editing and updating is available `here <#contribute-data>`_."
+"editing and updating is available `here <#contribute-data>`__."
 msgstr ""
 "|pencil-black| **تحديث البيانات**: هذا يفتح واجهة تحرير البيانات. تتوفر "
 "المزيد من المعلومات حول تحرير البيانات وتحديثها `هنا <#edit-date>`__."
@@ -1482,11 +1483,14 @@ msgid "Remove a Response from Health Facility"
 msgstr "تسجيل مرفق صحي جديد"
 
 #: docs/index.rst:551
+#, fuzzy
 msgid ""
 "To delete a response from a health facility, open the `data update interface "
-"<#access-the-data-update-interface>`__ and click the health facility record "
+"<#access-the-data-update-interface>`_ and click the health facility record "
 "from which you would like to remove a response."
 msgstr ""
+"افتح واجهة تحديث البيانات كما هو موضح `أعلاه <#access-the-data-update-"
+"interface>`__."
 
 #: docs/index.rst:552
 #, fuzzy
@@ -1683,7 +1687,7 @@ msgstr ""
 #: docs/index.rst:599
 msgid ""
 "You should now be able to customize your export as outlined in the previous "
-"section `here <#download-workspace-data>`_."
+"section `here <#download-workspace-data>`__."
 msgstr ""
 
 #: docs/index.rst:602
@@ -2052,17 +2056,17 @@ msgstr ""
 "انقر فوق زر |share-button| لمشاركة مساحة العمل مع المستخدم (المستخدمين) "
 "المحدد."
 
-#: docs/index.rst:771
+#: docs/index.rst:770
 msgid "Change a User's Workspace Permission"
 msgstr "تغيير صلاحية المستخدم لمساحة العمل"
 
-#: docs/index.rst:773
+#: docs/index.rst:772
 msgid ""
-"Follow the instructions outlined  `above <#add-a-user>`__ to open the user "
+"Follow the instructions outlined  `above <#add-a-user>`_ to open the user "
 "management interface of your workspace or project."
 msgstr ""
 
-#: docs/index.rst:774 docs/index.rst:787
+#: docs/index.rst:773 docs/index.rst:786
 #, fuzzy
 msgid ""
 "On the second half of the page you will see a list of all users having "
@@ -2071,35 +2075,35 @@ msgstr ""
 "في النصف الثاني من الصفحة، سترى قائمة بجميع المستخدمين الذين لديهم حق الوصول "
 "إلى مساحة العمل. انقر فوق زر |delete-black| لحذف المستخدم بشكل دائم."
 
-#: docs/index.rst:775
+#: docs/index.rst:774
 msgid ""
 "You can change a users permission by flipping the corresponding switch "
 "button to **Allowed** or **Denied**."
 msgstr ""
 
-#: docs/index.rst:784
+#: docs/index.rst:783
 msgid "Remove a User from a Workspace"
 msgstr "إزالة مستخدم من مساحة العمل"
 
-#: docs/index.rst:786
+#: docs/index.rst:785
 msgid ""
 "Open the user management interface of your *Workspace* or *Project*. See "
 "`here <#add-a-user>`__ for more details on how to access the user management "
 "interface."
 msgstr ""
 
-#: docs/index.rst:788
+#: docs/index.rst:787
 msgid ""
 "To remove a user change all permissions to **Denied**. Upon reloading the "
 "page, you will see that the user has disappeared from the list."
 msgstr ""
 
-#: docs/index.rst:799
+#: docs/index.rst:793
 #, fuzzy
 msgid "Manage Workspaces"
 msgstr "مساحات العمل"
 
-#: docs/index.rst:800
+#: docs/index.rst:794
 msgid ""
 "Managing the list of available workspaces is key component of the *Project "
 "admin's* role. In addition to being able to create, edit or delete "
@@ -2107,12 +2111,12 @@ msgid ""
 "and granting them appropriate permissions."
 msgstr ""
 
-#: docs/index.rst:803
+#: docs/index.rst:797
 #, fuzzy
 msgid "Create a Workspace"
 msgstr "إنشاء مساحة عمل جديدة"
 
-#: docs/index.rst:805
+#: docs/index.rst:799
 #, fuzzy
 msgid ""
 "To create a new workspace, access the workspace page of your project. See "
@@ -2122,24 +2126,24 @@ msgstr ""
 "(اتبع الخطوات من 1 إلى 5 الموضحة `أعلاه <#add-a-user-to-a-workspace>`__ "
 "للوصول إلى مساحة العمل)."
 
-#: docs/index.rst:806
+#: docs/index.rst:800
 #, fuzzy
 msgid ""
 "In the upper right corner, you will see a button labelled |create-workspace|."
 msgstr "في الزاوية العلوية اليسرى ، سترى زرًا بعنوان |create-workspace|."
 
-#: docs/index.rst:807
+#: docs/index.rst:801
 #, fuzzy
 msgid ""
 "You will be directed to a page where you will be able to create a new "
 "workspace."
 msgstr "على الصفحة التي تفتح، ستتمكن الآن من إنشاء مساحة عمل جديدة."
 
-#: docs/index.rst:808
+#: docs/index.rst:802
 msgid "Enter the workspace's name into the title field."
 msgstr "أدخل اسم مساحة العمل في حقل العنوان."
 
-#: docs/index.rst:809
+#: docs/index.rst:803
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a new "
 "token by selecting **Create new token**."
@@ -2147,12 +2151,12 @@ msgstr ""
 "استخدم القائمة المنسدلة لتحديد الرمز المميز **Token** أو إنشاء رمز مميز جديد "
 "عن طريق تحديد إنشاء رمز مميز جديد **Create new token**."
 
-#: docs/index.rst:819
+#: docs/index.rst:813
 #, fuzzy
 msgid "Rename a Workspace"
 msgstr "حذف مساحة العمل"
 
-#: docs/index.rst:821
+#: docs/index.rst:815
 #, fuzzy
 msgid ""
 "To rename a workspace, access the workspace page of your project. See "
@@ -2161,7 +2165,7 @@ msgstr ""
 "انتقل إلى صفحة مساحة العمل في مشروعك (`راجع الوصول إلى واجهة تحديث "
 "البيانات`_ - الخطوات من 1 إلى 4 للحصول على إرشادات مفصلة)."
 
-#: docs/index.rst:822
+#: docs/index.rst:816
 #, fuzzy
 msgid ""
 "Open the *Workspace settings* by click the |pencil-thin| icon next to your "
@@ -2169,18 +2173,18 @@ msgid ""
 msgstr ""
 "افتح الصفحة التي ترغب في تعديلها باستخدام زر |pencil-thin| بجانب اسم الصفحة."
 
-#: docs/index.rst:823
+#: docs/index.rst:817
 #, fuzzy
 msgid "You should now be able to modfiy the Title of your workspace."
 msgstr ""
 "ستتمكن الآن من رؤية جدولًا يحتوي على جميع المرافق الصحية في مساحة العمل "
 "المحددة."
 
-#: docs/index.rst:828
+#: docs/index.rst:822
 msgid "Delete a Workspace"
 msgstr "حذف مساحة العمل"
 
-#: docs/index.rst:830
+#: docs/index.rst:824
 #, fuzzy
 msgid ""
 "To remove a workspace from the list of workspaces, access the workspace page "
@@ -2189,7 +2193,7 @@ msgstr ""
 "انتقل إلى صفحة مساحة العمل في مشروعك (`راجع الوصول إلى واجهة تحديث "
 "البيانات`_ - الخطوات من 1 إلى 4 للحصول على إرشادات مفصلة)."
 
-#: docs/index.rst:831
+#: docs/index.rst:825
 #, fuzzy
 msgid ""
 "You can now remove a workspace by clicking the |delete| icon in the "
@@ -2198,12 +2202,12 @@ msgstr ""
 "يمكنك حذف مساحة عمل من خلال النقر فوق |delete-black| في العمود **Actions** "
 "بجانب مساحة العمل المحددة."
 
-#: docs/index.rst:835
+#: docs/index.rst:829
 #, fuzzy
 msgid "Configure the Project dashboard"
 msgstr "تكوين لوحة معلومات المشروع"
 
-#: docs/index.rst:837
+#: docs/index.rst:831
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This section "
@@ -2216,12 +2220,12 @@ msgstr ""
 "كيفية تحرير لوحات المعلومات هذه. نظرة عامة على صفحات لوحة المعلومات القياسية "
 "متاحة `هنا <#default-dashboard-pages>`__."
 
-#: docs/index.rst:840
+#: docs/index.rst:834
 #, fuzzy
 msgid "Create a Dashboard Page"
 msgstr "تحديث صفحة لوحة المعلومات"
 
-#: docs/index.rst:842
+#: docs/index.rst:836
 #, fuzzy
 msgid ""
 "To add a new page to a dashboard, open the admin interface by clicking the |"
@@ -2230,7 +2234,7 @@ msgstr ""
 "لمنح المستخدم حق الوصول إلى مساحة العمل ، افتح واجهة المسؤول بالنقر فوق رز |"
 "settings| في الزاوية اليمنى العليا من الشاشة."
 
-#: docs/index.rst:843
+#: docs/index.rst:837
 #, fuzzy
 msgid ""
 "In the navigation pane on the left, click **Projects** . This will open a "
@@ -2239,7 +2243,7 @@ msgstr ""
 "في جزء التنقل الموجود على اليسار، انقر فوق `Projects  ربط <https://herams."
 "org/project/index>`_ لعرض قائمة بجميع المشاريع المتاحة."
 
-#: docs/index.rst:844
+#: docs/index.rst:838
 #, fuzzy
 msgid ""
 "In the rightmost column of the table, you should see several Action buttons. "
@@ -2247,24 +2251,24 @@ msgid ""
 msgstr ""
 "في آخر الجدول ، لديك العديد من أزرار الإجراءات. انقر فوق زر |share-icon|."
 
-#: docs/index.rst:845
+#: docs/index.rst:839
 msgid ""
 "You should now see a page displaying the list of existing dashboard pages. "
 "To add a new page click the |create-page| button."
 msgstr ""
 
-#: docs/index.rst:847 docs/index.rst:891
+#: docs/index.rst:841 docs/index.rst:885
 msgid "You should now see a page similar to the one displayed below."
 msgstr "يجب أن تشاهد الآن صفحة مشابهة للصفحة المعروضة أدناه."
 
-#: docs/index.rst:854
+#: docs/index.rst:848
 msgid ""
 "Enter the page name in the top field. It is recommended to select an item "
 "from the drop-down list. This will assure the page title is automatically "
 "translated into other languages."
 msgstr ""
 
-#: docs/index.rst:855
+#: docs/index.rst:849
 #, fuzzy
 msgid ""
 "If you are adding a sub-page to an existing page, select the parent page "
@@ -2274,7 +2278,7 @@ msgstr ""
 "بالنسبة للصفحات الفرعية ، حدد الصفحة الرئيسية من القائمة المنسدلة **Parent "
 "Id**. بالنسبة لجميع الصفحات الأخرى، حدد **No parent**."
 
-#: docs/index.rst:856
+#: docs/index.rst:850
 msgid ""
 "Define the page order by entering a **Sort** index. Increment the index by 1 "
 "for each new page, starting with **0** for the first page."
@@ -2282,29 +2286,29 @@ msgstr ""
 "حدد ترتيب الصفحة عن طريق إدخال فهرس **Sort**. قم بزيادة الفهرس بمقدار 1 لكل "
 "صفحة جديدة ، بدءًا من **0** للصفحة الأولى."
 
-#: docs/index.rst:857
+#: docs/index.rst:851
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr "انقر فوق زر |create-page| لإضافة الصفحة إلى لوحة المعلومات."
 
-#: docs/index.rst:858
+#: docs/index.rst:852
 msgid ""
 "If you return to the previous page, you will see the page appearing in the "
 "list of available pages."
 msgstr ""
 "إذا عدت إلى الصفحة السابقة، فسترى الصفحة تظهر في قائمة الصفحات المتاحة."
 
-#: docs/index.rst:863
+#: docs/index.rst:857
 #, fuzzy
 msgid "Modify a Dashboard Page"
 msgstr "تحديث صفحة لوحة المعلومات"
 
-#: docs/index.rst:865
+#: docs/index.rst:859
 msgid ""
 "To modify an existing page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:866
+#: docs/index.rst:860
 #, fuzzy
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
@@ -2316,21 +2320,21 @@ msgstr ""
 "إعدادات الصفحة. أنت الآن قادر على تغيير العنوان وترتيب الصفحة. انظر `أعلاه "
 "<#add-a-new-page-to-a-dashboard>`__  للحصول على مزيد من التفاصيل."
 
-#: docs/index.rst:867
+#: docs/index.rst:861
 msgid "Save your changes by clicking the |update-page| button."
 msgstr "احفظ تغييراتك من خلال النقر فوق زر |update-page| ."
 
-#: docs/index.rst:870
+#: docs/index.rst:864
 msgid "Delete a Dashboard Page"
 msgstr "حذف صفحة لوحة المعلومات"
 
-#: docs/index.rst:872
+#: docs/index.rst:866
 msgid ""
 "To permanently delete a page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:873
+#: docs/index.rst:867
 #, fuzzy
 msgid ""
 "In the list of available page, use the |delete| icon next to the page you "
@@ -2339,7 +2343,7 @@ msgstr ""
 "في قائمة الصفحات المتاحة، استخدم زر |delete-black|  بجوار الصفحة التي تريد "
 "حذفها."
 
-#: docs/index.rst:875
+#: docs/index.rst:869
 #, fuzzy
 msgid ""
 "Be careful when deleting pages or elements. Deleting dashboard pages will "
@@ -2348,12 +2352,12 @@ msgstr ""
 "كن حذرًا عند حذف الصفحات أو العناصر. سيؤدي حذف صفحات لوحة المعلومات إلى حذف "
 "الصفحة نهائيًا بما في ذلك الصفحات الفرعية التابعة."
 
-#: docs/index.rst:878
+#: docs/index.rst:872
 #, fuzzy
 msgid "Create a Dashboard Element"
 msgstr "تحديث صفحة لوحة المعلومات"
 
-#: docs/index.rst:880
+#: docs/index.rst:874
 #, fuzzy
 msgid ""
 "This section covers the steps required to add a new element to an existing "
@@ -2366,13 +2370,13 @@ msgstr ""
 "إضافية ، يرجى الاطلاع على `إضافة صفحة جديدة إلى لوحة المعلومات`_  للحصول على "
 "مزيد من المعلومات."
 
-#: docs/index.rst:882
+#: docs/index.rst:876
 msgid ""
 "To modify an existing page, access the list of existing pages as outlined in "
 "the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
 
-#: docs/index.rst:883
+#: docs/index.rst:877
 #, fuzzy
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
@@ -2381,7 +2385,7 @@ msgstr ""
 "انقر فوق زر |pencil-thin|  في العمود **Actions** في مشروعك. سيؤدي هذا إلى "
 "فتح صفحة خصائص المشروع."
 
-#: docs/index.rst:884
+#: docs/index.rst:878
 #, fuzzy
 msgid ""
 "On the right side of the page you should see a list of available dashboard "
@@ -2392,7 +2396,7 @@ msgstr ""
 "في النصف السفلي من الصفحة ، سترى الأزرار الثلاثة التالية |create-elements|. "
 "حدد نوع العنصر الذي ترغب في إضافته بالنقر فوق الزر المقابل."
 
-#: docs/index.rst:898
+#: docs/index.rst:892
 msgid ""
 "The **Transpose** feature allows to switch between aggregating data at the "
 "health facility and the health service level. Set the feature to **No** to "
@@ -2402,7 +2406,7 @@ msgstr ""
 "الخدمة الصحية. اضبط الميزة على **لا** لعرض البيانات المجمعة على مستوى "
 "المنشأة الصحية."
 
-#: docs/index.rst:899
+#: docs/index.rst:893
 msgid ""
 "Now use the **Code** dropdown list to select which field you would like to "
 "display on your element."
@@ -2410,7 +2414,7 @@ msgstr ""
 "استخدم الآن القائمة المنسدلة **Code** لتحديد الحقل الذي ترغب في عرضه على "
 "العنصر الخاص بك."
 
-#: docs/index.rst:903
+#: docs/index.rst:897
 msgid ""
 "Define the element position on the dashboard page by specifying the **Sort** "
 "index. Increment the index by 1 for each new item, starting with 0 for the "
@@ -2419,17 +2423,17 @@ msgstr ""
 "حدد موضع العنصر في صفحة لوحة المعلومات عن طريق تحديد فهرس **Sort**. قم "
 "بزيادة الفهرس بمقدار 1 لكل عنصر جديد ، بدءًا من 0 للصفحة الأولى."
 
-#: docs/index.rst:904
+#: docs/index.rst:898
 msgid ""
 "The **Width** and **Height** fields allow to create a custom-sized element."
 msgstr "يتيح الحقل **العرض** والحقل **الارتفاع** إنشاء عنصر مخصص الحجم."
 
-#: docs/index.rst:908
+#: docs/index.rst:902
 msgid ""
 "Optionally, the **Title** field allows you to overwrite the default title."
 msgstr "اختياريًا ، يسمح لك الحقل **Title** بالكتابة فوق العنوان الافتراضي."
 
-#: docs/index.rst:909
+#: docs/index.rst:903
 msgid ""
 "For **Maps & Charts**, The bottom half of the page, displays the list of pre-"
 "defined answer options of the selected question. Click the color next to the "
@@ -2440,7 +2444,7 @@ msgstr ""
 "بخيارات الإجابة المحددة مسبقًا للسؤال المحدد. انقر فوق اللون بجانب اسم الفئة. "
 "سيؤدي ذلك إلى فتح منتقي ألوان يسمح لك باختيار ألوان مخصصة."
 
-#: docs/index.rst:910
+#: docs/index.rst:904
 msgid ""
 "For **Maps**, you can further specify the size of the dots by increasing/"
 "decreasing the  **Marker Radius**."
@@ -2448,7 +2452,7 @@ msgstr ""
 "بالنسبة لل **Maps**، يمكنك تحديد حجم النقاط عن طريق زيادة / تقليل **Marker "
 "Radius**."
 
-#: docs/index.rst:917
+#: docs/index.rst:911
 msgid ""
 "For **tables**, two additional fields will be displayed to specify the "
 "**Reason Code** and **Group Code**."
@@ -2456,7 +2460,7 @@ msgstr ""
 "بالنسبة **للجداول**، سيتم عرض حقلين إضافيين لتحديد **Reason Code** و **Group "
 "Code**."
 
-#: docs/index.rst:924
+#: docs/index.rst:918
 msgid ""
 "Finally, click the |create-element-blue| button to add the element to the "
 "dashboard page."
@@ -2464,12 +2468,12 @@ msgstr ""
 "أخيرًا، انقر فوق زر |create-element-blue| لإضافة العنصر إلى صفحة لوحة "
 "المعلومات."
 
-#: docs/index.rst:927
+#: docs/index.rst:921
 #, fuzzy
 msgid "Modify Dashboard Elements"
 msgstr "تعديل عنصر موجود علي لوحة المعلومات"
 
-#: docs/index.rst:929
+#: docs/index.rst:923
 msgid ""
 "Users with the permissions to edit dashboards can modify charts and maps "
 "directly from within the dashboard."
@@ -2477,12 +2481,12 @@ msgstr ""
 "يمكن للمستخدمين الذين لديهم صلاحيات تحرير لوحات المعلومات تعديل المخططات "
 "والخرائط مباشرةً من داخل لوحة المعلومات."
 
-#: docs/index.rst:933
+#: docs/index.rst:927
 msgid ""
 "Open the dashboard and navigate to the element you would like to change."
 msgstr "افتح لوحة المعلومات وانتقل إلى العنصر الذي تريد تغييره."
 
-#: docs/index.rst:934
+#: docs/index.rst:928
 msgid ""
 "In the top right corner of the element you would like to change, you should "
 "see a |pencil-thin| icon. Right-click the icon to open the element's "
@@ -2491,38 +2495,38 @@ msgstr ""
 "في الركن الأيمن العلوي من العنصر الذي تريد تغييره، يجب أن ترى زر |pencil-"
 "thin|. انقر بزر الماوس الأيمن فوق الرمز لفتح صفحة تكوين العنصر."
 
-#: docs/index.rst:935
+#: docs/index.rst:929
 msgid "You should now be able:"
 msgstr "يجب أن تكون قادرًا الآن:"
 
-#: docs/index.rst:937
+#: docs/index.rst:931
 msgid "to change the variables displayed;"
 msgstr "لتغيير المتغيرات المعروضة;"
 
-#: docs/index.rst:938
+#: docs/index.rst:932
 msgid "to change the colors of a map or a chart; and"
 msgstr "لتغيير ألوان خريطة أو مخطط ؛ و"
 
-#: docs/index.rst:939
+#: docs/index.rst:933
 msgid "to rename the element."
 msgstr "لإعادة تسمية العنصر."
 
-#: docs/index.rst:943
+#: docs/index.rst:937
 msgid "Save your changes by clicking the |update-element| button."
 msgstr "احفظ التغييرات عن طريق النقر فوق زر |update-element| ."
 
-#: docs/index.rst:951
+#: docs/index.rst:945
 #, fuzzy
 msgid "Delete Dashboard Elements"
 msgstr "حذف صفحة لوحة المعلومات"
 
-#: docs/index.rst:953
+#: docs/index.rst:947
 msgid ""
 "Access the list of exisitng dashboard elements as described `here <#create-a-"
-"dashboard-element>`."
+"dashboard-element>`__."
 msgstr ""
 
-#: docs/index.rst:954
+#: docs/index.rst:948
 msgid ""
 "In the bottom half of the page you will see a list of all available "
 "dashboard pages. Click the |pencil-thin| icon to open the page you would "
@@ -2531,7 +2535,7 @@ msgstr ""
 "في النصف السفلي من الصفحة، سترى قائمة بجميع الصفحات المتاحة للوحة المعلومات. "
 "انقر فوق زر |pencil-thin| لفتح الصفحة التي ترغب في تعديلها."
 
-#: docs/index.rst:955
+#: docs/index.rst:949
 #, fuzzy
 msgid ""
 "In the lower half of the page you will see a list of all elements displayed "
@@ -2540,18 +2544,18 @@ msgstr ""
 "في النصف السفلي من الصفحة، سترى قائمة بجميع العناصر المعروضة على صفحة لوحة "
 "المعلومات. استخدم |delete-black| لحذف العنصر بشكل دائم."
 
-#: docs/index.rst:957
+#: docs/index.rst:951
 msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
 msgstr ""
 "كن حذرا عند حذف عناصر لوحة المعلومات. لا يمكن استعادة العناصر المحذوفة."
 
-#: docs/index.rst:961
+#: docs/index.rst:955
 msgid "FAQ"
 msgstr "الأسئلة المتكررة"
 
-#: docs/index.rst:963
+#: docs/index.rst:957
 msgid ""
 "This section aims to help users troubleshoot frequently encountered issues. "
 "In case you encounter an issue that is not addressed here, please contact "
@@ -2562,71 +2566,71 @@ msgstr ""
 "متكرر. في حالة مواجهة مشكلة لم يتم تناولها هنا، يرجى الاتصال بمسؤول بلدك أو "
 "إرسال بريد إلكتروني إلى `بفريق دعم هيرامس <mailto:herams@who.int?>`_."
 
-#: docs/index.rst:965
+#: docs/index.rst:959
 msgid "`General`_"
 msgstr "`عام`_"
 
-#: docs/index.rst:967
+#: docs/index.rst:961
 msgid "`Confirmation email not received`_"
 msgstr "`لم يتم استلام بريد إلكتروني بالتأكيد`_"
 
-#: docs/index.rst:968
+#: docs/index.rst:962
 msgid "`How to reset your password?`_"
 msgstr "`كيفية إعادة تعيين كلمة المرور الخاصة بك؟`_"
 
-#: docs/index.rst:970
+#: docs/index.rst:964
 msgid "`View a project/dashboard`_"
 msgstr "`عرض مشروع / لوحة المعلومات`_"
 
-#: docs/index.rst:972
+#: docs/index.rst:966
 msgid "`Can't access a project dashboard`_"
 msgstr "`لا يمكن الوصول إلى لوحة معلومات المشروع`_"
 
-#: docs/index.rst:973
+#: docs/index.rst:967
 msgid "`Who has access to your project?`_"
 msgstr "`من لديه صلاحية الوصول إلى مشروعك؟`_"
 
-#: docs/index.rst:975
+#: docs/index.rst:969
 msgid "`Data editing & downloading`_"
 msgstr "`تحرير البيانات وتنزيلها`_"
 
-#: docs/index.rst:977
+#: docs/index.rst:971
 msgid "`Data updates don't appear on the dashboard`_"
 msgstr "`لا تظهر تحديثات البيانات على لوحة المعلومات`_"
 
-#: docs/index.rst:978
+#: docs/index.rst:972
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr "`تصدير البيانات غير قابل للقراءة / يحتوي على أحرف غريبة`_"
 
-#: docs/index.rst:982
+#: docs/index.rst:976
 msgid "General"
 msgstr "عام"
 
-#: docs/index.rst:985
+#: docs/index.rst:979
 msgid "Confirmation email not received"
 msgstr "لم يتم استلام بريد إلكتروني بالتأكيد"
 
-#: docs/index.rst:987
+#: docs/index.rst:981
 msgid ""
 "If you did not receive an email upon registering or resetting your password, "
 "follow the steps below to troubleshoot the issue."
 msgstr ""
 
-#: docs/index.rst:989
+#: docs/index.rst:983
 msgid ""
 "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
 
-#: docs/index.rst:990
+#: docs/index.rst:984
 msgid "Check your spam/junk folder."
 msgstr ""
 
-#: docs/index.rst:991
+#: docs/index.rst:985
 msgid ""
 "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
 
-#: docs/index.rst:992
+#: docs/index.rst:986
 #, fuzzy
 msgid ""
 "If the above steps did not solve your issue, please contact your system "
@@ -2636,11 +2640,11 @@ msgstr ""
 "متكرر. في حالة مواجهة مشكلة لم يتم تناولها هنا، يرجى الاتصال بمسؤول بلدك أو "
 "إرسال بريد إلكتروني إلى `<?hearms@who.int <mailto: herams@who.int`_."
 
-#: docs/index.rst:995
+#: docs/index.rst:989
 msgid "How to reset your password?"
 msgstr "كيفية إعادة تعيين كلمة المرور الخاصة بك؟"
 
-#: docs/index.rst:997
+#: docs/index.rst:991
 msgid ""
 "If you forgot your password, follow the instructions provided `here <#reset-"
 "password>`__ to reset your password."
@@ -2648,15 +2652,15 @@ msgstr ""
 "إذا نسيت كلمة المرور الخاصة بك، فاتبع الإرشادات المتوفرة `هنا  <#reset-"
 "password>`__ لإعادة تعيين كلمة المرور الخاصة بك."
 
-#: docs/index.rst:1000
+#: docs/index.rst:994
 msgid "View a project/dashboard"
 msgstr "عرض مشروع / لوحة المعلومات"
 
-#: docs/index.rst:1003
+#: docs/index.rst:997
 msgid "Can't access a project dashboard"
 msgstr "لا يمكن الوصول إلى لوحة معلومات المشروع"
 
-#: docs/index.rst:1005
+#: docs/index.rst:999
 msgid ""
 "For data protection reasons, access to the project dashboards is only "
 "granted upon request. If you require access to a project, please contact "
@@ -2668,11 +2672,11 @@ msgstr ""
 "التنسيق في بلدك أو إرسال بريد إلكتروني إلى `بفريق دعم هيرامس <mailto:"
 "herams@who.int?>`_، لتحديد سبب طلب الدخول إلى المشروع."
 
-#: docs/index.rst:1008
+#: docs/index.rst:1002
 msgid "Who has access to your project?"
 msgstr "من لديه حق الدخول إلى مشروعك؟"
 
-#: docs/index.rst:1010
+#: docs/index.rst:1004
 #, fuzzy
 msgid ""
 "In-country administrators and users responsible for a project or workspace "
@@ -2685,15 +2689,15 @@ msgstr ""
 "بالإضافة إلى مستويات صلاحياتهم. راجع `إدارة هيرامس`_ للحصول على مزيد من "
 "المعلومات حول مشاركة `المشروع`_ و `مساحات العمل`_."
 
-#: docs/index.rst:1015
+#: docs/index.rst:1009
 msgid "Data editing & downloading"
 msgstr "تحرير البيانات وتنزيلها"
 
-#: docs/index.rst:1018
+#: docs/index.rst:1012
 msgid "Data updates don't appear on the dashboard"
 msgstr "تحديثات البيانات لا تظهر على لوحة المعلومات"
 
-#: docs/index.rst:1020
+#: docs/index.rst:1014
 #, fuzzy
 msgid ""
 "It is important to note that the data displayed on the interactive "
@@ -2708,11 +2712,11 @@ msgstr ""
 "الخاصة بمساحة العمل يدويًا. لمزيد من المعلومات حول التخزين المؤقت للبيانات، "
 "اقرأ القسم الخاص ب `مساحات العمل`_ ."
 
-#: docs/index.rst:1023
+#: docs/index.rst:1017
 msgid "Exported data is unreadable / contains strange characters"
 msgstr "البيانات التي تم تصديرها غير قابلة للقراءة او تحتوي على أحرف غريبة"
 
-#: docs/index.rst:1025
+#: docs/index.rst:1019
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an "
 "issue with special characters not displaying correctly, resulting in "
