@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 10:42+0000\n"
+"POT-Creation-Date: 2020-11-24 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgid "Getting started"
 msgstr ""
 
 #: docs/index.rst:23
-msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `Breadcrumbs`_ as an efficient way to navigate the platform."
+msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`_. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform."
 msgstr ""
 
 #: docs/index.rst:27
@@ -238,7 +238,7 @@ msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
 
 #: docs/index.rst:155
-msgid "|workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`__ for more information on workspaces."
+msgid "|workspace| **Workspaces**: This opens the list of workspaces belonging to a project. See `here <#workspaces>`_ for more information on workspaces."
 msgstr ""
 
 #: docs/index.rst:156
@@ -250,7 +250,7 @@ msgid "|view| **View**: Grants you view access to a specific item or record."
 msgstr ""
 
 #: docs/index.rst:158
-msgid "|pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#edit-date>`__."
+msgid "|pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`_."
 msgstr ""
 
 #: docs/index.rst:159
@@ -286,7 +286,7 @@ msgid "View a Project"
 msgstr ""
 
 #: docs/index.rst:182
-msgid "This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce indepth alayses for specific areas and indicators of interest."
+msgid "This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high level overview on key indicators such as the number of health facilities assessed, overall functionality and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to rapidly produce in-depth anlayses for specific areas and indicators of interest."
 msgstr ""
 
 #: docs/index.rst:186
@@ -438,7 +438,7 @@ msgid "Click the |pdf| icon in the top right corner of your screen."
 msgstr ""
 
 #: docs/index.rst:292
-msgid "This will open a new tab containing a printable version of the dashboard. Click `CTRL`+ `P` to print the dashboard or save it as a pdf."
+msgid "This will open a new tab containing a printable version of the dashboard. Click *CTRL*+ *P* to print the dashboard or save it as a pdf."
 msgstr ""
 
 #: docs/index.rst:295
@@ -710,7 +710,7 @@ msgid "Edit a Health Facility Response"
 msgstr ""
 
 #: docs/index.rst:477
-msgid "Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add_a_response_to_a_health_facility_record>`__."
+msgid "Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add-a-response-to-a-health-facility-record>`_."
 msgstr ""
 
 #: docs/index.rst:479
@@ -898,7 +898,7 @@ msgid "For large data sets, exporting data in Excel takes substantially longer t
 msgstr ""
 
 #: docs/index.rst:588
-msgid "To avoid encoding issues, it is recommended that you download your data as Excel file if you select a language other than English. For more information of encoding of **CSV** files for use in Excel, see  `Data Encoding in Excel`_ ."
+msgid "To avoid encoding issues, it is recommended that you download your data as Excel file if you select a language other than English. For more information of encoding of **CSV** files for use in Excel, see `Data Encoding in Excel`_."
 msgstr ""
 
 #: docs/index.rst:591
@@ -1276,7 +1276,7 @@ msgid "To modify an existing page, access the list of existing pages as detailed
 msgstr ""
 
 #: docs/index.rst:866
-msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `Create a Dashboard Element`_ for more information on how to add dashboard elements to your page."
+msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `create a dashboard element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
 
 #: docs/index.rst:867
@@ -1288,7 +1288,7 @@ msgid "Delete a Dashboard Page"
 msgstr ""
 
 #: docs/index.rst:872
-msgid "To permanently delete a page, access the list of existing pages as detailed above `<#create-a-dashboard-page>`__."
+msgid "To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
 
 #: docs/index.rst:873
@@ -1304,11 +1304,11 @@ msgid "Create a Dashboard Element"
 msgstr ""
 
 #: docs/index.rst:880
-msgid "This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `Create a Dashboard Page`_ for further information."
+msgid "This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `create a dashboard page`_ for further information."
 msgstr ""
 
 #: docs/index.rst:882
-msgid "To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`__ section."
+msgid "To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
 
 #: docs/index.rst:883
