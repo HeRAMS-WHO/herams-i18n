@@ -107,7 +107,7 @@ Each user has a profile associated with their account. This permits you to chang
 Change Password
 ---------------
 
-1. To change your password, open your user profile as explained `above <#update-your-user-profile>`_.
+1. To change your password, open your user profile as explained `above <#update-your-user-profile>`__.
 2. In the pop-up window that opens, select the **Password**  tab.  
 3. You should now be able to change your email address and enter a new password.
 4. Make sure to click the |update-password| button to confirm your changes.
@@ -124,7 +124,7 @@ The HeRAMS platform is available in multiple languages. Unless specified otherwi
 For users having a browser language that is not supported by HeRAMS, the language will default to English. To manually adjust your language preference, follow the steps below. 
 
 
-1. To change your language preference, open your user profile as explained `above <#update-your-user-profile>`_.
+1. To change your language preference, open your user profile as explained `above <#update-your-user-profile>`__.
 2. In the pop-up window that opens, navigate to the **Profile** tab.  
 3. Change the drop-down list to desired language and click the |update-profile| button.
 
@@ -139,7 +139,7 @@ For users having a browser language that is not supported by HeRAMS, the languag
 
 Change Email Address
 --------------------
-1. To change your e-mail address, open your user profile as explained `above <#update-your-user-profile>`_.
+1. To change your e-mail address, open your user profile as explained `above <#update-your-user-profile>`__.
 2. Open the **Email** tab and enter the new email address you would like to use for your HeRAMS account.
 3. Click the |send-confirmation| button. This will send a confirmation email to your new email address.
 4. Click the link in the confirmation email to validate your new email address.
@@ -769,7 +769,7 @@ Add a User
 Change a User's Workspace Permission
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Follow the instructions outlined  `above <#add-a-user>`_ to open the user management interface of your workspace or project. 
+1. Follow the instructions outlined  `above <#add-a-user>`__ to open the user management interface of your workspace or project. 
 2. On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions.
 3. You can change a users permission by flipping the corresponding switch button to **Allowed** or **Denied**. 
 
@@ -803,10 +803,11 @@ Create a Workspace
 5. Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**.
   
 .. image:: media/img/HeRAMS_workspace_create.png
-   :height: 250px
-   :alt: create-workspace
-   :align: center
-     
+   	:height: 250px
+   	:alt: create-workspace
+   	:align: center
+
+	
   .. Note: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.
 
 Rename a Workspace
@@ -831,7 +832,7 @@ Configure the Project dashboard
 For each HeRAMS Project, an interactive dashboard can be configured providing summarizing key indicators and findings of a project. This section provides project administrators with a detailed description on how to edit these dashboards. An overview of the standard dashboard pages is available `here <#default-dashboard-pages>`__.
     
 Create a Dashboard Page
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 1. To add a new page to a dashboard, open the admin interface by clicking the |settings| icon in the top right corner of the screen.
 2. In the navigation pane on the left, click **Projects** . This will open a overview table of all ongoing Projects in HeRAMS.
@@ -854,14 +855,14 @@ Create a Dashboard Page
   .. note: You only created an empty page. To add elements to your page, see section `Add a New Element to a Page`_.
 
 Modify a Dashboard Page
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 1. To modify an existing page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__.  
 2. Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as to modify elements displayed on this page. Go to `create a dashboard element`_ for more information on how to add dashboard elements to your page.
 3. Save your changes by clicking the |update-page| button.
 
 Delete a Dashboard Page
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 1. To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__. 
 2. In the list of available page, use the |delete| icon next to the page you would like to delete.
@@ -869,7 +870,7 @@ Delete a Dashboard Page
   .. warning:: Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including potential sub-pages. 
 
 Create a Dashboard Element
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `create a dashboard page`_ for further information.
 
@@ -918,7 +919,7 @@ This section covers the steps required to add a new element to an existing dashb
 13. Finally, click the |create-element-blue| button to add the element to the dashboard page.
 
 Modify Dashboard Elements
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard.
 
@@ -942,7 +943,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
    :align: center
 
 Delete Dashboard Elements
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Access the list of exisitng dashboard elements as described `here <#create-a-dashboard-element>`__.
 2. In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify.
