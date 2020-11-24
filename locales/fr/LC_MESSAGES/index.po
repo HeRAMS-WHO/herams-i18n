@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 15:18+0000\n"
-"PO-Revision-Date: 2020-11-24 12:07+0000\n"
+"PO-Revision-Date: 2020-11-24 18:32+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -71,7 +71,6 @@ msgid "Getting started"
 msgstr "Prise en main"
 
 #: docs/index.rst:23
-#, fuzzy
 msgid ""
 "This chapter is intended for new users of the `HeRAMS platform <https://"
 "herams.org/>`_. It covers issues related to `registering <#creating-a-user-"
@@ -131,7 +130,7 @@ msgid ""
 "spam folder."
 msgstr ""
 "Si vous n'avez pas reçu un courriel de confirmation au bout de quelques "
-"minutes,  veuillez vérifier votre dossier *courrier indésirable*."
+"minutes, veuillez vérifier votre dossier *courrier indésirable*."
 
 #: docs/index.rst:45
 msgid ""
@@ -238,8 +237,8 @@ msgid ""
 "If you did not receive this email within a few minutes, check your spam "
 "folder."
 msgstr ""
-"Si vous n'avez pas reçu ce courriel dans quelques minutes,  veuillez "
-"vérifier votre dossier \"courrier indésirable\"."
+"Si vous n'avez pas reçu ce courriel dans quelques minutes, veuillez vérifier "
+"votre dossier \"courrier indésirable\"."
 
 #: docs/index.rst:94
 msgid "On the page that opens, enter your new password."
@@ -256,8 +255,8 @@ msgid ""
 "platform, return to the `sign in page <https://herams.org>`_ and enter your "
 "credentials."
 msgstr ""
-"VVous avez réussi à modifier votre mot de passe. Pour accéder à la plate-"
-"forme HeRAMS, retournez à la page de connexion <https://herams.org>`_ et "
+"Vous avez réussi à modifier votre mot de passe. Pour accéder à la plate-"
+"forme HeRAMS, retournez à la `page de connexion <https://herams.org>`_ et "
 "saisissez vos identifiants."
 
 #: docs/index.rst:101
@@ -275,7 +274,6 @@ msgstr ""
 "passe sans avoir besoin d'assistance."
 
 #: docs/index.rst:104
-#, fuzzy
 msgid ""
 "To update your user profile, click your username shown on the top right "
 "corner of the page."
@@ -285,7 +283,6 @@ msgstr ""
 "droit de la page."
 
 #: docs/index.rst:105
-#, fuzzy
 msgid ""
 "This opens your `user profile <https://herams.org/user/account>`__ and "
 "allows you to change your personal information."
@@ -298,13 +295,12 @@ msgid "Change Password"
 msgstr "Modifier le mot de passe"
 
 #: docs/index.rst:110
-#, fuzzy
 msgid ""
 "To change your password, open your user profile as explained `above <#update-"
 "your-user-profile>`__."
 msgstr ""
 "Pour modifier votre mot de passe, veuillez ouvrir votre profil de "
-"l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`_."
+"l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`__."
 
 #: docs/index.rst:111
 msgid "In the pop-up window that opens, select the **Password**  tab."
@@ -312,12 +308,11 @@ msgstr ""
 "Dans la page qui s’affiche, veuillez saisir votre nouvel **mot de passe**."
 
 #: docs/index.rst:112
-#, fuzzy
 msgid ""
 "You should now be able to change your email address and enter a new password."
 msgstr ""
-"Dans la page qui s'affiche, vous devriez pouvoir changer votre adresse email "
-"et entrer un nouveau mot de passe."
+"Vous devriez maintenant pouvoir changer votre adresse électronique et entrer "
+"un nouveau mot de passe."
 
 #: docs/index.rst:113
 msgid ""
@@ -346,15 +341,20 @@ msgid ""
 "HeRAMS, the language will default to English. To manually adjust your "
 "language preference, follow the steps below."
 msgstr ""
+"La plate-forme HeRAMS est disponible en plusieurs langues. Sauf indication "
+"contraire, la langue sera automatiquement ajustée en fonction de la langue "
+"de votre navigateur. Pour les utilisateurs dont la langue du navigateur "
+"n'est pas prise en charge par HeRAMS, la langue sera par défaut l'anglais. "
+"Pour ajuster manuellement votre préférence linguistique, suivez les étapes "
+"ci-dessous."
 
 #: docs/index.rst:127
-#, fuzzy
 msgid ""
 "To change your language preference, open your user profile as explained "
 "`above <#update-your-user-profile>`__."
 msgstr ""
 "Pour modifier votre mot de passe, veuillez ouvrir votre profil de "
-"l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`_."
+"l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`__."
 
 #: docs/index.rst:128
 msgid "In the pop-up window that opens, navigate to the **Profile** tab."
@@ -366,8 +366,8 @@ msgid ""
 "Change the drop-down list to desired language and click the |update-profile| "
 "button."
 msgstr ""
-"Assurez-vous d'enregistrer vos modifications en cliquant sur le bouton |"
-"update-project|."
+"Assurez-vous d'enregistrer vos modifications en cliquant sur le bouton "
+"|update-profile|."
 
 #: docs/index.rst:131
 msgid ""
@@ -384,13 +384,12 @@ msgid "Change Email Address"
 msgstr "Changer d'adresse de courriel"
 
 #: docs/index.rst:142
-#, fuzzy
 msgid ""
 "To change your e-mail address, open your user profile as explained `above "
 "<#update-your-user-profile>`__."
 msgstr ""
 "Pour modifier votre mot de passe, veuillez ouvrir votre profil de "
-"l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`_."
+"l'utilisateur comme expliqué `ci-dessus <#update-your-user-profile>`__."
 
 #: docs/index.rst:143
 msgid ""
@@ -454,18 +453,17 @@ msgstr ""
 #: docs/index.rst:154
 msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
-"|user-guide| **Guide de l'utilisateur**: Affiche le **Guide de l'utilisateur "
-"de HeRAMS**."
+"|user-guide| **Guide de l'utilisateur** : Affiche le **Guide de "
+"l'utilisateur de HeRAMS**."
 
 #: docs/index.rst:155
-#, fuzzy
 msgid ""
 "|workspace| **Workspaces**: This opens the list of workspaces belonging to a "
 "project. See `here <#access-your-workspace>`__ for more information on "
 "workspaces."
 msgstr ""
 "|workspace| **Espace de travail** : Ceci ouvre la liste de tous les espaces "
-"de travail disponibles appartenant au projet. Voir `ici  <#workspaces>`__ "
+"de travail disponibles appartenant au projet. Voir `ici <#workspaces>`__ "
 "pour plus d'informations sur les espaces de travail."
 
 #: docs/index.rst:156
@@ -477,18 +475,17 @@ msgstr ""
 #: docs/index.rst:157
 msgid "|view| **View**: Grants you view access to a specific item or record."
 msgstr ""
-"|view| **View** : Permet de voir un élément ou à un enregistrement "
+"|view| **Voir** : Permet de voir un élément ou à un enregistrement "
 "spécifique."
 
 #: docs/index.rst:158
-#, fuzzy
 msgid ""
 "|pencil| **Edit**: Opens the data edit interface. More information on data "
 "editing and updating is available `here <#contribute-data>`__."
 msgstr ""
 "|pencil| **Éditer** : L'interface d'édition des données s'ouvre. Pour plus "
 "d'informations sur l'édition et la mise à jour des données, cliquez `ici "
-"<#edit-date>`__."
+"<#contribute-data>`__."
 
 #: docs/index.rst:159
 msgid "|delete| **Delete**: Deletes a specific item or record."
@@ -514,23 +511,21 @@ msgstr ""
 "données HeRAMS."
 
 #: docs/index.rst:161
-#, fuzzy
 msgid ""
 "|download| **Download data**: Opens the data export interface, permitting "
 "users to export data for further analysis in external applications. See "
 "`Download data`_ for more information."
 msgstr ""
 "|download| **Télécharger les données** : Télécharge tous les enregistrements "
-"appartenant à l'espace de travail sélectionné. Voir `Télécharger les "
-"données`_ pour plus d'informations."
+"appartenant à l'espace de travail sélectionné. Voir `Télécharger les données`"
+"_ pour plus d'informations."
 
 #: docs/index.rst:162
-#, fuzzy
 msgid ""
 "|pencil-thin| **Update workspace**:  Enables *Project admins* to alter the "
 "settings of an item (e.g. workspace, dashboard element, etc.)"
 msgstr ""
-"|pencil-thin| **Mettre à jour l'espace de travail**: permet de changer le "
+"|pencil-thin| **Mettre à jour l'espace de travail** : permet de changer le "
 "titre ou le token d'un espace de travail."
 
 #: docs/index.rst:163
@@ -547,6 +542,8 @@ msgid ""
 "The number of buttons visible to you depends on your `user role<#user-"
 "roles>` and might vary from one workspace/project to another."
 msgstr ""
+"Le nombre de boutons visibles dépend de votre `rôle d'utilisateur<#user-"
+"roles>`_ et peut varier d'un espace de travail/projet à l'autre."
 
 #: docs/index.rst:169
 msgid "Breadcrumbs"
@@ -572,7 +569,6 @@ msgid "View a Project"
 msgstr "Voir un projet"
 
 #: docs/index.rst:182
-#, fuzzy
 msgid ""
 "This chapter provides an introduction to real-time analytics available in "
 "the HeRAMS platform. For each project, a high level overview on key "
@@ -882,6 +878,9 @@ msgid ""
 "This will open a new tab containing a printable version of the dashboard. "
 "Click *CTRL*+ *P* to print the dashboard or save it as a pdf."
 msgstr ""
+"Cela ouvrira un nouvel onglet contenant une version imprimable du tableau de "
+"bord. Cliquez sur *CTRL*+ *P* pour imprimer le tableau de bord ou "
+"l'enregistrer au format pdf."
 
 #: docs/index.rst:295
 msgid "Default dashboard pages"
@@ -912,15 +911,15 @@ msgstr "Vue d’ensemble"
 
 #: docs/index.rst:304
 msgid "The **Overview** page provides a summary, in form of:"
-msgstr "La page **Vue d’ensemble** fournit un résumé sous la forme de:"
+msgstr "La page **Vue d’ensemble** fournit un résumé sous la forme de :"
 
 #: docs/index.rst:306
 msgid ""
 "a map to spot the distribution and number of health facilities by level of "
 "care (i.e. primary, secondary and tertiary health care facilities); and"
 msgstr ""
-"une carte présentant la répartition et le nombre de FS par niveau de soins "
-"(p. ex. les formations de santé primaires, secondaires et tertiaires); et"
+"une carte présentant la répartition et le nombre de FS par niveau de soins ("
+"p. ex. les formations de santé primaires, secondaires et tertiaires) ; et"
 
 #: docs/index.rst:307
 msgid ""
@@ -946,7 +945,7 @@ msgstr "Infrastructure"
 
 #: docs/index.rst:318
 msgid "The **Infrastructure** page displays a descriptive analysis, including:"
-msgstr "La page **Infrastructure** affiche une analyse descriptive, y compris:"
+msgstr "La page **Infrastructure** affiche une analyse descriptive, y compris :"
 
 #: docs/index.rst:320
 msgid "a map to spot the distribution and number of health facilities by type;"
@@ -961,9 +960,9 @@ msgid ""
 "(permanent vs. temporary); and"
 msgstr ""
 "des graphiques de beignes pour illustrer les modes de prestation des séries "
-"(**MoSD**, angl. *Mo**\\odes  of **S**\\ervice **D**\\elivery)  par type "
-"ainsi que la modalité de la structure du bâtiment (permanente vs. "
-"temporaire) ; et  Modalité de délivrance des services; et"
+"(**MoSD**, angl. *Mo**\\odes  of **S**\\ervice **D**\\elivery) par type "
+"ainsi que la modalité de la structure du bâtiment (permanente vs. temporaire)"
+" ; et  Modalité de délivrance des services; et"
 
 #: docs/index.rst:322
 msgid "a table to illustrate reported accessibility barriers."
@@ -998,7 +997,7 @@ msgid ""
 "severity as well as the distribution of MoSD by type; and"
 msgstr ""
 "des graphique de beignes résumant le niveau de dommages aux bâtiments "
-"signalé  par niveau de gravité ainsi que la répartition des MoSDs par type ; "
+"signalé par niveau de gravité ainsi que la répartition des MoSDs par type ; "
 "et"
 
 #: docs/index.rst:335
@@ -1076,7 +1075,7 @@ msgid ""
 msgstr ""
 "des graphique de beignes résumant le niveau d'accessibilité par nombre "
 "d'établissement de santé ainsi que les principales causes d'inaccessibilité "
-"signalées; et"
+"signalées ; et"
 
 #: docs/index.rst:361
 msgid ""
@@ -1102,7 +1101,7 @@ msgstr ""
 
 #: docs/index.rst:372
 msgid "Ownership:"
-msgstr "Propriété:"
+msgstr "Propriété :"
 
 #: docs/index.rst:374
 msgid ""
@@ -1122,7 +1121,7 @@ msgstr ""
 
 #: docs/index.rst:377
 msgid "External support:"
-msgstr "Soutien externe:"
+msgstr "Soutien externe :"
 
 #: docs/index.rst:379
 msgid "A donut  chart to illustrate the level of support provided by partners."
@@ -1148,7 +1147,7 @@ msgid ""
 "a map displying the availability and sufficiency of the basic amenity; and"
 msgstr ""
 "une carte indiquant la disponibilité et la suffisance de l'aménagement "
-"structurel; et"
+"structurel ; et"
 
 #: docs/index.rst:391
 msgid ""
@@ -1376,9 +1375,8 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:475
-#, fuzzy
 msgid "Edit a Health Facility Response"
-msgstr "Modifier l'enregistrement d'une FS"
+msgstr "Modifier la réponse d'une formation sanitaire"
 
 #: docs/index.rst:477
 #, fuzzy
@@ -1618,13 +1616,13 @@ msgstr ""
 "<#access-the-data-update-interface>`_."
 
 #: docs/index.rst:552
-#, fuzzy
 msgid ""
 "You should now see the history of response to the selected record. To remove "
 "a specific response, click the |delete| icon in the first column"
 msgstr ""
-"Pour afficher les FS qui font partie d'un espace de travail spécifique, "
-"veuillez cliquer sur l'icône |update-data| dans la colonne **Action**."
+"Vous devriez maintenant voir l'historique des réponses à l'enregistrement "
+"sélectionné. Pour supprimer une réponse spécifique, cliquez sur l'icône "
+"|delete| dans la première colonne"
 
 #: docs/index.rst:553
 msgid ""
@@ -1651,7 +1649,7 @@ msgstr ""
 
 #: docs/index.rst:562
 msgid "Download Data"
-msgstr "Téléchargement les données"
+msgstr "Télécharger les données"
 
 #: docs/index.rst:564
 msgid ""
@@ -1872,8 +1870,8 @@ msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From Text/"
 "CSV**."
 msgstr ""
-"Dans l'onglet **Données** allez dans le  groupe **Obtenir & transformer les "
-"données**, cliquez sur **À partir du text**."
+"Dans l'onglet Données du groupe **Obtenir et transformer des données**, "
+"cliquez sur **Du texte/CSV**."
 
 #: docs/index.rst:613
 msgid ""
@@ -2202,6 +2200,14 @@ msgid ""
 "field. You will notice that the list of available users dynamically filters "
 "as you are typing. Select the user you would like to add."
 msgstr ""
+"Vous devriez maintenant voir une page similaire à l'image ci-dessous. Dans "
+"la moitié inférieure de la page, vous devriez voir une liste de tous les "
+"utilisateurs ayant accès à l'espace de travail, y compris leur niveau "
+"d'autorisation. Dans la moitié supérieure de la page, vous avez la "
+"possibilité d'ajouter un nouvel utilisateur. Commencez à taper le nom de "
+"l'utilisateur dans le champ du haut. Vous remarquerez que la liste des "
+"utilisateurs disponibles se filtre dynamiquement pendant que vous tapez. "
+"Sélectionnez l'utilisateur que vous souhaitez ajouter."
 
 #: docs/index.rst:755
 msgid "You can add multiple users add once as shown in the image above."
@@ -2430,13 +2436,13 @@ msgstr ""
 "supérieur droit de l'écran."
 
 #: docs/index.rst:839
-#, fuzzy
 msgid ""
 "In the navigation pane on the left, click **Projects** . This will open a "
 "overview table of all ongoing Projects in HeRAMS."
 msgstr ""
-"Dans le volet de navigation de gauche, cliquez sur `Projets <https://herams."
-"org/project/index>`_  pour afficher la liste de tous les projets disponibles."
+"Dans le volet de navigation à gauche, cliquez sur **Projets** . Cela ouvrira "
+"un tableau présentant une vue d'ensemble de tous les projets en cours dans "
+"HeRAMS."
 
 #: docs/index.rst:840
 #, fuzzy
@@ -2516,17 +2522,16 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:862
-#, fuzzy
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings. You are now able to change the page's settings as well as "
 "to modify elements displayed on this page. Go to `create a dashboard "
 "element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
-"Pour modifier une page existante, cliquez sur l'icône  |pencil-black| à côté "
+"Pour modifier une page existante, cliquez sur l'icône  |pencil-thin| à côté "
 "du nom de la page. Cela ouvrira les paramètres de la page. Vous pouvez "
-"maintenant changer le titre et l'ordre de la page. Voir `ci-dessus <#add-a-"
-"new-page-to-a-dashboard>`__ pour plus de détails."
+"maintenant changer le titre et l'ordre de la page. Voir `ci-dessus <#add-a"
+"-new-page-to-a-dashboard>`__ pour plus de détails."
 
 #: docs/index.rst:863
 msgid "Save your changes by clicking the |update-page| button."
