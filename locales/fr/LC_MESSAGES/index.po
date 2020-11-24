@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-23 10:42+0000\n"
-"PO-Revision-Date: 2020-11-24 10:32+0000\n"
+"PO-Revision-Date: 2020-11-24 12:07+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -87,8 +87,8 @@ msgstr ""
 "your-user-profile>`_. Pour vous aider à naviguer sur la plate-forme par vous-"
 "même, la dernière partie de ce chapitre donne un aperçu des `icônes "
 "récurrentes <#icons-and-their-meanings>`_ utilisées sur la plate-forme ainsi "
-"que quelques conseils utiles sur la façon d'utiliser les `Chapelures`_ comme "
-"moyen efficace de naviguer sur la plate-forme."
+"que quelques conseils utiles sur la façon d'utiliser les `Fil d'Ariane`_ "
+"comme moyen efficace de naviguer sur la plate-forme."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
@@ -372,6 +372,9 @@ msgid ""
 "would like to change them, you must return to this page and update your user "
 "profile."
 msgstr ""
+"HeRAMS se souviendra de vos préférences de langue la prochaine fois que vous "
+"vous connecterez. Si vous souhaitez les modifier, vous devez revenir à cette "
+"page et mettre à jour votre profil d'utilisateur."
 
 #: docs/index.rst:141
 msgid "Change Email Address"
@@ -486,7 +489,6 @@ msgstr ""
 "|delete| **Supprimer** : Supprime un élément ou un enregistrement spécifique."
 
 #: docs/index.rst:160
-#, fuzzy
 msgid ""
 "|refresh| **Refresh data cache**: This button allows you to manually refresh "
 "a workspace's data cache. Data should be automatically synced upon creating, "
@@ -495,14 +497,14 @@ msgid ""
 "to manually sync the workspace and retrieve the latest information from the "
 "HeRAMS database."
 msgstr ""
-"|refresh| **Rafraîchir le cache de données** : Ce bouton permet aux "
-"utilisateurs de rafraîchir manuellement le cache de données d'un espace de "
-"travail. Les données sont automatiquement rafraîchies toutes les 30 minutes. "
-"Cela signifie que si un enregistrement est mis à jour, les modifications ne "
-"sont pas immédiatement affichées dans le tableau de bord. Ainsi, en "
-"rafraîchissant manuellement le cache de données d'un espace de travail, la "
-"limitation du délai peut être surmontée et les changements effectués "
-"deviennent immédiatement visibles."
+"|refresh| **Rafraîchir le cache de données** : Ce bouton vous permet de "
+"rafraîchir manuellement le cache de données d'un espace de travail. Les "
+"données doivent être automatiquement synchronisées lors de la création, "
+"modification et suppression des réponses. Si vous estimez que la "
+"synchronisation automatique n'a pas correctement rafraîchi les données dans "
+"votre espace de travail, ce bouton vous permet de synchroniser manuellement "
+"l'espace de travail et de récupérer les dernières informations de la base de "
+"données HeRAMS."
 
 #: docs/index.rst:161
 #, fuzzy
@@ -525,18 +527,17 @@ msgstr ""
 "titre ou le token d'un espace de travail."
 
 #: docs/index.rst:163
-#, fuzzy
 msgid ""
 "|share-icon| **Share workspace**: Opens the user management page of a "
 "project or workspace. For more information on go to `User management`_"
 msgstr ""
-"|workspace| **Espace de travail** : Ceci ouvre la liste de tous les espaces "
-"de travail disponibles appartenant au projet. Voir `ici  <#workspaces>`__ "
-"pour plus d'informations sur les espaces de travail."
+"|share-icon| **Partager l'espace de travail** : Ceci ouvre  la page de "
+"gestion des utilisateurs d'un projet ou d'un espace de travail. Pour plus "
+"d'informations, voir `Gestion des utilisateurs`_."
 
 #: docs/index.rst:169
 msgid "Breadcrumbs"
-msgstr "Chapelures"
+msgstr "Fil d'Ariane"
 
 #: docs/index.rst:170
 msgid ""
@@ -546,11 +547,16 @@ msgid ""
 "**Nigeria** in the breadcrumb trail allows you to return to the dashboard "
 "overview page from any of the sub-pages."
 msgstr ""
+"À travers de la plate-forme, des filières sont affichées en haut de chaque "
+"page. Ils ont pour but de vous aider à naviguer plus efficacement sur la "
+"plateforme et de vous fournir un moyen simple d'accéder aux pages "
+"précédentes. Dans l'exemple ci-dessous, en cliquant sur **Nigeria** dans le "
+"fil d'Ariane, vous pouvez revenir à la page d'aperçu du tableau de bord à "
+"partir de n'importe laquelle des sous-pages."
 
 #: docs/index.rst:180
-#, fuzzy
 msgid "View a Project"
-msgstr "Modifier un projet"
+msgstr "Voir un projet"
 
 #: docs/index.rst:182
 msgid ""
@@ -562,9 +568,16 @@ msgid ""
 "rapidly produce indepth alayses for specific areas and indicators of "
 "interest."
 msgstr ""
+"Ce chapitre présente une introduction aux analyses en temps réel, "
+"disponibles sur la plate-forme HeRAMS. Pour chaque projet, un aperçu de haut "
+"niveau sur les indicateurs clés tels que le nombre d'établissements de santé "
+"évalués, la fonctionnalité globale et la disponibilité des services est "
+"présenté. Des tableaux de bord interactifs fournissent des informations "
+"supplémentaires sur les projets individuels et permettent aux utilisateurs "
+"de produire rapidement des analyses approfondies pour des domaines et des "
+"indicateurs d'intérêt spécifiques."
 
 #: docs/index.rst:186
-#, fuzzy
 msgid "Project Overview"
 msgstr "Vue d’ensemble"
 
@@ -608,16 +621,14 @@ msgstr ""
 "et de la disponibilité des services."
 
 #: docs/index.rst:194
-#, fuzzy
 msgid ""
 "For further details, click the |dashboard-button| button. This will open the "
 "project dashboard."
 msgstr ""
-"Pour en savoir plus d'un projet, veuillez cliquer sur le bouton |details|. "
-"Cela ouvrira le tableau de bord du projet."
+"Pour en savoir plus d'un projet, veuillez cliquer sur le bouton |dashboard-"
+"button|. Cela ouvrira le tableau de bord du projet."
 
 #: docs/index.rst:196
-#, fuzzy
 msgid ""
 "Access to the project dashboards may restricted to selected users. If you "
 "would like to be granted access to a project dashboard, please contact your "
@@ -633,7 +644,6 @@ msgstr ""
 "aimeriez avoir accès au tableau de bord."
 
 #: docs/index.rst:205
-#, fuzzy
 msgid "Project dashboard"
 msgstr "Tableau de bord du projet"
 
@@ -657,13 +667,12 @@ msgstr ""
 "soit en cliquant sur le projet dans la carte mondiale."
 
 #: docs/index.rst:210
-#, fuzzy
 msgid ""
 "In the pop-up window, click the |dashboard-button| button. This will open "
 "the interactive dashboard."
 msgstr ""
-"Dans la fenêtre contextuelle, veuillez cliquer sur le bouton |details|. Cela "
-"ouvrira le tableau de bord."
+"Dans la fenêtre contextuelle, veuillez cliquer sur le bouton |dashboard-"
+"button|. Cela ouvrira le tableau de bord."
 
 #: docs/index.rst:211
 msgid ""
@@ -699,12 +708,10 @@ msgid "The animation below shows the dashboards in action."
 msgstr "L'animation ci-dessous montre les tableaux de bord en action."
 
 #: docs/index.rst:234
-#, fuzzy
 msgid "Customizing a dashboard"
 msgstr "Personnaliser le tableau de bord"
 
 #: docs/index.rst:235
-#, fuzzy
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard by applying filters and alter some of default display options."
@@ -714,10 +721,9 @@ msgstr ""
 
 #: docs/index.rst:238
 msgid "Apply filters"
-msgstr ""
+msgstr "Appliquer des filtres"
 
 #: docs/index.rst:240
-#, fuzzy
 msgid ""
 "Data on the dashboard can be filtered. This allows you to scrutinize the "
 "data subsets that are of interest to you."
@@ -778,7 +784,6 @@ msgstr ""
 "cliquer sur le bouton |clearfilter| ."
 
 #: docs/index.rst:260
-#, fuzzy
 msgid "Map Zoom Level and Focus Area"
 msgstr "Modifier le niveau de zoom et la zone de mise au point d'une carte"
 
@@ -829,20 +834,21 @@ msgstr ""
 "des autres points."
 
 #: docs/index.rst:280
-#, fuzzy
 msgid "Exporting a dashboard"
-msgstr "Personnaliser le tableau de bord"
+msgstr "Télécharger le tableau de bord"
 
 #: docs/index.rst:281
 msgid "Dashboards can be printed or exported as PDF document."
 msgstr ""
+"Les tableaux de bord peuvent être imprimés ou téléchargé sous forme de "
+"document PDF."
 
 #: docs/index.rst:283
 msgid "The export will include any filters that might applied."
 msgstr ""
+"L'exportation comprendra tous les filtres qui pourraient être appliqués."
 
 #: docs/index.rst:285
-#, fuzzy
 msgid ""
 "To export a dashboard, open the desired dashboard as explained `here <#view-"
 "a-project-dashboard>`__."
@@ -852,7 +858,6 @@ msgstr ""
 "<#configure-the-project-dashboard>`__."
 
 #: docs/index.rst:286
-#, fuzzy
 msgid "Click the |pdf| icon in the top right corner of your screen."
 msgstr ""
 "Pour vous déconnecter, veuillez cliquer sur le bouton |logout| dans le coin "
@@ -1178,10 +1183,9 @@ msgstr ""
 
 #: docs/index.rst:413
 msgid "Contribute Data"
-msgstr ""
+msgstr "Contribuer aux données"
 
 #: docs/index.rst:415
-#, fuzzy
 msgid ""
 "This chapter is intended for data managers responsible to update HeRAMS "
 "data. It covers all aspects related to data editing, including registering "
@@ -1191,11 +1195,11 @@ msgstr ""
 "Ce chapitre s'adresse principalement aux gestionnaires de données "
 "responsables de la mise à jour des données HeRAMS. Il couvre tous les "
 "aspects liés à la mise à jour des données, y compris l'enregistrement de "
-"nouvelles FS, la mise à jour de l'état des FS existantes ainsi que la "
-"suppression des enregistrements erronés (par exemple, des doublons)."
+"nouvelles formation sanitaire, la mise à jour de l'état des foramtion "
+"sanitaire existantes ainsi que la suppression des enregistrements erronés ("
+"par exemple, des doublons)."
 
 #: docs/index.rst:417
-#, fuzzy
 msgid ""
 "Access to the data edit interface is limited to users responsible to update "
 "data. If you require your access permissions to be changed, kindly contact "
@@ -1206,14 +1210,15 @@ msgid ""
 msgstr ""
 "L'accès à l'interface de mise à jour des données est limité aux utilisateurs "
 "responsables de la mise à jour des données. Si vous souhaitez que vos droits "
-"d'accès soient modifiées, veuillez contacter votre point focal national ou "
-"envoyer un email à `herams@who.int <mailto:herams@who.int?>`_ spécifiant "
-"votre fonction et votre rôle, ainsi qu'une brève explication des raisons "
-"pour lesquelles vous souhaitez que vos droits d'accès soient modifiées."
+"d'accès soient modifiées, veuillez contacter le *propriétaire de l'espace de "
+"travail*, votre *administrateur de projet* ou envoyer un courriel à `herams@"
+"who.int <mailto:herams@who.int?>`_ en précisant votre fonction et votre rôle "
+"ainsi qu'une brève explication sur les raisons pour lesquelles vous "
+"souhaitez que vos autorisations d'accès soient modifiées."
 
 #: docs/index.rst:420
 msgid "Access your workspace"
-msgstr ""
+msgstr "Accéder à votre espace de travail"
 
 #: docs/index.rst:421
 msgid ""
@@ -1302,7 +1307,7 @@ msgstr ""
 
 #: docs/index.rst:458
 msgid "Favorites"
-msgstr ""
+msgstr "Favoris"
 
 #: docs/index.rst:459
 msgid ""
@@ -1362,7 +1367,6 @@ msgid "Edit a Health Facility Response"
 msgstr "Modifier l'enregistrement d'une FS"
 
 #: docs/index.rst:477
-#, fuzzy
 msgid ""
 "Editing a response will overwrite the existing response. If you would like "
 "to update the status of a health facility while keeping the history of "
@@ -1370,9 +1374,9 @@ msgid ""
 "<#add_a_response_to_a_health_facility_record>`__."
 msgstr ""
 "La modification d'un enregistrement écrase l'enregistrement existant. Si "
-"vous souhaitez mettre à jour le statut d'une FS tout en conservant "
-"l'historique des changements, suivez les instructions dans la section ci-"
-"dessous."
+"vous souhaitez mettre à jour le statut d'une formation sanitaire tout en "
+"conservant l'historique des changements, suivez les instructions dans la "
+"section ci-dessous `<#add_a_response_to_a_health_facility_record>`_."
 
 #: docs/index.rst:479
 msgid ""
@@ -1876,7 +1880,6 @@ msgid "HeRAMS Administration"
 msgstr "HeRAMS Administration"
 
 #: docs/index.rst:625
-#, fuzzy
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers "
 "step-by-step instructions for common tasks performed by advanced users (e.g. "
@@ -1890,8 +1893,8 @@ msgstr ""
 "Ce chapitre fournit une vue d'ensemble des pages d'administration dans "
 "HeRAMS et offre des instructions étape par étape pour les tâches courantes "
 "effectuées par les utilisateurs avancés et les administrateurs de projets. "
-"La première partie du chapitre présente le concept `des espaces de travail "
-"<#espaces de travail>`__ tandis que la deuxième partie se concentre sur "
+"La première partie du chapitre présente le concept `des espaces de travail <#"
+"espaces de travail>`_ tandis que la deuxième partie se concentre sur "
 "l'administration au niveau des `Projets`_ et la configuration `Le tableau de "
 "bord du projets`_ spécifique au projet."
 
