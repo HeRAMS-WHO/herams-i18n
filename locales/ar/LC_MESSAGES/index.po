@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 15:18+0000\n"
-"PO-Revision-Date: 2020-10-12 17:20+0000\n"
+"PO-Revision-Date: 2020-11-25 10:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.3.1\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: docs/index.rst:11
@@ -38,14 +38,14 @@ msgid ""
 "management and project administration, please consult the `HeRAMS "
 "administration`_ section."
 msgstr ""
-"مرحبًا بك في **دليل مستخدم هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي "
-"`منصة هيرامس  <https://herams.org/user/login>`_. وهو يوفر إرشادات خطوة بخطوة "
+"مرحبًا بك في **دليل مستخدم هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي `"
+"منصة هيرامس <https://herams.org/user/login>`_. وهو يوفر إرشادات خطوة بخطوة "
 "حول كيفية التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات "
 "الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات "
 "المتاحة باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على "
 "معلومات إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. يرجى "
-"الرجوع إلى  قسم إدارة   لمزيد من الموضوعات المتقدمة المتعلقة بإدارة "
-"المستخدمين و `إدارة هيرامس`_."
+"الرجوع إلى قسم إدارة لمزيد من الموضوعات المتقدمة المتعلقة بإدارة المستخدمين "
+"و `إدارة هيرامس`_."
 
 #: docs/index.rst:16
 #, fuzzy
@@ -58,10 +58,10 @@ msgid ""
 msgstr ""
 "تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة `بمنصة "
 "هيرامس <https://herams.org/user/login>`_. للحصول على معلومات عامة حول نهج "
-"هيرامس وللحصول على إرشادات فنية، يرجى الرجوع إلى `WHO HeRAMS صفحة الويب  "
-"الرسمية  <https://www.who.int/hac/herams/en>`_. للأسئلة الإضافية التي لم يتم "
-"تغطيتها في هذا الدليل، يرجى الاتصال `بفريق دعم هيرامس <mailto:herams@who.int?"
-">`_."
+"هيرامس وللحصول على إرشادات فنية، يرجى الرجوع إلى `WHO HeRAMS صفحة الويب "
+"الرسمية <https://www.who.int/hac/herams/en>`_. للأسئلة الإضافية التي لم يتم "
+"تغطيتها في هذا الدليل، يرجى الاتصال `بفريق دعم هيرامس <mailto:herams@who."
+"int?>`_."
 
 #: docs/index.rst:21
 msgid "Getting started"
@@ -148,16 +148,17 @@ msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr "افتح `herams.org الرابط <https://herams.org>`_ في متصفحك بالإنترنت."
 
 #: docs/index.rst:60
-#, fuzzy
 msgid ""
 "Enter your email address and password in the designated fields in the top "
 "half of the page and click the |login| button."
-msgstr "أدخل عنوان البريد الإلكتروني وكلمة المرور في الحقل المخصص لذلك."
+msgstr ""
+"أدخل عنوان البريد الإلكتروني وكلمة المرور في الحقل المخصص لذلك في النصف "
+"العلوي من الصفحة و اضغط على زر |login| ."
 
 #: docs/index.rst:68
 #, fuzzy
 msgid "It is strongly recommended to user either FireFox or Chrome."
-msgstr "يُنصح بشدة استخدام متصفح الإنترنت  فايرفوكس (FireFox) أو كروم (Chrome)."
+msgstr "يُنصح بشدة استخدام متصفح الإنترنت فايرفوكس (FireFox) أو كروم (Chrome)."
 
 #: docs/index.rst:71
 msgid "Logging out"
