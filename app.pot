@@ -287,11 +287,11 @@ msgid "Dashboard"
 msgstr ""
 
 msgctxt "app"
-msgid "Data update"
+msgid "Data"
 msgstr ""
 
 msgctxt "app"
-msgid "Datas"
+msgid "Data update"
 msgstr ""
 
 msgctxt "app"
