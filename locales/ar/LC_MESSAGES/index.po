@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-24 15:18+0000\n"
-"PO-Revision-Date: 2020-11-25 10:32+0000\n"
+"PO-Revision-Date: 2020-11-26 18:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -26,7 +26,6 @@ msgid "Introduction"
 msgstr "المقدمة"
 
 #: docs/index.rst:13
-#, fuzzy
 msgid ""
 "Welcome to the **HeRAMS User Guide**. This user guide was designed for users "
 "of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step "
@@ -39,16 +38,15 @@ msgid ""
 "administration`_ section."
 msgstr ""
 "مرحبًا بك في **دليل مستخدم هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي `"
-"منصة هيرامس <https://herams.org/user/login>`_. وهو يوفر إرشادات خطوة بخطوة "
-"حول كيفية التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات "
-"الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات "
-"المتاحة باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على "
-"معلومات إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. يرجى "
-"الرجوع إلى قسم إدارة لمزيد من الموضوعات المتقدمة المتعلقة بإدارة المستخدمين "
-"و `إدارة هيرامس`_."
+"منصة هيرامس <https://herams.org>`_. وهو يوفر إرشادات خطوة بخطوة حول كيفية "
+"التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات الرئيسية "
+"لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات المتاحة "
+"باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على معلومات "
+"إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. يرجى الرجوع إلى "
+"قسم إدارة لمزيد من الموضوعات المتقدمة المتعلقة بإدارة المستخدمين و `إدارة "
+"هيرامس`_."
 
 #: docs/index.rst:16
-#, fuzzy
 msgid ""
 "It should be noted that this guide only addresses issues related to the "
 "`HeRAMS platform <https://herams.org/>`_. For general information on the "
@@ -92,22 +90,23 @@ msgstr ""
 
 #: docs/index.rst:32
 msgid "It is strongly recommended to either user FireFox or Chrome."
-msgstr "يُنصح بشدة استخدام متصفح الإنترنت  فايرفوكس (FireFox) أو كروم (Chrome)."
+msgstr "يُنصح بشدة استخدام متصفح الإنترنت فايرفوكس (FireFox) أو كروم (Chrome)."
 
 #: docs/index.rst:34
 msgid ""
 "In the lower half of the screen you should see an option to register as a "
 "new user. Enter your email address and click the |register-white| button."
 msgstr ""
+"في النصف الاسفل من الشاشة سترى خياراً للتسجيل كمستخدم جديد. أدخل عنوان بريدك "
+"الإلكتروني واضغط فوق زر |register-white| ."
 
 #: docs/index.rst:41
-#, fuzzy
 msgid ""
 "A confirmation email will be sent to the email address you entered. Confirm "
 "your registration by clicking the link in the email."
 msgstr ""
-"سيتم إرسال رسالة تأكيد بالبريد الإلكتروني إلى عنوان البريد الإلكتروني الذي "
-"أدخلته."
+"سيتم إرسال رسالة تأكيد بالبريد الإلكتروني للعنوان الذي أدخلته. قم بتأكيد "
+"تسجيلك بالضغط على الرابط الموجود في البريد الإلكتروني."
 
 #: docs/index.rst:43
 msgid ""
@@ -122,12 +121,16 @@ msgid ""
 "A new tab will open prompting you to enter your name and password. Click the "
 "|register-blue| button to finalize your registration."
 msgstr ""
+"ستفتح علامة تبويب جديدة تطالبك بإدخال اسمك وكلمة المرور الخاصة بك. انقر فوق "
+"زر |register-blue| لإنهاء التسجيل الخاص بك."
 
 #: docs/index.rst:47
 msgid ""
 "If you are not automatically logged-in, please follow the steps below to "
 "login as existing user."
 msgstr ""
+"إذا لم تقم بتسجيل الدخول تلقائيًا، فيرجى اتباع الخطوات أدناه لتسجيل الدخول "
+"كمستخدم حالي."
 
 #: docs/index.rst:55
 msgid "Logging in"
@@ -156,7 +159,6 @@ msgstr ""
 "العلوي من الصفحة و اضغط على زر |login| ."
 
 #: docs/index.rst:68
-#, fuzzy
 msgid "It is strongly recommended to user either FireFox or Chrome."
 msgstr "يُنصح بشدة استخدام متصفح الإنترنت فايرفوكس (FireFox) أو كروم (Chrome)."
 
@@ -168,9 +170,8 @@ msgstr "تسجيل الخروج"
 msgid ""
 "To logout click the |logout| button in the top right corner of the screen."
 msgstr ""
-"عندما تكون على نظام مشترك، فأنت تريد التأكد من تسجيل الخروج عند عند "
-"الانتهاء. لتسجيل الخروج، انقر فوق زر |logout| في الزاوية اليمنى العليا من "
-"الشاشة."
+"عندما تكون على نظام مشترك، فأنت تريد التأكد من تسجيل الخروج عند الانتهاء. "
+"لتسجيل الخروج، انقر فوق زر |logout| في الزاوية اليمنى العليا من الشاشة."
 
 #: docs/index.rst:77
 msgid "Reset password"
@@ -214,7 +215,7 @@ msgid ""
 "If you did not receive this email within a few minutes, check your spam "
 "folder."
 msgstr ""
-"إذا لم تستلم هذه الرسالة الإلكترونية في غضون دقائق قليلة ، فتحقق من ملف سبام "
+"إذا لم تستلم هذه الرسالة الإلكترونية في غضون دقائق قليلة، فتحقق من ملف سبام "
 "ببريدك الالكتروني."
 
 #: docs/index.rst:94
@@ -222,9 +223,8 @@ msgid "On the page that opens, enter your new password."
 msgstr "في الصفحة التي تفتح، أدخل كلمة المرور الجديدة."
 
 #: docs/index.rst:95
-#, fuzzy
 msgid "Click the |reset-password| button to confirm your new password."
-msgstr "انقر فوق |submit-en| زر لتأكيد كلمة المرور الجديدة."
+msgstr "انقر فوق زر |reset-password| لتأكيد كلمة المرور الجديدة."
 
 #: docs/index.rst:96
 msgid ""
@@ -271,18 +271,16 @@ msgid "Change Password"
 msgstr "تغيير كلمة المرور"
 
 #: docs/index.rst:110
-#, fuzzy
 msgid ""
 "To change your password, open your user profile as explained `above <#update-"
 "your-user-profile>`__."
 msgstr ""
-"لتغيير كلمة المرور الخاصة بك ، افتح ملف تعريف المستخدم الخاص بك كما هو موضح "
-"`أعلاه <#update-your-user-profile>`_."
+"لتغيير كلمة المرور الخاصة بك، افتح ملف تعريف المستخدم الخاص بك كما هو موضح `"
+"أعلاه <#update-your-user-profile>`__."
 
 #: docs/index.rst:111
-#, fuzzy
 msgid "In the pop-up window that opens, select the **Password**  tab."
-msgstr "في الصفحة التي تفتح، أدخل كلمة المرور الجديدة."
+msgstr "في النافذة المنبثقة التي تظهر، قم باختيار علامة  ** كلمة المرور**."
 
 #: docs/index.rst:112
 #, fuzzy
