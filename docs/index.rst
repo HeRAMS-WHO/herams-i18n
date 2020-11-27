@@ -54,9 +54,9 @@ Creating a User Account
 Logging in
 ----------
 
-.. note:: New users without an existing account, will have to register before being able to login to the HeRAMS platform. To create a user account, follow the instructions `here <#creating-a-user-account>`_.
+.. note:: New users without an existing account, will have to register before being able to login to the HeRAMS platform. To create a user account, follow the instructions `here <#creating-a-user-account>`__.
 
-1. Open the link `herams.org <https://herams.org>`_ in your browser.
+1. Open the link `herams.org <https://herams.org>`__ in your browser.
 2. Enter your email address and password in the designated fields in the top half of the page and click the |login| button.
 
 .. image:: media/img/HeRAMS_login.png
@@ -93,7 +93,7 @@ In case you forgot your password, the instructions below will guide you through 
 
 5. On the page that opens, enter your new password. 
 6. Click the |reset-password| button to confirm your new password.
-7. You have now successfully changed your password. To access the HeRAMS platform, return to the `sign in page <https://herams.org>`_ and enter your credentials.
+7. You have now successfully changed your password. To access the HeRAMS platform, return to the `sign in page <https://herams.org>`__ and enter your credentials.
 
 
 
@@ -159,11 +159,11 @@ This section aims to provide an overview of key icons used accross the platform 
 * |delete| **Delete**: Deletes a specific item or record. 
 * |refresh| **Refresh data cache**: This button allows you to manually refresh a workspace's data cache. Data should be automatically synced upon creating, editing, and deleting responses. In case you feel that the automatic sync did not properly refresh the data in your workspace, this button allows you to manually sync the workspace and retrieve the latest information from the HeRAMS database.
 * |download| **Download data**: Opens the data export interface, permitting users to export data for further analysis in external applications. See `Download data`_ for more information.
-* |pencil-thin| **Update workspace**:  Enables *Project admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.)
-* |share-icon| **Share workspace**: Opens the user management page of a project or workspace. For more information on go to `User management`_
+* |pencil-thin| **Update workspace**: Enables *Project admins* to alter the settings of an item (e.g. workspace, dashboard element, etc.).
+* |share-icon| **Share workspace**: Opens the user management page of a project or workspace and enable project admins and workspace owners to invite users to contribute data. See `User management`_ for furhter details.
 
 
-.. note:: The number of buttons visible to you depends on your `user role<#user-roles>` and might vary from one workspace/project to another.
+.. note:: The number of buttons visible to you depends on your `user role<#user-roles>`_ and might vary from one workspace/project to another.
 
 Breadcrumbs
 -----------
@@ -259,7 +259,7 @@ Data on the dashboard can be filtered. This allows you to scrutinize the data su
 Map Zoom Level and Focus Area
 """""""""""""""""""""""""""""
 
-You can adjust the zoom level of a map by using the scroll button on your mouse. To change the focus area of a map, position you mouse in the map element. Right click (hold) and drag the map in the desired direction. This will move the map focus area.
+You can adjust the zoom level of a map by using the scroll button on your mouse. To change the focus area of a map, position you mouse in the map element. Click the map (hold) and drag the map in the desired direction. This will move the map focus area.
 
 Remove a Category from Charts or Maps
 """""""""""""""""""""""""""""""""""""
@@ -419,7 +419,7 @@ This chapter is intended for data managers responsible to update HeRAMS data. It
 Access your workspace
 ---------------------
 HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data.
-A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. 
+A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical entity. 
 Each workspace has a dedicated focal point, the *Workspace owner*, who is responsible for updating and maintaining health facility records of their workspace. 
 *Workspace owners* may invite additional users to contribute to their data. 
 For more information on how to grant users access to a workspace please view the `user management`_ section. 
@@ -433,7 +433,7 @@ For more information on how to grant users access to a workspace please view the
 	:alt: share workspace
 	:align: center
 
-3. This opens the list of available workspace of the selected project. For each project, the table displays the number **workspaces**, **contributors**, **health facilities** and **responses**.
+3. This opens the list of available workspace of the selected project. For each project, the table displays the number of **workspaces**, **contributors**, **health facilities** and **responses**.
   
 .. tip:: The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times.
 
@@ -456,7 +456,7 @@ The video below summarizes the steps to access the data entry interface.
    
 Favorites
 ---------
-To simplify navigation, it is recommended that you add frequently accessed workspaces to your list of. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen. 
+To simplify navigation, it is recommended that you add frequently accessed workspaces to your list of favorites. Workspaces marked as favorites can accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen. 
 
 .. note:: For user working on multiple project, please note that it is possible to add workspace from different projects to your list of favorites. 
 
@@ -474,12 +474,12 @@ To simplify navigation, it is recommended that you add frequently accessed works
 Edit a Health Facility Response
 -------------------------------
 
-.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, follow the instructions in the section `below <#add-a-response-to-a-health-facility-record>`_.
+.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a response to a health facility record>`_.
 
 1. Open the data update interface as outlined `above <#access-the-data-update-interface>`__.
 2. To ease navigation, records are grouped by health facility. To edit a specific response, you first have to expand the health facility by clicking anywhere in the corresponding row.
  
-.. tip:: Keep in mind that the table might have multiple pages. Use the button in the bottom right corner to advance to the next page. You can also reduce the number of records displayed by applying filters.
+.. tip:: Keep in mind that the table might have multiple pages. Use the buttons in the bottom right corner to advance to the next page. You can also reduce the number of records displayed by applying filters.
 
 .. image:: media/img/HeRAMS_data_update_interface.png
    :height: 300px
@@ -488,9 +488,9 @@ Edit a Health Facility Response
  
 3. You should now see a list of all responses belonging to the selected health facility. In the left-most column of the list, there are three buttons allowing to preform the following actions. 
  
-  - |view| View : Click this button to view the full response 
-  - |pencil| Edit: Allows you to modify an existing response. This will permanently overwrite the exisitng infomration of a response and cannot be undone.
-  - |delete| Delete: Permanently deletes a response form a health facility. See `remove a response from health facility`_ for more information.
+  - |view| **View** : Click this button to view the full response 
+  - |pencil| **Edit**: Allows you to modify an existing response. This will permanently overwrite the existing infomration and cannot be undone.
+  - |delete| **Delete**: Permanently deletes a response form a health facility. See `remove a response from health facility`_ for more information.
  
  .. image:: media/img/HeRAMS_data_update_interface_action_buttons.png
    :height: 200px
@@ -499,7 +499,7 @@ Edit a Health Facility Response
  
 .. note:: The number of action buttons visible depends on your project's settings.
   
-4. To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected record. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
+4. To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected response. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or to return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 5. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button.
 6. If you would like to discard your edits, click the |clear| button in the lower right corner of the page.
 
@@ -516,7 +516,7 @@ Add a Response to a Health Facility Record
 
 If HeRAMS is used as a monitoring tool, you can record changes to a health facility  by adding a new reponse. This will add a new response to your health facility while keeping the history of your updates.
 
-.. note:: The feature to update health facilities is not enabled in all projects. Contact your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information.
+.. note:: This feature is not enabled in all projects. Contact your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information.
 
 1. To update the status of a health facility, open the `data update interface <#access-the-data-update-interface>`__.
 2. Click the health facility record you would like to add a response to. 
@@ -537,7 +537,7 @@ If HeRAMS is used as a monitoring tool, you can record changes to a health facil
 Register a New Health Facility
 ------------------------------
 
-1. To register a new health facility, navigate to the data `update interface <#access-the-data-update-interface>`__.
+1. To register a new health facility, navigate to the `data update interface <#access-the-data-update-interface>`__.
 2. Click the |new-record| button in the top left corner. This will open a blank form, allowing you to register a new health facility.
 3. Use the |next| buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.   
 4. Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button. 
@@ -568,19 +568,19 @@ Data for individual health facilities can be downloaded as **CSV** or **Excel** 
 Download Workspace Data
 -----------------------
 
-Follow the instructions below to download data for your workspace. If you require data from multiple workspaces, you can repeat the below steps and merge your data in an analysis tool of choice.
+Follow the instructions below to download data for your workspace. If you require data from multiple workspaces, you can repeat the below steps and merge your data in the analysis tool of choice.
 
 .. note:: In order to download data, you will require special permissions to the workspace. Contact your system administrator to elevate your access rights if needed.
 
 
 1. Navigate to the workspace page of your project (see `Access your workspace`_ steps 1 - 4 for detailed instructions).
 2. In the rightmost column, click the |download| icon. This will open a new page, allowing you to customize your export.
-3. The survey settings enabling you to tailor the export to your needs. You can chose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options.
+3. You can chose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options.
 
 .. note:: If you choose to export answers as code, question with predefined answer option will show coded value (e.g. A1) instead of the text label.  
 
 4. If a survey is available in multiple language, use the drop-down list to specify the export language. 
-5. By default, all available responses for each health facility will be exported. For projects with multiple responses per health facility, the report date can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **Report date** equal to today.
+5. By default, all available responses for each health facility will be exported. For projects with multiple responses per health facility, the **report** date can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date.
 6. Once you have defined the export settings, select between the two export formats (**CSV** or **Excel**) by clicking the respective button. 
 
 .. note:: For large data sets, exporting data in Excel takes substantially longer than exporting as **CSV** format.  
@@ -622,10 +622,10 @@ The below instructions guide users through the steps to define the data encoding
 HeRAMS Administration
 =====================
 
-This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project admins* on how to administer a project locally. 
+This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used throughout the platform followed by a detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project admins* on how to administer a project locally. 
 
 
-.. note:: Access to different parts of the admin interface depends on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered.
+.. note:: Access to different parts of the admin interface depends on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to be altered.
 
 User Management
 ---------------
@@ -643,15 +643,15 @@ Granting a user permission to a workspace enables them to contribute or download
 
 **Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used sparingly. 
 
-.. note:: Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **Manage users** is not able to grant access to edit data to other users. 
+.. note:: Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **manage users** is not able to grant access to edit data to other users. 
 
-Workspace permission should always be assigned with regards to the user roles. The below screenshots indicate the level of permissions that should be granted to the respective user. For further details on the standard HeRAMS user roles, please consult the `previous section <#user-roles>`__.
+Access to workspaces and projects should always be granted with regards to the users' roles and responisibilities. For more information on user roles and the recommended permissions for each role consult the sections `user roles`_ and `mapping user roles to permissions`_.
 
 
 Project Permissions
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
-Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *project level*, users are being granted access to all workspaces. For example, if a user is granted *edit* permission at the **project level**, they can edit data for all workspace. In contrast, if a user is granted access at the **workspace level**, they are only able to contribute data to that specific workspace.
+Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *project level*, users are being granted access to all workspaces. For example, if a user is granted *edit* permission at the **project level**, they can edit data in all workspaces. In contrast, if a user is granted access at the **workspace level**, they are only able to contribute data to that specific workspace.
 
 There are five permissions that can be granted at the project level.
 
@@ -669,9 +669,9 @@ There are five permissions that can be granted at the project level.
 
 
 User Roles
-~~~~~~~~~~
+~~~~~~~~~~~~
 
-There are six standard roles used accross HeRAMS projects. 
+There are six standard user roles used accross projects. 
 
   .. image:: media/img/HeRAMS_user_roles.png
 	:height: 300px
@@ -681,7 +681,7 @@ There are six standard roles used accross HeRAMS projects.
 
 **Project owner**: Designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality.
 
-**Project admin**: The *project owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS Project and assigns them the role of *project admin*. The *project admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *project admins* are responsible for the overall training and management of users, they can assign *Workspace owners* to manage individual workspaces.
+**Project admin**: The *project owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS project and assigns them the role of *project admin*. The *project admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *project admins* are responsible for the overall training and management of users, they can assign *Workspace owners* to manage individual workspaces.
 
 **Workspace owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *workspace owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard.
 
@@ -711,7 +711,7 @@ Optionally, *data contributors* can also be granted permissions to download data
 	:alt: data contributor (advanced)
 	:align: center
 
-**Data viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only. 
+**Data viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with the permission to *Edit Data*, under special circumstances, permission might only be granted to download data. 
 
   .. image:: media/img/HeRAMS_permissions_data_viewer.png
 	:height: 200px
@@ -737,15 +737,15 @@ Under special circumstance a *project admin* might grant a *workspace owner* adm
 
 
 Add a User
-~~~~~~~~~~
+~~~~~~~~~~~~
 
 1. To grant a user access to a workspace or project, navigate to the list of workspace or projects, respectively. For more details see `Access your workspace`_.
 	
-2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings go to `Icons and their meaning`_.  
+2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will open the user management page. For all full list of icons and their meanings go to `Icons and their meaning`_.  
 
 3. To grant a user access to a workspace or project, you have to *share* it with them. 
 
-4. You should now see a page similar to the image below. On the bottom half of the page, you can see a list of all users currently having access to the workspace including their permission level. In the top half of the page, you have the option to add a new user. Start typing the user’s name in the top field. You will notice that the list of available users dynamically filters as you are typing. Select the user you would like to add.
+4. You should now see a page similar to the image below. On the bottom half of the page, you can see a list of all users currently having access to the workspace including their permissions. In the top half of the page, you have the option to add a new user. Start typing the user’s name in the top field. You will notice that the list of available users dynamically filters as you are typing. Select the user you would like to add.
   
   .. image:: media/img/HeRAMS_workspace_share.png
 	:height: 200px
@@ -766,8 +766,8 @@ Add a User
    :align: center
 	
 	
-Change a User's Workspace Permission
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Change a User's Permission
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Follow the instructions outlined  `above <#add-a-user>`__ to open the user management interface of your workspace or project. 
 2. On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions.
@@ -779,8 +779,8 @@ Change a User's Workspace Permission
    :align: center
 	
 	
-Remove a User from a Workspace
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remove a User
+~~~~~~~~~~~~~
 
 1. Open the user management interface of your *Workspace* or *Project*. See `here <#add-a-user>`__ for more details on how to access the user management interface. 
 2. On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions.
@@ -853,7 +853,7 @@ Create a Dashboard Page
 6. Click the |create-page| button to add the page to the dashboard.
 7. If you return to the previous page, you will see the page appearing in the list of available pages.
 
-.. note:: You only created an empty page. To add elements to your page, see section `Add a New Element to a Page`_.
+.. note:: You only created an empty page. To add elements to your page, see section `Add a new element to a page`_.
 
 Modify a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -924,7 +924,7 @@ Modify Dashboard Elements
 
 Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard.
 
-.. tip:: To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`_.
+.. tip:: To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`__.
    
 1. Open the dashboard and navigate to the element you would like to change.
 2. In the top right corner of the element you would like to change, you should see a |pencil-thin| icon. Right-click the icon to open the element's configuration page.
@@ -934,7 +934,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 	- to change the colors of a map or a chart; and
 	- to rename the element.
 
-  .. note: See the section `below <#add-a-new-element-to-a-page>`_ for further details on how to create and modify dashboard elements.
+  .. note: See the section `below <#create-a-dashboard-element>`__ for further details on how to create and modify dashboard elements.
 
 4. Save your changes by clicking the |update-element| button.
 
@@ -946,7 +946,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 Delete Dashboard Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Access the list of exisitng dashboard elements as described `here <#create-a-dashboard-element>`__.
+1. Access the list of existing dashboard elements as described `here <#create-a-dashboard-element>`__.
 2. In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify.
 3. In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element.
 
@@ -966,7 +966,7 @@ This section aims to help users troubleshoot frequently encountered issues. In c
 * `View a project/dashboard`_
 
   * `Can't access a project dashboard`_
-  * `Who has access to your project?`_
+  * `Who has access to your project/workspace?`_
   
 * `Data editing & downloading`_
 
@@ -1000,12 +1000,12 @@ Can't access a project dashboard
 
 For data protection reasons, access to the project dashboards is only granted upon request. If you require access to a project, please contact your country focal point or send an email to `hearms@who.int <mailto:herams@who.int?>`_, specifying why you require access to the project.
 
-Who has access to your project?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Who has access to your project/workspace?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In-country administrators and users responsible for a project or workspace can verify the list of users having access to the
 project and/or workspace as well as their permission levels.
-See `Add a User`_ for more information on granting users access to a *Project* or *Workspace*.
+See `Add a user`_ for more information on granting users access to a *Project* or *Workspace*.
 
 Data editing & downloading
 --------------------------
