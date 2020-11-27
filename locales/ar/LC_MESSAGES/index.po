@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-26 18:32+0000\n"
+"PO-Revision-Date: 2020-11-27 20:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -417,9 +417,8 @@ msgid ""
 "project. See `here <#access-your-workspace>`__ for more information on "
 "workspaces."
 msgstr ""
-"|workspace| **مساحات العمل**: تفتح  قائمة بجميع مساحات العمل المتاحة "
-"للمشروع. انظر `هنا <#workspaces>`__  للحصول على مزيد من المعلومات حول مساحات "
-"العمل."
+"|workspace| **مساحات العمل**: تفتح قائمة بجميع مساحات العمل المتاحة للمشروع. "
+"انظر `هنا <#workspaces>`__ للحصول على مزيد من المعلومات حول مساحات العمل."
 
 #: docs/index.rst:156
 #, fuzzy
@@ -481,15 +480,14 @@ msgstr ""
 "|pencil-thin| **تحديث مساحة العمل**: يسمح بتغيير عنوان أو رمز مساحة العمل."
 
 #: docs/index.rst:163
-#, fuzzy
 msgid ""
 "|share-icon| **Share workspace**: Opens the user management page of a "
 "project or workspace and enable project admins and workspace owners to "
 "invite users to contribute data. See `User management`_ for furhter details."
 msgstr ""
-"|workspace| **مساحات العمل**: تفتح  قائمة بجميع مساحات العمل المتاحة "
-"للمشروع. انظر `هنا <#workspaces>`__  للحصول على مزيد من المعلومات حول مساحات "
-"العمل."
+"|share-icon| **شارك مساحة العمل**: تفتح صفحة إدارة المستخدمين اما لمشروع أو "
+"لمساحة عمل، مما يمكن مسؤولي المشروع ومالكي مساحة العمل من دعوة المستخدمين "
+"للمساهمة بالبيانات. انظر `إدارة المستخدمين`__ للحصول على مزيد من المعلومات."
 
 #: docs/index.rst:166
 msgid ""
@@ -797,12 +795,8 @@ msgstr ""
 "معلومات المشروع `هنا <#configure-the-project-dashboard>`__."
 
 #: docs/index.rst:286
-#, fuzzy
 msgid "Click the |pdf| icon in the top right corner of your screen."
-msgstr ""
-"عندما تكون على نظام مشترك، فأنت تريد التأكد من تسجيل الخروج عند عند "
-"الانتهاء. لتسجيل الخروج، انقر فوق زر |logout| في الزاوية اليمنى العليا من "
-"الشاشة."
+msgstr "اضغط على زر |pdf| الموجود في أعلى يمين الشاشة."
 
 #: docs/index.rst:292
 msgid ""
@@ -812,7 +806,7 @@ msgstr ""
 
 #: docs/index.rst:295
 msgid "Default dashboard pages"
-msgstr "صفحات  لوحة المعلومات الافتراضية"
+msgstr "صفحات لوحة المعلومات الافتراضية"
 
 #: docs/index.rst:297
 msgid ""
@@ -820,7 +814,7 @@ msgid ""
 "dashboard. Each page refers to a HeRAMS standard information pillar."
 msgstr ""
 "يقدم القسم أدناه نظرة عامة على الصفحات القياسية المتوفرة في لوحة المعلومات. "
-"تشير كل صفحة إلى احد اعمدة  معلومات هيرامس القياسية."
+"تشير كل صفحة إلى احد اعمدة معلومات هيرامس القياسية."
 
 #: docs/index.rst:299
 msgid ""
@@ -828,8 +822,9 @@ msgid ""
 "each project's need. Your dashboard might, therefore, be substantially "
 "different from the example pages displayed below."
 msgstr ""
-"يتم  ترتيب وبناء محتوى لوحات المعلومات بشكل فردي بناءً على حوجة كل مشروع. "
-"لذلك، قد تكون لوحة المعلومات مختلفة تمامًا عن أمثلة الصفحات المعروضة أدناه."
+"يتم ترتيب وبناء محتوى لوحات المعلومات بشكل فردي بناءً على حوجة كل مشروع. "
+"لذلك، قد تكون لوحة المعلومات الخاصة بمشروعك مختلفة تمامًا عن أمثلة الصفحات "
+"المعروضة أدناه."
 
 #: docs/index.rst:302
 msgid "Overview"
@@ -956,7 +951,7 @@ msgid ""
 "a table displays the list of priority areas in terms of non-functional "
 "health facilities and reported causes."
 msgstr ""
-"يعرض الجدول قائمة المناطق ذات الأولوية من حيث المرافق الصحية الغير عاملة  "
+"يعرض الجدول قائمة المناطق ذات الأولوية من حيث المرافق الصحية الغير عاملة "
 "والأسباب المبلغ عنها."
 
 #: docs/index.rst:355
@@ -1157,13 +1152,11 @@ msgstr ""
 "النقطة الزرقاء المقابلة على خريطة العالم."
 
 #: docs/index.rst:429
-#, fuzzy
 msgid ""
 "Click the |workspace-button| button on the bottom right corner of the pop-up."
 msgstr ""
-"عندما تكون على نظام مشترك، فأنت تريد التأكد من تسجيل الخروج عند عند "
-"الانتهاء. لتسجيل الخروج، انقر فوق زر |logout| في الزاوية اليمنى العليا من "
-"الشاشة."
+"اضغط على زر |workspace-button| الموجود في الزاوية اليمنى السفلية من النافذة "
+"المنبثقة."
 
 #: docs/index.rst:436
 #, fuzzy
@@ -1249,14 +1242,11 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:467
-#, fuzzy
 msgid ""
 "To view your favorites, click the white star icon in the top left corner of "
 "your screen."
 msgstr ""
-"عندما تكون على نظام مشترك، فأنت تريد التأكد من تسجيل الخروج عند عند "
-"الانتهاء. لتسجيل الخروج، انقر فوق زر |logout| في الزاوية اليمنى العليا من "
-"الشاشة."
+"لعرض المفضلة، انقر فوق رمز النجمة البيضاء في الزاوية العلوية اليسرى للشاشة."
 
 #: docs/index.rst:469
 msgid ""
@@ -1372,8 +1362,8 @@ msgid ""
 "If you would like to discard your edits, click the |clear| button in the "
 "lower right corner of the page."
 msgstr ""
-"إذا كنت ترغب في تجاهل تعديلاتك، فانقر فوق زر |clear|  في الزاوية اليمنى "
-"السفلى من الصفحة."
+"إذا كنت ترغب في تجاهل التعديلات التي قمت بها، فانقر فوق زر |clear| في "
+"الزاوية اليمنى السفلى من الصفحة."
 
 #: docs/index.rst:506
 msgid ""
@@ -1505,13 +1495,12 @@ msgstr ""
 "interface>`__."
 
 #: docs/index.rst:552
-#, fuzzy
 msgid ""
 "You should now see the history of response to the selected record. To remove "
 "a specific response, click the |delete| icon in the first column"
 msgstr ""
-"لعرض المرافق الصحية التي تعد جزءًا من مساحة عمل معينة، انقر فوق أيقونة |"
-"update-data| في خانة الإجراء."
+"ستشاهد الآن الاستجابات المحفوظة للسجل الذي تم اختياره. لحذف سجل معين، انقر "
+"فوق رمز |delete| في العمود الأول"
 
 #: docs/index.rst:553
 msgid ""
@@ -1771,7 +1760,6 @@ msgid "HeRAMS Administration"
 msgstr "إدارة هيرامس"
 
 #: docs/index.rst:625
-#, fuzzy
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers "
 "step-by-step instructions for common tasks performed by advanced users (e.g. "
@@ -1783,12 +1771,14 @@ msgid ""
 "admins* on how to administer a project locally."
 msgstr ""
 "يقدم هذا الفصل نظرة عامة على صفحات الادارة في هيرامس ويقدم إرشادات خطوة "
-"بخطوة للمهام  يؤديها المستخدمون المتقدمون ومسؤولو المشروع. يقدم الجزء الأول "
-"من الفصل مفهوم `مساحات العمل`_ في حين يركز الجزء الثاني على `إدارة`_  مستوى "
-"المشروعات وتهيئة المشروع المحددة `لوحة معلومات المشروع`_."
+"بخطوة للمهام التي يقوم بها المستخدمون ذو الصلاحيات المتقدمة (على سبيل المثال "
+"*مالكو مساحة العمل* و *مسؤولو المشروع*. يركز الجزء الأول من الفصل على إدارة "
+"المستخدم. ويوفر نظرة عامة على `أدوار المستخدم`_ الافتراضية المستخدمة في جميع "
+"أنحاء النظام الأساسي متبوعة بوصف تفصيلي حول كيفية إضافة مستخدمين إلى مساحات "
+"العمل والمشاريع. تركز الأجزاء المتبقية من هذا الفصل على مواضيع أكثر تقدمًا "
+"وتهدف إلى توجيه *مسؤولي المشروع* حول كيفية إدارة مشروعهم محليًا."
 
 #: docs/index.rst:628
-#, fuzzy
 msgid ""
 "Access to different parts of the admin interface depends on your function "
 "and role. If you require your permissions to be changed, kindly contact your "
@@ -1796,9 +1786,10 @@ msgid ""
 "int?>`_ specifying your function and role as well as a brief explanation of "
 "why you would like your access permissions to be altered."
 msgstr ""
-"إذا كنت بحاجة إلى تغيير صلاحياتك، يرجى الاتصال بمسؤول التنسيق في بلدك أو "
-"إرسال بريد إلكتروني إلى `فريق دعم هيرامس <?mailto:herams@who.int>`_ مع تحديد "
-"وظيفتك ودورك بالإضافة إلى شرح موجز عن سبب  رغبتك في تغيير صلاحيات الوصول "
+"يعتمد الوصول إلى أجزاء مختلفة من واجهة المسؤول على وظيفتك ودورك. إذا كنت "
+"بحاجة إلى تغيير صلاحياتك، يرجى الاتصال *بمسؤول التنسيق في بلدك* أو إرسال "
+"بريد إلكتروني إلى `فريق دعم هيرامس <?mailto:herams@who.int>`_ مع تحديد "
+"وظيفتك ودورك بالإضافة إلى شرح موجز عن سبب رغبتك في تغيير صلاحيات الوصول "
 "الخاصة بك."
 
 #: docs/index.rst:631
@@ -2035,7 +2026,7 @@ msgstr ""
 #: docs/index.rst:740
 #, fuzzy
 msgid "Add a User"
-msgstr "إضافة مستخدم  إلى مشروع"
+msgstr "إضافة مستخدم إلى مشروع"
 
 #: docs/index.rst:742
 msgid ""
@@ -2295,13 +2286,12 @@ msgstr ""
 "settings| في الزاوية اليمنى العليا من الشاشة."
 
 #: docs/index.rst:839
-#, fuzzy
 msgid ""
 "In the navigation pane on the left, click **Projects** . This will open a "
 "overview table of all ongoing Projects in HeRAMS."
 msgstr ""
-"في جزء التنقل الموجود على اليسار، انقر فوق `Projects  ربط <https://herams."
-"org/project/index>`_ لعرض قائمة بجميع المشاريع المتاحة."
+"في جزء التنقل الموجود على اليسار، انقر فوق **المشاريع**. سيؤدي هذا إلى فتح "
+"جدول يتضمن جميع المشاريع المنفذة في هيرامس."
 
 #: docs/index.rst:840
 #, fuzzy
@@ -2375,16 +2365,16 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:862
-#, fuzzy
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings. You are now able to change the page's settings as well as "
 "to modify elements displayed on this page. Go to `create a dashboard "
 "element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
-"لتغيير صفحة حالية، انقر فوق زر |pencil-black| بجانب اسم الصفحة. هذا سيفتح "
-"إعدادات الصفحة. أنت الآن قادر على تغيير العنوان وترتيب الصفحة. انظر `أعلاه "
-"<#add-a-new-page-to-a-dashboard>`__  للحصول على مزيد من التفاصيل."
+"اضغط فوق زر |pencil-thin| بجانب اسم الصفحة، سيؤدي هذا إلى فتح إعدادات "
+"الصفحة. يمكنك الآن تغيير إعدادات الصفحة وكذلك تعديل العناصر التي تظهر في هذه "
+"الصفحة. للحصول على مزيد من المعلومات حول كيفية إضافة عناصر لوحة المعلومات "
+"إلى صفحتك، انتقل إلى `إنشاء عنصر بلوحة معلومات` _ ."
 
 #: docs/index.rst:863
 msgid "Save your changes by clicking the |update-page| button."
@@ -2401,12 +2391,11 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:869
-#, fuzzy
 msgid ""
 "In the list of available page, use the |delete| icon next to the page you "
 "would like to delete."
 msgstr ""
-"في قائمة الصفحات المتاحة، استخدم زر |delete-black|  بجوار الصفحة التي تريد "
+"في قائمة الصفحات المتاحة، استخدم زر |delete| الموجود بجانب الصفحة التي تريد "
 "حذفها."
 
 #: docs/index.rst:871
@@ -2433,7 +2422,7 @@ msgid ""
 msgstr ""
 "يغطي هذا القسم الخطوات اللازمة لإضافة عنصر جديد إلى صفحة لوحة المعلومات "
 "الحالية. إذا كنت ترغب في تمديد لوحة المعلومات الخاصة بك عن طريق إضافة صفحات "
-"إضافية ، يرجى الاطلاع على `إضافة صفحة جديدة إلى لوحة المعلومات`_  للحصول على "
+"إضافية ، يرجى الاطلاع على `إضافة صفحة جديدة إلى لوحة المعلومات`_ للحصول على "
 "مزيد من المعلومات."
 
 #: docs/index.rst:878
@@ -2443,13 +2432,12 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:879
-#, fuzzy
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings."
 msgstr ""
-"انقر فوق زر |pencil-thin|  في العمود **Actions** في مشروعك. سيؤدي هذا إلى "
-"فتح صفحة خصائص المشروع."
+"انقر فوق زر |pencil-thin| الموجود بجانب اسم الصفحة. سيؤدي هذا إلى فتح صفحة "
+"الاعدادات."
 
 #: docs/index.rst:880
 #, fuzzy
@@ -2700,30 +2688,31 @@ msgid ""
 "If you did not receive an email upon registering or resetting your password, "
 "follow the steps below to troubleshoot the issue."
 msgstr ""
+"إذا لم تتلق رسالة بريد إلكتروني عند التسجيل أو إعادة تشغيل كلمة المرور "
+"الخاصة بك، فاتبع الخطوات أدناه لمعالجة المشكلة."
 
 #: docs/index.rst:985
 msgid ""
 "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
+"قم بتحديث صندوق الوارد الخاص بك. قد يستغرق ظهور البريد الإلكتروني بضع دقائق."
 
 #: docs/index.rst:986
 msgid "Check your spam/junk folder."
-msgstr ""
+msgstr "تحقق من مجلد البريد العشوائي / البريد غير المرغوب فيه."
 
 #: docs/index.rst:987
 msgid ""
 "Try to register again. You might have accidentally misspelled your email."
-msgstr ""
+msgstr "حاول التسجيل مرة أخرى. ربما أخطأت في كتابة بريدك الإلكتروني."
 
 #: docs/index.rst:988
-#, fuzzy
 msgid ""
 "If the above steps did not solve your issue, please contact your system "
 "administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
-"يهدف هذا القسم إلى مساعدة المستخدمين على استكشاف المشكلات التي تواجههم بشكل "
-"متكرر. في حالة مواجهة مشكلة لم يتم تناولها هنا، يرجى الاتصال بمسؤول بلدك أو "
-"إرسال بريد إلكتروني إلى `<?hearms@who.int <mailto: herams@who.int`_."
+"إذا لم تنجح الخطوات المذكورة أعلاه في حل مشكلتك، فيرجى الاتصال بمسؤول النظام "
+"أو إرسال بريد إلكتروني إلى`<?hearms@who.int <mailto: herams@who.int`__."
 
 #: docs/index.rst:991
 msgid "How to reset your password?"
@@ -2734,8 +2723,8 @@ msgid ""
 "If you forgot your password, follow the instructions provided `here <#reset-"
 "password>`__ to reset your password."
 msgstr ""
-"إذا نسيت كلمة المرور الخاصة بك، فاتبع الإرشادات المتوفرة `هنا  <#reset-"
-"password>`__ لإعادة تعيين كلمة المرور الخاصة بك."
+"إذا نسيت كلمة المرور الخاصة بك، فاتبع الإرشادات المتوفرة `هنا <#reset-"
+"password>`__ لإعادة تشغيل كلمة المرور الخاصة بك."
 
 #: docs/index.rst:996
 msgid "View a project/dashboard"
@@ -2812,9 +2801,9 @@ msgid ""
 "instruction outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
 "إذا قمت بفتح البيانات التي تم تنزيلها من هيرامس في برنامح اكسيل، فقد تواجه "
-"مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. "
-"على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على **Camp de rÃ © fugiÃ "
-"© s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح لقراءة "
+"مشكلة عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. على "
+"سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على **Camp de rÃ © fugiÃ © "
+"s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح لقراءة "
 "بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة `هنا <#data-encoding-in-"
 "excel>`__ ."
 
