@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-02 10:41+0200\n"
-"PO-Revision-Date: 2020-06-03 15:52+0000\n"
+"PO-Revision-Date: 2020-11-29 18:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.3.1\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
@@ -34,7 +34,7 @@ msgstr "# مساحات العمل"
 
 msgctxt "app"
 msgid "(Not set)"
-msgstr ""
+msgstr "(لم يتم ضبطة)"
 
 msgctxt "app"
 msgid "25 - 50%"
@@ -78,19 +78,19 @@ msgstr "تم إرسال بريد إلكتروني للتحقق من عنوانك
 
 msgctxt "app"
 msgid "Actions"
-msgstr ""
+msgstr "إجراءات"
 
 msgctxt "app"
 msgid "Add"
-msgstr ""
+msgstr "اضف"
 
 msgctxt "app"
 msgid "Add permissions"
-msgstr ""
+msgstr "اضف صلاحيات"
 
 msgctxt "app"
 msgid "Add services"
-msgstr ""
+msgstr "اضف خدمات"
 
 msgctxt "app"
 msgid "Admin dashboard"
@@ -98,11 +98,11 @@ msgstr "لوحة تحكم المشرف"
 
 msgctxt "app"
 msgid "Advanced settings"
-msgstr ""
+msgstr "إعدادات متقدمة"
 
 msgctxt "app"
 msgid "After closing this screen you must click {{apply}} to see the changes"
-msgstr ""
+msgstr "بعد إغلاق هذه الشاشة، اضغط على {{تطبيق}} لمشاهدة التغييرات"
 
 msgctxt "app"
 msgid "Allow everything"
@@ -110,7 +110,7 @@ msgstr "السماح بكل شيء"
 
 msgctxt "app"
 msgid "Allowed"
-msgstr ""
+msgstr "مسموح"
 
 msgctxt "app"
 msgid "Already have an account? Sign in!"
@@ -122,7 +122,7 @@ msgstr "تمت المشاركة بالفعل مع"
 
 msgctxt "app"
 msgid "Answers as text"
-msgstr ""
+msgstr "الإجابات كنص"
 
 msgctxt "app"
 msgid "Apply"
@@ -134,7 +134,7 @@ msgstr "قم بتطبيق التعديلات"
 
 msgctxt "app"
 msgid "Apply filters"
-msgstr ""
+msgstr "تطبيق المرشحات"
 
 msgctxt "app"
 msgid "Are you sure you want to delete this page?"
@@ -147,7 +147,7 @@ msgstr "هل أنت متأكد من أنك تريد إلغاء هذا الإذن
 msgctxt "app"
 msgid ""
 "Are you sure you want to switch to this user for the rest of this Session?"
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد التحول إلى هذا المستخدم لبقية هذه الجلسة؟"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -163,11 +163,11 @@ msgstr "هل أنت متأكد من أنك تريد حذف مساحة العمل
 
 msgctxt "app"
 msgid "Autodetected ({language}"
-msgstr ""
+msgstr "تم اكتشافها تلقائيًا ({لغة}"
 
 msgctxt "app"
 msgid "Back to list"
-msgstr ""
+msgstr "العودة للقائمة"
 
 msgctxt "app"
 msgid "Back to sign in"
@@ -179,11 +179,11 @@ msgstr "إدارة الخلفية"
 
 msgctxt "app"
 msgid "Bar"
-msgstr ""
+msgstr "شريط"
 
 msgctxt "app"
 msgid "Become this user"
-msgstr ""
+msgstr "كن هذا المستخدم"
 
 msgctxt "app"
 msgid "Causes of unavailability"
@@ -191,7 +191,7 @@ msgstr "أسباب عدم التوافر"
 
 msgctxt "app"
 msgid "Chart type"
-msgstr ""
+msgstr "نوع المخطط"
 
 msgctxt "app"
 msgid "Clear"
@@ -199,15 +199,15 @@ msgstr "أمسح"
 
 msgctxt "app"
 msgid "Closed"
-msgstr ""
+msgstr "مغلق"
 
 msgctxt "app"
 msgid "Compare data for HF {hf}"
-msgstr ""
+msgstr "مقارنة البيانات ل HF {hf}"
 
 msgctxt "app"
 msgid "Config"
-msgstr ""
+msgstr "تكوين"
 
 msgctxt "app"
 msgid "Configure dashboard"
@@ -215,7 +215,7 @@ msgstr "تكوين لوحة القيادة"
 
 msgctxt "app"
 msgid "Contributor count"
-msgstr ""
+msgstr "عدد المساهمين"
 
 msgctxt "app"
 msgid "Contributors"
@@ -223,19 +223,19 @@ msgstr "المساهمون"
 
 msgctxt "app"
 msgid "Country"
-msgstr ""
+msgstr "البلد"
 
 msgctxt "app"
 msgid "Create Page"
-msgstr ""
+msgstr "إنشاء صفحة"
 
 msgctxt "app"
 msgid "Create Project"
-msgstr ""
+msgstr "انشاء مشروع"
 
 msgctxt "app"
 msgid "Create Workspace"
-msgstr ""
+msgstr "إنشاء مساحة عمل"
 
 msgctxt "app"
 msgid "Create a new project"
@@ -275,7 +275,7 @@ msgstr "إنشاء مساحة عمل"
 
 msgctxt "app"
 msgid "Created at"
-msgstr ""
+msgstr "تم إنشاءها في"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
@@ -291,7 +291,7 @@ msgstr "كلمة المرور الحالي"
 
 msgctxt "app"
 msgid "Dashboard"
-msgstr ""
+msgstr "لوحة المعلومات"
 
 msgctxt "app"
 msgid "Data update"
@@ -303,7 +303,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Date"
-msgstr ""
+msgstr "التاريخ"
 
 msgctxt "app"
 msgid "Delete"
@@ -315,7 +315,7 @@ msgstr "مستخدم محذوف"
 
 msgctxt "app"
 msgid "Denied"
-msgstr ""
+msgstr "رفض"
 
 msgctxt "app"
 msgid ""
@@ -324,11 +324,11 @@ msgstr "يحدد ترتيب العناصر على الصفحة، والعناص�
 
 msgctxt "app"
 msgid "Discard & go back"
-msgstr ""
+msgstr "تجاهل وعد"
 
 msgctxt "app"
 msgid "Donut"
-msgstr ""
+msgstr "مخطط دائري"
 
 msgctxt "app"
 msgid "Download"
@@ -394,15 +394,15 @@ msgstr ""
 
 msgctxt "app"
 msgid "Error"
-msgstr ""
+msgstr "خطأ"
 
 msgctxt "app"
 msgid "Export CSV"
-msgstr ""
+msgstr "تصدير CSV"
 
 msgctxt "app"
 msgid "Export XLSX"
-msgstr ""
+msgstr "تصدير XLSX"
 
 msgctxt "app"
 msgid "Export all"
@@ -418,7 +418,7 @@ msgstr "تصدير البيانات من مساحة العمل {مساحة ال�
 
 msgctxt "app"
 msgid "Facility count"
-msgstr ""
+msgstr "عد المرافق"
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -426,19 +426,19 @@ msgstr "فشل تحديث عنوان البريد الإلكتروني"
 
 msgctxt "app"
 msgid "Favorite workspaces"
-msgstr ""
+msgstr "مساحات العمل المفضلة"
 
 msgctxt "app"
 msgid "Favorites"
-msgstr ""
+msgstr "مفضلة"
 
 msgctxt "app"
 msgid "Filters"
-msgstr ""
+msgstr "مرشحات/فلاتر"
 
 msgctxt "app"
 msgid "Forgot your password ?"
-msgstr ""
+msgstr "نسيت كلمة السر ؟"
 
 msgctxt "app"
 msgid "Full"
@@ -450,11 +450,11 @@ msgstr "متوفر بالكامل"
 
 msgctxt "app"
 msgid "Fully functional"
-msgstr ""
+msgstr "تعمل بشكل كامل"
 
 msgctxt "app"
 msgid "Functionality"
-msgstr ""
+msgstr "حالة العمل"
 
 msgctxt "app"
 msgid "Global admin"
@@ -462,7 +462,7 @@ msgstr "المسؤول العام"
 
 msgctxt "app"
 msgid "Global permissions"
-msgstr ""
+msgstr "صلاحيات عالمية"
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
@@ -494,23 +494,23 @@ msgstr "المرافق الصحية"
 
 msgctxt "app"
 msgid "Height"
-msgstr ""
+msgstr "ارتفاع"
 
 msgctxt "app"
 msgid "Hidden"
-msgstr ""
+msgstr "مخفي"
 
 msgctxt "app"
 msgid "Home"
-msgstr ""
+msgstr "الصفحة الرئيسية"
 
 msgctxt "app"
 msgid "Id"
-msgstr ""
+msgstr "هوية شخصية"
 
 msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
-msgstr ""
+msgstr "إذا استخدمت خيارًا محددًا مسبقًا، فسيتم ترجمته تلقائيًا"
 
 msgctxt "app"
 msgid "Import"
