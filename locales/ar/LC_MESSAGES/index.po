@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-27 20:32+0000\n"
+"PO-Revision-Date: 2020-11-29 18:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -137,20 +137,18 @@ msgid "Logging in"
 msgstr "تسجيل الدخول"
 
 #: docs/index.rst:57
-#, fuzzy
 msgid ""
 "New users without an existing account, will have to register before being "
 "able to login to the HeRAMS platform. To create a user account, follow the "
 "instructions `here <#creating-a-user-account>`__."
 msgstr ""
 "سيتعين على المستخدمين الجدد الذين ليس لديهم حساب، التسجيل قبل التمكن من "
-"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم ، اتبع التعليمات `هنا <#creating-"
-"a-user-account>`_."
+"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم، اتبع التعليمات `هنا <#creating-a"
+"-user-account>`_."
 
 #: docs/index.rst:59
-#, fuzzy
 msgid "Open the link `herams.org <https://herams.org>`__ in your browser."
-msgstr "افتح `herams.org الرابط <https://herams.org>`_ في متصفحك بالإنترنت."
+msgstr "افتح رابط `<herams.org  <https://herams.org`_ في متصفحك بالإنترنت."
 
 #: docs/index.rst:60
 msgid ""
@@ -192,28 +190,27 @@ msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr "افتح `herams.org الرابط <https://herams.org>`_ في متصفحك بالإنترنت."
 
 #: docs/index.rst:82
-#, fuzzy
 msgid ""
 "On the sign in page, click the `Forgot your password <https://herams.org/"
 "user/request-reset>`_ link."
 msgstr ""
-"في صفحة تسجيل الدخول، انقر فوق رابط إعادة تشغيل كلمة `المرور <https://herams."
-"org/user/forgot>`_ الموجودة أسفل حقل كلمة المرور."
+"في صفحة تسجيل الدخول، اضغط على رابط ` إعادة تشغيل كلمة المرور <https://herams"
+".org/user/forgot>`_."
 
 #: docs/index.rst:89
-#, fuzzy
 msgid ""
 "Enter your email address in the designated field and click the |request-"
 "password-reset| button."
-msgstr "أدخل عنوان البريد الإلكتروني وكلمة المرور في الحقل المخصص لذلك."
+msgstr ""
+"أدخل عنوان البريد الإلكتروني في الحقل المخصص لذلك واضغط على زر |request-"
+"password-reset| ."
 
 #: docs/index.rst:90
-#, fuzzy
 msgid ""
 "You will receive an email with a password reset link. Click the link in the "
 "email to open the password reset page."
 msgstr ""
-"سوف تتلقى رسالة بريد إلكتروني مع رابط إعادة تشغيل كلمة المرور. انقر على "
+"سوف تتلقى رسالة بريد إلكتروني مع رابط إعادة تشغيل كلمة المرور. اضغط على "
 "الرابط لفتح صفحة إعادة تشغيل كلمة المرور."
 
 #: docs/index.rst:92
@@ -244,33 +241,29 @@ msgid "Update your User Profile"
 msgstr "تحديث ملف تعريف المستخدم الخاص بك"
 
 #: docs/index.rst:102
-#, fuzzy
 msgid ""
 "Each user has a profile associated with their account. This permits you to "
 "change your user name, email address or password without requiring "
 "additional support."
 msgstr ""
-"كل مستخدم لديه ملف تعريف مرتبط بحسابه. هذا يسمح لك بتخصيص ملف التعريف الخاص "
-"بك ، وتغيير عنوان البريد الإلكتروني أو كلمة المرور دون الحاجة إلى دعم إضافي."
+"كل مستخدم لديه ملف تعريف مرتبط بحسابه. هذا يسمح لك بتغيير اسم المستخدم الخاص "
+"بك، عنوان البريد الإلكتروني أو كلمة المرور دون الحاجة إلى دعم إضافي."
 
 #: docs/index.rst:104
-#, fuzzy
 msgid ""
 "To update your user profile, click your username shown on the top right "
 "corner of the page."
 msgstr ""
-"لتحديث ملف تعريف المستخدم أو تفاصيل الحساب الخاصة بك ، انقر فوق اسم المستخدم "
-"الخاص بك الظاهر في الركن الأيمن العلوي من الصفحة."
+"لتحديث ملف تعريف المستخدم الخاص بك، اضغط على اسم المستخدم الظاهر في الركن "
+"الأيمن العلوي من الصفحة."
 
 #: docs/index.rst:105
-#, fuzzy
 msgid ""
 "This opens your `user profile <https://herams.org/user/account>`__ and "
 "allows you to change your personal information."
 msgstr ""
-"يفتح هذا ملف ` تعريف المستخدم الخاص `بك <https://herams.org/user/settings/"
-"profile>`_ ويسمح لك بتغيير معلوماتك الشخصية مثل اسمك ومؤسستك وتفاصيل الاتصال "
-"الخاصة بك."
+"يفتح هذا ملف `تعريف المستخدم الخاص بك <https://herams.org/user/account>`_ "
+"ويسمح لك بتغيير معلوماتك الشخصية."
 
 #: docs/index.rst:108
 msgid "Change Password"
@@ -289,27 +282,22 @@ msgid "In the pop-up window that opens, select the **Password**  tab."
 msgstr "في النافذة المنبثقة التي تظهر، قم باختيار علامة  ** كلمة المرور**."
 
 #: docs/index.rst:112
-#, fuzzy
 msgid ""
 "You should now be able to change your email address and enter a new password."
-msgstr ""
-"في الصفحة المفتوحة، يجب أن تكون قادرًا على تغيير عنوان بريدك الإلكتروني "
-"وإدخال كلمة مرور جديدة."
+msgstr "يمكنك الآن تغيير عنوان بريدك الإلكتروني وإدخال كلمة مرور جديدة."
 
 #: docs/index.rst:113
-#, fuzzy
 msgid ""
 "Make sure to click the |update-password| button to confirm your changes."
-msgstr "تأكد من النقر فوق زر |submit-en| لتأكيد التغييرات الخاصة بك."
+msgstr "تأكد من الضغط على زر |pdate-password| لتأكيد التغييرات الخاصة بك."
 
 #: docs/index.rst:114
-#, fuzzy
 msgid ""
 "To return to the main page, close the pop-up by clicking the **X** in the "
 "top right corner of the pop-up window."
 msgstr ""
-"لمنح المستخدم حق الوصول إلى مساحة العمل ، افتح واجهة المسؤول بالنقر فوق رز |"
-"settings| في الزاوية اليمنى العليا من الشاشة."
+"لعودة إلى الصفحة الرئيسية، أغلق النافذة التي تظهر بالضغط على **X** في "
+"الزاوية اليمنى العليا من النافذة ."
 
 #: docs/index.rst:122
 msgid "Change Language Preference"
@@ -325,24 +313,24 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:127
-#, fuzzy
 msgid ""
 "To change your language preference, open your user profile as explained "
 "`above <#update-your-user-profile>`__."
 msgstr ""
-"لتغيير كلمة المرور الخاصة بك ، افتح ملف تعريف المستخدم الخاص بك كما هو موضح "
-"`أعلاه <#update-your-user-profile>`_."
+"لتغيير كلمة المرور الخاصة بك، افتح ملف تعريف المستخدم الخاص بك كما هو موضح `"
+"أعلاه <#update-your-user-profile>`_."
 
 #: docs/index.rst:128
 msgid "In the pop-up window that opens, navigate to the **Profile** tab."
 msgstr ""
 
 #: docs/index.rst:129
-#, fuzzy
 msgid ""
 "Change the drop-down list to desired language and click the |update-profile| "
 "button."
-msgstr "تأكد من حفظ التغييرات عن طريق النقر فوق زر |update-project|."
+msgstr ""
+"قم بتغيير القائمة المنسدلة إلى اللغة المطلوبة ثم اضغط على زر |update-"
+"profile|."
 
 #: docs/index.rst:131
 msgid ""
@@ -356,13 +344,12 @@ msgid "Change Email Address"
 msgstr ""
 
 #: docs/index.rst:142
-#, fuzzy
 msgid ""
 "To change your e-mail address, open your user profile as explained `above "
 "<#update-your-user-profile>`__."
 msgstr ""
-"لتغيير كلمة المرور الخاصة بك ، افتح ملف تعريف المستخدم الخاص بك كما هو موضح "
-"`أعلاه <#update-your-user-profile>`_."
+"لتغيير بريدك الالكتروني، افتح ملف تعريف المستخدم الخاص بك كما هو موضح `أعلاه "
+"<#update-your-user-profile>`_."
 
 #: docs/index.rst:143
 msgid ""
@@ -1246,7 +1233,8 @@ msgid ""
 "To view your favorites, click the white star icon in the top left corner of "
 "your screen."
 msgstr ""
-"لعرض المفضلة، انقر فوق رمز النجمة البيضاء في الزاوية العلوية اليسرى للشاشة."
+"لعرض مساحات العمل المفضلة، اضغط على رمز النجمة البيضاء في الزاوية العلوية "
+"اليمنى للشاشة."
 
 #: docs/index.rst:469
 msgid ""
