@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-29 18:32+0000\n"
+"PO-Revision-Date: 2020-11-29 20:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -398,34 +398,30 @@ msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
 
 #: docs/index.rst:155
-#, fuzzy
 msgid ""
 "|workspace| **Workspaces**: This opens the list of workspaces belonging to a "
 "project. See `here <#access-your-workspace>`__ for more information on "
 "workspaces."
 msgstr ""
-"|workspace| **مساحات العمل**: تفتح قائمة بجميع مساحات العمل المتاحة للمشروع. "
-"انظر `هنا <#workspaces>`__ للحصول على مزيد من المعلومات حول مساحات العمل."
+"|workspace| **مساحات العمل**: هذا يفتح قائمة بجميع مساحات العمل التي تنتمي "
+"للمشروع. انظر `هنا <#access-your-workspace>`__ للحصول على مزيد من المعلومات "
+"حول مساحات العمل."
 
 #: docs/index.rst:156
-#, fuzzy
 msgid "|dashboard| **Dashboard**: Opens the `Project dashboard`_."
-msgstr ""
-"|dashboard| **لوحة المعلومات**: من خلال النقر على زر لوحة المعلومات ، سيتم "
-"فتح `لوحة معلومات`_ المشروع."
+msgstr "|dashboard| **لوحة المعلومات**: تفتح `لوحة معلومات`_ المشروع."
 
 #: docs/index.rst:157
 msgid "|view| **View**: Grants you view access to a specific item or record."
 msgstr ""
 
 #: docs/index.rst:158
-#, fuzzy
 msgid ""
 "|pencil| **Edit**: Opens the data edit interface. More information on data "
 "editing and updating is available `here <#contribute-data>`__."
 msgstr ""
-"|pencil-black| **تحديث البيانات**: هذا يفتح واجهة تحرير البيانات. تتوفر "
-"المزيد من المعلومات حول تحرير البيانات وتحديثها `هنا <#edit-date>`__."
+"|pencil| **تعديل البيانات**: هذا يفتح واجهة تعديل البيانات. تتوفر المزيد من "
+"المعلومات حول تعديل البيانات وتحديثها `هنا <#contribute-data>`__."
 
 #: docs/index.rst:159
 msgid "|delete| **Delete**: Deletes a specific item or record."
