@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-27 11:32+0000\n"
+"PO-Revision-Date: 2020-11-30 16:32+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -154,7 +154,6 @@ msgid "Logging in"
 msgstr "Se connecter"
 
 #: docs/index.rst:57
-#, fuzzy
 msgid ""
 "New users without an existing account, will have to register before being "
 "able to login to the HeRAMS platform. To create a user account, follow the "
@@ -166,7 +165,6 @@ msgstr ""
 "account>`_."
 
 #: docs/index.rst:59
-#, fuzzy
 msgid "Open the link `herams.org <https://herams.org>`__ in your browser."
 msgstr ""
 "Veuillez ouvrir le lien `https://herams.org <https://herams.org>`_ dans "
@@ -258,7 +256,6 @@ msgstr ""
 "Confirmez votre nouvel mot de passe en cliquant le bouton |reset-password|."
 
 #: docs/index.rst:96
-#, fuzzy
 msgid ""
 "You have now successfully changed your password. To access the HeRAMS "
 "platform, return to the `sign in page <https://herams.org>`__ and enter your "
