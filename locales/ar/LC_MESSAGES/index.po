@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-29 20:32+0000\n"
+"PO-Revision-Date: 2020-11-30 13:32+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: docs/index.rst:59
 msgid "Open the link `herams.org <https://herams.org>`__ in your browser."
-msgstr "افتح رابط `<herams.org  <https://herams.org`_ في متصفحك بالإنترنت."
+msgstr "افتح رابط `<herams.org <https://herams.org`_ في متصفحك بالإنترنت."
 
 #: docs/index.rst:60
 msgid ""
@@ -445,14 +445,13 @@ msgstr ""
 "التغييرات التي تم إجراؤها مرئية على الفور."
 
 #: docs/index.rst:161
-#, fuzzy
 msgid ""
 "|download| **Download data**: Opens the data export interface, permitting "
 "users to export data for further analysis in external applications. See "
 "`Download data`_ for more information."
 msgstr ""
-"|download| **تنزيل البيانات**: تنزيل جميع السجلات التي تنتمي إلى مساحة العمل "
-"المحددة. راجع `تنزيل البيانات`_ للحصول على مزيد من المعلومات."
+"|download| **تحميل البيانات**: تنزيل جميع السجلات التي تنتمي إلى مساحة العمل "
+"المحددة. راجع `تحميل البيانات`_ للحصول على مزيد من المعلومات."
 
 #: docs/index.rst:162
 #, fuzzy
@@ -558,7 +557,6 @@ msgstr ""
 "المشروع."
 
 #: docs/index.rst:196
-#, fuzzy
 msgid ""
 "Access to the project dashboards may restricted to selected users. If you "
 "would like to be granted access to a project dashboard, please contact your "
@@ -568,9 +566,9 @@ msgid ""
 msgstr ""
 "يقتصر الوصول إلى لوحات معلومات المشروع على المستخدمين المحددين. إذا كنت ترغب "
 "في الحصول على حق الوصول إلى لوحة معلومات المشروع، فيرجى الاتصال بمسئول "
-"التنسيق في بلدك أو إرسال بريد إلكتروني إلى `بفريق دعم هيرامس <?mailto:"
-"herams@who.int>`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس وكذلك شرح موجز "
-"عن سبب رغبتك في الوصول إلى لوحة معلومات المشروع."
+"التنسيق في بلدك أو إرسال بريد إلكتروني إلى`<herams@who.int "
+"<?mailto:herams@who.int`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس وكذلك "
+"شرح موجز عن سبب رغبتك في الوصول إلى لوحة معلومات المشروع."
 
 #: docs/index.rst:205
 #, fuzzy
