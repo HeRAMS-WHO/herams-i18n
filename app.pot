@@ -687,10 +687,6 @@ msgid "Overrides"
 msgstr ""
 
 msgctxt "app"
-msgid "PDF"
-msgstr ""
-
-msgctxt "app"
 msgid "Page"
 msgstr ""
 
@@ -756,6 +752,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "Primary"
+msgstr ""
+
+msgctxt "app"
+msgid "Print"
+msgstr ""
+
+msgctxt "app"
+msgid "Print all pages"
 msgstr ""
 
 msgctxt "app"
