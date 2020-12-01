@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-01 14:17+0000\n"
+"PO-Revision-Date: 2020-12-01 18:14+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -504,9 +504,8 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:186
-#, fuzzy
 msgid "Project Overview"
-msgstr "نظرة عامة"
+msgstr "ملخص المشروع"
 
 #: docs/index.rst:188
 msgid ""
@@ -545,13 +544,12 @@ msgstr ""
 "ملخصًا موجزًا عن توزيع أنواع المنشآت الصحية ووظائفها وتوفر الخدمة."
 
 #: docs/index.rst:194
-#, fuzzy
 msgid ""
 "For further details, click the |dashboard-button| button. This will open the "
 "project dashboard."
 msgstr ""
-"لمزيد من التفاصيل، انقر فوق زر |details| . سيؤدي هذا إلى فتح لوحة معلومات "
-"المشروع."
+"لمزيد من التفاصيل، اضغط على زر |dashboard-button| . سيؤدي هذا إلى فتح لوحة "
+"معلومات المشروع."
 
 #: docs/index.rst:196
 msgid ""
@@ -568,9 +566,8 @@ msgstr ""
 "شرح موجز عن سبب رغبتك في الوصول إلى لوحة معلومات المشروع."
 
 #: docs/index.rst:205
-#, fuzzy
 msgid "Project dashboard"
-msgstr "لوحة التحكم بمعلومات المشروع"
+msgstr "لوحة معلومات المشروع"
 
 #: docs/index.rst:206
 msgid ""
@@ -591,13 +588,12 @@ msgstr ""
 "النقطة الزرقاء المقابلة على خريطة العالم."
 
 #: docs/index.rst:210
-#, fuzzy
 msgid ""
 "In the pop-up window, click the |dashboard-button| button. This will open "
 "the interactive dashboard."
 msgstr ""
-"في النافذة المنبثقة ، انقر فوق زر |details| . هذا سيفتح اللوحة التفاعلية "
-"لمعلومات المشروع ."
+"في النافذة التي تظهر، اضغط على زر |dashboard-button|. سيؤدي هذا إلى فتح لوحة "
+"المعلومات التفاعلية."
 
 #: docs/index.rst:211
 msgid ""
@@ -632,31 +628,28 @@ msgid "The animation below shows the dashboards in action."
 msgstr "يظهر الرسم المتحرك أدناه لوحات المعلومات قيد التنفيذ."
 
 #: docs/index.rst:234
-#, fuzzy
 msgid "Customizing a dashboard"
-msgstr "تعديل لوحة التحكم بمعلومات المشروع"
+msgstr "تعديل لوحة المعلومات"
 
 #: docs/index.rst:235
-#, fuzzy
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard by applying filters and alter some of default display options."
 msgstr ""
-"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة التحكم بمعلومات المشروع وعرض "
-"تفاصيل إضافية."
+"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة معلومات المشروع من خلال "
+"استخدام المصفاة/الفلتر وتغيير بعض خيارات العرض الافتراضية."
 
 #: docs/index.rst:238
 msgid "Apply filters"
 msgstr ""
 
 #: docs/index.rst:240
-#, fuzzy
 msgid ""
 "Data on the dashboard can be filtered. This allows you to scrutinize the "
 "data subsets that are of interest to you."
 msgstr ""
 "يمكن تصفية البيانات الموجودة على لوحة المعلومات. هذه الخاصية تتيح لك التدقيق "
-"مجموعات البيانات الفرعية التي تهمك."
+"بمجموعات البيانات التي تهمك."
 
 #: docs/index.rst:242
 msgid ""
@@ -703,12 +696,10 @@ msgid ""
 msgstr "لإزالة الفلتر، ارجع إلى صفحة **Filter** وانقر فوق زر |clearfilter| ."
 
 #: docs/index.rst:260
-#, fuzzy
 msgid "Map Zoom Level and Focus Area"
-msgstr "اضبط مستوى تكبير الخريطة ومنطقة التركيز"
+msgstr "مستوى تكبير الخريطة ومنطقة التركيز"
 
 #: docs/index.rst:262
-#, fuzzy
 msgid ""
 "You can adjust the zoom level of a map by using the scroll button on your "
 "mouse. To change the focus area of a map, position you mouse in the map "
@@ -716,9 +707,9 @@ msgid ""
 "This will move the map focus area."
 msgstr ""
 "يمكنك ضبط مستوى التكبير / التصغير للخريطة باستخدام زر التمرير الموجود "
-"بالماوس. لتغيير منطقة التركيز بالخريطة ، ضع مؤشر الماوس في عنصر الخريطة. "
-"انقر بزر الماوس الأيمن (اضغط) واسحب الخريطة في الاتجاه المطلوب. سيؤدي هذا "
-"إلى نقل منطقة التركيز على الخريطة."
+"بالماوس. لتغيير منطقة التركيز بالخريطة، ضع مؤشر الماوس على الخريطة. اضغط على "
+"الخريطة (مع الاستمرار) واسحب الخريطة في الاتجاه المطلوب. سيؤدي هذا إلى تحريك "
+"منطقة تركيز الخريطة."
 
 #: docs/index.rst:265
 msgid "Remove a Category from Charts or Maps"
@@ -751,9 +742,8 @@ msgstr ""
 "الفئة أعلى النقاط الأخرى."
 
 #: docs/index.rst:280
-#, fuzzy
 msgid "Exporting a dashboard"
-msgstr "تعديل لوحة التحكم بمعلومات المشروع"
+msgstr "تصدير لوحة المعلومات"
 
 #: docs/index.rst:281
 msgid "Dashboards can be printed or exported as PDF document."
@@ -764,13 +754,12 @@ msgid "The export will include any filters that might applied."
 msgstr ""
 
 #: docs/index.rst:285
-#, fuzzy
 msgid ""
 "To export a dashboard, open the desired dashboard as explained `here <#view-"
 "a-project-dashboard>`__."
 msgstr ""
-"لتكوين لوحة معلومات المشروع. تتوفر معلومات إضافية حول كيفية تكوين لوحة "
-"معلومات المشروع `هنا <#configure-the-project-dashboard>`__."
+"لتصدير لوحة معلومات المشروع، افتح لوحة المعلومات المطلوبة كما هو موضح`هنا "
+"<#view-a-project-dashboard>`__."
 
 #: docs/index.rst:286
 msgid "Click the |pdf| icon in the top right corner of your screen."
@@ -1074,20 +1063,17 @@ msgid "Contribute Data"
 msgstr ""
 
 #: docs/index.rst:415
-#, fuzzy
 msgid ""
 "This chapter is intended for data managers responsible to update HeRAMS "
 "data. It covers all aspects related to data editing, including registering "
 "new health facilities, updating the status of existing health facilities as "
 "well as deleting erroneous records (e.g. duplicates)."
 msgstr ""
-"هذا الفصل مُعد بشكل أساسي لمديري البيانات المسؤولين عن تحديث بيانات هيرامس. "
-"ويغطي جميع الجوانب المتعلقة بتحرير البيانات ، بما في ذلك تسجيل المرافق "
-"الصحية الجديدة ، وتحديث حالة المرافق الصحية الموجودة ، وكذلك حذف السجلات "
-"الخاطئة (مثل التكرارات)."
+"هذا الفصل مخصص لمديري البيانات المسؤولين عن تحديث بيانات هيرامس. ويغطي جميع "
+"الجوانب المتعلقة بتعديل البيانات، بما في ذلك تسجيل المنشآت الصحية الجديدة، "
+"وتحديث بياناتها الموجودة، وكذلك حذف السجلات الخاطئة (مثل السجلات المكررة)."
 
 #: docs/index.rst:417
-#, fuzzy
 msgid ""
 "Access to the data edit interface is limited to users responsible to update "
 "data. If you require your access permissions to be changed, kindly contact "
@@ -1096,11 +1082,11 @@ msgid ""
 "a brief explanation on why you would like your access permissions to be "
 "altered."
 msgstr ""
-"يقتصر الوصول إلى واجهة تحرير البيانات على المستخدمين المسؤولين عن تحديث "
-"البيانات. إذا كنت تحتاج إلى تغيير أذونات الوصول الخاصة بك ، فيرجى الاتصال "
-"بمركز التنسيق في بلدك أو إرسال بريد إلكتروني إلى `بفريق دعم هيرامس <?mailto:"
-"herams@who.int>`_ لتحديد وظيفتك ودورك وكذلك شرح موجز حول سبب رغبتك في تغيير "
-"أذونات الوصول الخاصة بك."
+"يقتصر الوصول إلى واجهة تعديل البيانات على المستخدمين المسؤولين عن تحديث "
+"البيانات. إذا كنت تحتاج إلى تغيير صلاحياتك، يمكنك الاتصال ب *مالك مساحة "
+"العمل* أو *مسؤول المشروع* أو أرسل بريدًا إلكترونيًا إلى`<?herams@who.int "
+"<mailto:herams@who.int>`_ مع تحديد وظيفتك بالإضافة إلى شرح موجز عن سبب رغبتك "
+"في تغييرصلاحياتك."
 
 #: docs/index.rst:420
 msgid "Access your workspace"
@@ -1119,15 +1105,13 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:428
-#, fuzzy
 msgid ""
 "Open the project summary pop-up by selecting your project from the "
 "navigation pane on the left. Alternatively, you can open the project summary "
 "by clicking the corresponding blue dot on the world map."
 msgstr ""
-"لعرض لوحة معلومات المشروع، افتح ملخص المشروع عن طريق اختيار مشروعك من لوحة "
-"التنقل على اليسار. بدلاً من ذلك، يمكنك فتح ملخص المشروع عن طريق النقر فوق "
-"النقطة الزرقاء المقابلة على خريطة العالم."
+"لعرض لوحة معلومات المشروع، قم باختيار مشروعك من القائمة على اليسار. بدلاً من "
+"ذلك، يمكنك فتح ملخص المشروع بالضغط على النقطة الزرقاء في خريطة العالم."
 
 #: docs/index.rst:429
 msgid ""
@@ -1142,8 +1126,9 @@ msgid ""
 "project, the table displays the number of **workspaces**, **contributors**, "
 "**health facilities** and **responses**."
 msgstr ""
-"يمكنك الآن رؤية قائمة بجميع مساحات العمل الخاصة بك. لكل مشروع ، يعرض الجدول "
-"عدد **مساحات العمل**، **المساهمين**، **المرافق الصحية** و **الاستجابات**."
+"يمكنك الآن رؤية قائمة بجميع مساحات العمل الخاصة بالمشروع الذى تم إختيارة. "
+"لكل مشروع ، يعرض الجدول عدد **مساحات العمل**، **المساهمين**، **المرافق "
+"الصحية** و **الإجابات**."
 
 #: docs/index.rst:438
 msgid ""
@@ -1309,7 +1294,6 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:502
-#, fuzzy
 msgid ""
 "To modify a record click the |pencil| icon in the *Actions* columns. You "
 "should now be able to edit the selected response. Use the buttons in the "
@@ -1317,10 +1301,11 @@ msgid ""
 "return to the |previous| page. You can also use the navigation pane on the "
 "left to access a specific section of the questionnaire."
 msgstr ""
-"يمكنك الآن تحرير السجل الذي تم اختيارة. استخدم أزرار |next| في الزاوية "
-"اليمنى السفلى للانتقال إلى الصفحة التالية من الاستبيان أو العودة إلى الصفحة "
-"السابقة. يمكنك أيضًا استخدام جزء التنقل الموجود على اليسار للوصول إلى قسم "
-"معين من الاستبيان."
+"لتعديل سجل، اضغط على زر |pencil| في قائمة *الإجراءات*. يمكنك الآن تعديل "
+"الإجابة التي تم إختيارها. استخدم الأزرار الموجودة في الزاوية اليمنى السفلية "
+"للانتقال إلى |next| صفحة الاستبيان أو للعودة إلى |previous| الصفحة. يمكنك "
+"أيضًا استخدام قائمة التنقل الموجودة على اليسار للوصول إلى قسم معين من "
+"الاستبيان."
 
 #: docs/index.rst:503 docs/index.rst:531 docs/index.rst:543
 msgid ""
@@ -1348,9 +1333,8 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:515
-#, fuzzy
 msgid "Add a Response to a Health Facility Record"
-msgstr "تحديث سجل المرفق الصحي"
+msgstr "إضافة إجابة الى سجل المرفق الصحي"
 
 #: docs/index.rst:517
 #, fuzzy
