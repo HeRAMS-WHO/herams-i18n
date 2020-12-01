@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-30 13:32+0000\n"
+"PO-Revision-Date: 2020-12-01 14:17+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
-"Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: docs/index.rst:11
@@ -428,7 +428,6 @@ msgid "|delete| **Delete**: Deletes a specific item or record."
 msgstr ""
 
 #: docs/index.rst:160
-#, fuzzy
 msgid ""
 "|refresh| **Refresh data cache**: This button allows you to manually refresh "
 "a workspace's data cache. Data should be automatically synced upon creating, "
@@ -437,12 +436,11 @@ msgid ""
 "to manually sync the workspace and retrieve the latest information from the "
 "HeRAMS database."
 msgstr ""
-"|refresh| **تحديث ذاكرة التخزين المؤقت للبيانات**: يتيح هذا الزر للمستخدمين "
-"تحديث ذاكرة التخزين المؤقت لبيانات مساحة العمل، يدويًا. يتم تحديث البيانات "
-"تلقائيًا كل 30 دقيقة. هذا يعني أنه إذا تم تحديث السجل، فلن تنعكس التغييرات "
-"فورًا على لوحة المعلومات. وبالتالي، من خلال تحديث ذاكرة التخزين المؤقت "
-"لبيانات مساحة العمل يدويًا، يمكن التغلب على قيود التأخير الزمني وتصبح "
-"التغييرات التي تم إجراؤها مرئية على الفور."
+"|refresh| **إعادة تحميل البيانات**: يتيح هذا الزر للمستخدمين إعادة تحميل "
+"البيانات، يدويًا، بمساحة العمل. يتم تزامن البيانات تلقائيًا عند إنشاء، تعديل،"
+" وحذف الإجابات. في حال شعرت أن التزامن التلقائي لم يقم بتحديث البيانات بشكل "
+"صحيح في مساحة العمل الخاصة بك، فإن الضغط على هذا الزر سيتيح لك مزامنة مساحة "
+"العمل  وإعادة تحميل أحدث المعلومات من قاعدة بيانات هيرامس."
 
 #: docs/index.rst:161
 msgid ""
@@ -454,12 +452,12 @@ msgstr ""
 "المحددة. راجع `تحميل البيانات`_ للحصول على مزيد من المعلومات."
 
 #: docs/index.rst:162
-#, fuzzy
 msgid ""
 "|pencil-thin| **Update workspace**: Enables *Project admins* to alter the "
 "settings of an item (e.g. workspace, dashboard element, etc.)."
 msgstr ""
-"|pencil-thin| **تحديث مساحة العمل**: يسمح بتغيير عنوان أو رمز مساحة العمل."
+"|pencil-thin| **تحديث مساحة العمل**: تمكّن *مسؤولو المشروع* من تغيير "
+"الإعدادات (مثل مساحة العمل ،احد العناصر بلوحة المعلومات ، إلخ)."
 
 #: docs/index.rst:163
 msgid ""
@@ -491,9 +489,8 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:180
-#, fuzzy
 msgid "View a Project"
-msgstr "تعديل مشروع"
+msgstr "عرض المشروع"
 
 #: docs/index.rst:182
 msgid ""
@@ -1140,14 +1137,13 @@ msgstr ""
 "المنبثقة."
 
 #: docs/index.rst:436
-#, fuzzy
 msgid ""
 "This opens the list of available workspace of the selected project. For each "
 "project, the table displays the number of **workspaces**, **contributors**, "
 "**health facilities** and **responses**."
 msgstr ""
-"يمكنك الآن رؤية جدول بجميع المشاريع المتاحة. لكل مشروع ، يعرض الجدول رقم "
-"**مساحات العمل** ، **المساهمين** ، **المرافق الصحية** و **الاستجابات**."
+"يمكنك الآن رؤية قائمة بجميع مساحات العمل الخاصة بك. لكل مشروع ، يعرض الجدول "
+"عدد **مساحات العمل**، **المساهمين**، **المرافق الصحية** و **الاستجابات**."
 
 #: docs/index.rst:438
 msgid ""
@@ -1159,13 +1155,12 @@ msgstr ""
 "إلى أن المنشأة الصحية تم تقييمها عدة مرات."
 
 #: docs/index.rst:440
-#, fuzzy
 msgid ""
 "To view the list of health facilities associated with a specific workspace, "
 "click the |pencil| icon in the **Action** column."
 msgstr ""
-"لعرض المرافق الصحية التي تعد جزءًا من مساحة عمل معينة، انقر فوق أيقونة |"
-"update-data| في خانة الإجراء."
+"لعرض قائمة المرافق الصحية الموجودة بمساحة عمل معينة، اضغط على رمز |pencil| "
+"في خانة **الإجراءات**."
 
 #: docs/index.rst:441
 msgid ""
@@ -1244,20 +1239,18 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:475
-#, fuzzy
 msgid "Edit a Health Facility Response"
-msgstr "تحرير سجل المرفق الصحي"
+msgstr "تعديل سجل المرفق الصحي"
 
 #: docs/index.rst:477
-#, fuzzy
 msgid ""
 "Editing a response will overwrite the existing response. If you would like "
 "to update the status of a health facility while keeping the history of "
 "changes, go to `Add a response to a health facility record>`_."
 msgstr ""
-"سيؤدي تحرير سجل إلى الكتابة فوق السجل الحالي. إذا كنت ترغب في تحديث حالة "
-"المنشأة الصحية مع الاحتفاظ بسجل التغييرات، فاتبع الإرشادات الواردة في القسم "
-"أدناه."
+"سيؤدي تعديل السجل إلى استبدال السجل الحالي. إذا كنت ترغب في تحديث حالة "
+"المنشأة الصحية مع الاحتفاظ بسجل التغييرات، انتقل الى `اضافة تحديث الي سجل "
+"المنشأة الصحية`_."
 
 #: docs/index.rst:479
 msgid ""
@@ -1275,15 +1268,15 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:482
-#, fuzzy
 msgid ""
 "Keep in mind that the table might have multiple pages. Use the buttons in "
 "the bottom right corner to advance to the next page. You can also reduce the "
 "number of records displayed by applying filters."
 msgstr ""
-"ضع في اعتبارك أن الجدول قد يحتوي على عدة صفحات. استخدم الزر الموجود في الركن "
-"الأيمن السفلي للتقدم إلى الصفحة التالية. يمكنك أيضًا تقليل عدد السجلات "
-"المعروضة عن طريق تطبيق المرشحات."
+"ضع في اعتبارك أن القائمة قد تحتوي على عدة صفحات. استخدم الزر الموجود في "
+"الركن الاسفل على اليمين\n"
+" للانتقال إلى الصفحة التالية. يمكنك أيضًا استخدام المرشحات او الفلاتر لتقليل "
+"عدد السجلات المعروضة على الشاشة."
 
 #: docs/index.rst:489
 msgid ""
@@ -1303,13 +1296,12 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:493
-#, fuzzy
 msgid ""
 "|delete| **Delete**: Permanently deletes a response form a health facility. "
 "See `remove a response from health facility`_ for more information."
 msgstr ""
-"|delete-black| **حذف مساحة العمل**: يزيل مساحة العمل بشكل دائم من المشروع. "
-"راجع `حذف مساحة عمل`_ للحصول على مزيد من المعلومات."
+"|delete| **حذف**: حذف إجابة نهائياً من سجلات المنشأة الصحية. راجع `حذف إجابة "
+"من سجلات المنشأة الصحية`_ لمزيد من المعلومات."
 
 #: docs/index.rst:500
 msgid ""
@@ -1462,19 +1454,18 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:549
-#, fuzzy
 msgid "Remove a Response from Health Facility"
-msgstr "تسجيل مرفق صحي جديد"
+msgstr "حذف إجابة من سجلات المنشأة الصحية"
 
 #: docs/index.rst:551
-#, fuzzy
 msgid ""
 "To delete a response from a health facility, open the `data update interface "
 "<#access-the-data-update-interface>`_ and click the health facility record "
 "from which you would like to remove a response."
 msgstr ""
-"افتح واجهة تحديث البيانات كما هو موضح `أعلاه <#access-the-data-update-"
-"interface>`__."
+"gحذف إجابة من سجلات المنشأة الصحية , افتح `واجهة تحديث البيانات <#access-the-"
+"data-update-interface>`_ واضغط على سجل المنشأة الصحية الذي ترغب في حذف "
+"الإجابة منه."
 
 #: docs/index.rst:552
 msgid ""
