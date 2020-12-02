@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-11-30 16:32+0000\n"
-"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
-"Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
+"PO-Revision-Date: 2020-12-02 17:14+0000\n"
+"Last-Translator: Ousmane Toure <obtoure@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.3.2\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: docs/index.rst:11
@@ -1218,9 +1218,9 @@ msgstr ""
 "Ce chapitre s'adresse principalement aux gestionnaires de données "
 "responsables de la mise à jour des données HeRAMS. Il couvre tous les "
 "aspects liés à la mise à jour des données, y compris l'enregistrement de "
-"nouvelles formation sanitaire, la mise à jour de l'état des foramtion "
-"sanitaire existantes ainsi que la suppression des enregistrements erronés "
-"(par exemple, des doublons)."
+"nouvelles formation sanitaire, la mise à jour de l'état des formations "
+"sanitaires existantes ainsi que la suppression des enregistrements erronés ("
+"par exemple, des doublons)."
 
 #: docs/index.rst:417
 msgid ""
@@ -1254,6 +1254,17 @@ msgid ""
 "additional users to contribute to their data. For more information on how to "
 "grant users access to a workspace please view the `user management`_ section."
 msgstr ""
+"HeRAMS utilise ce que l'on appelle les ** espaces de travail ** pour gérer "
+"les autorisations d'accès aux données sous-jacentes. Un espace de travail "
+"peut inclure tous les établissements de santé d'une région géographique, les "
+"établissements de santé gérés par un partenaire spécifique ou toute autre "
+"entité logique. Chaque espace de travail a un point focal dédié, le * "
+"propriétaire de l'espace de travail *, qui est responsable de la mise à jour "
+"et de la maintenance des registres des établissements de santé de leur "
+"espace de travail. * Les propriétaires d'espace de travail * peuvent inviter "
+"des utilisateurs supplémentaires à contribuer à leurs données. Pour plus "
+"d'informations sur la manière d'accorder aux utilisateurs l'accès à un "
+"espace de travail, veuillez afficher la section`user management`_ ."
 
 #: docs/index.rst:428
 #, fuzzy
@@ -1339,28 +1350,42 @@ msgid ""
 "accessed from anywhere in the platform by clicking the |star-filled| icon in "
 "the top right corner of your screen."
 msgstr ""
+"Pour simplifier la navigation, il est recommandé d'ajouter les espaces de "
+"travail fréquemment utilisés à votre liste de favoris. Les espaces de "
+"travail marqués comme favoris sont accessibles de n'importe où sur la "
+"plateforme en cliquant sur le |star-filled| icône dans le coin supérieur "
+"droit de votre écran."
 
 #: docs/index.rst:461
 msgid ""
 "For user working on multiple project, please note that it is possible to add "
 "workspace from different projects to your list of favorites."
 msgstr ""
+"Pour les utilisateurs travaillant sur plusieurs projets, veuillez noter "
+"qu'il est possible d'ajouter un espace de travail de différents projets à "
+"votre liste de favoris."
 
 #: docs/index.rst:464
 msgid "Navigate to the list of workspaces as outlined above."
-msgstr ""
+msgstr "Accédez à la liste des espaces de travail comme indiqué ci-dessus."
 
 #: docs/index.rst:465
 msgid ""
 "In the second last column you should see a |star-hollow| icon. To add a "
 "workspace to your list of favorites, simply click the icon."
 msgstr ""
+"Dans l'avant-dernière colonne, vous devriez voir une |star-hollow| icône. "
+"Pour ajouter un espace de travail à votre liste de favoris, cliquez "
+"simplement sur l'icône."
 
 #: docs/index.rst:466
 msgid ""
 "The icon should have changed to a filled star |star-filled|, indicating that "
 "your workspace was successfully added to your list of favorites."
 msgstr ""
+"L'icône doit avoir été remplacée par une étoile pleine |star-filled|, "
+"indiquant que votre espace de travail a été ajouté avec succès à votre liste "
+"de favoris."
 
 #: docs/index.rst:467
 #, fuzzy
@@ -1377,12 +1402,17 @@ msgid ""
 "icon again. You should see the icon changing back to an unfilled |star-"
 "hollow|."
 msgstr ""
+"Pour supprimer un espace de travail de votre liste de favoris, cliquez sur "
+"|star-filled| le bouton de nouveau. Vous devez voir le changement de icone "
+"revenir non rempli |star-hollow|."
 
 #: docs/index.rst:471
 msgid ""
 "If the workspace does not automatically disappear from your list of "
 "favorites, try refreshing the page."
 msgstr ""
+"Si votre espace de travail ne s'affiche pas automatiquement de votre liste "
+"de favoris, essayer d'actualiser la page."
 
 #: docs/index.rst:475
 msgid "Edit a Health Facility Response"
@@ -1414,6 +1444,10 @@ msgid ""
 "specific response, you first have to expand the health facility by clicking "
 "anywhere in the corresponding row."
 msgstr ""
+"Pour faciliter la navigation, les enregistrements sont regroupés par "
+"établissement de santé. Pour modifier une réponse spécifique, vous devez "
+"d'abord agrandir l'établissement de santé en cliquant n'importe où dans la "
+"ligne correspondante."
 
 #: docs/index.rst:482
 #, fuzzy
@@ -1433,16 +1467,23 @@ msgid ""
 "facility. In the left-most column of the list, there are three buttons "
 "allowing to preform the following actions."
 msgstr ""
+"Vous devriez maintenant voir une liste de toutes les réponses appartenant à "
+"l'établissement de santé sélectionné. Dans la colonne la plus à gauche de la "
+"liste, il y a trois boutons permettant d'effectuer les actions suivantes."
 
 #: docs/index.rst:491
 msgid "|view| **View** : Click this button to view the full response"
 msgstr ""
+"|view| **View** : Cliquez sur ce bouton pour afficher la réponse complète"
 
 #: docs/index.rst:492
 msgid ""
 "|pencil| **Edit**: Allows you to modify an existing response. This will "
 "permanently overwrite the existing infomration and cannot be undone."
 msgstr ""
+"|pencil| **Edit** : Vous permet de modifier une réponse existante. Cela "
+"écrasera définitivement les informations existantes et ne pourra pas être "
+"annulé."
 
 #: docs/index.rst:493
 #, fuzzy
@@ -1458,6 +1499,7 @@ msgstr ""
 msgid ""
 "The number of action buttons visible depends on your project's settings."
 msgstr ""
+"Le nombre de boutons d'action visibles dépend des paramètres de votre projet."
 
 #: docs/index.rst:502
 #, fuzzy
@@ -1499,6 +1541,12 @@ msgid ""
 "export. Thus, once you have completed your edits, make sure to **always** "
 "navigate to the last page (*Validate*) and click the |submit| button."
 msgstr ""
+"Bien que votre projet puisse vous permettre d'enregistrer votre réponse et "
+"de reprendre plus tard, seuls les enregistrements qui ont été soumis "
+"apparaîtront sur le tableau de bord et dans l'exportation. Ainsi, une fois "
+"que vous avez terminé vos modifications, assurez-vous de ** always ** "
+"toujours naviguer jusqu'à la dernière page valider (* Validate *) et cliquer "
+"sur le bouton |submit|."
 
 #: docs/index.rst:515
 #, fuzzy
@@ -1539,12 +1587,17 @@ msgstr ""
 #: docs/index.rst:522
 msgid "Click the health facility record you would like to add a response to."
 msgstr ""
+"Cliquer sur l'enregistrement de la formation sanitaire que vous voudriez "
+"ajouter à la reponse."
 
 #: docs/index.rst:523
 msgid ""
 "You should now see the history of response to the selected health facility. "
 "To add a new response, click the |add-response| button in the action column."
 msgstr ""
+"Vous devriez maintenant voir l'historique de la réponse à l'établissement de "
+"santé sélectionné. Pour ajouter une nouvelle réponse, cliquez sur le bouton "
+"|add-response| dans la colonne action."
 
 #: docs/index.rst:530
 #, fuzzy
@@ -1567,6 +1620,12 @@ msgid ""
 "export. Thus, once you have completed your edits, make sure to **always** "
 "navigate to the last page, (*Validate*) and click the |submit| button."
 msgstr ""
+"Bien que votre projet puisse vous permettre d'enregistrer votre réponse et "
+"de reprendre plus tard, seuls les enregistrements qui ont été soumis "
+"apparaîtront sur le tableau de bord et l'exportation. Ainsi, une fois que "
+"vous avez terminé vos modifications, assurez-vous de **always** toujours "
+"naviguer jusqu'à la dernière page, valider (* Validate*) et cliquez sur le "
+"bouton |submit| soumettre."
 
 #: docs/index.rst:538
 msgid "Register a New Health Facility"
@@ -1586,6 +1645,9 @@ msgid ""
 "Click the |new-record| button in the top left corner. This will open a blank "
 "form, allowing you to register a new health facility."
 msgstr ""
+"cliquer sur le bouton |new-record| nouvel enregistrement en haut au coin "
+"gauche. Cela ouvrira un formulaire vierge, vous permettant d'enregistrer un "
+"nouvel établissement de santé."
 
 #: docs/index.rst:542
 #, fuzzy
@@ -1608,11 +1670,16 @@ msgid ""
 "export. Thus, once you have completed your edits, make sure to **always** "
 "navigate to the last page, **Validate**, and click the |submit| button."
 msgstr ""
+"Bien que votre projet puisse vous permettre d'enregistrer votre réponse et "
+"de reprendre plus tard, seuls les enregistrements qui ont été soumis "
+"apparaîtront sur le tableau de bord et l'exportation. Ainsi, une fois que "
+"vous avez terminé vos modifications, assurez-vous de **always** toujours "
+"naviguer jusqu'à la dernière page, valider ** Validate** et cliquez sur le "
+"bouton |submit| soumettre."
 
 #: docs/index.rst:549
-#, fuzzy
 msgid "Remove a Response from Health Facility"
-msgstr "Enregistrer une nouvelle FS"
+msgstr "Retirer une réponse d'un établissement de santé"
 
 #: docs/index.rst:551
 #, fuzzy
@@ -1638,6 +1705,8 @@ msgid ""
 "If you would like the completely remove a health facility, repeat the above "
 "step until all responses have been deleted."
 msgstr ""
+"Si vous souhaitez supprimer complètement un établissement de santé, répétez "
+"l'étape ci-dessus jusqu'à ce que toutes les réponses aient été supprimées."
 
 #: docs/index.rst:555
 msgid ""
@@ -1646,6 +1715,11 @@ msgid ""
 "permanently closed, add a new response and change the status to *permanently "
 "closed*."
 msgstr ""
+"Ne supprimez toutes les réponses à un établissement de santé que si vous "
+"êtes sûr qu'elles ont été saisies par erreur (par exemple, enregistrement "
+"dupliqué). Pour les établissements de santé fermés définitivement, ajoutez "
+"une nouvelle réponse et changez le statut en *permanently closed* fermé "
+"définitivement."
 
 #: docs/index.rst:558
 #, fuzzy
@@ -1665,6 +1739,8 @@ msgid ""
 "Data for individual health facilities can be downloaded as **CSV** or "
 "**Excel** file."
 msgstr ""
+"Les données relatives aux établissements de santé individuels peuvent être "
+"téléchargées comme **CSV** ou **Excel** fichier."
 
 #: docs/index.rst:566
 #, fuzzy
@@ -1736,18 +1812,27 @@ msgid ""
 "header to be included in your export. Use the on/off switches to modify the "
 "default options."
 msgstr ""
+"Vous pouvez choisir entre l'exportation des données sous forme de texte ou "
+"de code ainsi que le type d'en-tête à inclure dans votre exportation. "
+"Utilisez les interrupteurs marche / arrêt pour modifier les options par "
+"défaut."
 
 #: docs/index.rst:580
 msgid ""
 "If you choose to export answers as code, question with predefined answer "
 "option will show coded value (e.g. A1) instead of the text label."
 msgstr ""
+"Si vous choisissez d'exporter les réponses sous forme de code, la question "
+"avec une option de réponse prédéfinie affichera une valeur codée (par "
+"exemple A1) au lieu de l'étiquette de texte."
 
 #: docs/index.rst:582
 msgid ""
 "If a survey is available in multiple language, use the drop-down list to "
 "specify the export language."
 msgstr ""
+"Si une enquête est disponible en plusieurs langues, utilisez la liste "
+"déroulante pour spécifier la langue d'exportation."
 
 #: docs/index.rst:583
 msgid ""
@@ -1758,18 +1843,31 @@ msgid ""
 "selected date will be exported for each health facility. To get the most "
 "recent data, set the **report date** to today's date."
 msgstr ""
+"Par défaut, toutes les réponses disponibles pour chaque établissement de "
+"santé seront exportées. Pour les projets comportant plusieurs réponses par "
+"établissement de santé, la date du **report**  rapport  peut être utilisée "
+"pour limiter le nombre de réponses exportées. Si une date de rapport est "
+"définie, seul le dernier enregistrement avant ou égal à la date sélectionnée "
+"sera exporté pour chaque établissement de santé. Pour obtenir les données "
+"les plus récentes, définissez la **report date** date du rapport sur la date "
+"du jour."
 
 #: docs/index.rst:584
 msgid ""
 "Once you have defined the export settings, select between the two export "
 "formats (**CSV** or **Excel**) by clicking the respective button."
 msgstr ""
+"Une fois que vous avez défini les paramètres d'exportation, sélectionnez "
+"entre les deux formats d'exportation (** CSV ** ou ** Excel **) en cliquant "
+"sur le bouton correspondant."
 
 #: docs/index.rst:586
 msgid ""
 "For large data sets, exporting data in Excel takes substantially longer than "
 "exporting as **CSV** format."
 msgstr ""
+"Pour les grandes bases de données, l'exportation de données dans Excel prend "
+"beaucoup plus de temps que l'exportation au format **CSV **."
 
 #: docs/index.rst:588
 msgid ""
@@ -1777,6 +1875,10 @@ msgid ""
 "Excel file if you select a language other than English. For more information "
 "of encoding of **CSV** files for use in Excel, see `Data Encoding in Excel`_."
 msgstr ""
+"Pour éviter les problèmes d'encodage, il est recommandé de télécharger vos "
+"données sous forme de fichier Excel si vous sélectionnez une langue autre "
+"que l'anglais. Pour plus d'informations sur le codage des fichiers **CSV** à "
+"utiliser dans Excel, voir `Data Encoding in Excel`_."
 
 #: docs/index.rst:591
 msgid "Download the Entire Data Set"
@@ -1787,12 +1889,18 @@ msgid ""
 "Project administrators or users with special permissions can export the "
 "entire project data from the admin interface."
 msgstr ""
+"Les administrateurs de projet ou les utilisateurs disposant d'autorisations "
+"spéciales peuvent exporter l'intégralité des données du projet à partir de "
+"l'interface d'administration."
 
 #: docs/index.rst:594
 msgid ""
 "Access to project level data is limited to selected users only. Contact your "
 "country administrator for further information."
 msgstr ""
+"L'accès aux données au niveau du projet est limité aux utilisateurs "
+"sélectionnés uniquement. Contactez l'administrateur de votre pays pour plus "
+"d'informations."
 
 #: docs/index.rst:596
 #, fuzzy
@@ -1829,6 +1937,8 @@ msgid ""
 "You should now be able to customize your export as outlined in the previous "
 "section `here <#download-workspace-data>`__."
 msgstr ""
+"Vous devriez maintenant pouvoir personnaliser votre exportation comme "
+"indiqué dans la section précédente `here <#download-workspace-data>`__."
 
 #: docs/index.rst:602
 msgid "Data Encoding in Excel"
@@ -1860,6 +1970,8 @@ msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an **Excel** file."
 msgstr ""
+"Pour éviter les problèmes d'encodage, il est recommandé de télécharger vos "
+"données sous forme de fichier **Excel**."
 
 #: docs/index.rst:609
 msgid ""
@@ -1941,7 +2053,7 @@ msgstr ""
 
 #: docs/index.rst:631
 msgid "User Management"
-msgstr ""
+msgstr "Gestion des utilisateurs"
 
 #: docs/index.rst:634
 msgid "Workspace Permissions"
@@ -1953,22 +2065,33 @@ msgid ""
 "download data, as well as to manage user access to their workspace. There "
 "are four permissions for workspaces that can be assigned independently:"
 msgstr ""
+"L'octroi d'une autorisation d'utilisateur à un espace de travail lui permet "
+"de contribuer ou de télécharger des données, ainsi que de gérer l'accès des "
+"utilisateurs à son espace de travail. Il existe quatre autorisations pour "
+"les espaces de travail qui peuvent être attribuées indépendamment:"
 
 #: docs/index.rst:638
 msgid "**Edit data**: Allows user to create, edit and delete records."
 msgstr ""
+"**Edit data**: permet à l'utilisateur de créer, modifier et supprimer des "
+"enregistrements."
 
 #: docs/index.rst:640
 msgid ""
 "**Download data** Enables users to download all records from a workspace for "
 "further analysis in external applications."
 msgstr ""
+"**Download data** Permet aux utilisateurs de télécharger tous les "
+"enregistrements à partir d'un espace de travail pour une analyse plus "
+"approfondie dans des applications externes."
 
 #: docs/index.rst:642
 msgid ""
 "**Manage users**: Permits users to share access to a workspace with other "
 "users."
 msgstr ""
+"**Manage users**: Permet aux utilisateurs de partager l'accès à un espace de "
+"travail avec d'autres utilisateurs."
 
 #: docs/index.rst:644
 msgid ""
@@ -1978,6 +2101,14 @@ msgid ""
 "workspace, the user will be able to grant other users permission to share "
 "access to the workspace. Thus, this permission should be used sparingly."
 msgstr ""
+"**Grant admin permissions** : Cette autorisation n'est disponible que pour *"
+"Project administrators* les administrateurs de projet et ne doit être "
+"accordée qu'aux *Workspace owners* propriétaires d'espace de travail "
+"responsables de la gestion d'un espace de travail. En accordant à un "
+"utilisateur l'autorisation d'administrateur sur un espace de travail, "
+"l'utilisateur pourra accorder à d'autres utilisateurs l'autorisation de "
+"partager l'accès à l'espace de travail. Ainsi, cette autorisation doit être "
+"utilisée avec parcimonie."
 
 #: docs/index.rst:646
 msgid ""
@@ -1985,6 +2116,11 @@ msgid ""
 "permissions. Thus, it is possible that a user with the permission to "
 "**manage users** is not able to grant access to edit data to other users."
 msgstr ""
+"Le partage des autorisations de l'espace de travail avec d'autres "
+"utilisateurs dépend des propres autorisations de l'utilisateur. Ainsi, il "
+"est possible qu'un utilisateur avec l'autorisation de **manage users** gérer "
+"les utilisateurs ne soit pas en mesure d'accorder l'accès pour modifier les "
+"données à d'autres utilisateurs."
 
 #: docs/index.rst:648
 msgid ""
@@ -1993,6 +2129,11 @@ msgid ""
 "and the recommended permissions for each role consult the sections `user "
 "roles`_ and `mapping user roles to permissions`_."
 msgstr ""
+"L'accès aux espaces de travail et aux projets doivent toujours être accordé "
+"en ce qui concerne les rôles et responsabilités des utilisateurs. Pour plus "
+"d'informations sur les rôles d'utilisateur et les autorisations recommandées "
+"pour chaque rôle, consultez les sections `user roles`_ et `mapping user "
+"roles to permissions`_."
 
 #: docs/index.rst:652
 #, fuzzy
@@ -2009,10 +2150,20 @@ msgid ""
 "access at the **workspace level**, they are only able to contribute data to "
 "that specific workspace."
 msgstr ""
+"À l'instar des autorisations d'espace de travail, les autorisations peuvent "
+"également être accordées au niveau du projet. Il est important de noter que "
+"si des autorisations sont accordées au *project level* niveau du projet, les "
+"utilisateurs ont accès à tous les espaces de travail. Par exemple, si un "
+"utilisateur dispose de l'autorisation *edit* modifier * au **project level** "
+"niveau du projet, il peut modifier les données dans tous les espaces de "
+"travail. En revanche, si un utilisateur bénéficie d'un accès au **workspace "
+"level** niveau de l'espace de travail, il ne peut fournir des données qu'à "
+"cet espace de travail spécifique."
 
 #: docs/index.rst:656
 msgid "There are five permissions that can be granted at the project level."
 msgstr ""
+"Il existe cinq autorisations qui peuvent être accordées au niveau du projet."
 
 #: docs/index.rst:658
 msgid ""
@@ -2021,18 +2172,29 @@ msgid ""
 "for *closed* or *private* projects. For all other projects, any user "
 "subscribed to the platform will be able to view the *Project dashboard*."
 msgstr ""
+"** View dashboard** : Afficher le tableau de bord: accorde un accès exclusif "
+"au *Project dashboard* Tableau de bord du projet. Accorder aux utilisateurs "
+"un accès explicite au *Project dashboard* Tableau de bord du projet n'est "
+"requis que pour les projets *closed* fermés ou  privés *private*. Pour tous "
+"les autres projets, tout utilisateur abonné à la plateforme pourra consulter "
+"le *Project dashboard* Tableau de bord du projet."
 
 #: docs/index.rst:660
 msgid ""
 "**Edit data**: Allows user to create, edit and delete records in any "
 "workspace of the project."
 msgstr ""
+"**Edit data** : Permet à l'utilisateur de créer, modifier et supprimer des "
+"enregistrements dans n'importe quel espace de travail du projet."
 
 #: docs/index.rst:662
 msgid ""
 "**Download data**: Enables users to download  the entire dataset, including "
 "records from all workspaces for further analysis in external applications."
 msgstr ""
+"**Download data** : Permet aux utilisateurs de télécharger l'ensemble de "
+"données complet, y compris les enregistrements de tous les espaces de "
+"travail pour une analyse plus approfondie dans des applications externes."
 
 #: docs/index.rst:664
 msgid ""
@@ -2040,6 +2202,9 @@ msgid ""
 "workspaces as well as the ability to invite users to contribute to an "
 "individual workspace."
 msgstr ""
+"**Manage workspace**: Accorde à un utilisateur l'accès pour créer, modifier "
+"et supprimer des espaces de travail ainsi que la possibilité d'inviter des "
+"utilisateurs à contribuer à un espace de travail individuel."
 
 #: docs/index.rst:666
 msgid ""
@@ -2047,20 +2212,25 @@ msgid ""
 "user is granted permissions to *Manage workspaces* they will have access to "
 "**all** workspaces."
 msgstr ""
+"*Workspace owners* doit recevoir une autorisation au niveau de l'espace de "
+"travail. Si un utilisateur est autorisé à *Manage workspaces* Gérer les "
+"espaces de travail, il aura accès à **all**  tous les espaces de travail."
 
 #: docs/index.rst:668
 msgid ""
 "**Configure dashboard**: Grants users the ability to configure their project "
 "dashboard."
 msgstr ""
+"**Configure dashboard** : Accorde aux utilisateurs la possibilité de "
+"configurer le tableau de bord de leur projet."
 
 #: docs/index.rst:672
 msgid "User Roles"
-msgstr ""
+msgstr "Rôles des utilisateurs"
 
 #: docs/index.rst:674
 msgid "There are six standard user roles used accross projects."
-msgstr ""
+msgstr "Il existe six rôles d'utilisateur standard utilisés dans les projets."
 
 #: docs/index.rst:682
 msgid ""
@@ -2069,6 +2239,11 @@ msgid ""
 "available workspaces but are not expected to conduct the daily activities of "
 "managing users and assuring data quality."
 msgstr ""
+"**Project owner** : Personne désignée responsable du projet HeRAMS. Ils "
+"peuvent inviter les utilisateurs à consulter le tableau de bord du projet ou "
+"la liste des espaces de travail disponibles, mais ne sont pas censés mener "
+"les activités quotidiennes de gestion des utilisateurs et d'assurer la "
+"qualité des données."
 
 #: docs/index.rst:684
 msgid ""
@@ -2080,6 +2255,16 @@ msgid ""
 "for the overall training and management of users, they can assign *Workspace "
 "owners* to manage individual workspaces."
 msgstr ""
+"**Project admin**: le *project owner* s'appuie généralement sur un "
+"responsable de la gestion de l'information pour gérer les activités "
+"quotidiennes du projet HeRAMS et leur attribue le rôle *project admin* "
+"d'administrateur de projet.  L'administrateur du projet *project admin* a "
+"accès à tous les espaces de travail. En fonction de la configuration du "
+"projet, ils peuvent également être affectés à la configuration du tableau de "
+"bord du projet. Alors que les *project admins* administrateurs de projet "
+"sont responsables de la formation et de la gestion globales des "
+"utilisateurs, ils peuvent affecter des propriétaires d'espace de travail *"
+"Workspace owners* à la gestion des espaces de travail individuels."
 
 #: docs/index.rst:686
 msgid ""
@@ -2091,6 +2276,15 @@ msgid ""
 "granted access to a project, they can explore data from other workspaces "
 "using the project dashboard."
 msgstr ""
+"**Workspace owner:** Sont généralement au niveau infranational, supervisant "
+"la collecte de données pour une zone spécifique (par exemple un district). "
+"Ils ont un contrôle total sur leur espace de travail et peuvent inviter "
+"d'autres utilisateurs à contribuer à leur espace de travail. Il est "
+"important de noter que les propriétaires d'espaces de travail *workspace "
+"owners* ne peuvent modifier ou partager l'accès qu'aux espaces de travail "
+"dont ils sont propriétaires. Cependant, comme tout utilisateur ayant accès à "
+"un projet, il peut explorer les données d'autres espaces de travail à l'aide "
+"du tableau de bord du projet."
 
 #: docs/index.rst:688
 msgid ""
@@ -2099,6 +2293,11 @@ msgid ""
 "can only edit data within their workspace but are able to view the overall "
 "project by accessing the project dashboard."
 msgstr ""
+"**Data contributor:** Soutenir le propriétaire de l'espace de travail dans "
+"la collecte et la gestion des informations sur les établissements de santé "
+"individuels. Comme les propriétaires d'espace de travail *workspace owners* "
+"ils ne peuvent modifier les données que dans leur espace de travail, mais "
+"peuvent afficher le projet global en accédant au tableau de bord du projet."
 
 #: docs/index.rst:690
 msgid ""
@@ -2108,6 +2307,12 @@ msgid ""
 "granted access to a project, they are also able to access the project "
 "dashboard."
 msgstr ""
+"**Data viewers**: Dans des situations exceptionnelles, un utilisateur peut "
+"se voir attribuer le rôle de visualiseur de données *data viewer*. Cela "
+"signifie qu'ils sont autorisés à télécharger les données de l'espace de "
+"travail mais ne peuvent pas modifier les données. Comme tous les "
+"utilisateurs ayant eu accès à un projet, ils peuvent également accéder au "
+"tableau de bord du projet."
 
 #: docs/index.rst:692
 msgid ""
@@ -2115,6 +2320,10 @@ msgid ""
 "any level who rely on HeRAMS data for their own work. Their access is "
 "limited to the project dashboard and the list of available workspaces."
 msgstr ""
+"**Project viewer:** Le rôle de *project viewer* est destiné aux utilisateurs "
+"de tous niveaux qui s'appuient sur les données HeRAMS pour leur propre "
+"travail. Leur accès est limité au tableau de bord du projet et à la liste "
+"des espaces de travail disponibles."
 
 #: docs/index.rst:694
 msgid ""
@@ -2122,6 +2331,10 @@ msgid ""
 "dashboard can be further restricted. Please consult `Project Settings` for "
 "further information on project statuses."
 msgstr ""
+"Si un projet est défini sur **private** ou **closed** privé  ou fermé, "
+"l'accès au tableau de bord du projet peut être davantage restreint. Veuillez "
+"consulter `Project settings`Paramètres du projet pour plus d'informations "
+"sur les statuts des projets."
 
 #: docs/index.rst:698
 #, fuzzy
@@ -2133,12 +2346,17 @@ msgid ""
 "**Data contributors**: *data contributors* are granted access to *edit data* "
 "for individual workspaces."
 msgstr ""
+"**Data contributors**: *data contributors* Contributeurs de données ont "
+"accès à modifier les données *edit data* pour les espaces de travail "
+"individuels."
 
 #: docs/index.rst:707
 msgid ""
 "Optionally, *data contributors* can also be granted permissions to download "
 "data."
 msgstr ""
+"En option, *data contributors* les contributeurs de données peuvent "
+"également être autorisés à télécharger des données."
 
 #: docs/index.rst:714
 msgid ""
@@ -2147,6 +2365,11 @@ msgid ""
 "combined with the permission to *Edit Data*, under special circumstances, "
 "permission might only be granted to download data."
 msgstr ""
+"**Data viewers**: Il est possible d'accorder aux utilisateurs l'accès au "
+"téléchargement des données sans leur fournir de droits de modification. Bien "
+"que cette autorisation soit généralement associée à l'autorisation de "
+"modifier les données *Edit Data*, dans des circonstances particulières, "
+"l'autorisation peut uniquement être accordée pour télécharger des données."
 
 #: docs/index.rst:721
 msgid ""
@@ -2154,6 +2377,10 @@ msgid ""
 "*workspace owners* are granted the permission to *manage users*. This grants "
 "them the ability to invite other users to contribute to their workspace."
 msgstr ""
+"**Workspace owners**: En plus de modifier et de télécharger des données, les "
+"propriétaires d'espace de travail *workspace owners* ont l'autorisation de "
+"gérer les utilisateurs *manage users*. Cela leur donne la possibilité "
+"d'inviter d'autres utilisateurs à contribuer à leur espace de travail."
 
 #: docs/index.rst:728
 msgid ""
@@ -2162,6 +2389,13 @@ msgid ""
 "managing user access for their workspace. This permission should be used "
 "carefully and only granted if absolutely necessary."
 msgstr ""
+"Dans des circonstances spéciales, un administrateur de projet *project admin*"
+" peut accorder à un propriétaire de l'espace de travail * workspace owner* "
+"l'autorisation d'administrateur sur un espace de travail, permettant au "
+"propriétaire de l'espace de travail *workspace owner* de déléguer la gestion "
+"de l'accès utilisateur pour son espace de travail. Cette autorisation doit "
+"être utilisée avec précaution et accordée uniquement si cela est absolument "
+"nécessaire."
 
 #: docs/index.rst:735
 msgid ""
@@ -2169,6 +2403,10 @@ msgid ""
 "user, they remain responsible for their workspace and users having access to "
 "it."
 msgstr ""
+"Bien que les propriétaires d'espace de travail *workspace owners puissent "
+"déléguer l'octroi d'autorisations d'accès à un autre utilisateur, ils "
+"restent responsables de leur espace de travail et des utilisateurs qui y ont "
+"accès."
 
 #: docs/index.rst:740
 #, fuzzy
@@ -2181,6 +2419,9 @@ msgid ""
 "workspace or projects, respectively. For more details see `Access your "
 "workspace`_."
 msgstr ""
+"Pour accorder à un utilisateur l'accès à un espace de travail ou à un "
+"projet, accédez à la liste des espaces de travail ou des projets, "
+"respectivement. Pour plus de détails, voir `Access your workspace`_."
 
 #: docs/index.rst:744
 msgid ""
@@ -2189,6 +2430,11 @@ msgid ""
 "icon|. This will open the user management page. For all full list of icons "
 "and their meanings go to `Icons and their meaning`_."
 msgstr ""
+"Vous devriez maintenant voir un tableau similaire à l'image ci-dessous. Dans "
+"la colonne la plus à droite de votre tableau, vous devriez voir une ou "
+"plusieurs icônes. Cliquez sur l'icône |share-icon|. Cela ouvrira la page de "
+"gestion des utilisateurs. Pour consulter la liste complète des icônes et "
+"leur signification, consultez `Icons and their meaning`_."
 
 #: docs/index.rst:746
 #, fuzzy
@@ -2222,6 +2468,8 @@ msgstr ""
 #: docs/index.rst:755
 msgid "You can add multiple users add once as shown in the image above."
 msgstr ""
+"Vous pouvez ajouter plusieurs utilisateurs ajouter une fois comme indiqué "
+"dans l'image ci-dessus."
 
 #: docs/index.rst:759
 #, fuzzy
@@ -2251,6 +2499,8 @@ msgid ""
 "Follow the instructions outlined  `above <#add-a-user>`__ to open the user "
 "management interface of your workspace or project."
 msgstr ""
+"Suivez les instructions décrites `above <#add-a-user>`__  pour ouvrir "
+"l'interface de gestion des utilisateurs de votre espace de travail ou projet."
 
 #: docs/index.rst:773 docs/index.rst:786
 #, fuzzy
@@ -2267,6 +2517,8 @@ msgid ""
 "You can change a users permission by flipping the corresponding switch "
 "button to **Allowed** or **Denied**."
 msgstr ""
+"Vous pouvez modifier l'autorisation d'un utilisateur en basculant le bouton "
+"de commutation correspondant sur **Allowed** ou **Denied**."
 
 #: docs/index.rst:783
 #, fuzzy
@@ -2279,18 +2531,26 @@ msgid ""
 "`here <#add-a-user>`__ for more details on how to access the user management "
 "interface."
 msgstr ""
+"Ouvrez l'interface de gestion des utilisateurs de votre *workspace* ou "
+"*Project*. Voir  `here <#add-a-user>`__  pour plus de détails sur la façon "
+"d'accéder à l'interface de gestion des utilisateurs."
 
 #: docs/index.rst:787
 msgid ""
 "To remove a user change all permissions to **Denied**. Upon reloading the "
 "page, you will see that the user has disappeared from the list."
 msgstr ""
+"Pour supprimer un utilisateur, définissez toutes les autorisations sur "
+"**Denied** Refusé. Lors du rechargement de la page, vous verrez que "
+"l'utilisateur a disparu de la liste."
 
 #: docs/index.rst:789
 msgid ""
 "Removing a user from a **Workspace** will not revoke their **Project** level "
 "permissions and vice versa."
 msgstr ""
+"La suppression d'un utilisateur d'un espace de travail **Workspace** ne "
+"révoquera pas ses autorisations de niveau **Project** et vice versa."
 
 #: docs/index.rst:793
 #, fuzzy
@@ -2304,6 +2564,11 @@ msgid ""
 "workspaces, managing workspaces also includes assigning *Workspace owners* "
 "and granting them appropriate permissions."
 msgstr ""
+"La gestion de la liste des espaces de travail disponibles est un élément clé "
+"du rôle administrateur de projet *Project admin's*. En plus de pouvoir "
+"créer, modifier ou supprimer des espaces de travail, la gestion des espaces "
+"de travail comprend également l'attribution de  propriétaires d'espace de "
+"travail *Workspace owners* et leur octroi des autorisations appropriées."
 
 #: docs/index.rst:797
 #, fuzzy
@@ -2357,6 +2622,11 @@ msgid ""
 "to be manually changed. Contact your system administrator for guidance on "
 "how to change a record's token."
 msgstr ""
+"Les Tokens sont des identifiants uniques qui relient les établissements de "
+"santé aux espaces de travail. Pour ajouter un établissement de santé à un "
+"espace de travail, le token de l'enregistrement en question doit être "
+"modifié manuellement. Contactez votre administrateur système pour savoir "
+"comment modifier le token d'un enregistrement."
 
 #: docs/index.rst:815
 #, fuzzy
@@ -2470,6 +2740,9 @@ msgid ""
 "You should now see a page displaying the list of existing dashboard pages. "
 "To add a new page click the |create-page| button."
 msgstr ""
+"Vous devriez maintenant voir une page affichant la liste des pages de "
+"tableau de bord existantes. Pour ajouter une nouvelle page, cliquez sur le "
+"bouton  |create-page|."
 
 #: docs/index.rst:843 docs/index.rst:887
 msgid "You should now see a page similar to the one displayed below."
@@ -2482,6 +2755,9 @@ msgid ""
 "from the drop-down list. This will assure the page title is automatically "
 "translated into other languages."
 msgstr ""
+"Entrez le nom de la page dans le champ supérieur. Il est recommandé de "
+"sélectionner un élément dans la liste déroulante. Cela garantira que le "
+"titre de la page est automatiquement traduit dans d'autres langues."
 
 #: docs/index.rst:851
 #, fuzzy
@@ -2521,6 +2797,8 @@ msgid ""
 "You only created an empty page. To add elements to your page, see section "
 "`Add a new element to a page`_."
 msgstr ""
+"Vous n'avez créé qu'une page vide. Pour ajouter des éléments à votre page, "
+"voir la section `Add a new element to a page`_."
 
 #: docs/index.rst:859
 #, fuzzy
@@ -2532,6 +2810,8 @@ msgid ""
 "To modify an existing page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
 msgstr ""
+"Pour modifier une page existante, accédez à la liste des pages existantes "
+"comme détaillé `above <#create-a-dashboard-page>`__."
 
 #: docs/index.rst:862
 msgid ""
@@ -2560,6 +2840,8 @@ msgid ""
 "To permanently delete a page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
 msgstr ""
+"Pour supprimer définitivement une page, accédez à la liste des pages "
+"existantes comme détaillé `above <#create-a-dashboard-page>`__."
 
 #: docs/index.rst:869
 #, fuzzy
@@ -2604,6 +2886,8 @@ msgid ""
 "To modify an existing page, access the list of existing pages as outlined in "
 "the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
+"Pour modifier une page existante, accédez à la liste des pages existantes "
+"comme indiqué dans la `previous <#create-a-dashboard-page>`_ section."
 
 #: docs/index.rst:879
 #, fuzzy
@@ -2650,6 +2934,8 @@ msgid ""
 "Transposing the element or changing the question code or will reload the "
 "page making you lose all other unsaved edits."
 msgstr ""
+"Transposer l'élément ou changer le code de la question ou rechargera la page "
+"vous faisant perdre toutes les autres modifications non enregistrées."
 
 #: docs/index.rst:899
 msgid ""
@@ -2673,6 +2959,9 @@ msgid ""
 "For charts with large legend elements, it is recommended to use a **Width** "
 "of 2 to assure the legend is displayed correctly."
 msgstr ""
+"Pour les graphiques avec de grands éléments de légende, il est recommandé "
+"d'utiliser une **Width** de 2 pour garantir que la légende s'affiche "
+"correctement."
 
 #: docs/index.rst:904
 msgid ""
@@ -2735,6 +3024,8 @@ msgid ""
 "To modify the order of dashboard pages or rename a page, see `here <#update-"
 "a-dashboard-page>`__."
 msgstr ""
+"Pour modifier l'ordre des pages du tableau de bord ou renommer une page, "
+"voir `here <#update-a-dashboard-page>`__."
 
 #: docs/index.rst:929
 msgid ""
@@ -2759,7 +3050,7 @@ msgstr "Vous devriez maintenant en être capable:"
 
 #: docs/index.rst:933
 msgid "to change the variables displayed;"
-msgstr ""
+msgstr "pour changer les variables affichées;"
 
 #: docs/index.rst:934
 msgid "to change the colors of a map or a chart; and"
@@ -2784,6 +3075,8 @@ msgid ""
 "Access the list of existing dashboard elements as described `here <#create-a-"
 "dashboard-element>`__."
 msgstr ""
+"Accédez à la liste des éléments de tableau de bord existants comme décrit `"
+"here <#create-a-dashboard-element>`__."
 
 #: docs/index.rst:950
 msgid ""
@@ -2810,6 +3103,8 @@ msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
 msgstr ""
+"Soyez prudent lorsque vous supprimez des éléments de tableau de bord. Les "
+"éléments supprimés ne peuvent pas être restaurés."
 
 #: docs/index.rst:957
 msgid "FAQ"
@@ -2864,6 +3159,8 @@ msgstr ""
 #: docs/index.rst:974
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr ""
+"`Exported data is unreadable / contains strange characters`_ Les données "
+"exportées sont illisibles / contiennent des caractères étranges"
 
 #: docs/index.rst:978
 msgid "General"
@@ -2878,26 +3175,36 @@ msgid ""
 "If you did not receive an email upon registering or resetting your password, "
 "follow the steps below to troubleshoot the issue."
 msgstr ""
+"Si vous n'avez pas reçu d'e-mail lors de l'enregistrement ou de la "
+"réinitialisation de votre mot de passe, suivez les étapes ci-dessous pour "
+"résoudre le problème."
 
 #: docs/index.rst:985
 msgid ""
 "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
+"Rafraîchissez votre boîte de réception. L'apparition de l'e-mail peut "
+"prendre quelques minutes."
 
 #: docs/index.rst:986
 msgid "Check your spam/junk folder."
-msgstr ""
+msgstr "Vérifiez votre dossier spam / courrier indésirable."
 
 #: docs/index.rst:987
 msgid ""
 "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
+"Essayez de vous enregistrer à nouveau. Vous avez peut-être mal orthographié "
+"votre e-mail par erreur."
 
 #: docs/index.rst:988
 msgid ""
 "If the above steps did not solve your issue, please contact your system "
 "administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
+"Si les étapes ci-dessus n'ont pas résolu votre problème, veuillez contacter "
+"votre administrateur système ou envoyer un e-mail à `hearms@who.int "
+"<mailto:herams@who.int?>`_."
 
 #: docs/index.rst:991
 msgid "How to reset your password?"
@@ -2927,6 +3234,11 @@ msgid ""
 "your country focal point or send an email to `hearms@who.int <mailto:"
 "herams@who.int?>`_, specifying why you require access to the project."
 msgstr ""
+"Pour des raisons de protection des données, l'accès aux tableaux de bord du "
+"projet n'est accordé que sur demande. Si vous avez besoin d'accéder à un "
+"projet, veuillez contacter le point focal de votre pays ou envoyer un e-mail "
+"`hearms@who.int <mailto:herams@who.int?>`_, pour indiquer pourquoi vous avez "
+"besoin d'accéder au projet."
 
 #: docs/index.rst:1004
 #, fuzzy
@@ -2975,6 +3287,7 @@ msgstr ""
 #: docs/index.rst:1019
 msgid "Exported data is unreadable / contains strange characters"
 msgstr ""
+"Les données exportées sont illisibles / contiennent des caractères étranges"
 
 #: docs/index.rst:1021
 msgid ""
