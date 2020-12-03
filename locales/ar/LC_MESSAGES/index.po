@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-03 09:12+0000\n"
+"PO-Revision-Date: 2020-12-03 13:14+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1347,23 +1347,21 @@ msgstr ""
 "المنشأة الصحية مع الاحتفاظ بسجل المعلومات القديمة."
 
 #: docs/index.rst:519
-#, fuzzy
 msgid ""
 "This feature is not enabled in all projects. Contact your *Project admin* or "
 "send an email to `herams@who.int <mailto:herams@who.int?>`_ for further "
 "information."
 msgstr ""
-"لم يتم تفعيل ميزة تحديث المرافق الصحية في جميع المشاريع. اتصل بمركز الاتصال "
-"في بلدك أو أرسل بريدًا إلكترونيًا إلى `بفريق دعم هيرامس <?mailto:herams@who."
-"int>`_ للحصول على مزيد من المعلومات."
+"هذه الميزة لم يتم تفعيلها في جميع المشاريع. اتصل *بمسؤول المشروع* في بلدك أو "
+"أرسل بريداً إلكترونياً إلى `herams@who.int <mailto:herams@who.int?>`_ لمزيد "
+"من المعلومات."
 
 #: docs/index.rst:521
-#, fuzzy
 msgid ""
 "To update the status of a health facility, open the `data update interface "
 "<#access-the-data-update-interface>`__."
 msgstr ""
-"افتح واجهة تحديث البيانات كما هو موضح `أعلاه <#access-the-data-update-"
+"لتحديث حالة منشأة صحية، افتح `واجهة تحديث البيانات <#access-the-data-update-"
 "interface>`__."
 
 #: docs/index.rst:522
@@ -1377,17 +1375,16 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:530
-#, fuzzy
 msgid ""
 "You should now be able to edit the selected record. Use the buttons in the "
 "lower right corner to move to the |next| page of the questionnaire or return "
 "to the |previous| page. You can also use the navigation pane on the left to "
 "access a specific section of the questionnaire."
 msgstr ""
-"يمكنك الآن تحرير السجل الذي تم اختيارة. استخدم أزرار |next| في الزاوية "
-"اليمنى السفلى للانتقال إلى الصفحة التالية من الاستبيان أو العودة إلى الصفحة "
-"السابقة. يمكنك أيضًا استخدام جزء التنقل الموجود على اليسار للوصول إلى قسم "
-"معين من الاستبيان."
+"يمكنك الآن تعديل السجل الذي تم اختيارة. استخدم الأزرار الموجودة في الزاوية "
+"اليمنى السفلية للانتقال إلى صفحة |next| في الاستبيان أو للعودة إلى الصفحة "
+"|previous|. يمكنك أيضًا استخدام قائمة التنقل الموجودة على اليسار للوصول إلى "
+"قسم معين في الاستبيان."
 
 #: docs/index.rst:534
 msgid ""
@@ -1402,13 +1399,12 @@ msgid "Register a New Health Facility"
 msgstr "تسجيل مرفق صحي جديد"
 
 #: docs/index.rst:540
-#, fuzzy
 msgid ""
 "To register a new health facility, navigate to the `data update interface "
 "<#access-the-data-update-interface>`__."
 msgstr ""
-"افتح واجهة تحديث البيانات كما هو موضح `أعلاه <#access-the-data-update-"
-"interface>`__."
+"لتسجيل منشأة صحية جديدة، انتقل الى `واجهة تحديث البيانات <#access-the-data-"
+"update-interface>`__."
 
 #: docs/index.rst:541
 msgid ""
@@ -1417,17 +1413,15 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:542
-#, fuzzy
 msgid ""
 "Use the |next| buttons in the lower right corner to move to the next page of "
 "the questionnaire or return to the previous page. You can also use the "
 "navigation pane on the left to access a specific section of the "
 "questionnaire."
 msgstr ""
-"يمكنك الآن تحرير السجل الذي تم اختيارة. استخدم أزرار |next| في الزاوية "
-"اليمنى السفلى للانتقال إلى الصفحة التالية من الاستبيان أو العودة إلى الصفحة "
-"السابقة. يمكنك أيضًا استخدام جزء التنقل الموجود على اليسار للوصول إلى قسم "
-"معين من الاستبيان."
+"استخدم أزرار |next| الموجودة في الزاوية اليمنى السفلية للانتقال إلى الصفحة "
+"التالية من الإستمارة أو العودة إلى الصفحة السابقة. يمكنك أيضاً استخدام قائمة "
+"التنقل الموجودة على اليسار، للوصول إلى قسم معين من الإستمارة."
 
 #: docs/index.rst:546
 msgid ""
@@ -1474,11 +1468,11 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:558
-#, fuzzy
 msgid ""
 "Deleting responses cannot be undone. Thus, be careful when deleting "
 "responses."
-msgstr "اذا تم حذف السجلات فلن يمكن استرجاعها. كن حذرا عند حذف سجل."
+msgstr ""
+"اذا تم حذف إجابات من السجلات فلن يمكن استرجاعها. لذا، كن حذرا عند حذف إجابة."
 
 #: docs/index.rst:562
 msgid "Download Data"
@@ -1491,7 +1485,6 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:566
-#, fuzzy
 msgid ""
 "Whether you have permissions to download data depends on your function and "
 "role. If you require your access permissions to be changed, kindly contact "
@@ -1500,45 +1493,42 @@ msgid ""
 "brief explanation on why you would like your access permissions to be "
 "altered."
 msgstr ""
-"يقتصر الوصول إلى واجهة تحرير البيانات على المستخدمين المسؤولين عن تحديث "
-"البيانات. إذا كنت تحتاج إلى تغيير أذونات الوصول الخاصة بك ، فيرجى الاتصال "
-"بمركز التنسيق في بلدك أو إرسال بريد إلكتروني إلى `بفريق دعم هيرامس <?mailto:"
-"herams@who.int>`_ لتحديد وظيفتك ودورك وكذلك شرح موجز حول سبب رغبتك في تغيير "
-"أذونات الوصول الخاصة بك."
+"حصولك على إذن لتحميل البيانات يعتمد على وظيفتك ودورك في المشروع. إذا كنت "
+"بحاجة إلى تغيير الأذونات الخاصة بك، فيرجى الاتصال بالمسؤول عن مساحة العمل، "
+"المسؤول عن المشرع، أو إرسال بريد إلكتروني إلى`herams@who.int "
+"<mailto:herams@who.int?>`_ مع تحديد وظيفتك ودورك بالاضافة لشرح موجز حول سبب "
+"رغبتك في تغيير الأذونات الخاصة بك."
 
 #: docs/index.rst:569
 msgid "Download Workspace Data"
 msgstr "تنزيل بيانات مساحة العمل"
 
 #: docs/index.rst:571
-#, fuzzy
 msgid ""
 "Follow the instructions below to download data for your workspace. If you "
 "require data from multiple workspaces, you can repeat the below steps and "
 "merge your data in the analysis tool of choice."
 msgstr ""
-"اتبع الإرشادات أدناه لتنزيل البيانات لمساحة عمل واحدة. إذا كنت تحتاج إلى "
-"بيانات من مساحات عمل متعددة، فاتبع الخطوات التالية لكل مساحة عمل. يمكنك بعد "
-"ذلك دمج البيانات في أداة التحليل التي تختارها."
+"اتبع الإرشادات أدناه لتحميل بيانات مساحة العمل الخاصة بك. إذا كنت تحتاج إلى "
+"بيانات من مساحات عمل متعددة، فيمكنك اتباع الخطوات التالية ومن ثم دمج "
+"البيانات في أداة التحليل التي تختارها."
 
 #: docs/index.rst:573
-#, fuzzy
 msgid ""
 "In order to download data, you will require special permissions to the "
 "workspace. Contact your system administrator to elevate your access rights "
 "if needed."
 msgstr ""
-"لتنزيل البيانات، ستحتاج إلى الوصول إلى مساحة العمل الخاصة بك. اتصل بمسؤول "
-"النظام لتنشيط حقوق الوصول الخاصة بك إذا لزم الأمر."
+"لتحميل البيانات، ستحتاج إلى أذنوات خاصة بمساحة العمل. اتصل بمسؤول النظام "
+"لرفع مستوى الأذونات الخاصة بك إذا لزم الأمر."
 
 #: docs/index.rst:576
-#, fuzzy
 msgid ""
 "Navigate to the workspace page of your project (see `Access your workspace`_ "
 "steps 1 - 4 for detailed instructions)."
 msgstr ""
-"انتقل إلى صفحة مساحة العمل في مشروعك (`راجع الوصول إلى واجهة تحديث "
-"البيانات`_ - الخطوات من 1 إلى 4 للحصول على إرشادات مفصلة)."
+"انتقل إلى صفحة مساحة العمل بمشروعك (راجع `الوصول إلى مساحة العمل الخاصة بك`_ "
+"- الخطوات من 1 إلى 4 للحصول على إرشادات مفصلة)."
 
 #: docs/index.rst:577
 #, fuzzy
