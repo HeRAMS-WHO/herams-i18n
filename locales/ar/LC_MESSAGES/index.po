@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-01 18:14+0000\n"
+"PO-Revision-Date: 2020-12-03 09:12+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -440,7 +440,7 @@ msgstr ""
 "البيانات، يدويًا، بمساحة العمل. يتم تزامن البيانات تلقائيًا عند إنشاء، تعديل،"
 " وحذف الإجابات. في حال شعرت أن التزامن التلقائي لم يقم بتحديث البيانات بشكل "
 "صحيح في مساحة العمل الخاصة بك، فإن الضغط على هذا الزر سيتيح لك مزامنة مساحة "
-"العمل  وإعادة تحميل أحدث المعلومات من قاعدة بيانات هيرامس."
+"العمل وإعادة تحميل أحدث المعلومات من قاعدة بيانات هيرامس."
 
 #: docs/index.rst:161
 msgid ""
@@ -1337,14 +1337,14 @@ msgid "Add a Response to a Health Facility Record"
 msgstr "إضافة إجابة الى سجل المرفق الصحي"
 
 #: docs/index.rst:517
-#, fuzzy
 msgid ""
 "If HeRAMS is used as a monitoring tool, you can record changes to a health "
 "facility  by adding a new reponse. This will add a new response to your "
 "health facility while keeping the history of your updates."
 msgstr ""
-"إذا تم استخدام هيرامس كأداة مراقبة، فيمكنك تسجيل التغييرات في سجل المرفق "
-"الصحي مع الاحتفاظ بالمعلومات الموجودة."
+"إذا تم استخدام هيرامس كأداة مراقبة، فيمكنك تسجيل التغييرات بسجل المنشأة "
+"الصحية عن طريق إضافة إجابة جديدة. بهذه الخطوة سيتم إضافة إجابة جديدة لسجل "
+"المنشأة الصحية مع الاحتفاظ بسجل المعلومات القديمة."
 
 #: docs/index.rst:519
 #, fuzzy
@@ -1981,9 +1981,8 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:740
-#, fuzzy
 msgid "Add a User"
-msgstr "إضافة مستخدم إلى مشروع"
+msgstr "اضف مستخدم"
 
 #: docs/index.rst:742
 msgid ""
@@ -2370,7 +2369,6 @@ msgid "Create a Dashboard Element"
 msgstr "تحديث صفحة لوحة المعلومات"
 
 #: docs/index.rst:876
-#, fuzzy
 msgid ""
 "This section covers the steps required to add a new element to an existing "
 "dashboard page. If you would like to extend your dashboard by adding "
@@ -2378,9 +2376,8 @@ msgid ""
 "information."
 msgstr ""
 "يغطي هذا القسم الخطوات اللازمة لإضافة عنصر جديد إلى صفحة لوحة المعلومات "
-"الحالية. إذا كنت ترغب في تمديد لوحة المعلومات الخاصة بك عن طريق إضافة صفحات "
-"إضافية ، يرجى الاطلاع على `إضافة صفحة جديدة إلى لوحة المعلومات`_ للحصول على "
-"مزيد من المعلومات."
+"الحالية. إذا كنت ترغب في زيادة لوحة المعلومات الخاصة بك عن طريق إضافة صفحات "
+"إضافية، يرجى الاطلاع على `إنشاء صفحة بلوحة المعلومات`_ لمزيد من المعلومات."
 
 #: docs/index.rst:878
 msgid ""
