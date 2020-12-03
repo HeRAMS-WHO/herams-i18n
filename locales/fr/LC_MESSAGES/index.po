@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-03 09:12+0000\n"
+"PO-Revision-Date: 2020-12-03 09:19+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -1263,7 +1263,7 @@ msgstr ""
 "espace de travail. *Les propriétaires d'espace de travail* peuvent inviter "
 "des utilisateurs supplémentaires à contribuer à leurs données. Pour plus "
 "d'informations sur la manière d'accorder aux utilisateurs l'accès à un "
-"espace de travail, veuillez afficher la section`gestion des utilisateurs`_ ."
+"espace de travail, veuillez afficher la section`Gestion des utilisateurs`_ ."
 
 #: docs/index.rst:428
 #, fuzzy
