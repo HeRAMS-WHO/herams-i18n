@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-02 17:14+0000\n"
-"Last-Translator: Ousmane Toure <obtoure@gmail.com>\n"
+"PO-Revision-Date: 2020-12-03 09:12+0000\n"
+"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
 "Language: fr\n"
@@ -536,7 +536,6 @@ msgstr ""
 "titre ou le token d'un espace de travail."
 
 #: docs/index.rst:163
-#, fuzzy
 msgid ""
 "|share-icon| **Share workspace**: Opens the user management page of a "
 "project or workspace and enable project admins and workspace owners to "
@@ -705,7 +704,7 @@ msgstr ""
 
 #: docs/index.rst:218
 msgid "To open a page, click the page name in the navigation pane."
-msgstr "Pour ouvrir une page, veuillez cliquer sur le le volet de navigation."
+msgstr "Pour ouvrir une page, veuillez cliquer sur le volet de navigation."
 
 #: docs/index.rst:220
 msgid ""
@@ -971,8 +970,8 @@ msgid ""
 msgstr ""
 "des graphiques de beignes pour illustrer les modes de prestation des séries "
 "(**MoSD**, angl. *Mo**\\odes  of **S**\\ervice **D**\\elivery) par type "
-"ainsi que la modalité de la structure du bâtiment (permanente vs. "
-"temporaire) ; et  Modalité de délivrance des services; et"
+"ainsi que la modalité de la structure du bâtiment (permanente vs. temporaire)"
+" ; et Modalité de délivrance des services; et"
 
 #: docs/index.rst:322
 msgid "a table to illustrate reported accessibility barriers."
@@ -1254,17 +1253,17 @@ msgid ""
 "additional users to contribute to their data. For more information on how to "
 "grant users access to a workspace please view the `user management`_ section."
 msgstr ""
-"HeRAMS utilise ce que l'on appelle les ** espaces de travail ** pour gérer "
-"les autorisations d'accès aux données sous-jacentes. Un espace de travail "
-"peut inclure tous les établissements de santé d'une région géographique, les "
+"HeRAMS utilise ce que l'on appelle les **espaces de travail** pour gérer les "
+"autorisations d'accès aux données sous-jacentes. Un espace de travail peut "
+"inclure tous les établissements de santé d'une région géographique, les "
 "établissements de santé gérés par un partenaire spécifique ou toute autre "
-"entité logique. Chaque espace de travail a un point focal dédié, le * "
-"propriétaire de l'espace de travail *, qui est responsable de la mise à jour "
+"entité logique. Chaque espace de travail a un point focal dédié, le *"
+"propriétaire de l'espace de travail*, qui est responsable de la mise à jour "
 "et de la maintenance des registres des établissements de santé de leur "
-"espace de travail. * Les propriétaires d'espace de travail * peuvent inviter "
+"espace de travail. *Les propriétaires d'espace de travail* peuvent inviter "
 "des utilisateurs supplémentaires à contribuer à leurs données. Pour plus "
 "d'informations sur la manière d'accorder aux utilisateurs l'accès à un "
-"espace de travail, veuillez afficher la section`user management`_ ."
+"espace de travail, veuillez afficher la section`gestion des utilisateurs`_ ."
 
 #: docs/index.rst:428
 #, fuzzy
