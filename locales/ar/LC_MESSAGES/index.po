@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-03 17:14+0000\n"
+"PO-Revision-Date: 2020-12-04 20:14+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -75,6 +75,12 @@ msgid ""
 "`recurring icons <#icons-and-their-meanings>`_ used across the platform and "
 "introduces `breadcrumbs`_ as an efficient way to navigate the platform."
 msgstr ""
+"هذا الفصل مخصص للمستخدمين الجدد `لبرنامج هيرامس <https://herams.org/>`_. "
+"ويغطي المواضيع المتعلقة `بالتسجيل <# create-a-user-account> `_ و `الدخول "
+"للبرنامج <# logging-in>` _ وكذلك إدارة `ملف تعريف المستخدم <# update-your-"
+"user-profile> \"__. لمساعدتك في التنقل في البرنامج ، يقدم الجزء الأخير من "
+"هذا الفصل نظرة عامة على `الرموز <# icons-and-their-meanings>` _ المستخدمة "
+"بصورة متكررة كما يقدم `مسار التنقل` _ كطريقة فعالة للتنقل في المنصة."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
@@ -235,6 +241,8 @@ msgid ""
 "platform, return to the `sign in page <https://herams.org>`__ and enter your "
 "credentials."
 msgstr ""
+"لقد نجحت الآن في تغيير كلمة المرور الخاصة بك. للدخول إلى برنامج هيرامس، ارجع "
+"إلى ` صفحة تسجيل الدخول <https://herams.org> `__ وأدخل البيانات الخاصة بك."
 
 #: docs/index.rst:101
 msgid "Update your User Profile"
@@ -301,7 +309,7 @@ msgstr ""
 
 #: docs/index.rst:122
 msgid "Change Language Preference"
-msgstr ""
+msgstr "قم بتغيير خيارات اللغة"
 
 #: docs/index.rst:123
 msgid ""
@@ -311,6 +319,10 @@ msgid ""
 "HeRAMS, the language will default to English. To manually adjust your "
 "language preference, follow the steps below."
 msgstr ""
+"برنامج هيرامس متاح بلغات متعددة. ما لم تقوم بتحديد اللغة، سيتم ضبط اللغة "
+"تلقائيًا بناءً على لغة متصفحك. بالنسبة للمستخدمين الذين لديهم لغة متصفح غير "
+"مدعومة من قبل هيرامس، ستكون اللغة الافتراضية هي الإنجليزية. لضبط تفضيلات "
+"اللغة يدويًا ، اتبع الخطوات أدناه."
 
 #: docs/index.rst:127
 msgid ""
@@ -477,7 +489,7 @@ msgstr ""
 
 #: docs/index.rst:169
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "مسار التنقل"
 
 #: docs/index.rst:170
 msgid ""
