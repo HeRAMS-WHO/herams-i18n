@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-05 15:14+0000\n"
+"PO-Revision-Date: 2020-12-05 20:14+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -808,6 +808,8 @@ msgid ""
 "This will open a new tab containing a printable version of the dashboard. "
 "Click *CTRL*+ *P* to print the dashboard or save it as a pdf."
 msgstr ""
+"سيؤدي هذا إلى فتح علامة تبويب جديدة تحتوي على نسخة قابلة للطباعة من لوحة "
+"المعلومات. إضغط على *CTRL* + *P* لطباعة لوحة المعلومات أو حفظها كملف pdf."
 
 #: docs/index.rst:295
 msgid "Default dashboard pages"
@@ -1215,7 +1217,7 @@ msgstr "يلخص الفيديو أدناه خطوات الوصول إلى واج
 
 #: docs/index.rst:458
 msgid "Favorites"
-msgstr ""
+msgstr "المفضلة"
 
 #: docs/index.rst:459
 msgid ""
@@ -1234,22 +1236,28 @@ msgid ""
 "For user working on multiple project, please note that it is possible to add "
 "workspace from different projects to your list of favorites."
 msgstr ""
+"بالنسبة للمستخدم الذي يعمل في مشاريع متعددة، يرجى ملاحظة أنه من الممكن إضافة "
+"مساحة عمل من مشاريع مختلفة إلى قائمة المفضلة لديك."
 
 #: docs/index.rst:464
 msgid "Navigate to the list of workspaces as outlined above."
-msgstr ""
+msgstr "انتقل إلى قائمة مساحات العمل كما هو موضح أعلاه."
 
 #: docs/index.rst:465
 msgid ""
 "In the second last column you should see a |star-hollow| icon. To add a "
 "workspace to your list of favorites, simply click the icon."
 msgstr ""
+"في العمود قبل الأخير، ستشاهد رمز |star-hollow|. لإضافة مساحة عمل إلى قائمة "
+"المفضلات لديك، ما عليك سوى الضغط على الرمز."
 
 #: docs/index.rst:466
 msgid ""
 "The icon should have changed to a filled star |star-filled|, indicating that "
 "your workspace was successfully added to your list of favorites."
 msgstr ""
+"يجب أن يتغير الرمز إلى نجمة ممتلئة |star-filled|، للإشارة إلى أنه تمت إضافة "
+"مساحة العمل الخاصة بك بنجاح إلى قائمة المفضلة لديك."
 
 #: docs/index.rst:467
 msgid ""
@@ -1265,12 +1273,14 @@ msgid ""
 "icon again. You should see the icon changing back to an unfilled |star-"
 "hollow|."
 msgstr ""
+"لحذف مساحة عمل من قائمتك المفضلة، إضغط على |star-filled| مرة أخرى. ستشاهد "
+"الرمز وهو يتغير مرة أخرى إلى نجمة فارغة |star-hollow|."
 
 #: docs/index.rst:471
 msgid ""
 "If the workspace does not automatically disappear from your list of "
 "favorites, try refreshing the page."
-msgstr ""
+msgstr "إذا لم تختف مساحة العمل تلقائيًا من قائمتك المفضلة، فحاول تحديث الصفحة."
 
 #: docs/index.rst:475
 msgid "Edit a Health Facility Response"
@@ -1300,6 +1310,8 @@ msgid ""
 "specific response, you first have to expand the health facility by clicking "
 "anywhere in the corresponding row."
 msgstr ""
+"لتسهيل التنقل، يتم تجميع السجلات حسب المنشأة الصحية. لتعديل إجابة محددة، "
+"عليك أولاً توسيع سجل المرفق الصحي بالضغط على أي مكان في الصف المقابل."
 
 #: docs/index.rst:482
 msgid ""
@@ -1318,16 +1330,21 @@ msgid ""
 "facility. In the left-most column of the list, there are three buttons "
 "allowing to preform the following actions."
 msgstr ""
+"ستشاهد الآن قائمة بجميع الإجابات الخاصة بالمنشأة الصحية التي قمت إختيارها. "
+"في العمود الموجود في أقصى اليسار من القائمة، توجد ثلاثة أزرار تسمح بتنفيذ "
+"الإجراءات التالية."
 
 #: docs/index.rst:491
 msgid "|view| **View** : Click this button to view the full response"
-msgstr ""
+msgstr "|view| **عرض**: انقر فوق هذا الزر لعرض الإجابة الكاملة"
 
 #: docs/index.rst:492
 msgid ""
 "|pencil| **Edit**: Allows you to modify an existing response. This will "
 "permanently overwrite the existing infomration and cannot be undone."
 msgstr ""
+"|pencil| **تعديل**: يسمح لك بتعديل إجابة موجودة. سيؤدي هذا إلى الكتابة فوق "
+"المعلومات الموجودة بشكل دائم ولا يمكن التراجع عنه."
 
 #: docs/index.rst:493
 msgid ""
@@ -1340,7 +1357,7 @@ msgstr ""
 #: docs/index.rst:500
 msgid ""
 "The number of action buttons visible depends on your project's settings."
-msgstr ""
+msgstr "يعتمد عدد أزرار الإجراءات التي تراها على إعدادات مشروعك."
 
 #: docs/index.rst:502
 msgid ""
@@ -1380,6 +1397,10 @@ msgid ""
 "export. Thus, once you have completed your edits, make sure to **always** "
 "navigate to the last page (*Validate*) and click the |submit| button."
 msgstr ""
+"بينما قد يسمح لك مشروعك بحفظ إجابتك واستئنافها لاحقاً، فأن السجلات التي "
+"ستظهر على لوحة المعلومات وفي ملف التصدير هي فقط التي قمت بإرسالها. بالتالي، "
+"بمجرد الانتهاء من عمليات التعديل، تأكد **دائمًا** من الانتقال إلى الصفحة "
+"الأخيرة (* التحقق من الصحة *) والضغط على زر |submit| ."
 
 #: docs/index.rst:515
 msgid "Add a Response to a Health Facility Record"
@@ -1415,7 +1436,7 @@ msgstr ""
 
 #: docs/index.rst:522
 msgid "Click the health facility record you would like to add a response to."
-msgstr ""
+msgstr "إضغط على سجل المنشأة الصحية التي تود إضافة إجابة لها."
 
 #: docs/index.rst:523
 msgid ""
@@ -1875,6 +1896,10 @@ msgid ""
 "for *closed* or *private* projects. For all other projects, any user "
 "subscribed to the platform will be able to view the *Project dashboard*."
 msgstr ""
+"**عرض لوحة المعلومات**: تمنح حق الدخول حصرياً إلى *لوحة معلومات المشروع*. إن "
+"منح المستخدمين حق الدخول بصورة محددة إلى *لوحة معلومات المشروع* مطلوب فقط "
+"للمشروعات *المغلقة * أو *الخاصة*. بالنسبة لجميع المشاريع الأخرى، سيتمكن أي "
+"مستخدم مشترك في برنامج هيرامس من رؤية *لوحة معلومات المشروع*."
 
 #: docs/index.rst:660
 msgid ""
