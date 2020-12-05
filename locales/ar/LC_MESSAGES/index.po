@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-04 20:14+0000\n"
+"PO-Revision-Date: 2020-12-05 15:14+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -37,13 +37,13 @@ msgid ""
 "management and project administration, please consult the `HeRAMS "
 "administration`_ section."
 msgstr ""
-"مرحبًا بك في **دليل مستخدم هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي "
-"`منصة هيرامس <https://herams.org>`_. وهو يوفر إرشادات خطوة بخطوة حول كيفية "
-"التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات الرئيسية "
-"لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات المتاحة "
-"باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على معلومات "
-"إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. يرجى الرجوع إلى "
-"قسم إدارة لمزيد من الموضوعات المتقدمة المتعلقة بإدارة المستخدمين و `إدارة "
+"مرحبًا بك في **دليل مستخدم هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي `"
+"برنامج هيرامس <https://herams.org>`_. وهو يوفر إرشادات خطوة بخطوة حول كيفية "
+"التسجيل والدخول للنظام بالإضافة إلى ملخص مختصر عن المكونات الرئيسية لبرنامج "
+"هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات المتاحة باستخدام "
+"لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على معلومات إضافية "
+"حول كيفية تعديل البيانات في قسم `المساهمة بالبيانات`_. يرجى الرجوع إلى قسم "
+"إدارة لمزيد من الموضوعات المتقدمة المتعلقة بإدارة المستخدمين و `إدارة "
 "هيرامس`_."
 
 #: docs/index.rst:16
@@ -54,12 +54,11 @@ msgid ""
 "HeRAMS webpage <https://www.who.int/hac/herams/en//>`_ or contact the "
 "`HeRAMS support team <mailto:herams@who.int?>`_."
 msgstr ""
-"تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة `بمنصة "
+"تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة `ببرنامج "
 "هيرامس <https://herams.org/user/login>`_. للحصول على معلومات عامة حول نهج "
-"هيرامس وللحصول على إرشادات فنية، يرجى الرجوع إلى `WHO HeRAMS صفحة الويب "
-"الرسمية <https://www.who.int/hac/herams/en>`_. للأسئلة الإضافية التي لم يتم "
-"تغطيتها في هذا الدليل، يرجى الاتصال `بفريق دعم هيرامس <mailto:herams@who.int?"
-">`_."
+"هيرامس وللحصول على إرشادات فنية، يرجى الرجوع إلى `صفحة الويب الرسمية لهيرامس "
+"<https://www.who.int/hac/herams/en>`_. للأسئلة الإضافية التي لم يتم تغطيتها "
+"في هذا الدليل، يرجى الاتصال `بفريق دعم هيرامس <?mailto:herams@who.int>`_."
 
 #: docs/index.rst:21
 msgid "Getting started"
@@ -149,8 +148,8 @@ msgid ""
 "instructions `here <#creating-a-user-account>`__."
 msgstr ""
 "سيتعين على المستخدمين الجدد الذين ليس لديهم حساب، التسجيل قبل التمكن من "
-"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم، اتبع التعليمات `هنا <#creating-a"
-"-user-account>`_."
+"الدخول إلى برنامج هيرامس. لإنشاء حساب مستخدم، اتبع التعليمات `هنا "
+"<#creating-a-user-account>`_."
 
 #: docs/index.rst:59
 msgid "Open the link `herams.org <https://herams.org>`__ in your browser."
@@ -242,7 +241,7 @@ msgid ""
 "credentials."
 msgstr ""
 "لقد نجحت الآن في تغيير كلمة المرور الخاصة بك. للدخول إلى برنامج هيرامس، ارجع "
-"إلى ` صفحة تسجيل الدخول <https://herams.org> `__ وأدخل البيانات الخاصة بك."
+"إلى `صفحة تسجيل الدخول <https://herams.org> `__ وأدخل البيانات الخاصة بك."
 
 #: docs/index.rst:101
 msgid "Update your User Profile"
@@ -320,7 +319,7 @@ msgid ""
 "language preference, follow the steps below."
 msgstr ""
 "برنامج هيرامس متاح بلغات متعددة. ما لم تقوم بتحديد اللغة، سيتم ضبط اللغة "
-"تلقائيًا بناءً على لغة متصفحك. بالنسبة للمستخدمين الذين لديهم لغة متصفح غير "
+"تلقائياً بناءً على لغة متصفحك. بالنسبة للمستخدمين الذين لديهم لغة متصفح غير "
 "مدعومة من قبل هيرامس، ستكون اللغة الافتراضية هي الإنجليزية. لضبط تفضيلات "
 "اللغة يدويًا ، اتبع الخطوات أدناه."
 
@@ -334,7 +333,7 @@ msgstr ""
 
 #: docs/index.rst:128
 msgid "In the pop-up window that opens, navigate to the **Profile** tab."
-msgstr ""
+msgstr "في النافذة التي تظهر، قم بالانتقال إلى علامة **الملف الشخصي**."
 
 #: docs/index.rst:129
 msgid ""
@@ -350,10 +349,13 @@ msgid ""
 "would like to change them, you must return to this page and update your user "
 "profile."
 msgstr ""
+"يتم حفظ تفضيلات اللغة الخاصة بك للمرة القادمة التي تقوم فيها بتسجيل الدخول. "
+"إذا كنت ترغب في تغييرها، يجب عليك العودة إلى هذه الصفحة وتحديث ملف تعريف "
+"المستخدم الخاص بك."
 
 #: docs/index.rst:141
 msgid "Change Email Address"
-msgstr ""
+msgstr "قم بتغيير البريد الإلكتروني"
 
 #: docs/index.rst:142
 msgid ""
@@ -368,27 +370,35 @@ msgid ""
 "Open the **Email** tab and enter the new email address you would like to use "
 "for your HeRAMS account."
 msgstr ""
+"قم بفتح علامة التبويب **البريد الإلكتروني** وأدخل عنوان البريد الإلكتروني "
+"الجديد الذي ترغب في استخدامه لحساب هيراس الخاص بك."
 
 #: docs/index.rst:144
 msgid ""
 "Click the |send-confirmation| button. This will send a confirmation email to "
 "your new email address."
 msgstr ""
+"إضغط على زر |send-confirmation| . سيؤدي هذا إلى إرسال رسالة تأكيد إلى عنوان "
+"بريدك الإلكتروني الجديد."
 
 #: docs/index.rst:145
 msgid ""
 "Click the link in the confirmation email to validate your new email address."
 msgstr ""
+"إضغط على الرابط الموجود في الرسالة للتحقق من صحة عنوان بريدك الإلكتروني "
+"الجديد."
 
 #: docs/index.rst:148
 msgid "Icons and their Meaning"
-msgstr ""
+msgstr "الرموز ومعانيها"
 
 #: docs/index.rst:149
 msgid ""
 "This section aims to provide an overview of key icons used accross the "
 "platform and explains their meanings."
 msgstr ""
+"يهدف هذا القسم إلى تقديم نظرة عامة للرموز الرئيسية المستخدمة عبر برنامج "
+"هيرامس مع شرح معانيها."
 
 #: docs/index.rst:152
 msgid ""
@@ -397,6 +407,9 @@ msgid ""
 "information on how to add workspaces to your `Favorites`_ is available in "
 "the `Contribute data`_ chapter."
 msgstr ""
+"|star-filled| **المفضلة**: تتيح لك إنشاء قائمة بمساحات العمل المفضلة لديك، "
+"والتي يمكن الدخول إليها مباشرة من خريطة العالم. تتوفر مزيد من المعلومات حول "
+"كيفية إضافة مساحات العمل إلى `المفضلة` _ في فصل `المساهمة بالبيانات` _."
 
 #: docs/index.rst:153
 msgid ""
@@ -404,10 +417,12 @@ msgid ""
 "interface. Additional information on the HeRAMS admin interface is available "
 "in the `HeRAMS administration`_ chapter."
 msgstr ""
+"|settings| **الإعدادات**: استخدم هذا الزر للدخول إلى واجهة إدارة هيرامس. "
+"تتوفر معلومات إضافية حول واجهة إدارة هيرامس في قسم `إدارة هيرامس`_."
 
 #: docs/index.rst:154
 msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
-msgstr ""
+msgstr "|user-guide| **دليل المستخدم**: يفتح **دليل مستخدم هيرامس**."
 
 #: docs/index.rst:155
 msgid ""
@@ -425,7 +440,7 @@ msgstr "|dashboard| **لوحة المعلومات**: تفتح `لوحة معلو
 
 #: docs/index.rst:157
 msgid "|view| **View**: Grants you view access to a specific item or record."
-msgstr ""
+msgstr "|view| **رؤية**: يمنحك حق الدخول إلى عنصر أو سجل معين."
 
 #: docs/index.rst:158
 msgid ""
@@ -437,7 +452,7 @@ msgstr ""
 
 #: docs/index.rst:159
 msgid "|delete| **Delete**: Deletes a specific item or record."
-msgstr ""
+msgstr "|delete| **حذف**: تحذف عنصر أو سجل معين."
 
 #: docs/index.rst:160
 msgid ""
@@ -486,6 +501,8 @@ msgid ""
 "The number of buttons visible to you depends on your `user role<#user-"
 "roles>`_ and might vary from one workspace/project to another."
 msgstr ""
+"يعتمد عدد الأزرار الظاهرة لك على`دور المستخدم <# user-roles> `_ وقد يختلف "
+"هذا من مساحة عمل/مشروع إلى آخر."
 
 #: docs/index.rst:169
 msgid "Breadcrumbs"
@@ -499,6 +516,10 @@ msgid ""
 "**Nigeria** in the breadcrumb trail allows you to return to the dashboard "
 "overview page from any of the sub-pages."
 msgstr ""
+"تظهر مسارات التنقل أعلى كل صفحة في برنامج هيرامس، لمساعدتك في التنقل في "
+"البرنامج بشكل أكثر فعالية وتوفير طريقة بسيطة للدخول إلى الصفحات السابقة. في "
+"المثال أدناه، يتيح لك النقر فوق **نيجريا** في مسار التنقل العودة إلى الصفحة "
+"العامة على لوحة المعلومات من أي من الصفحات الفرعية."
 
 #: docs/index.rst:180
 msgid "View a Project"
@@ -514,6 +535,11 @@ msgid ""
 "rapidly produce in-depth anlayses for specific areas and indicators of "
 "interest."
 msgstr ""
+"يوفر هذا الفصل مقدمة عن التحليل الآني الذي يقدمه برنامج هيرامس. لكل مشروع "
+"توجد صفحة تلخص المؤشرات الرئيسية مثل عدد المرافق الصحية التي تم تقييمها "
+"والوظائف العامة وتوافر الخدمة. توفر لوحات المعلومات التفاعلية رؤى إضافية حول "
+"مشاريع هيرامس وتمكن المستخدمين من إنتاج تحليلات متعمقة بسرعة لمناطق محددة "
+"ومؤشرات ذات اهتمام."
 
 #: docs/index.rst:186
 msgid "Project Overview"
@@ -653,7 +679,7 @@ msgstr ""
 
 #: docs/index.rst:238
 msgid "Apply filters"
-msgstr ""
+msgstr "قم بتطبيق المرشحات"
 
 #: docs/index.rst:240
 msgid ""
@@ -759,11 +785,11 @@ msgstr "تصدير لوحة المعلومات"
 
 #: docs/index.rst:281
 msgid "Dashboards can be printed or exported as PDF document."
-msgstr ""
+msgstr "يمكن طباعة لوحات المعلومات أو تصديرها كمستند PDF."
 
 #: docs/index.rst:283
 msgid "The export will include any filters that might applied."
-msgstr ""
+msgstr "سيتضمن تصدير البيانات أي عوامل تصفية قد يتم تطبيقها."
 
 #: docs/index.rst:285
 msgid ""
@@ -1072,7 +1098,7 @@ msgstr ""
 
 #: docs/index.rst:413
 msgid "Contribute Data"
-msgstr ""
+msgstr "المساهمة بالبيانات"
 
 #: docs/index.rst:415
 msgid ""
@@ -1115,6 +1141,13 @@ msgid ""
 "additional users to contribute to their data. For more information on how to "
 "grant users access to a workspace please view the `user management`_ section."
 msgstr ""
+"يستخدم هيرامس ما يسمى ب **مساحات العمل** لإدارة أذونات الدخول إلى البيانات. "
+"قد تشمل مساحة العمل جميع المنشآت الصحية في منطقة جغرافية، أو فقط المنشآت "
+"الصحية التي يديرها شريك معين أو أي كيان آخر. يقوم بإدارة مساحة العمل شخص "
+"محوري *مالك مساحة العمل*وهو المسؤول عن تحديث وصيانة سجلات المنشأة الصحية "
+"الخاصة بمساحة العمل الخاصة به. يحق *لمالكي مساحات العمل* دعوة مستخدمين "
+"إضافيين للمساهمة في بياناتهم. لمزيد من المعلومات حول كيفية منح المستخدمين حق "
+"الدخول إلى مساحة عمل، يرجى الاطلاع على قسم `إدارة المستخدم` _."
 
 #: docs/index.rst:428
 msgid ""
@@ -1193,7 +1226,7 @@ msgid ""
 msgstr ""
 "لتبسيط عملية التنقل، يوصى بإضافة مساحات العمل التي يتم الدخول إليها بشكل "
 "متكرر، إلى قائمة المفضلة لديك. يمكن الدخول إلى مساحات العمل التي تم تمييزها "
-"كمفضلة من أي مكان في النظام الأساسي بالضغط على زر |star-filled| في أعلى يمين "
+"كمفضلة من أي مكان في البرنامج بالضغط على زر |star-filled| في أعلى يمين "
 "الشاشة."
 
 #: docs/index.rst:461
@@ -1732,10 +1765,10 @@ msgstr ""
 "يقدم هذا الفصل نظرة عامة على صفحات الادارة في هيرامس ويقدم إرشادات خطوة "
 "بخطوة للمهام التي يقوم بها المستخدمون ذو الصلاحيات المتقدمة (على سبيل المثال "
 "*مالكو مساحة العمل* و *مسؤولو المشروع*. يركز الجزء الأول من الفصل على إدارة "
-"المستخدم. ويوفر نظرة عامة على `أدوار المستخدم`_ الافتراضية المستخدمة في جميع "
-"أنحاء النظام الأساسي متبوعة بوصف تفصيلي حول كيفية إضافة مستخدمين إلى مساحات "
-"العمل والمشاريع. تركز الأجزاء المتبقية من هذا الفصل على مواضيع أكثر تقدمًا "
-"وتهدف إلى توجيه *مسؤولي المشروع* حول كيفية إدارة مشروعهم محليًا."
+"المستخدم. ويوفر ملخص عن `أدوار المستخدم`_ الافتراضية المستخدمة في جميع أنحاء "
+"برنامج هيرامس متبوعة بوصف تفصيلي حول كيفية إضافة مستخدمين إلى مساحات العمل "
+"والمشاريع. تركز الأجزاء المتبقية من هذا الفصل على مواضيع أكثر تقدماً وتهدف "
+"إلى توجيه *مسؤولي المشروع* حول كيفية إدارة مشروعهم محليًا."
 
 #: docs/index.rst:628
 msgid ""
@@ -1765,6 +1798,9 @@ msgid ""
 "download data, as well as to manage user access to their workspace. There "
 "are four permissions for workspaces that can be assigned independently:"
 msgstr ""
+"يتيح منح المستخدم صلاحية الدخول لمساحة عمل، المساهمة بالبيانات أو تحميلها، "
+"بالإضافة إلى إدارة دخول المستخدم إلى مساحة العمل الخاصة به. توجد أربعة "
+"صلاحيات لمساحات العمل يمكن تخصيصها بشكل مستقل:"
 
 #: docs/index.rst:638
 msgid "**Edit data**: Allows user to create, edit and delete records."
@@ -1820,6 +1856,13 @@ msgid ""
 "access at the **workspace level**, they are only able to contribute data to "
 "that specific workspace."
 msgstr ""
+"بطريقة مماثلة لصلاحيات مساحة العمل، يمكن أيضًا منح الصلاحيات على مستوى "
+"المشروع. من المهم ملاحظة أنه إذا تم منح الصلاحيات على مستوى *المشروع* ، "
+"فسيتم منح المستخدمين حق الدخول إلى جميع مساحات العمل. على سبيل المثال، إذا "
+"تم منح المستخدم إذن *تعديل* على **مستوى المشروع** ، فيمكنه تعديل البيانات في "
+"جميع مساحات العمل. في المقابل، إذا تم منح المستخدم حق الوصول على **مستوى "
+"مساحة العمل** ، فسيكون قادرًا فقط على المساهمة بالبيانات في مساحة العمل "
+"المحددة هذه."
 
 #: docs/index.rst:656
 msgid "There are five permissions that can be granted at the project level."
@@ -1902,6 +1945,13 @@ msgid ""
 "granted access to a project, they can explore data from other workspaces "
 "using the project dashboard."
 msgstr ""
+"**مالك مساحة العمل:** عادةً ما يكون على المستوى دون الوطني، ويشرف على جمع "
+"البيانات لمنطقة معينة (مثل مقاطعة). لديهم تحكم كامل على مساحة العمل الخاصة "
+"بهم ويمكنهم دعوة مستخدمين آخرين للمساهمة بالبيانات في مساحة عملهم. من المهم "
+"ملاحظة أن *مالكي مساحة العمل* يمكنهم فقط تعديل أو مشاركة حق الدخول إلى "
+"مساحات العمل التي يمتلكونها. ومع ذلك، مثل أي مستخدم تم منحه حق الدخول إلى "
+"مشروع، يمكنه الاطلاع على البيانات من مساحات العمل الأخرى باستخدام لوحة "
+"معلومات المشروع."
 
 #: docs/index.rst:688
 msgid ""
@@ -1964,6 +2014,9 @@ msgid ""
 "*workspace owners* are granted the permission to *manage users*. This grants "
 "them the ability to invite other users to contribute to their workspace."
 msgstr ""
+"*مالكي مساحة العمل**: بالإضافة إلى تعديل البيانات وتنزيلها، يتم منح *مالكي "
+"مساحة العمل* صلاحية *إدارة المستخدمين*، مما يمنحهم القدرة على دعوة مستخدمين "
+"آخرين للمساهمة بالبيانات في مساحة عملهم."
 
 #: docs/index.rst:728
 msgid ""
