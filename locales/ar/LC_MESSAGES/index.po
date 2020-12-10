@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 09:29+0000\n"
-"PO-Revision-Date: 2020-12-09 21:14+0000\n"
+"PO-Revision-Date: 2020-12-10 18:14+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -74,12 +74,12 @@ msgid ""
 "introduces `breadcrumbs`_ as an efficient way to navigate the platform."
 msgstr ""
 "هذا الفصل مخصص للمستخدمين الجدد `لبرنامج هيرامس <https://herams.org/>`_. "
-"ويغطي المواضيع المتعلقة `بالتسجيل <creating-a-user-account#>`_ و`الدخول "
-"للبرنامج <logging-in#>` _ وكذلك إدارة `ملف تعريف المستخدم\n"
-" <update-your-user-profile#>`__. لمساعدتك في التنقل في البرنامج، يقدم الجزء "
-"الأخير من هذا الفصل نظرة عامة على `الرموز < icons-and-their-meanings#>`_ "
-"المستخدمة بصورة متكررة في البرنامج، كما يقدم `مسار التنقل` _ كطريقة فعالة "
-"للتنقل في البرنامج."
+"ويغطي المواضيع المتعلقة `بالتسجيل \n"
+"<#creating-a-user-account>`_ و`الدخول للبرنامج <#logging-in>` _ وكذلك إدارة `"
+"ملف تعريف المستخدم <#update-your-user-profile>`__. لمساعدتك في التنقل في "
+"البرنامج، يقدم الجزء الأخير من هذا الفصل نظرة عامة على `الرموز <#icons-and-"
+"their-meanings>`_ المستخدمة بصورة متكررة في البرنامج، كما يقدم `مسار التنقل` "
+"_ كطريقة فعالة للتنقل في البرنامج."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
@@ -1905,7 +1905,7 @@ msgid ""
 msgstr ""
 "تعتمد مشاركة أذونات مساحة العمل مع مستخدمين آخرين على مستوى أذونات المستخدم. "
 "وبالتالي، من الممكن ألا يكون المستخدم الذي لديه إذن **إدارة المستخدمين** "
-"قادرًا على منح المستخدمين الآخرين حق الدخول لمساحة العمل لتحرير البيانات ."
+"قادرًا على منح المستخدمين الآخرين حق الدخول لمساحة العمل لتعديل البيانات ."
 
 #: docs/index.rst:648
 msgid ""
@@ -2139,7 +2139,7 @@ msgid ""
 "them the ability to invite other users to contribute to their workspace."
 msgstr ""
 "**مالكي مساحة العمل**: بالإضافة إلى تعديل البيانات وتحميلها، يتم منح *مالكي "
-"مساحة العمل* صلاحية *إدارة المستخدمين*، مما يمنحهم القدرة على دعوة مستخدمين "
+"مساحة العمل *صلاحية *إدارة المستخدمين*، مما يمنحهم القدرة على دعوة مستخدمين "
 "آخرين للمساهمة بالبيانات في مساحة عملهم."
 
 #: docs/index.rst:728
@@ -2406,10 +2406,10 @@ msgid ""
 "these dashboards. An overview of the standard dashboard pages is available "
 "`here <#default-dashboard-pages>`__."
 msgstr ""
-"لكل مشروع هيرامس، يمكن تكوين لوحة معلومات تفاعلية توفر ملخصًا للمؤشرات "
+"لكل مشروع هيرامس، يمكن تكوين لوحة معلومات تفاعلية توفر ملخصاً للمؤشرات "
 "والنتائج الرئيسية للمشروع. يوفر هذا القسم لمسؤولي المشروع وصفًا تفصيليًا حول "
-"كيفية تحرير لوحات المعلومات هذه. نظرة عامة على صفحات لوحة المعلومات القياسية "
-"متاحة `هنا <#default-dashboard-pages>`__."
+"كيفية تعديل لوحات المعلومات هذه. ملخص لصفحة لوحة المعلومات القياسية متاحة `"
+"هنا <#default-dashboard-pages>`__."
 
 #: docs/index.rst:836
 msgid "Create a Dashboard Page"
@@ -2692,7 +2692,7 @@ msgid ""
 "Users with the permissions to edit dashboards can modify charts and maps "
 "directly from within the dashboard."
 msgstr ""
-"يمكن للمستخدمين الذين لديهم صلاحيات تحرير لوحات المعلومات تعديل المخططات "
+"يمكن للمستخدمين الذين لديهم صلاحيات تعديل لوحات المعلومات تعديل المخططات "
 "والخرائط مباشرةً من داخل لوحة المعلومات."
 
 #: docs/index.rst:927
@@ -2814,7 +2814,7 @@ msgstr "`من لديه صلاحية الدخول إلى مشروعك/مساحة 
 
 #: docs/index.rst:971
 msgid "`Data editing & downloading`_"
-msgstr "`تحرير البيانات وتنزيلها`_"
+msgstr "`تعديل البيانات وتحميلها`_"
 
 #: docs/index.rst:973
 msgid "`Data updates don't appear on the dashboard`_"
