@@ -91,6 +91,10 @@ msgid "Admin dashboard"
 msgstr ""
 
 msgctxt "app"
+msgid "Administration"
+msgstr ""
+
+msgctxt "app"
 msgid "Advanced settings"
 msgstr ""
 
@@ -595,10 +599,6 @@ msgid "Longitude"
 msgstr ""
 
 msgctxt "app"
-msgid "Manage user permissions for {project}"
-msgstr ""
-
-msgctxt "app"
 msgid "Manage users"
 msgstr ""
 
@@ -696,10 +696,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
-msgstr ""
-
-msgctxt "app"
-msgid "Pages"
 msgstr ""
 
 msgctxt "app"
@@ -1168,6 +1164,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your password has been reset"
+msgstr ""
+
+msgctxt "app"
+msgid "dashboard"
 msgstr ""
 
 msgctxt "app"
