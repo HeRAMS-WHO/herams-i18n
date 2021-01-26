@@ -15,11 +15,148 @@ msgstr ""
 "X-Generator: Weblate 3.11.3\n"
 
 msgctxt "app"
+msgid "# Contributors"
+msgstr ""
+
+msgctxt "app"
+msgid "# Health facilities"
+msgstr ""
+
+msgctxt "app"
+msgid "# Responses"
+msgstr ""
+
+msgctxt "app"
+msgid "# Workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "(Not set)"
+msgstr ""
+
+msgctxt "app"
+msgid "25 - 50%"
+msgstr "25 - 50%"
+
+msgctxt "app"
+msgid "50 - 75%"
+msgstr "50 - 75%"
+
+msgctxt "app"
+msgid "< 25%"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "> 75%"
+msgstr "50 - 75%"
+
+msgctxt "app"
+msgid "A bar chart"
+msgstr ""
+
+msgctxt "app"
+msgid "A chart"
+msgstr ""
+
+msgctxt "app"
+msgid "A dashboard element that shows a map"
+msgstr ""
+
+msgctxt "app"
+msgid "A password reset email has beent sent to your address"
+msgstr ""
+
+msgctxt "app"
+msgid "A table"
+msgstr ""
+
+msgctxt "app"
+msgid "A verification email has beent sent to your address"
+msgstr ""
+
+msgctxt "app"
+msgid "Actions"
+msgstr ""
+
+msgctxt "app"
+msgid "Add"
+msgstr ""
+
+msgctxt "app"
+msgid "Add new user"
+msgstr ""
+
+msgctxt "app"
+msgid "Add services"
+msgstr ""
+
+msgctxt "app"
+msgid "Add user"
+msgstr ""
+
+msgctxt "app"
+msgid "Admin dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Administration"
+msgstr ""
+
+msgctxt "app"
+msgid "After closing this screen you must click {{apply}} to see the changes"
+msgstr ""
+
+msgctxt "app"
+msgid "Allow everything"
+msgstr ""
+
+msgctxt "app"
+msgid "Allowed"
+msgstr ""
+
+msgctxt "app"
+msgid "Already shared with"
+msgstr ""
+
+msgctxt "app"
+msgid "Alternative name"
+msgstr ""
+
+msgctxt "app"
+msgid "Answers as text"
+msgstr ""
+
+msgctxt "app"
+msgid "Apply"
+msgstr ""
+
+msgctxt "app"
 msgid "Apply changes"
 msgstr ""
 
 msgctxt "app"
+msgid "Apply filters"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you ABSOLUTELY SURE you wish to delete this project?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you ABSOLUTELY SURE you wish to delete this workspace?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+msgctxt "app"
 msgid "Are you sure you want to delete this user ?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you want to revoke this global permission?"
 msgstr ""
 
 msgctxt "app"
@@ -28,7 +165,35 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
+msgid "Are you sure you wish to remove this project from the system?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you wish to remove this tool from the system?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you wish to remove this workspace from the system?"
+msgstr ""
+
+msgctxt "app"
+msgid "Autodetected ({language}"
+msgstr ""
+
+msgctxt "app"
+msgid "Back to list"
+msgstr ""
+
+msgctxt "app"
 msgid "Back to sign in"
+msgstr ""
+
+msgctxt "app"
+msgid "Backend administration"
+msgstr ""
+
+msgctxt "app"
+msgid "Bar"
 msgstr ""
 
 msgctxt "app"
@@ -36,7 +201,59 @@ msgid "Become this user"
 msgstr ""
 
 msgctxt "app"
+msgid "Causes of unavailability"
+msgstr ""
+
+msgctxt "app"
+msgid "Chart type"
+msgstr ""
+
+msgctxt "app"
+msgid "Clear"
+msgstr ""
+
+msgctxt "app"
+msgid "Closed"
+msgstr ""
+
+msgctxt "app"
+msgid "Compare data for HF {hf}"
+msgstr ""
+
+msgctxt "app"
+msgid "Config"
+msgstr ""
+
+msgctxt "app"
+msgid "Configure dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Contributors"
+msgstr ""
+
+msgctxt "app"
+msgid "Country"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Create a new project"
+msgstr ""
+
+msgctxt "app"
 msgid "Create account"
+msgstr ""
+
+msgctxt "app"
+msgid "Create chart"
+msgstr ""
+
+msgctxt "app"
+msgid "Create element"
 msgstr ""
 
 msgctxt "app"
@@ -44,11 +261,619 @@ msgid "Create facility"
 msgstr ""
 
 msgctxt "app"
+msgid "Create map"
+msgstr ""
+
+msgctxt "app"
+msgid "Create new token"
+msgstr ""
+
+msgctxt "app"
+msgid "Create page"
+msgstr ""
+
+msgctxt "app"
 msgid "Create project"
 msgstr ""
 
 msgctxt "app"
+msgid "Create table"
+msgstr ""
+
+msgctxt "app"
+msgid "Create workspace"
+msgstr ""
+
+msgctxt "app"
+msgid "Created at"
+msgstr ""
+
+msgctxt "app"
+msgid "Created {success} workspaces, failed to create {fail} workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Creating a new acount for email:"
+msgstr ""
+
+msgctxt "app"
+msgid "Current password"
+msgstr ""
+
+msgctxt "app"
+msgid "Dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Dashboard settings"
+msgstr ""
+
+msgctxt "app"
+msgid "Date"
+msgstr ""
+
+msgctxt "app"
+msgid "Delete"
+msgstr ""
+
+msgctxt "app"
+msgid "Delete project"
+msgstr ""
+
+msgctxt "app"
 msgid "Delete this user"
+msgstr ""
+
+msgctxt "app"
+msgid "Delete workspace"
+msgstr ""
+
+msgctxt "app"
+msgid "Deleted user"
+msgstr ""
+
+msgctxt "app"
+msgid "Denied"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Determines the order of elements on a page, elements shown in ascending order"
+msgstr ""
+
+msgctxt "app"
+msgid "Discard & go back"
+msgstr ""
+
+msgctxt "app"
+msgid "Donut"
+msgstr ""
+
+msgctxt "app"
+msgid "Download"
+msgstr ""
+
+msgctxt "app"
+msgid "Download data"
+msgstr ""
+
+msgctxt "app"
+msgid "Edit"
+msgstr ""
+
+msgctxt "app"
+msgid "Edit dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Edit data"
+msgstr ""
+
+msgctxt "app"
+msgid "Edit settings"
+msgstr ""
+
+msgctxt "app"
+msgid "Edit token"
+msgstr ""
+
+msgctxt "app"
+msgid "Element created"
+msgstr ""
+
+msgctxt "app"
+msgid "Element not created"
+msgstr ""
+
+msgctxt "app"
+msgid "Element not updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Element updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Email"
+msgstr ""
+
+msgctxt "app"
+msgid "Email already taken"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Enter a date to limit the export to the last record before or equal to the "
+"selected date for each health facility. To export all historic records of a "
+"health facility, leave the field blank."
+msgstr ""
+
+msgctxt "app"
+msgid "Error"
+msgstr ""
+
+msgctxt "app"
+msgid "Export CSV"
+msgstr ""
+
+msgctxt "app"
+msgid "Export XLSX"
+msgstr ""
+
+msgctxt "app"
+msgid "Export all"
+msgstr ""
+
+msgctxt "app"
+msgid "Export data"
+msgstr ""
+
+msgctxt "app"
+msgid "Export data from project {project}"
+msgstr ""
+
+msgctxt "app"
+msgid "Export data from workspace {workspace}"
+msgstr ""
+
+msgctxt "app"
+msgid "Facilities"
+msgstr ""
+
+msgctxt "app"
+msgid "Failed to update email address"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorite"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorite workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "app"
+msgid "Filters"
+msgstr ""
+
+msgctxt "app"
+msgid "Forgot your password ?"
+msgstr ""
+
+msgctxt "app"
+msgid "Full"
+msgstr ""
+
+msgctxt "app"
+msgid "Fully available"
+msgstr ""
+
+msgctxt "app"
+msgid "Fully functional"
+msgstr ""
+
+msgctxt "app"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app"
+msgid "Global permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Global permissions granted to {users}"
+msgstr ""
+
+msgctxt "app"
+msgid "Grant admin permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "HeRAMS email verification"
+msgstr ""
+
+msgctxt "app"
+msgid "HeRAMS password reset"
+msgstr ""
+
+msgctxt "app"
+msgid "HeRAMS projects"
+msgstr ""
+
+msgctxt "app"
+msgid "Health Facilities"
+msgstr ""
+
+msgctxt "app"
+msgid "Health facilities"
+msgstr ""
+
+msgctxt "app"
+msgid "Height"
+msgstr ""
+
+msgctxt "app"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "app"
+msgid "Home"
+msgstr ""
+
+msgctxt "app"
+msgid "Id"
+msgstr ""
+
+msgctxt "app"
+msgid "If you use a predefined option it will automatically be translated"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Pages"
+msgstr ""
+
+msgctxt "app"
+msgid "Import pages"
+msgstr ""
+
+msgctxt "app"
+msgid "Import workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "app"
+msgid "Include code header"
+msgstr ""
+
+msgctxt "app"
+msgid "Include text header"
+msgstr ""
+
+msgctxt "app"
+msgid "Info"
+msgstr ""
+
+msgctxt "app"
+msgid "Is the service fully available"
+msgstr ""
+
+msgctxt "app"
+msgid "Lack of finances"
+msgstr ""
+
+msgctxt "app"
+msgid "Lack of health staff"
+msgstr ""
+
+msgctxt "app"
+msgid "Lack of medical equipment"
+msgstr ""
+
+msgctxt "app"
+msgid "Lack of medical supplies"
+msgstr ""
+
+msgctxt "app"
+msgid "Lack of training of health staff"
+msgstr ""
+
+msgctxt "app"
+msgid "Language"
+msgstr ""
+
+msgctxt "app"
+msgid "Last login at"
+msgstr ""
+
+msgctxt "app"
+msgid "Latest update"
+msgstr ""
+
+msgctxt "app"
+msgid "Latitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading Error"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading project summary"
+msgstr ""
+
+msgctxt "app"
+msgid "Log in"
+msgstr ""
+
+msgctxt "app"
+msgid "Longitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage data implies creating facilities"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage surveys"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage users"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Map facility types for use in the world map"
+msgstr ""
+
+msgctxt "app"
+msgid "Marker radius"
+msgstr ""
+
+msgctxt "app"
+msgid "N/A"
+msgstr ""
+
+msgctxt "app"
+msgid "Name"
+msgstr ""
+
+msgctxt "app"
+msgid "New email address"
+msgstr ""
+
+msgctxt "app"
+msgid "New password"
+msgstr ""
+
+msgctxt "app"
+msgid "New workspace"
+msgstr ""
+
+msgctxt "app"
+msgid "No"
+msgstr ""
+
+msgctxt "app"
+msgid "No data loaded"
+msgstr ""
+
+msgctxt "app"
+msgid "No extra information is available at this time"
+msgstr ""
+
+msgctxt "app"
+msgid "None"
+msgstr ""
+
+msgctxt "app"
+msgid "Not available"
+msgstr ""
+
+msgctxt "app"
+msgid "Not functional"
+msgstr ""
+
+msgctxt "app"
+msgid "Not normally provided"
+msgstr ""
+
+msgctxt "app"
+msgid "Off"
+msgstr ""
+
+msgctxt "app"
+msgid "Old email address"
+msgstr ""
+
+msgctxt "app"
+msgid "On"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Only countries with an ISO3166 Alpha-3:wq\n"
+"             code are listed"
+msgstr ""
+
+msgctxt "app"
+msgid "Other"
+msgstr ""
+
+msgctxt "app"
+msgid "Overrides"
+msgstr ""
+
+msgctxt "app"
+msgid "Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Page <strong>{page}</strong> created"
+msgstr ""
+
+msgctxt "app"
+msgid "Page <strong>{page}</strong> updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Page elements"
+msgstr ""
+
+msgctxt "app"
+msgid "Parent page"
+msgstr ""
+
+msgctxt "app"
+msgid "Partial"
+msgstr ""
+
+msgctxt "app"
+msgid "Partially available"
+msgstr ""
+
+msgctxt "app"
+msgid "Partially functional"
+msgstr ""
+
+msgctxt "app"
+msgid "Password"
+msgstr ""
+
+msgctxt "app"
+msgid "Password changed"
+msgstr ""
+
+msgctxt "app"
+msgid "Password hash"
+msgstr ""
+
+msgctxt "app"
+msgid "Password update failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Passwords don't match"
+msgstr ""
+
+msgctxt "app"
+msgid "Permission"
+msgstr ""
+
+msgctxt "app"
+msgid "Permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Please check your mailbox"
+msgstr ""
+
+msgctxt "app"
+msgid "Primary"
+msgstr ""
+
+msgctxt "app"
+msgid "Print"
+msgstr ""
+
+msgctxt "app"
+msgid "Print all pages"
+msgstr ""
+
+msgctxt "app"
+msgid "Profile"
+msgstr ""
+
+msgctxt "app"
+msgid "Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Project <strong>{project}</strong> created"
+msgstr ""
+
+msgctxt "app"
+msgid "Project dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Project settings"
+msgstr ""
+
+msgctxt "app"
+msgid "Project status is shown on the world map"
+msgstr ""
+
+msgctxt "app"
+msgid "Project updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Project {modelName} has been shared with: {users}"
+msgstr ""
+
+msgctxt "app"
+msgid "Projects"
+msgstr ""
+
+msgctxt "app"
+msgid "Question code containing the name (case sensitive)"
+msgstr ""
+
+msgctxt "app"
+msgid "Question code containing the type (case sensitive)"
+msgstr ""
+
+msgctxt "app"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "app"
+msgid "Refresh data from limesurvey"
+msgstr ""
+
+msgctxt "app"
+msgid "Refresh workspace"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Refreshing data took {time} seconds; \n"
+"        {new} new records, \n"
+"        {updated} existing records, \n"
+"        {deleted} deleted records, \n"
+"        {unchanged} unchanged records, \n"
+"        {failed} invalid records"
+msgstr ""
+
+msgctxt "app"
+msgid "Register"
+msgstr ""
+
+msgctxt "app"
+msgid "Register new health facility"
+msgstr ""
+
+msgctxt "app"
+msgid "Repeat password"
+msgstr ""
+
+msgctxt "app"
+msgid "Report date"
 msgstr ""
 
 msgctxt "app"
@@ -64,7 +889,171 @@ msgid "Reset your password"
 msgstr ""
 
 msgctxt "app"
+msgid "Responses"
+msgstr ""
+
+msgctxt "app"
+msgid "Save"
+msgstr ""
+
+msgctxt "app"
+msgid "Search"
+msgstr ""
+
+msgctxt "app"
+msgid "Search also uses the group name, for example try typing \"Trauma\""
+msgstr ""
+
+msgctxt "app"
+msgid "Secondary"
+msgstr ""
+
+msgctxt "app"
 msgid "Send confirmation"
+msgstr ""
+
+msgctxt "app"
+msgid "Service Availability"
+msgstr ""
+
+msgctxt "app"
+msgid "Service availability"
+msgstr ""
+
+msgctxt "app"
+msgid "Share"
+msgstr ""
+
+msgctxt "app"
+msgid "Show the debug toolbar"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort index"
+msgstr ""
+
+msgctxt "app"
+msgid "Status"
+msgstr ""
+
+msgctxt "app"
+msgid "Success"
+msgstr ""
+
+msgctxt "app"
+msgid "Survey"
+msgstr ""
+
+msgctxt "app"
+msgid "Survey default ({lang})"
+msgstr ""
+
+msgctxt "app"
+msgid "Survey {id} does not exist"
+msgstr ""
+
+msgctxt "app"
+msgid "Tertiary"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"The Health Resources and Services Availability Monitoring System (HeRAMS) is "
+"a collaborative approach aimed at ensuring that core information on "
+"essential health resources and services is systematically shared and readily "
+"available to decision makers at country, regional and global levels"
+msgstr ""
+
+msgctxt "app"
+msgid "The aggregate availability of services per HF"
+msgstr ""
+
+msgctxt "app"
+msgid "The page you are looking for doesn't exist"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"The token field that is used as the workspace name, empty token attributes "
+"are ignored"
+msgstr ""
+
+msgctxt "app"
+msgid "This action cannot be undone."
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"This link is no longer valid; your password has been changed since it was "
+"issued"
+msgstr ""
+
+msgctxt "app"
+msgid "This will permanently delete the project and all its workspaces."
+msgstr ""
+
+msgctxt "app"
+msgid "This will permanently delete the workspace."
+msgstr ""
+
+msgctxt "app"
+msgid "This will reload the page losing all other changes"
+msgstr ""
+
+msgctxt "app"
+msgid "Title"
+msgstr ""
+
+msgctxt "app"
+msgid "Token"
+msgstr ""
+
+msgctxt "app"
+msgid "Token updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Too many attempts, try again in {seconds} seconds"
+msgstr ""
+
+msgctxt "app"
+msgid "Transpose"
+msgstr ""
+
+msgctxt "app"
+msgid "Try refreshing the project"
+msgstr ""
+
+msgctxt "app"
+msgid "Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Typemap"
+msgstr ""
+
+msgctxt "app"
+msgid "Universal ID"
+msgstr ""
+
+msgctxt "app"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "app"
+msgid "Unknown email"
+msgstr ""
+
+msgctxt "app"
+msgid "Update & go back"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Page"
 msgstr ""
 
 msgctxt "app"
@@ -76,7 +1065,23 @@ msgid "Update account information"
 msgstr ""
 
 msgctxt "app"
+msgid "Update element"
+msgstr ""
+
+msgctxt "app"
+msgid "Update page"
+msgstr ""
+
+msgctxt "app"
 msgid "Update password"
+msgstr ""
+
+msgctxt "app"
+msgid "Update project"
+msgstr ""
+
+msgctxt "app"
+msgid "Update token"
 msgstr ""
 
 msgctxt "app"
@@ -84,13 +1089,236 @@ msgid "Update workspace token"
 msgstr ""
 
 msgctxt "app"
+msgid "Updated at"
+msgstr ""
+
+msgctxt "app"
+msgid "User"
+msgstr ""
+
+msgctxt "app"
+msgid "User not found"
+msgstr ""
+
+msgctxt "app"
+msgid "User updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Users"
+msgstr ""
+
+msgctxt "app"
+msgid "Validation failed"
+msgstr ""
+
+msgctxt "app"
+msgid "View current users"
+msgstr ""
+
+msgctxt "app"
+msgid "View dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "View user permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility"
+msgstr ""
+
+msgctxt "app"
+msgid "Warning"
+msgstr ""
+
+msgctxt "app"
+msgid "We use this field to store the country for the project"
+msgstr ""
+
+msgctxt "app"
+msgid "We use this field to store the last name of the project owner"
+msgstr ""
+
+msgctxt "app"
+msgid "We will send a confirmation message to this address"
+msgstr ""
+
+msgctxt "app"
+msgid "We will send you a secure link to the reset form"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"When enabled anyone with the manage data permission will be allowed to "
+"create new facilities"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Whether this element needs data at facility (HF) or subject (service) level"
+msgstr ""
+
+msgctxt "app"
+msgid "Width"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace <strong>{modelName}</strong> created"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
+"</strong>"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace settings"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace {workspace}"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace {workspace} has been updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspaces for {project}"
+msgstr ""
+
+msgctxt "app"
+msgid "World overview"
+msgstr ""
+
+msgctxt "app"
+msgid "Yes"
+msgstr ""
+
+msgctxt "app"
+msgid "You are not allowed to share this project"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"You may search for multiple terms, only results that contain all terms are "
+"shown"
+msgstr ""
+
+msgctxt "app"
+msgid "Your account has been created"
+msgstr ""
+
+msgctxt "app"
+msgid "Your email address has already been changed"
+msgstr ""
+
+msgctxt "app"
+msgid "Your email address has been updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Your password has been reset"
+msgstr ""
+
+msgctxt "app"
+msgid "in progress"
+msgstr ""
+
+msgctxt "app"
+msgid "pages"
+msgstr ""
+
+msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr ""
 
-#~ msgctxt "app"
-#~ msgid "25 - 50%"
-#~ msgstr "25 - 50%"
+msgctxt "app.pagetitle"
+msgid "Accessibility"
+msgstr ""
 
-#~ msgctxt "app"
-#~ msgid "50 - 75%"
-#~ msgstr "50 - 75%"
+msgctxt "app.pagetitle"
+msgid "Basic Amenities"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Building and equipment condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Cold chain"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Communication"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Health Information"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Infrastructure"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Management and support"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Overview"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Power"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sanitation"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Service availability"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Waste management"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Water"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Permission"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source type"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target type"
+msgstr ""
