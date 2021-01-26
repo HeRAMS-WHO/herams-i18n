@@ -354,10 +354,6 @@ msgid "Deleted user"
 msgstr "Utilisateur supprimé"
 
 msgctxt "app"
-msgid "Denied"
-msgstr "Refusé(e)"
-
-msgctxt "app"
 msgid ""
 "Determines the order of elements on a page, elements shown in ascending order"
 msgstr ""
@@ -713,6 +709,11 @@ msgstr "Pas d'informations supplémentaires disponibles à ce stade"
 msgctxt "app"
 msgid "None"
 msgstr "Aucun"
+
+#, fuzzy
+msgctxt "app"
+msgid "Not allowed"
+msgstr "Autorisé(e)"
 
 msgctxt "app"
 msgid "Not available"
@@ -1395,6 +1396,10 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Denied"
+#~ msgstr "Refusé(e)"
 
 #~ msgctxt "app"
 #~ msgid "Advanced settings"

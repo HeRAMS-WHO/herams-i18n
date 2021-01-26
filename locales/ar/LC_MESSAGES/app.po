@@ -348,10 +348,6 @@ msgid "Deleted user"
 msgstr "مستخدم محذوف"
 
 msgctxt "app"
-msgid "Denied"
-msgstr "رفض"
-
-msgctxt "app"
 msgid ""
 "Determines the order of elements on a page, elements shown in ascending order"
 msgstr "يحدد ترتيب العناصر على الصفحة، والعناصر الموضحة بترتيب تصاعدي"
@@ -704,6 +700,11 @@ msgstr "لا توجد معلومات إضافية متاحة في هذا الو�
 msgctxt "app"
 msgid "None"
 msgstr "لا يوجد"
+
+#, fuzzy
+msgctxt "app"
+msgid "Not allowed"
+msgstr "مسموح"
 
 msgctxt "app"
 msgid "Not available"
@@ -1397,6 +1398,10 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "نوع المخطط"
+
+#~ msgctxt "app"
+#~ msgid "Denied"
+#~ msgstr "رفض"
 
 #~ msgctxt "app"
 #~ msgid "Advanced settings"

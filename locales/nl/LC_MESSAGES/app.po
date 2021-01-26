@@ -333,10 +333,6 @@ msgid "Deleted user"
 msgstr ""
 
 msgctxt "app"
-msgid "Denied"
-msgstr ""
-
-msgctxt "app"
 msgid ""
 "Determines the order of elements on a page, elements shown in ascending order"
 msgstr ""
@@ -678,6 +674,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "None"
+msgstr ""
+
+msgctxt "app"
+msgid "Not allowed"
 msgstr ""
 
 msgctxt "app"
