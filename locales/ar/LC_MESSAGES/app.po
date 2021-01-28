@@ -473,6 +473,11 @@ msgctxt "app"
 msgid "Favorites"
 msgstr "مفضلة"
 
+#, fuzzy
+msgctxt "app"
+msgid "Favorites only"
+msgstr "مفضلة"
+
 msgctxt "app"
 msgid "Filters"
 msgstr "مرشحات/فلاتر"
@@ -696,6 +701,10 @@ msgstr "لم يتم تحميل بيانات"
 msgctxt "app"
 msgid "No extra information is available at this time"
 msgstr "لا توجد معلومات إضافية متاحة في هذا الوقت"
+
+msgctxt "app"
+msgid "Non-favorites only"
+msgstr ""
 
 msgctxt "app"
 msgid "None"

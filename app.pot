@@ -443,6 +443,10 @@ msgid "Favorites"
 msgstr ""
 
 msgctxt "app"
+msgid "Favorites only"
+msgstr ""
+
+msgctxt "app"
 msgid "Filters"
 msgstr ""
 
@@ -660,6 +664,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "No extra information is available at this time"
+msgstr ""
+
+msgctxt "app"
+msgid "Non-favorites only"
 msgstr ""
 
 msgctxt "app"

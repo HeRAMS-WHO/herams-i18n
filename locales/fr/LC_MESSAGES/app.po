@@ -481,6 +481,11 @@ msgctxt "app"
 msgid "Favorites"
 msgstr "Favoris"
 
+#, fuzzy
+msgctxt "app"
+msgid "Favorites only"
+msgstr "Favoris"
+
 msgctxt "app"
 msgid "Filters"
 msgstr "Filters"
@@ -705,6 +710,10 @@ msgstr "Aucune donnée chargée"
 msgctxt "app"
 msgid "No extra information is available at this time"
 msgstr "Pas d'informations supplémentaires disponibles à ce stade"
+
+msgctxt "app"
+msgid "Non-favorites only"
+msgstr ""
 
 msgctxt "app"
 msgid "None"
