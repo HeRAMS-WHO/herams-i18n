@@ -446,10 +446,6 @@ msgid "Export data"
 msgstr "Export complet"
 
 msgctxt "app"
-msgid "Export data from project {project}"
-msgstr "Export des données du projet {project}"
-
-msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "Export des données de l'espace de travail {workspace}"
 
@@ -1399,6 +1395,10 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Export data from project {project}"
+#~ msgstr "Export des données du projet {project}"
 
 #~ msgctxt "app"
 #~ msgid "Denied"

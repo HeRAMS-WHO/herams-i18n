@@ -444,10 +444,6 @@ msgid "Export data"
 msgstr "تصدير كل البيانات"
 
 msgctxt "app"
-msgid "Export data from project {project}"
-msgstr "تصدير البيانات من المشروع {project}"
-
-msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "تصدير البيانات من مساحة العمل {مساحة العمل}"
 
@@ -1407,6 +1403,10 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "نوع المخطط"
+
+#~ msgctxt "app"
+#~ msgid "Export data from project {project}"
+#~ msgstr "تصدير البيانات من المشروع {project}"
 
 #~ msgctxt "app"
 #~ msgid "Denied"

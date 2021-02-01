@@ -426,10 +426,6 @@ msgid "Export data"
 msgstr ""
 
 msgctxt "app"
-msgid "Export data from project {project}"
-msgstr ""
-
-msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr ""
 
