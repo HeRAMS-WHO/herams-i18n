@@ -242,10 +242,6 @@ msgid "Country"
 msgstr "Pays"
 
 msgctxt "app"
-msgid "Create Page"
-msgstr "Créer une page"
-
-msgctxt "app"
 msgid "Create a new project"
 msgstr "Créer un nouveau projet"
 
@@ -259,6 +255,11 @@ msgstr "Créer un graphique"
 
 msgctxt "app"
 msgid "Create element"
+msgstr "Créer un élément"
+
+#, fuzzy
+msgctxt "app"
+msgid "Create element & go back"
 msgstr "Créer un élément"
 
 #, fuzzy
@@ -1108,11 +1109,6 @@ msgctxt "app"
 msgid "Unknown email"
 msgstr "Email inconnu"
 
-#, fuzzy
-msgctxt "app"
-msgid "Update & go back"
-msgstr "Enregistrer / Retourner au tableau de bord"
-
 msgctxt "app"
 msgid "Update Page"
 msgstr "Mise à jour de la page"
@@ -1128,6 +1124,11 @@ msgstr "Mise à jour des données du compte"
 msgctxt "app"
 msgid "Update element"
 msgstr "Mise à jour de l'élément"
+
+#, fuzzy
+msgctxt "app"
+msgid "Update element & go back"
+msgstr "Enregistrer / Retourner au tableau de bord"
 
 msgctxt "app"
 msgid "Update page"
@@ -1395,6 +1396,10 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Create Page"
+#~ msgstr "Créer une page"
 
 #~ msgctxt "app"
 #~ msgid "Export data from project {project}"

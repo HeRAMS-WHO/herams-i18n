@@ -244,10 +244,6 @@ msgid "Country"
 msgstr "البلد"
 
 msgctxt "app"
-msgid "Create Page"
-msgstr "إنشاء صفحة"
-
-msgctxt "app"
 msgid "Create a new project"
 msgstr "إنشاء مشروع جديد"
 
@@ -261,6 +257,11 @@ msgstr "إنشاء مخطط بياني"
 
 msgctxt "app"
 msgid "Create element"
+msgstr "إنشاء عنصر"
+
+#, fuzzy
+msgctxt "app"
+msgid "Create element & go back"
 msgstr "إنشاء عنصر"
 
 #, fuzzy
@@ -1105,11 +1106,6 @@ msgstr "بريد إلكتروني غير معروف"
 
 #, fuzzy
 msgctxt "app"
-msgid "Update & go back"
-msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
-
-#, fuzzy
-msgctxt "app"
 msgid "Update Page"
 msgstr "تحديث الصفحة"
 
@@ -1124,6 +1120,11 @@ msgstr "تحديث معلومات الحساب"
 msgctxt "app"
 msgid "Update element"
 msgstr "تحديث عنصر"
+
+#, fuzzy
+msgctxt "app"
+msgid "Update element & go back"
+msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
 
 msgctxt "app"
 msgid "Update page"
@@ -1403,6 +1404,10 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "نوع المخطط"
+
+#~ msgctxt "app"
+#~ msgid "Create Page"
+#~ msgstr "إنشاء صفحة"
 
 #~ msgctxt "app"
 #~ msgid "Export data from project {project}"
