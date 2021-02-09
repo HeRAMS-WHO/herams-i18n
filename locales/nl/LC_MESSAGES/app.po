@@ -1113,6 +1113,10 @@ msgid "Users"
 msgstr ""
 
 msgctxt "app"
+msgid "Users ({n})"
+msgstr ""
+
+msgctxt "app"
 msgid "Validation failed"
 msgstr ""
 
@@ -1191,6 +1195,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspaces ({n})"
 msgstr ""
 
 msgctxt "app"

@@ -1170,6 +1170,11 @@ msgctxt "app"
 msgid "Users"
 msgstr "Utilisateurs"
 
+#, fuzzy
+msgctxt "app"
+msgid "Users ({n})"
+msgstr "Utilisateurs"
+
 msgctxt "app"
 msgid "Validation failed"
 msgstr "Erreur de validation"
@@ -1257,6 +1262,11 @@ msgstr "Espace de travail {workspace}"
 
 msgctxt "app"
 msgid "Workspaces"
+msgstr "Espaces de travail"
+
+#, fuzzy
+msgctxt "app"
+msgid "Workspaces ({n})"
 msgstr "Espaces de travail"
 
 msgctxt "app"

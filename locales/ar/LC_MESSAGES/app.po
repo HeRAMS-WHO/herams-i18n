@@ -1168,6 +1168,11 @@ msgctxt "app"
 msgid "Users"
 msgstr "المستخدمين"
 
+#, fuzzy
+msgctxt "app"
+msgid "Users ({n})"
+msgstr "المستخدمين"
+
 msgctxt "app"
 msgid "Validation failed"
 msgstr "فشل التحقق من صحة البيانات"
@@ -1257,6 +1262,11 @@ msgstr "مساحة العمل {workspace}"
 
 msgctxt "app"
 msgid "Workspaces"
+msgstr "مساحات العمل"
+
+#, fuzzy
+msgctxt "app"
+msgid "Workspaces ({n})"
 msgstr "مساحات العمل"
 
 msgctxt "app"
