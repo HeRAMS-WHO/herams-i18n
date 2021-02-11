@@ -359,10 +359,6 @@ msgid "Edit"
 msgstr ""
 
 msgctxt "app"
-msgid "Edit dashboard"
-msgstr ""
-
-msgctxt "app"
 msgid "Edit data"
 msgstr ""
 
@@ -435,10 +431,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Failed to update email address"
-msgstr ""
-
-msgctxt "app"
-msgid "Favorite"
 msgstr ""
 
 msgctxt "app"
@@ -926,10 +918,6 @@ msgid "Service availability"
 msgstr ""
 
 msgctxt "app"
-msgid "Share"
-msgstr ""
-
-msgctxt "app"
 msgid "Show the debug toolbar"
 msgstr ""
 
@@ -1242,6 +1230,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "in progress"
+msgstr ""
+
+msgctxt "app"
+msgid "never"
 msgstr ""
 
 msgctxt "app"

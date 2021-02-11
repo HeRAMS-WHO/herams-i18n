@@ -378,10 +378,6 @@ msgid "Edit"
 msgstr "Modifier"
 
 msgctxt "app"
-msgid "Edit dashboard"
-msgstr "Modifier le tableau de bord"
-
-msgctxt "app"
 msgid "Edit data"
 msgstr "Editer les données"
 
@@ -460,11 +456,6 @@ msgstr "Structures sanitaires"
 msgctxt "app"
 msgid "Failed to update email address"
 msgstr "Erreur de mise à jour de l'adresse email"
-
-#, fuzzy
-msgctxt "app"
-msgid "Favorite"
-msgstr "Favoris"
 
 msgctxt "app"
 msgid "Favorite workspaces"
@@ -973,10 +964,6 @@ msgid "Service availability"
 msgstr "Disponibilité des services de santé"
 
 msgctxt "app"
-msgid "Share"
-msgstr "Partager"
-
-msgctxt "app"
 msgid "Show the debug toolbar"
 msgstr ""
 
@@ -1316,6 +1303,10 @@ msgctxt "app"
 msgid "in progress"
 msgstr "en cours"
 
+msgctxt "app"
+msgid "never"
+msgstr ""
+
 #, fuzzy
 msgctxt "app"
 msgid "pages"
@@ -1408,6 +1399,19 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Edit dashboard"
+#~ msgstr "Modifier le tableau de bord"
+
+#, fuzzy
+#~ msgctxt "app"
+#~ msgid "Favorite"
+#~ msgstr "Favoris"
+
+#~ msgctxt "app"
+#~ msgid "Share"
+#~ msgstr "Partager"
 
 #~ msgctxt "app"
 #~ msgid "Create Page"

@@ -376,10 +376,6 @@ msgid "Edit"
 msgstr "تعديل"
 
 msgctxt "app"
-msgid "Edit dashboard"
-msgstr "تعديل لوحة التحكم"
-
-msgctxt "app"
 msgid "Edit data"
 msgstr "تعديل البيانات"
 
@@ -458,11 +454,6 @@ msgstr "المرافق الصحية"
 msgctxt "app"
 msgid "Failed to update email address"
 msgstr "فشل تحديث عنوان البريد الإلكتروني"
-
-#, fuzzy
-msgctxt "app"
-msgid "Favorite"
-msgstr "مفضلة"
 
 msgctxt "app"
 msgid "Favorite workspaces"
@@ -973,10 +964,6 @@ msgid "Service availability"
 msgstr "توفر الخدمة"
 
 msgctxt "app"
-msgid "Share"
-msgstr "شارك"
-
-msgctxt "app"
 msgid "Show the debug toolbar"
 msgstr ""
 
@@ -1315,6 +1302,10 @@ msgctxt "app"
 msgid "in progress"
 msgstr "في تقدم"
 
+msgctxt "app"
+msgid "never"
+msgstr ""
+
 #, fuzzy
 msgctxt "app"
 msgid "pages"
@@ -1416,6 +1407,19 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "نوع المخطط"
+
+#~ msgctxt "app"
+#~ msgid "Edit dashboard"
+#~ msgstr "تعديل لوحة التحكم"
+
+#, fuzzy
+#~ msgctxt "app"
+#~ msgid "Favorite"
+#~ msgstr "مفضلة"
+
+#~ msgctxt "app"
+#~ msgid "Share"
+#~ msgstr "شارك"
 
 #~ msgctxt "app"
 #~ msgid "Create Page"
