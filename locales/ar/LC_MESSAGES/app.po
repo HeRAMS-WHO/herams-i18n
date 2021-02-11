@@ -64,8 +64,9 @@ msgctxt "app"
 msgid "A dashboard element that shows a map"
 msgstr "جزئية بلوحة المعلومات لعرض خريطة"
 
+#, fuzzy
 msgctxt "app"
-msgid "A password reset email has beent sent to your address"
+msgid "A password reset email has been sent to your address"
 msgstr "تم إرسال بريد إلكتروني الي عنوانك لإعادة تشغيل كلمة المرور الخاصة بك"
 
 msgctxt "app"
@@ -303,8 +304,9 @@ msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr "تم إنشاء مساحات عمل {نجاح} ، فشل في إنشاء مساحات عمل {فشل}"
 
+#, fuzzy
 msgctxt "app"
-msgid "Creating a new acount for email:"
+msgid "Creating a new account for email:"
 msgstr "إنشاء حساب جديد للبريد الإلكتروني:"
 
 msgctxt "app"

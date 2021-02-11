@@ -64,7 +64,7 @@ msgid "A dashboard element that shows a map"
 msgstr ""
 
 msgctxt "app"
-msgid "A password reset email has beent sent to your address"
+msgid "A password reset email has been sent to your address"
 msgstr ""
 
 msgctxt "app"
@@ -294,7 +294,7 @@ msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr ""
 
 msgctxt "app"
-msgid "Creating a new acount for email:"
+msgid "Creating a new account for email:"
 msgstr ""
 
 msgctxt "app"
