@@ -1057,6 +1057,10 @@ msgid "Unknown email"
 msgstr ""
 
 msgctxt "app"
+msgid "Update"
+msgstr ""
+
+msgctxt "app"
 msgid "Update Page"
 msgstr ""
 
@@ -1086,10 +1090,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Update password"
-msgstr ""
-
-msgctxt "app"
-msgid "Update project"
 msgstr ""
 
 msgctxt "app"

@@ -1119,6 +1119,10 @@ msgid "Unknown email"
 msgstr "Email inconnu"
 
 msgctxt "app"
+msgid "Update"
+msgstr "Enregistrer"
+
+msgctxt "app"
 msgid "Update Page"
 msgstr "Mise à jour de la page"
 
@@ -1151,10 +1155,6 @@ msgstr "Mise à jour de la page"
 msgctxt "app"
 msgid "Update password"
 msgstr "Modifier le mot de passe"
-
-msgctxt "app"
-msgid "Update project"
-msgstr "Modifier le projet"
 
 msgctxt "app"
 msgid "Update token"
@@ -1461,6 +1461,10 @@ msgid "Target type"
 msgstr "Type cible"
 
 #~ msgctxt "app"
+#~ msgid "Update project"
+#~ msgstr "Modifier le projet"
+
+#~ msgctxt "app"
 #~ msgid "Edit dashboard"
 #~ msgstr "Modifier le tableau de bord"
 
@@ -1552,10 +1556,6 @@ msgstr "Type cible"
 #~ msgctxt "app"
 #~ msgid "Sign up for the HeRAMS platform"
 #~ msgstr "Créer un compte"
-
-#~ msgctxt "app"
-#~ msgid "Update"
-#~ msgstr "Enregistrer"
 
 #~ msgctxt "app"
 #~ msgid "Update "

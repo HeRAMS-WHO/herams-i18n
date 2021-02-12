@@ -1113,6 +1113,10 @@ msgctxt "app"
 msgid "Unknown email"
 msgstr "بريد إلكتروني غير معروف"
 
+msgctxt "app"
+msgid "Update"
+msgstr "تحديث"
+
 #, fuzzy
 msgctxt "app"
 msgid "Update Page"
@@ -1147,10 +1151,6 @@ msgstr "تحديث الصفحة"
 msgctxt "app"
 msgid "Update password"
 msgstr "تحديث كلمة المرور"
-
-msgctxt "app"
-msgid "Update project"
-msgstr "تحديث المشروع"
 
 msgctxt "app"
 msgid "Update token"
@@ -1468,6 +1468,10 @@ msgid "Target type"
 msgstr "نوع المخطط"
 
 #~ msgctxt "app"
+#~ msgid "Update project"
+#~ msgstr "تحديث المشروع"
+
+#~ msgctxt "app"
 #~ msgid "Edit dashboard"
 #~ msgstr "تعديل لوحة التحكم"
 
@@ -1535,10 +1539,6 @@ msgstr "نوع المخطط"
 #~ msgctxt "app"
 #~ msgid "Sign up for the HeRAMS platform"
 #~ msgstr "قم بالتسجيل في منصة هيرامس"
-
-#~ msgctxt "app"
-#~ msgid "Update"
-#~ msgstr "تحديث"
 
 #~ msgctxt "app"
 #~ msgid "Update workspace {workspace}"
