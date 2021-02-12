@@ -145,6 +145,11 @@ msgstr "تطبيق المرشحات"
 
 #, fuzzy
 msgctxt "app"
+msgid "Are you ABSOLUTELY SURE you wish to delete all workspaces?"
+msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
+
+#, fuzzy
+msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete this project?"
 msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
 
@@ -171,6 +176,11 @@ msgctxt "app"
 msgid ""
 "Are you sure you want to switch to this user for the rest of this Session?"
 msgstr "هل أنت متأكد أنك تريد التحول إلى هذا المستخدم لبقية هذه الجلسة؟"
+
+#, fuzzy
+msgctxt "app"
+msgid "Are you sure you wish to remove the workspaces from the system?"
+msgstr "هل أنت متأكد من أنك تريد حذف مساحة العمل هذه من النظام؟"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -219,10 +229,6 @@ msgstr "نوع المخطط"
 msgctxt "app"
 msgid "Clear"
 msgstr "أمسح"
-
-msgctxt "app"
-msgid "Closed"
-msgstr "مغلق"
 
 msgctxt "app"
 msgid "Compare data for HF {hf}"
@@ -332,6 +338,16 @@ msgstr "حذف"
 
 #, fuzzy
 msgctxt "app"
+msgid "Delete all workspaces"
+msgstr "إنشاء مساحة عمل"
+
+#, fuzzy
+msgctxt "app"
+msgid "Delete all workspaces in project"
+msgstr "إنشاء مساحة عمل"
+
+#, fuzzy
+msgctxt "app"
 msgid "Delete project"
 msgstr "إنشاء مشروع"
 
@@ -349,6 +365,10 @@ msgstr "إنشاء مساحة عمل"
 msgctxt "app"
 msgid "Deleted user"
 msgstr "مستخدم محذوف"
+
+msgctxt "app"
+msgid "Deleted {n} workspaces, {m} workspaces could not be removed"
+msgstr ""
 
 msgctxt "app"
 msgid ""
@@ -411,6 +431,11 @@ msgctxt "app"
 msgid "Email already taken"
 msgstr "هذا البريد الإلكتروني تم أخذه بالفعل"
 
+#, fuzzy
+msgctxt "app"
+msgid "Empty project"
+msgstr "تحديث المشروع"
+
 msgctxt "app"
 msgid ""
 "Enter a date to limit the export to the last record before or equal to the "
@@ -445,11 +470,6 @@ msgstr "تصدير كل البيانات"
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "تصدير البيانات من مساحة العمل {مساحة العمل}"
-
-#, fuzzy
-msgctxt "app"
-msgid "Facilities"
-msgstr "المرافق الصحية"
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -1035,6 +1055,10 @@ msgid ""
 msgstr "هذا الرابط لم يعد صالحًا؛ تم تغيير كلمة المرور الخاصة بك منذ إصدارها"
 
 msgctxt "app"
+msgid "This will permanently delete all workspaces in the project."
+msgstr ""
+
+msgctxt "app"
 msgid "This will permanently delete the project and all its workspaces."
 msgstr ""
 
@@ -1049,10 +1073,6 @@ msgstr "سيؤدي ذلك إلى إعادة تحميل الصفحة وسوف ت�
 
 msgctxt "app"
 msgid "Title"
-msgstr ""
-
-msgctxt "app"
-msgid "Token"
 msgstr ""
 
 #, fuzzy
@@ -1117,6 +1137,11 @@ msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
 
 msgctxt "app"
 msgid "Update page"
+msgstr "تحديث الصفحة"
+
+#, fuzzy
+msgctxt "app"
+msgid "Update page: {page}"
 msgstr "تحديث الصفحة"
 
 msgctxt "app"
@@ -1314,6 +1339,40 @@ msgstr "الصفحات"
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr "{0، التاريخ، اليوم، YYYY HH:mm ،MMMM dd}"
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Closed"
+msgstr "مغلق"
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Contributors"
+msgstr "المساهمون"
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Facilities"
+msgstr "المرافق الصحية"
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Latest update"
+msgstr "اخر تحديث"
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Project"
+msgstr "المشاريع"
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Responses"
+msgstr "# الأجوبة"
+
+msgctxt "app.model.workspace"
+msgid "Token"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Accessibility"

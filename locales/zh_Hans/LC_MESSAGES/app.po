@@ -140,6 +140,10 @@ msgid "Apply filters"
 msgstr ""
 
 msgctxt "app"
+msgid "Are you ABSOLUTELY SURE you wish to delete all workspaces?"
+msgstr ""
+
+msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete this project?"
 msgstr ""
 
@@ -162,6 +166,10 @@ msgstr ""
 msgctxt "app"
 msgid ""
 "Are you sure you want to switch to this user for the rest of this Session?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you wish to remove the workspaces from the system?"
 msgstr ""
 
 msgctxt "app"
@@ -210,10 +218,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Clear"
-msgstr ""
-
-msgctxt "app"
-msgid "Closed"
 msgstr ""
 
 msgctxt "app"
@@ -318,6 +322,14 @@ msgid "Delete"
 msgstr ""
 
 msgctxt "app"
+msgid "Delete all workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Delete all workspaces in project"
+msgstr ""
+
+msgctxt "app"
 msgid "Delete project"
 msgstr ""
 
@@ -331,6 +343,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Deleted user"
+msgstr ""
+
+msgctxt "app"
+msgid "Deleted {n} workspaces, {m} workspaces could not be removed"
 msgstr ""
 
 msgctxt "app"
@@ -395,6 +411,10 @@ msgid "Email already taken"
 msgstr ""
 
 msgctxt "app"
+msgid "Empty project"
+msgstr ""
+
+msgctxt "app"
 msgid ""
 "Enter a date to limit the export to the last record before or equal to the "
 "selected date for each health facility. To export all historic records of a "
@@ -423,10 +443,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
-msgstr ""
-
-msgctxt "app"
-msgid "Facilities"
 msgstr ""
 
 msgctxt "app"
@@ -986,6 +1002,10 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
+msgid "This will permanently delete all workspaces in the project."
+msgstr ""
+
+msgctxt "app"
 msgid "This will permanently delete the project and all its workspaces."
 msgstr ""
 
@@ -999,10 +1019,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Title"
-msgstr ""
-
-msgctxt "app"
-msgid "Token"
 msgstr ""
 
 msgctxt "app"
@@ -1063,6 +1079,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Update page"
+msgstr ""
+
+msgctxt "app"
+msgid "Update page: {page}"
 msgstr ""
 
 msgctxt "app"
@@ -1242,6 +1262,35 @@ msgstr ""
 
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Closed"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Contributors"
+msgstr "test"
+
+msgctxt "app.model.workspace"
+msgid "Facilities"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Latest update"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Project"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Responses"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Token"
 msgstr ""
 
 msgctxt "app.pagetitle"
