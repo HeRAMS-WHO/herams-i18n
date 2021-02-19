@@ -363,6 +363,11 @@ msgstr "إنشاء مساحة عمل"
 
 #, fuzzy
 msgctxt "app"
+msgid "Deleted"
+msgstr "حذف"
+
+#, fuzzy
+msgctxt "app"
 msgid "Deleted user"
 msgstr "مستخدم محذوف"
 
@@ -390,6 +395,10 @@ msgstr "تحميل"
 msgctxt "app"
 msgid "Download data"
 msgstr "تحميل البيانات"
+
+msgctxt "app"
+msgid "Duration"
+msgstr ""
 
 msgctxt "app"
 msgid "Edit"
@@ -470,6 +479,10 @@ msgstr "تصدير كل البيانات"
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "تصدير البيانات من مساحة العمل {مساحة العمل}"
+
+msgctxt "app"
+msgid "Failed"
+msgstr ""
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -686,6 +699,10 @@ msgstr "لا يمكن تطبيقة"
 
 msgctxt "app"
 msgid "Name"
+msgstr ""
+
+msgctxt "app"
+msgid "New"
 msgstr ""
 
 msgctxt "app"
@@ -996,6 +1013,10 @@ msgid "Sort index"
 msgstr ""
 
 msgctxt "app"
+msgid "Start sync"
+msgstr ""
+
+msgctxt "app"
 msgid "Status"
 msgstr ""
 
@@ -1015,6 +1036,11 @@ msgstr "المسح الافتراضي ({lang})"
 msgctxt "app"
 msgid "Survey {id} does not exist"
 msgstr "الاستطلاع {id} غير موجود"
+
+#, fuzzy
+msgctxt "app"
+msgid "Sync workspaces"
+msgstr "إدارة مساحات العمل"
 
 msgctxt "app"
 msgid "Tertiary"
@@ -1102,6 +1128,10 @@ msgid "Typemap"
 msgstr ""
 
 msgctxt "app"
+msgid "Unchanged"
+msgstr ""
+
+msgctxt "app"
 msgid "Universal ID"
 msgstr ""
 
@@ -1159,6 +1189,11 @@ msgstr "رمز التحديث"
 msgctxt "app"
 msgid "Update workspace token"
 msgstr "تحديث الرمز المميز لمساحة العمل"
+
+#, fuzzy
+msgctxt "app"
+msgid "Updated"
+msgstr "تحديث"
 
 #, fuzzy
 msgctxt "app"
@@ -1247,6 +1282,11 @@ msgstr ""
 msgctxt "app"
 msgid "Width"
 msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Workspace"
+msgstr "مساحات العمل"
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"

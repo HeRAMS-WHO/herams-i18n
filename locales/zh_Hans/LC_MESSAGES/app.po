@@ -342,6 +342,10 @@ msgid "Delete workspace"
 msgstr ""
 
 msgctxt "app"
+msgid "Deleted"
+msgstr ""
+
+msgctxt "app"
 msgid "Deleted user"
 msgstr ""
 
@@ -368,6 +372,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Download data"
+msgstr ""
+
+msgctxt "app"
+msgid "Duration"
 msgstr ""
 
 msgctxt "app"
@@ -443,6 +451,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
+msgstr ""
+
+msgctxt "app"
+msgid "Failed"
 msgstr ""
 
 msgctxt "app"
@@ -655,6 +667,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Name"
+msgstr ""
+
+msgctxt "app"
+msgid "New"
 msgstr ""
 
 msgctxt "app"
@@ -946,6 +962,10 @@ msgid "Sort index"
 msgstr ""
 
 msgctxt "app"
+msgid "Start sync"
+msgstr ""
+
+msgctxt "app"
 msgid "Status"
 msgstr ""
 
@@ -963,6 +983,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Survey {id} does not exist"
+msgstr ""
+
+msgctxt "app"
+msgid "Sync workspaces"
 msgstr ""
 
 msgctxt "app"
@@ -1046,6 +1070,10 @@ msgid "Typemap"
 msgstr ""
 
 msgctxt "app"
+msgid "Unchanged"
+msgstr ""
+
+msgctxt "app"
 msgid "Universal ID"
 msgstr ""
 
@@ -1099,6 +1127,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Update workspace token"
+msgstr ""
+
+msgctxt "app"
+msgid "Updated"
 msgstr ""
 
 msgctxt "app"
@@ -1178,6 +1210,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Width"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace"
 msgstr ""
 
 msgctxt "app"

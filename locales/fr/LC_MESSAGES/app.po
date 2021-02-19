@@ -363,6 +363,11 @@ msgstr "Créer un espace de travail"
 
 #, fuzzy
 msgctxt "app"
+msgid "Deleted"
+msgstr "Supprimer"
+
+#, fuzzy
+msgctxt "app"
 msgid "Deleted user"
 msgstr "Utilisateur supprimé"
 
@@ -392,6 +397,11 @@ msgstr "Télécharger"
 msgctxt "app"
 msgid "Download data"
 msgstr "Télécharger les données"
+
+#, fuzzy
+msgctxt "app"
+msgid "Duration"
+msgstr "Confirmation"
 
 msgctxt "app"
 msgid "Edit"
@@ -472,6 +482,10 @@ msgstr "Export complet"
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "Export des données de l'espace de travail {workspace}"
+
+msgctxt "app"
+msgid "Failed"
+msgstr ""
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -690,6 +704,10 @@ msgstr "N/A"
 msgctxt "app"
 msgid "Name"
 msgstr "Nom"
+
+msgctxt "app"
+msgid "New"
+msgstr ""
 
 msgctxt "app"
 msgid "New email address"
@@ -996,6 +1014,10 @@ msgid "Sort index"
 msgstr "Index de tri"
 
 msgctxt "app"
+msgid "Start sync"
+msgstr ""
+
+msgctxt "app"
 msgid "Status"
 msgstr "Statut"
 
@@ -1015,6 +1037,11 @@ msgstr "Langage par défaut du formulaire ({lang})"
 msgctxt "app"
 msgid "Survey {id} does not exist"
 msgstr "Formulaire {id} inexistant"
+
+#, fuzzy
+msgctxt "app"
+msgid "Sync workspaces"
+msgstr "Gestion des espaces de travail"
 
 msgctxt "app"
 msgid "Tertiary"
@@ -1107,6 +1134,10 @@ msgid "Typemap"
 msgstr "Type"
 
 msgctxt "app"
+msgid "Unchanged"
+msgstr ""
+
+msgctxt "app"
 msgid "Universal ID"
 msgstr ""
 
@@ -1163,6 +1194,11 @@ msgstr "Modifier le token"
 msgctxt "app"
 msgid "Update workspace token"
 msgstr "Modifer le token de l'espace de travail"
+
+#, fuzzy
+msgctxt "app"
+msgid "Updated"
+msgstr "Enregistrer"
 
 msgctxt "app"
 msgid "Updated at"
@@ -1247,6 +1283,11 @@ msgstr ""
 msgctxt "app"
 msgid "Width"
 msgstr "Largeur"
+
+#, fuzzy
+msgctxt "app"
+msgid "Workspace"
+msgstr "Espaces de travail"
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
@@ -1588,10 +1629,6 @@ msgstr "Type cible"
 #~ msgctxt "app"
 #~ msgid "Workspace <strong>{modelName}</strong> has been updated."
 #~ msgstr "Espace de travail <strong>{modelName}</strong> modifié"
-
-#~ msgctxt "app"
-#~ msgid "Confirmation"
-#~ msgstr "Confirmation"
 
 #~ msgctxt "app"
 #~ msgid "Discard changes & go to dashboard"
