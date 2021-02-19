@@ -367,10 +367,6 @@ msgid "Donut"
 msgstr ""
 
 msgctxt "app"
-msgid "Download"
-msgstr ""
-
-msgctxt "app"
 msgid "Download data"
 msgstr ""
 
@@ -447,6 +443,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Export data"
+msgstr ""
+
+msgctxt "app"
+msgid "Export data from project {project}"
 msgstr ""
 
 msgctxt "app"

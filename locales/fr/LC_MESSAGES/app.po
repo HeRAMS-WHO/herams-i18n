@@ -391,10 +391,6 @@ msgid "Donut"
 msgstr "Beignet"
 
 msgctxt "app"
-msgid "Download"
-msgstr "Télécharger"
-
-msgctxt "app"
 msgid "Download data"
 msgstr "Télécharger les données"
 
@@ -478,6 +474,10 @@ msgstr "Export complet"
 msgctxt "app"
 msgid "Export data"
 msgstr "Export complet"
+
+msgctxt "app"
+msgid "Export data from project {project}"
+msgstr "Export des données du projet {project}"
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
@@ -1502,6 +1502,10 @@ msgid "Target type"
 msgstr "Type cible"
 
 #~ msgctxt "app"
+#~ msgid "Download"
+#~ msgstr "Télécharger"
+
+#~ msgctxt "app"
 #~ msgid "Update project"
 #~ msgstr "Modifier le projet"
 
@@ -1521,10 +1525,6 @@ msgstr "Type cible"
 #~ msgctxt "app"
 #~ msgid "Create Page"
 #~ msgstr "Créer une page"
-
-#~ msgctxt "app"
-#~ msgid "Export data from project {project}"
-#~ msgstr "Export des données du projet {project}"
 
 #~ msgctxt "app"
 #~ msgid "Denied"
