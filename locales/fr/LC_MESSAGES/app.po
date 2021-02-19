@@ -390,10 +390,6 @@ msgctxt "app"
 msgid "Donut"
 msgstr "Beignet"
 
-msgctxt "app"
-msgid "Download data"
-msgstr "Télécharger les données"
-
 #, fuzzy
 msgctxt "app"
 msgid "Duration"
@@ -1500,6 +1496,10 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Download data"
+#~ msgstr "Télécharger les données"
 
 #~ msgctxt "app"
 #~ msgid "Download"

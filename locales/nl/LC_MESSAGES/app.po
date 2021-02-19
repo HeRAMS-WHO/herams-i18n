@@ -366,10 +366,6 @@ msgid "Donut"
 msgstr ""
 
 msgctxt "app"
-msgid "Download data"
-msgstr ""
-
-msgctxt "app"
 msgid "Duration"
 msgstr ""
 
