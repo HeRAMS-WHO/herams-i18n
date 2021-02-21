@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-03 18:11+0000\n"
-"Last-Translator: Caroline Test Account <fuhrerc@who.int>\n"
+"PO-Revision-Date: 2021-02-21 04:02+0000\n"
+"Last-Translator: Mustafa Abdulrahman <mabdulrahman@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
 "Language: ar\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.4.1\n"
+"X-Generator: Weblate 4.4.2\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
@@ -64,10 +64,9 @@ msgctxt "app"
 msgid "A dashboard element that shows a map"
 msgstr "جزئية بلوحة المعلومات لعرض خريطة"
 
-#, fuzzy
 msgctxt "app"
 msgid "A password reset email has been sent to your address"
-msgstr "تم إرسال بريد إلكتروني الي عنوانك لإعادة تشغيل كلمة المرور الخاصة بك"
+msgstr "تم إرسال رسالة إلى بريدك الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك"
 
 msgctxt "app"
 msgid "A table"
@@ -87,25 +86,23 @@ msgstr "اضف"
 
 msgctxt "app"
 msgid "Add new user"
-msgstr ""
+msgstr "إضافة مستخدم جديد"
 
 msgctxt "app"
 msgid "Add services"
 msgstr "اضف خدمات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Add user"
-msgstr "اضف خدمات"
+msgstr "إضافة مستخدم"
 
 msgctxt "app"
 msgid "Admin dashboard"
 msgstr "لوحة تحكم المشرف"
 
-#, fuzzy
 msgctxt "app"
 msgid "Administration"
-msgstr "إدارة الخلفية"
+msgstr "مدير النظام"
 
 msgctxt "app"
 msgid "After closing this screen you must click {{apply}} to see the changes"
@@ -125,11 +122,11 @@ msgstr "تمت المشاركة بالفعل مع"
 
 msgctxt "app"
 msgid "Alternative name"
-msgstr ""
+msgstr "اسم بديل"
 
 msgctxt "app"
 msgid "Answers as text"
-msgstr "الإجابات كنص"
+msgstr "إجابات نصية"
 
 msgctxt "app"
 msgid "Apply"
@@ -143,30 +140,25 @@ msgctxt "app"
 msgid "Apply filters"
 msgstr "تطبيق المرشحات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete all workspaces?"
-msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
+msgstr "هل أنت متأكد أنك تريد حذف جميع مساحات العمل؟"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete this project?"
-msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
+msgstr "هل أنت متأكد أنك تريد حذف هذا المشروع؟"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete this workspace?"
-msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
+msgstr "هل أنت متأكد أنك تريد حذف مساحة العمل هذه؟"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you sure you want to delete this page?"
 msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you sure you want to delete this user ?"
-msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
+msgstr "هل أنت متأكد أنك تريد حذف هذا المستخدم؟"
 
 msgctxt "app"
 msgid "Are you sure you want to revoke this global permission?"
@@ -177,10 +169,9 @@ msgid ""
 "Are you sure you want to switch to this user for the rest of this Session?"
 msgstr "هل أنت متأكد أنك تريد التحول إلى هذا المستخدم لبقية هذه الجلسة؟"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you sure you wish to remove the workspaces from the system?"
-msgstr "هل أنت متأكد من أنك تريد حذف مساحة العمل هذه من النظام؟"
+msgstr "هل أنت متأكد من أنك تريد حذف مساحات العمل هذه من النظام؟"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -266,24 +257,21 @@ msgctxt "app"
 msgid "Create element"
 msgstr "إنشاء عنصر"
 
-#, fuzzy
 msgctxt "app"
 msgid "Create element & go back"
-msgstr "إنشاء عنصر"
+msgstr "إنشاء عنصر & العودة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Create facility"
-msgstr "تم إنشاءها في"
+msgstr "إنشاء مرفق"
 
 msgctxt "app"
 msgid "Create map"
 msgstr "إنشاء خريطة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Create new token"
-msgstr "إنشاء مشروع جديد"
+msgstr "إنشاء رمز جديد"
 
 msgctxt "app"
 msgid "Create page"
@@ -301,16 +289,14 @@ msgctxt "app"
 msgid "Create workspace"
 msgstr "إنشاء مساحة عمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Created at"
-msgstr "إنشاء مخطط بياني"
+msgstr "أنشئت في"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr "تم إنشاء مساحات عمل {نجاح} ، فشل في إنشاء مساحات عمل {فشل}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Creating a new account for email:"
 msgstr "إنشاء حساب جديد للبريد الإلكتروني:"
@@ -323,10 +309,9 @@ msgctxt "app"
 msgid "Dashboard"
 msgstr "لوحة المعلومات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Dashboard settings"
-msgstr "لوحة المعلومات"
+msgstr "إعدادات لوحة المعلومات"
 
 msgctxt "app"
 msgid "Date"
@@ -336,44 +321,37 @@ msgctxt "app"
 msgid "Delete"
 msgstr "حذف"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete all workspaces"
-msgstr "إنشاء مساحة عمل"
+msgstr "حذف جميع مساحات العمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete all workspaces in project"
-msgstr "إنشاء مساحة عمل"
+msgstr "حذف جميع مساحات العمل في المشروع"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete project"
-msgstr "إنشاء مشروع"
+msgstr "حذف مشروع"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete this user"
-msgstr "مستخدم محذوف"
+msgstr "احذف هذا المستخدم"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete workspace"
-msgstr "إنشاء مساحة عمل"
+msgstr "حذف مساحة عمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Deleted"
-msgstr "حذف"
+msgstr "تم الحذف"
 
-#, fuzzy
 msgctxt "app"
 msgid "Deleted user"
-msgstr "مستخدم محذوف"
+msgstr "مستخدم تم حذفه"
 
 msgctxt "app"
 msgid "Deleted {n} workspaces, {m} workspaces could not be removed"
-msgstr ""
+msgstr "{n} مساحات العمل المحذوفه، {m} مساحات العمل لا يمكن إزالتها"
 
 msgctxt "app"
 msgid ""
@@ -390,7 +368,7 @@ msgstr "مخطط دائري"
 
 msgctxt "app"
 msgid "Duration"
-msgstr ""
+msgstr "المدة الزمنية"
 
 msgctxt "app"
 msgid "Edit"
@@ -432,10 +410,9 @@ msgctxt "app"
 msgid "Email already taken"
 msgstr "هذا البريد الإلكتروني تم أخذه بالفعل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Empty project"
-msgstr "تحديث المشروع"
+msgstr "مشروع فارغ"
 
 msgctxt "app"
 msgid ""
@@ -463,10 +440,9 @@ msgctxt "app"
 msgid "Export all"
 msgstr "تصدير كل البيانات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Export data"
-msgstr "تصدير كل البيانات"
+msgstr "تصدير البيانات"
 
 msgctxt "app"
 msgid "Export data from project {project}"
@@ -478,7 +454,7 @@ msgstr "تصدير البيانات من مساحة العمل {مساحة ال�
 
 msgctxt "app"
 msgid "Failed"
-msgstr ""
+msgstr "فشل"
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -492,10 +468,9 @@ msgctxt "app"
 msgid "Favorites"
 msgstr "مفضلة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Favorites only"
-msgstr "مفضلة"
+msgstr "المفضلات فقط"
 
 msgctxt "app"
 msgid "Filters"
@@ -573,10 +548,9 @@ msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
 msgstr "إذا استخدمت خيارًا محددًا مسبقًا، فسيتم ترجمته تلقائيًا"
 
-#, fuzzy
 msgctxt "app"
 msgid "Import Pages"
-msgstr "استيراد الصفحات"
+msgstr "إستيراد الصفحات"
 
 msgctxt "app"
 msgid "Import pages"
@@ -586,18 +560,17 @@ msgctxt "app"
 msgid "Import workspaces"
 msgstr "استيراد مساحات العمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "In Progress"
-msgstr "في تقدم"
+msgstr "جاري العمل"
 
 msgctxt "app"
 msgid "Include code header"
-msgstr ""
+msgstr "إضافة رمز السؤال"
 
 msgctxt "app"
 msgid "Include text header"
-msgstr ""
+msgstr "إضافة نص السؤال"
 
 msgctxt "app"
 msgid "Info"
@@ -625,15 +598,15 @@ msgstr "نقص الإمدادات الطبية"
 
 msgctxt "app"
 msgid "Lack of training of health staff"
-msgstr "عدم تدريب الكوادر الصحية"
+msgstr "نقص في تدريب الكوادر الصحية"
 
 msgctxt "app"
 msgid "Language"
-msgstr ""
+msgstr "اللغة"
 
 msgctxt "app"
 msgid "Last login at"
-msgstr ""
+msgstr "آخر تسجيل دخول في"
 
 msgctxt "app"
 msgid "Latest update"
@@ -641,37 +614,35 @@ msgstr "اخر تحديث"
 
 msgctxt "app"
 msgid "Latitude"
-msgstr ""
+msgstr "دوائر العرض"
 
 msgctxt "app"
 msgid "Loading Error"
-msgstr ""
+msgstr "خطأ في التحميل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Loading failed"
-msgstr "فشل التحقق من صحة البيانات"
+msgstr "فشل في التحميل"
 
 msgctxt "app"
 msgid "Loading project summary"
-msgstr ""
+msgstr "تحميل ملخص المشروع"
 
 msgctxt "app"
 msgid "Log in"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 msgctxt "app"
 msgid "Longitude"
-msgstr ""
+msgstr "خطوط الطول"
 
 msgctxt "app"
 msgid "Manage data implies creating facilities"
-msgstr ""
+msgstr "إدارة البيانات تتضمن إنشاء مرافق"
 
-#, fuzzy
 msgctxt "app"
 msgid "Manage surveys"
-msgstr "ادارة المستخدمين"
+msgstr "ادارة الإستبيانات"
 
 msgctxt "app"
 msgid "Manage users"
@@ -687,7 +658,7 @@ msgstr "رسم أنواع المرافق الصحية لاستخدامها في 
 
 msgctxt "app"
 msgid "Marker radius"
-msgstr ""
+msgstr "نصف قطر العلامة"
 
 msgctxt "app"
 msgid "N/A"
@@ -695,15 +666,15 @@ msgstr "لا يمكن تطبيقة"
 
 msgctxt "app"
 msgid "Name"
-msgstr ""
+msgstr "الاسم"
 
 msgctxt "app"
 msgid "New"
-msgstr ""
+msgstr "جديد"
 
 msgctxt "app"
 msgid "New email address"
-msgstr "عنوان البريد الإلكتروني الجديد"
+msgstr "عنوان بريد إلكتروني جديد"
 
 msgctxt "app"
 msgid "New password"
@@ -727,25 +698,23 @@ msgstr "لا توجد معلومات إضافية متاحة في هذا الو�
 
 msgctxt "app"
 msgid "Non-favorites only"
-msgstr ""
+msgstr "العناصر التي ليست في المفضلة فقط"
 
 msgctxt "app"
 msgid "None"
 msgstr "لا يوجد"
 
-#, fuzzy
 msgctxt "app"
 msgid "Not allowed"
-msgstr "مسموح"
+msgstr "غير مسموح"
 
 msgctxt "app"
 msgid "Not available"
 msgstr "غير متوفر"
 
-#, fuzzy
 msgctxt "app"
 msgid "Not functional"
-msgstr "تعمل بشكل كامل"
+msgstr "لا تعمل"
 
 msgctxt "app"
 msgid "Not normally provided"
@@ -753,7 +722,7 @@ msgstr "لا تُقدم عادة"
 
 msgctxt "app"
 msgid "Off"
-msgstr ""
+msgstr "تعطيل"
 
 msgctxt "app"
 msgid "Old email address"
@@ -761,26 +730,27 @@ msgstr "عنوان بريد إلكتروني قديم"
 
 msgctxt "app"
 msgid "On"
-msgstr ""
+msgstr "تشغيل"
 
 msgctxt "app"
 msgid ""
 "Only countries with an ISO3166 Alpha-3:wq\n"
 "             code are listed"
 msgstr ""
+"تم إدراج الدول التي تمتلك رمز ISO3166 Alpha-3:wq\n"
+"فقط"
 
 msgctxt "app"
 msgid "Other"
-msgstr ""
+msgstr "أخرى"
 
 msgctxt "app"
 msgid "Overrides"
-msgstr ""
+msgstr "تجاوزات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Page"
-msgstr "الصفحات"
+msgstr "صفحة"
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> created"
@@ -790,15 +760,13 @@ msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
 msgstr "تم تحديث الصفحة <strong> {page} </strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid "Page elements"
-msgstr "إنشاء عنصر"
+msgstr "عناصر الصفحة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Parent page"
-msgstr "إنشاء صفحة"
+msgstr "الصفحة الأصلية"
 
 msgctxt "app"
 msgid "Partial"
@@ -808,10 +776,9 @@ msgctxt "app"
 msgid "Partially available"
 msgstr "متوفر جزئيًا"
 
-#, fuzzy
 msgctxt "app"
 msgid "Partially functional"
-msgstr "تعمل بشكل كامل"
+msgstr "تعمل بشكل جزئي"
 
 msgctxt "app"
 msgid "Password"
@@ -821,10 +788,9 @@ msgctxt "app"
 msgid "Password changed"
 msgstr "تم تغيير كلمة السر"
 
-#, fuzzy
 msgctxt "app"
 msgid "Password hash"
-msgstr "كلمه السر"
+msgstr "تشفير كلمة المرور"
 
 msgctxt "app"
 msgid "Password update failed"
@@ -848,37 +814,35 @@ msgstr "يرجى مراجعة صندوق البريد الخاص بك"
 
 msgctxt "app"
 msgid "Primary"
-msgstr ""
+msgstr "أولي"
 
 msgctxt "app"
 msgid "Print"
-msgstr ""
+msgstr "طباعة الصفحة الحالية"
 
 msgctxt "app"
 msgid "Print all pages"
-msgstr ""
+msgstr "طباعة جميع الصفحات"
 
 msgctxt "app"
 msgid "Profile"
-msgstr ""
+msgstr "الملف الشخصي"
 
-#, fuzzy
 msgctxt "app"
 msgid "Project"
-msgstr "المشاريع"
+msgstr "مشروع"
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
-msgstr "تم إنشاء المشروع <strong> {project} </strong>"
+msgstr "مشروع <strong> {project} </strong> تم إنشائه"
 
 msgctxt "app"
 msgid "Project dashboard"
 msgstr "لوحة معلومات المشروع"
 
-#, fuzzy
 msgctxt "app"
 msgid "Project settings"
-msgstr "تعديل الإعدادات"
+msgstr "إعدادات المشروع"
 
 msgctxt "app"
 msgid "Project status is shown on the world map"
@@ -906,16 +870,15 @@ msgstr "رمز السؤال يحتوي على النوع (حساس لحالة ا
 
 msgctxt "app"
 msgid "Refresh"
-msgstr ""
+msgstr "تحديث"
 
 msgctxt "app"
 msgid "Refresh data from limesurvey"
 msgstr "قم بتحديث البيانات من limesurvey"
 
-#, fuzzy
 msgctxt "app"
 msgid "Refresh workspace"
-msgstr "مساحة عمل جديدة"
+msgstr "تحديث مساحة العمل"
 
 msgctxt "app"
 msgid ""
@@ -927,24 +890,23 @@ msgid ""
 "        {failed} invalid records"
 msgstr ""
 "تحديث البيانات استغرق {time} ثانية ؛\n"
-"         {new} سجلات جديدة ،\n"
-"         {updated} السجلات الموجودة ،\n"
-"         {deleted} السجلات المحذوفة ،\n"
-"         {unchanged} سجلات غير متغيرة ،\n"
-"         {failed} السجلات غير صالحة"
+"         {new} سجلات تمت إضافتها ،\n"
+"         {updated} سجلات تم تحديثها،\n"
+"         {deleted} تم حذفها ،\n"
+"         {unchanged} سجلات لم يطرأ عليها أي تغيير ،\n"
+"         {failed} سجلات غير صحيحة"
 
 msgctxt "app"
 msgid "Register"
-msgstr ""
+msgstr "تسجيل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Register new health facility"
-msgstr "تم إنشاءها في"
+msgstr "إضافة مرفق صحي جديد"
 
 msgctxt "app"
 msgid "Repeat password"
-msgstr "اعد كلمة المرور"
+msgstr "إعادة كلمة المرور"
 
 msgctxt "app"
 msgid "Report date"
@@ -956,16 +918,15 @@ msgstr "طلب اعادة تشغيل كلمة المرور"
 
 msgctxt "app"
 msgid "Reset password"
-msgstr "إعادة تشغيل كلمة المرور"
+msgstr "إعادة ضبط كلمة المرور"
 
 msgctxt "app"
 msgid "Reset your password"
-msgstr "اعد ضبط كلمة المرور الخاصة بك"
+msgstr "قم بإعادة ضبط كلمة المرور الخاصة بك"
 
-#, fuzzy
 msgctxt "app"
 msgid "Responses"
-msgstr "# الأجوبة"
+msgstr "عدد الإستجابات"
 
 msgctxt "app"
 msgid "Save"
@@ -973,24 +934,23 @@ msgstr "حفظ"
 
 msgctxt "app"
 msgid "Search"
-msgstr ""
+msgstr "بحث"
 
 msgctxt "app"
 msgid "Search also uses the group name, for example try typing \"Trauma\""
-msgstr ""
+msgstr "يمكنك البحث بإستخدام اسم النطاق الصحي، مثال: جرب طباعة كلمة \"Trauma\""
 
 msgctxt "app"
 msgid "Secondary"
-msgstr ""
+msgstr "الرعاية الصحية الثانوية"
 
 msgctxt "app"
 msgid "Send confirmation"
 msgstr "أرسل التأكيد"
 
-#, fuzzy
 msgctxt "app"
 msgid "Service Availability"
-msgstr "توفر الخدمة"
+msgstr "توفر الخدمات الصحية"
 
 msgctxt "app"
 msgid "Service availability"
@@ -998,49 +958,47 @@ msgstr "توفر الخدمة"
 
 msgctxt "app"
 msgid "Show the debug toolbar"
-msgstr ""
+msgstr "إظهار شريط أدوات التصحيح"
 
 msgctxt "app"
 msgid "Sort"
-msgstr ""
+msgstr "فرز"
 
 msgctxt "app"
 msgid "Sort index"
-msgstr ""
+msgstr "مؤشر الفرز"
 
 msgctxt "app"
 msgid "Start sync"
-msgstr ""
+msgstr "ابدأ المزامنة"
 
 msgctxt "app"
 msgid "Status"
-msgstr ""
+msgstr "الحالة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Success"
-msgstr "نجاح!"
+msgstr "تمت العملية بنجاح"
 
 msgctxt "app"
 msgid "Survey"
-msgstr "مسح"
+msgstr "استبيان"
 
 msgctxt "app"
 msgid "Survey default ({lang})"
-msgstr "المسح الافتراضي ({lang})"
+msgstr "لغة الإستبيان الإفتراضية ({lang})"
 
 msgctxt "app"
 msgid "Survey {id} does not exist"
 msgstr "الاستطلاع {id} غير موجود"
 
-#, fuzzy
 msgctxt "app"
 msgid "Sync workspaces"
-msgstr "إدارة مساحات العمل"
+msgstr "مزامنة مساحات العمل"
 
 msgctxt "app"
 msgid "Tertiary"
-msgstr ""
+msgstr "الرعاية الصحية ما بعد الثانوية"
 
 msgctxt "app"
 msgid ""
@@ -1049,6 +1007,10 @@ msgid ""
 "essential health resources and services is systematically shared and readily "
 "available to decision makers at country, regional and global levels"
 msgstr ""
+"نظام مراقبة الموارد والخدمات الصحية (هيرامس) هو نهج تعاوني يهدف إلى التأكد "
+"أن المعلومات الجوهرية الخاصة بالموارد والخدمات الصحية الأساسيةمتاحة بسهولة "
+"ويتم مشاركتها بصورة منهجية مع صناع القرار على المستوى المحلي والإقليمي "
+"والدولي."
 
 msgctxt "app"
 msgid "The aggregate availability of services per HF"
@@ -1068,7 +1030,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "This action cannot be undone."
-msgstr ""
+msgstr "هذا الإجراء لا يمكن إلغاؤه."
 
 msgctxt "app"
 msgid ""
@@ -1078,58 +1040,55 @@ msgstr "هذا الرابط لم يعد صالحًا؛ تم تغيير كلمة 
 
 msgctxt "app"
 msgid "This will permanently delete all workspaces in the project."
-msgstr ""
+msgstr "سيتم حذف جميع مساحات العمل في المشروع."
 
 msgctxt "app"
 msgid "This will permanently delete the project and all its workspaces."
-msgstr ""
+msgstr "سيتم حذف المشروع وجميع مساحات العمل التابعة له."
 
 msgctxt "app"
 msgid "This will permanently delete the workspace."
-msgstr ""
+msgstr "سيتم حذف مساحة العمل نهائيا."
 
-#, fuzzy
 msgctxt "app"
 msgid "This will reload the page losing all other changes"
-msgstr "سيؤدي ذلك إلى إعادة تحميل الصفحة وسوف تفقد جميع التغييرات الأخرى !!"
+msgstr "سيؤدي هذا إلى إعادة تحميل الصفحة وفقدان جميع التغييرات الأخرى"
 
 msgctxt "app"
 msgid "Title"
-msgstr ""
+msgstr "العنوان"
 
-#, fuzzy
 msgctxt "app"
 msgid "Token updated"
-msgstr "تم تحديث الرمز."
+msgstr "تم تحديث الرمز"
 
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
-msgstr "محاولات كثيرة ، حاول مرة أخرى بعد {seconds} ثانية"
+msgstr "لقد قمت بمحاولات كثيرة ، حاول مرة أخرى بعد {seconds} ثانية"
 
 msgctxt "app"
 msgid "Transpose"
-msgstr ""
+msgstr "نقل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Try refreshing the project"
-msgstr "إنشاء مشروع"
+msgstr "حاول تحديث المشروع"
 
 msgctxt "app"
 msgid "Type"
-msgstr ""
+msgstr "النوع"
 
 msgctxt "app"
 msgid "Typemap"
-msgstr ""
+msgstr "نوع الخريطة"
 
 msgctxt "app"
 msgid "Unchanged"
-msgstr ""
+msgstr "بدون تغيير"
 
 msgctxt "app"
 msgid "Universal ID"
-msgstr ""
+msgstr "رقم التعريف العالمي (Universal ID)"
 
 msgctxt "app"
 msgid "Unknown"
@@ -1143,7 +1102,6 @@ msgctxt "app"
 msgid "Update"
 msgstr "تحديث"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update Page"
 msgstr "تحديث الصفحة"
@@ -1160,19 +1118,17 @@ msgctxt "app"
 msgid "Update element"
 msgstr "تحديث عنصر"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update element & go back"
-msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
+msgstr "تحديث عنصر والعودة إلى لوحة التحكم"
 
 msgctxt "app"
 msgid "Update page"
 msgstr "تحديث الصفحة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update page: {page}"
-msgstr "تحديث الصفحة"
+msgstr "تحديث الصفحة: {page}"
 
 msgctxt "app"
 msgid "Update password"
@@ -1186,20 +1142,17 @@ msgctxt "app"
 msgid "Update workspace token"
 msgstr "تحديث الرمز المميز لمساحة العمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Updated"
-msgstr "تحديث"
+msgstr "محدثة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Updated at"
-msgstr "تحديث الصفحة"
+msgstr "تم التحديث عند"
 
-#, fuzzy
 msgctxt "app"
 msgid "User"
-msgstr "المستخدمين"
+msgstr "المستخدم"
 
 msgctxt "app"
 msgid "User not found"
@@ -1213,10 +1166,9 @@ msgctxt "app"
 msgid "Users"
 msgstr "المستخدمين"
 
-#, fuzzy
 msgctxt "app"
 msgid "Users ({n})"
-msgstr "المستخدمين"
+msgstr "المستخدمين ({n})"
 
 msgctxt "app"
 msgid "Validation failed"
@@ -1224,35 +1176,31 @@ msgstr "فشل التحقق من صحة البيانات"
 
 msgctxt "app"
 msgid "View current users"
-msgstr ""
+msgstr "عرض المستخدمين الحاليين"
 
 msgctxt "app"
 msgid "View dashboard"
 msgstr "عرض لوحة التحكم"
 
-#, fuzzy
 msgctxt "app"
 msgid "View user permissions"
-msgstr "اضف صلاحيات"
+msgstr "عرض صلاحيات المستخدم"
 
 msgctxt "app"
 msgid "Visibility"
-msgstr ""
+msgstr "الوضوح"
 
-#, fuzzy
 msgctxt "app"
 msgid "Warning"
 msgstr "تحذير!"
 
-#, fuzzy
 msgctxt "app"
 msgid "We use this field to store the country for the project"
-msgstr "نستخدم هذا الحقل لتخزين مشروع العمل."
+msgstr "نستخدم هذا الحقل لتخزين مشروع العمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "We use this field to store the last name of the project owner"
-msgstr "نستخدم هذا الحقل لتخزين الاسم الأخير لصاحب المشروع."
+msgstr "نستخدم هذا الحقل لتخزين الاسم الأخير لصاحب المشروع"
 
 msgctxt "app"
 msgid "We will send a confirmation message to this address"
@@ -1267,61 +1215,59 @@ msgid ""
 "When enabled anyone with the manage data permission will be allowed to "
 "create new facilities"
 msgstr ""
+"في حال تم تفعيل، سيتم السماح لأي شخص لديه صلاحية إدارة البيانات بإنشاء مرافق "
+"صحية جديدة"
 
 msgctxt "app"
 msgid ""
 "Whether this element needs data at facility (HF) or subject (service) level"
 msgstr ""
-"ما إذا كان هذا العنصر يحتاج إلى بيانات على مستوى المرفق الصحي (HF) أو "
-"الموضوع (الخدمة)"
+"تحديد ما إذا كان هذا العنصر يحتاج إلى بيانات على مستوى المرفق الصحي أو على "
+"مستوى الخدمة"
 
 msgctxt "app"
 msgid "Width"
-msgstr ""
+msgstr "العرض"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace"
-msgstr "مساحات العمل"
+msgstr "مساحة العمل"
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
-msgstr "تم إنشاء مساحة العمل <strong> {modelName} </strong>"
+msgstr "تم إنشاء مساحة عمل <strong> {modelName} </strong>"
 
 msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
 "</strong>"
 msgstr ""
-"تمت مشاركة مساحة العمل <strong> {modelName} </strong> مع: <strong> {users} </"
-"strong>"
+"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} "
+"</strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace settings"
-msgstr "مساحات العمل"
+msgstr "إعدادات مساحة العمل"
 
 msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "مساحة العمل {workspace}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace {workspace} has been updated"
-msgstr "مساحة العمل {workspace}"
+msgstr "مساحة العمل {workspace} تم تحديثها"
 
 msgctxt "app"
 msgid "Workspaces"
 msgstr "مساحات العمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspaces ({n})"
-msgstr "مساحات العمل"
+msgstr "({n}) مساحة عمل"
 
 msgctxt "app"
 msgid "Workspaces for {project}"
-msgstr "مساحات عمل {project}"
+msgstr "مساحات العمل التابعة ل {project}"
 
 msgctxt "app"
 msgid "World overview"
@@ -1340,10 +1286,12 @@ msgid ""
 "You may search for multiple terms, only results that contain all terms are "
 "shown"
 msgstr ""
+"يمكنك البحث بإستخدام أكثر من شرط، سيتم عرض النتائج التي تنطبق عليها جميع "
+"الشروط فقط"
 
 msgctxt "app"
 msgid "Your account has been created"
-msgstr "لقد تم إنشاء حسابك"
+msgstr "تم إنشاء حسابك"
 
 msgctxt "app"
 msgid "Your email address has already been changed"
@@ -1353,155 +1301,137 @@ msgctxt "app"
 msgid "Your email address has been updated"
 msgstr "تم تحديث عنوان بريدك الإلكتروني"
 
-#, fuzzy
 msgctxt "app"
 msgid "Your password has been reset"
-msgstr "تم إعادة تشغيل كلمة المرور الخاصة بك!"
+msgstr "تم إعادة ضبط كلمة المرور الخاصة بك"
 
-#, fuzzy
 msgctxt "app"
 msgid "in progress"
 msgstr "في تقدم"
 
 msgctxt "app"
 msgid "never"
-msgstr ""
+msgstr "مطلقاً"
 
-#, fuzzy
 msgctxt "app"
 msgid "pages"
-msgstr "الصفحات"
+msgstr "صفحات"
 
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
-msgstr "{0، التاريخ، اليوم، YYYY HH:mm ،MMMM dd}"
+msgstr "{0, date, MMMM dd, YYYY HH:mm}"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Closed"
-msgstr "مغلق"
+msgstr "مغلقة"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Contributors"
-msgstr "المساهمون"
+msgstr "المشاركين"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Facilities"
-msgstr "المرافق الصحية"
+msgstr "مرافق صحية"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Latest update"
-msgstr "اخر تحديث"
+msgstr "آخر تحديث"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Project"
-msgstr "المشاريع"
+msgstr "مشروع"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Responses"
-msgstr "# الأجوبة"
+msgstr "الإستجابات/الردود"
 
 msgctxt "app.model.workspace"
 msgid "Token"
-msgstr ""
+msgstr "رمز التعريف"
 
 msgctxt "app.pagetitle"
 msgid "Accessibility"
-msgstr ""
+msgstr "إمكانية الوصول"
 
 msgctxt "app.pagetitle"
 msgid "Basic Amenities"
-msgstr ""
+msgstr "المرافق الأساسية"
 
 msgctxt "app.pagetitle"
 msgid "Building and equipment condition"
-msgstr ""
+msgstr "حالة المبنى والمعدات الطبية"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
-msgstr ""
+msgstr "سلسلة تبريد / ثلاجة"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Communication"
-msgstr "تأكيد"
+msgstr "وسائل الإتصال"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Condition"
-msgstr "تأكيد"
+msgstr "حالة المبنى"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Functionality"
-msgstr "حالة العمل"
+msgstr "الحالة التشغيلية"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Health Information"
-msgstr "تحديث معلومات الحساب"
+msgstr "المعلومات الصحية"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
-msgstr ""
+msgstr "البنية التحتية"
 
 msgctxt "app.pagetitle"
 msgid "Management and support"
-msgstr ""
+msgstr "الإدارة والدعم"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr "نظرة عامة على تنفيذ هيرامس على مستوى العالم"
 
 msgctxt "app.pagetitle"
 msgid "Power"
-msgstr ""
+msgstr "مصادر الطاقة الكهربائية"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Sanitation"
-msgstr "تأكيد"
+msgstr "الصرف الصحي"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Service availability"
-msgstr "توفر الخدمة"
+msgstr "مدى توفر الخدمات الصحية"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"
-msgstr ""
+msgstr "إدارة المخلفات"
 
 msgctxt "app.pagetitle"
 msgid "Water"
-msgstr ""
+msgstr "مصادر المياه"
 
-#, fuzzy
 msgctxt "app.permission"
 msgid "Permission"
-msgstr "الإذن"
+msgstr "الأذونات"
 
 msgctxt "app.permission"
 msgid "Source ID"
-msgstr ""
+msgstr "Source ID"
 
 msgctxt "app.permission"
 msgid "Source type"
-msgstr ""
+msgstr "Source type"
 
 msgctxt "app.permission"
 msgid "Target ID"
-msgstr ""
+msgstr "Target ID"
 
-#, fuzzy
 msgctxt "app.permission"
 msgid "Target type"
-msgstr "نوع المخطط"
+msgstr "Target type"
 
 #~ msgctxt "app"
 #~ msgid "Download data"
