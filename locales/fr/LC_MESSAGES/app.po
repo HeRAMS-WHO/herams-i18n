@@ -476,6 +476,11 @@ msgstr "Export complet"
 
 #, fuzzy
 msgctxt "app"
+msgid "Export all pages to pdf"
+msgstr "Page parent"
+
+#, fuzzy
+msgctxt "app"
 msgid "Export data"
 msgstr "Export complet"
 
@@ -486,6 +491,10 @@ msgstr "Export des données du projet {project}"
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "Export des données de l'espace de travail {workspace}"
+
+msgctxt "app"
+msgid "Export this page to pdf"
+msgstr ""
 
 msgctxt "app"
 msgid "Failed"
@@ -540,6 +549,11 @@ msgstr "Ajouter des permissions"
 msgctxt "app"
 msgid "Global permissions granted to {users}"
 msgstr "Permissions globales accordées aux {users}"
+
+#, fuzzy
+msgctxt "app"
+msgid "Go to workspaces"
+msgstr "Import d'espaces de travail"
 
 msgctxt "app"
 msgid "Grant admin permissions"

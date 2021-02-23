@@ -446,6 +446,10 @@ msgid "Export all"
 msgstr ""
 
 msgctxt "app"
+msgid "Export all pages to pdf"
+msgstr ""
+
+msgctxt "app"
 msgid "Export data"
 msgstr ""
 
@@ -455,6 +459,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
+msgstr ""
+
+msgctxt "app"
+msgid "Export this page to pdf"
 msgstr ""
 
 msgctxt "app"
@@ -507,6 +515,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
+msgstr ""
+
+msgctxt "app"
+msgid "Go to workspaces"
 msgstr ""
 
 msgctxt "app"

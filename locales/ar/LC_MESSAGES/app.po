@@ -448,6 +448,11 @@ msgctxt "app"
 msgid "Export all"
 msgstr "تصدير كل البيانات"
 
+#, fuzzy
+msgctxt "app"
+msgid "Export all pages to pdf"
+msgstr "طباعة جميع الصفحات"
+
 msgctxt "app"
 msgid "Export data"
 msgstr "تصدير البيانات"
@@ -459,6 +464,10 @@ msgstr "تصدير البيانات من المشروع {project}"
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
 msgstr "تصدير البيانات من مساحة العمل {مساحة العمل}"
+
+msgctxt "app"
+msgid "Export this page to pdf"
+msgstr ""
 
 msgctxt "app"
 msgid "Failed"
@@ -511,6 +520,11 @@ msgstr "صلاحيات عالمية"
 msgctxt "app"
 msgid "Global permissions granted to {users}"
 msgstr "الأذونات العامة الممنوحة ل {users}"
+
+#, fuzzy
+msgctxt "app"
+msgid "Go to workspaces"
+msgstr "استيراد مساحات العمل"
 
 msgctxt "app"
 msgid "Grant admin permissions"
