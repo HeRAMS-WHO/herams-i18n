@@ -359,6 +359,10 @@ msgid ""
 msgstr "يحدد ترتيب العناصر على الصفحة، والعناصر الموضحة بترتيب تصاعدي"
 
 msgctxt "app"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "app"
 msgid "Discard & go back"
 msgstr "تجاهل وعد"
 
@@ -413,6 +417,10 @@ msgstr "هذا البريد الإلكتروني تم أخذه بالفعل"
 msgctxt "app"
 msgid "Empty project"
 msgstr "مشروع فارغ"
+
+msgctxt "app"
+msgid "Enabled"
+msgstr ""
 
 msgctxt "app"
 msgid ""
@@ -1242,8 +1250,8 @@ msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
 "</strong>"
 msgstr ""
-"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} "
-"</strong>"
+"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
+"strong>"
 
 msgctxt "app"
 msgid "Workspace settings"

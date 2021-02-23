@@ -383,6 +383,10 @@ msgstr ""
 "ordre croissant"
 
 msgctxt "app"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "app"
 msgid "Discard & go back"
 msgstr "Annuler & retourner"
 
@@ -439,6 +443,10 @@ msgstr "Email déjà utilisé"
 msgctxt "app"
 msgid "Empty project"
 msgstr "Modifier le projet"
+
+msgctxt "app"
+msgid "Enabled"
+msgstr ""
 
 msgctxt "app"
 msgid ""

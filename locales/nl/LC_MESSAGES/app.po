@@ -358,6 +358,10 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "app"
 msgid "Discard & go back"
 msgstr ""
 
@@ -411,6 +415,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Empty project"
+msgstr ""
+
+msgctxt "app"
+msgid "Enabled"
 msgstr ""
 
 msgctxt "app"
