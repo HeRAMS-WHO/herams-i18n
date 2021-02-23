@@ -922,6 +922,11 @@ msgctxt "app"
 msgid "Register"
 msgstr "تسجيل"
 
+#, fuzzy
+msgctxt "app"
+msgid "Register a new facility"
+msgstr "إضافة مرفق صحي جديد"
+
 msgctxt "app"
 msgid "Register new health facility"
 msgstr "إضافة مرفق صحي جديد"

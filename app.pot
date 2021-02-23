@@ -891,6 +891,10 @@ msgid "Register"
 msgstr ""
 
 msgctxt "app"
+msgid "Register a new facility"
+msgstr ""
+
+msgctxt "app"
 msgid "Register new health facility"
 msgstr ""
 

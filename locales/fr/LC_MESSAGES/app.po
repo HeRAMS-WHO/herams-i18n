@@ -962,6 +962,11 @@ msgstr "S'inscrire"
 
 #, fuzzy
 msgctxt "app"
+msgid "Register a new facility"
+msgstr "Crée le"
+
+#, fuzzy
+msgctxt "app"
 msgid "Register new health facility"
 msgstr "Crée le"
 
