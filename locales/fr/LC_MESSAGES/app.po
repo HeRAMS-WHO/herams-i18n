@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-25 14:02+0000\n"
-"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"PO-Revision-Date: 2021-02-25 18:02+0000\n"
+"Last-Translator: Ousmane Toure <obtoure@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
 "Language: fr\n"
@@ -264,24 +264,21 @@ msgctxt "app"
 msgid "Create element"
 msgstr "Créer un élément"
 
-#, fuzzy
 msgctxt "app"
 msgid "Create element & go back"
-msgstr "Créer un élément"
+msgstr "Créer un élément et revenir en arrière"
 
-#, fuzzy
 msgctxt "app"
 msgid "Create facility"
-msgstr "Crée le"
+msgstr "Crée une structure"
 
 msgctxt "app"
 msgid "Create map"
 msgstr "Créer une carte"
 
-#, fuzzy
 msgctxt "app"
 msgid "Create new token"
-msgstr "Créer un nouveau projet"
+msgstr "Créer un nouveau token"
 
 msgctxt "app"
 msgid "Create page"
@@ -299,10 +296,9 @@ msgctxt "app"
 msgid "Create workspace"
 msgstr "Créer un espace de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Created at"
-msgstr "Créer un graphique"
+msgstr "Créer à"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
@@ -310,10 +306,9 @@ msgstr ""
 "Espaces de travail créés {success}, Echec de création des espaces de travail "
 "{fail}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Creating a new account for email:"
-msgstr "Création d'un nouveau compte pour l'email:"
+msgstr "Créer un nouveau compte pour e-mail:"
 
 msgctxt "app"
 msgid "Current password"
@@ -323,10 +318,9 @@ msgctxt "app"
 msgid "Dashboard"
 msgstr "Tableau de bord"
 
-#, fuzzy
 msgctxt "app"
 msgid "Dashboard settings"
-msgstr "Tableau de bord"
+msgstr "Paramètres du tableau de bord"
 
 msgctxt "app"
 msgid "Date"
@@ -336,37 +330,30 @@ msgctxt "app"
 msgid "Delete"
 msgstr "Supprimer"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete all workspaces"
-msgstr "Créer un espace de travail"
+msgstr "Supprimer toutes les espaces de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete all workspaces in project"
-msgstr "Créer un espace de travail"
+msgstr "supprimer toutes les espaces de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete project"
-msgstr "Créer un projet"
+msgstr "supprimer un projet"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete this user"
-msgstr "Utilisateur supprimé"
+msgstr "Supprimer cet utilisateur"
 
-#, fuzzy
 msgctxt "app"
 msgid "Delete workspace"
-msgstr "Créer un espace de travail"
+msgstr "supprimer un espace de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Deleted"
 msgstr "Supprimer"
 
-#, fuzzy
 msgctxt "app"
 msgid "Deleted user"
 msgstr "Utilisateur supprimé"
@@ -374,6 +361,8 @@ msgstr "Utilisateur supprimé"
 msgctxt "app"
 msgid "Deleted {n} workspaces, {m} workspaces could not be removed"
 msgstr ""
+"{n} espaces de travail supprimés, {m} espaces de travail n'ont pas pu être "
+"supprimés"
 
 msgctxt "app"
 msgid ""
@@ -394,10 +383,9 @@ msgctxt "app"
 msgid "Donut"
 msgstr "Beignet"
 
-#, fuzzy
 msgctxt "app"
 msgid "Duration"
-msgstr "Confirmation"
+msgstr "Durée"
 
 msgctxt "app"
 msgid "Edit"
@@ -439,10 +427,9 @@ msgctxt "app"
 msgid "Email already taken"
 msgstr "Email déjà utilisé"
 
-#, fuzzy
 msgctxt "app"
 msgid "Empty project"
-msgstr "Modifier le projet"
+msgstr "Projet vide"
 
 msgctxt "app"
 msgid "Enabled"
@@ -474,31 +461,29 @@ msgctxt "app"
 msgid "Export all"
 msgstr "Export complet"
 
-#, fuzzy
 msgctxt "app"
 msgid "Export all pages to pdf"
-msgstr "Page parent"
+msgstr "Exporter toutes les pages au format pdf"
 
-#, fuzzy
 msgctxt "app"
 msgid "Export data"
-msgstr "Export complet"
+msgstr "Exporter les données"
 
 msgctxt "app"
 msgid "Export data from project {project}"
-msgstr "Export des données du projet {project}"
+msgstr "Exporter des données du projet {project}"
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
-msgstr "Export des données de l'espace de travail {workspace}"
+msgstr "Exporter des données de l'espace de travail {workspace}"
 
 msgctxt "app"
 msgid "Export this page to pdf"
-msgstr ""
+msgstr "Exporter cette page en pdf"
 
 msgctxt "app"
 msgid "Failed"
-msgstr ""
+msgstr "Erreur"
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -512,14 +497,13 @@ msgctxt "app"
 msgid "Favorites"
 msgstr "Favoris"
 
-#, fuzzy
 msgctxt "app"
 msgid "Favorites only"
-msgstr "Favoris"
+msgstr "Favoris seulement"
 
 msgctxt "app"
 msgid "Filters"
-msgstr "Filters"
+msgstr "Filtres"
 
 msgctxt "app"
 msgid "Forgot your password ?"
@@ -550,10 +534,9 @@ msgctxt "app"
 msgid "Global permissions granted to {users}"
 msgstr "Permissions globales accordées aux {users}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Go to workspaces"
-msgstr "Import d'espaces de travail"
+msgstr "Aller aux espaces de travail"
 
 msgctxt "app"
 msgid "Grant admin permissions"
@@ -600,14 +583,13 @@ msgid "If you use a predefined option it will automatically be translated"
 msgstr ""
 "Si vous utilisez une option prédéfinie, elle sera automatiquement traduite"
 
-#, fuzzy
 msgctxt "app"
 msgid "Import Pages"
-msgstr "Import de pages"
+msgstr "Importer des pages"
 
 msgctxt "app"
 msgid "Import pages"
-msgstr "Import de pages"
+msgstr "Importer des pages"
 
 msgctxt "app"
 msgid "Import workspaces"
@@ -691,7 +673,7 @@ msgstr "Longitude"
 
 msgctxt "app"
 msgid "Manage data implies creating facilities"
-msgstr ""
+msgstr "Gérer les données implique la création de structures"
 
 #, fuzzy
 msgctxt "app"
@@ -708,8 +690,7 @@ msgstr "Gestion des espaces de travail"
 
 msgctxt "app"
 msgid "Map facility types for use in the world map"
-msgstr ""
-"Recatégoriser les types de structures sanitaires pour le résumé du projet"
+msgstr "Cartographier les types de structures à utiliser dans la carte du monde"
 
 msgctxt "app"
 msgid "Marker radius"
@@ -725,11 +706,11 @@ msgstr "Nom"
 
 msgctxt "app"
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 msgctxt "app"
 msgid "New email address"
-msgstr "Nouvel email"
+msgstr "Nouvel email adresse"
 
 msgctxt "app"
 msgid "New password"
@@ -753,16 +734,15 @@ msgstr "Pas d'informations supplémentaires disponibles à ce stade"
 
 msgctxt "app"
 msgid "Non-favorites only"
-msgstr ""
+msgstr "Non-favoris uniquement"
 
 msgctxt "app"
 msgid "None"
 msgstr "Aucun"
 
-#, fuzzy
 msgctxt "app"
 msgid "Not allowed"
-msgstr "Autorisé(e)"
+msgstr "non autorisé(e)"
 
 msgctxt "app"
 msgid "Not available"
@@ -778,7 +758,7 @@ msgstr "Non prévu"
 
 msgctxt "app"
 msgid "Off"
-msgstr ""
+msgstr "Désactivé"
 
 msgctxt "app"
 msgid "Old email address"
@@ -786,7 +766,7 @@ msgstr "Ancien email"
 
 msgctxt "app"
 msgid "On"
-msgstr ""
+msgstr "en marche (sur)"
 
 msgctxt "app"
 msgid ""
@@ -802,7 +782,7 @@ msgstr "Autre"
 
 msgctxt "app"
 msgid "Overrides"
-msgstr "Remplace"
+msgstr "Remplacements"
 
 msgctxt "app"
 msgid "Page"
@@ -814,12 +794,11 @@ msgstr "Page <strong>{page}</strong> créée"
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
-msgstr "Mise à jour de la page  <strong>{page}</strong>"
+msgstr "Mise à jour de la page <strong>{page}</strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid "Page elements"
-msgstr "Créer un élément"
+msgstr "éléments de la page"
 
 msgctxt "app"
 msgid "Parent page"
@@ -835,7 +814,7 @@ msgstr "Partiellement disponible"
 
 msgctxt "app"
 msgid "Partially functional"
-msgstr "Partiellement fonctionnelles"
+msgstr "Partiellement fonctionnelle"
 
 msgctxt "app"
 msgid "Password"
@@ -960,15 +939,13 @@ msgctxt "app"
 msgid "Register"
 msgstr "S'inscrire"
 
-#, fuzzy
 msgctxt "app"
 msgid "Register a new facility"
-msgstr "Crée le"
+msgstr "Crée une nouvelle structure"
 
-#, fuzzy
 msgctxt "app"
 msgid "Register new health facility"
-msgstr "Crée le"
+msgstr "Créer une nouvelle structure sanitaire"
 
 msgctxt "app"
 msgid "Repeat password"
@@ -1026,7 +1003,7 @@ msgstr "Disponibilité des services de santé"
 
 msgctxt "app"
 msgid "Show the debug toolbar"
-msgstr ""
+msgstr "Afficher la barre d'outils de débogage"
 
 msgctxt "app"
 msgid "Sort"
@@ -1038,7 +1015,7 @@ msgstr "Index de tri"
 
 msgctxt "app"
 msgid "Start sync"
-msgstr ""
+msgstr "Commencer la synchronisation"
 
 msgctxt "app"
 msgid "Status"
@@ -1101,7 +1078,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "This action cannot be undone."
-msgstr ""
+msgstr "Cette action ne peut pas être annulée."
 
 msgctxt "app"
 msgid ""
@@ -1111,15 +1088,15 @@ msgstr "Ce lien n'est plus valable. Votre mot de passe a été modifié depuis."
 
 msgctxt "app"
 msgid "This will permanently delete all workspaces in the project."
-msgstr ""
+msgstr "Cela supprimera définitivement tous les espaces de travail du projet."
 
 msgctxt "app"
 msgid "This will permanently delete the project and all its workspaces."
-msgstr ""
+msgstr "Cela supprimera définitivement tous les espaces de travail du projet."
 
 msgctxt "app"
 msgid "This will permanently delete the workspace."
-msgstr ""
+msgstr "Cela supprimera définitivement espaces de travail."
 
 #, fuzzy
 msgctxt "app"
@@ -1151,18 +1128,17 @@ msgctxt "app"
 msgid "Type"
 msgstr "Type"
 
-#, fuzzy
 msgctxt "app"
 msgid "Typemap"
-msgstr "Type"
+msgstr "Type de carte"
 
 msgctxt "app"
 msgid "Unchanged"
-msgstr ""
+msgstr "Inchangée"
 
 msgctxt "app"
 msgid "Universal ID"
-msgstr ""
+msgstr "ID universel"
 
 msgctxt "app"
 msgid "Unknown"
@@ -1174,7 +1150,7 @@ msgstr "Email inconnu"
 
 msgctxt "app"
 msgid "Update"
-msgstr "Enregistrer"
+msgstr "Mise à jour"
 
 msgctxt "app"
 msgid "Update Page"
@@ -1218,10 +1194,9 @@ msgctxt "app"
 msgid "Update workspace token"
 msgstr "Modifer le token de l'espace de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Updated"
-msgstr "Enregistrer"
+msgstr "Mise à jour"
 
 msgctxt "app"
 msgid "Updated at"
@@ -1254,7 +1229,7 @@ msgstr "Erreur de validation"
 
 msgctxt "app"
 msgid "View current users"
-msgstr ""
+msgstr "Afficher les utilisateurs actuels"
 
 msgctxt "app"
 msgid "View dashboard"
@@ -1296,6 +1271,8 @@ msgid ""
 "When enabled anyone with the manage data permission will be allowed to "
 "create new facilities"
 msgstr ""
+"Lorsqu'elle est activée, toute personne disposant de l'autorisation de "
+"gestion des données sera autorisée à créer de nouvelles installations"
 
 msgctxt "app"
 msgid ""
@@ -1394,7 +1371,7 @@ msgstr "en cours"
 
 msgctxt "app"
 msgid "never"
-msgstr ""
+msgstr "Jamais"
 
 #, fuzzy
 msgctxt "app"
