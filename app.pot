@@ -167,11 +167,11 @@ msgid "Are you sure you wish to remove the workspaces from the system?"
 msgstr ""
 
 msgctxt "app"
-msgid "Are you sure you wish to remove this project from the system?"
+msgid "Are you sure you wish to remove this element from the page?"
 msgstr ""
 
 msgctxt "app"
-msgid "Are you sure you wish to remove this tool from the system?"
+msgid "Are you sure you wish to remove this project from the system?"
 msgstr ""
 
 msgctxt "app"

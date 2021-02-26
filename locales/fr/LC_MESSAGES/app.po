@@ -180,13 +180,14 @@ msgctxt "app"
 msgid "Are you sure you wish to remove the workspaces from the system?"
 msgstr "Êtes-vous sûr de vouloir supprimer cet espace de travail ?"
 
+#, fuzzy
+msgctxt "app"
+msgid "Are you sure you wish to remove this element from the page?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet outil ?"
+
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
 msgstr "Êtes-vous sûr de vouloir supprimer ce projet ?"
-
-msgctxt "app"
-msgid "Are you sure you wish to remove this tool from the system?"
-msgstr "Êtes-vous sûr de vouloir supprimer cet outil ?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this workspace from the system?"
@@ -690,7 +691,8 @@ msgstr "Gestion des espaces de travail"
 
 msgctxt "app"
 msgid "Map facility types for use in the world map"
-msgstr "Cartographier les types de structures à utiliser dans la carte du monde"
+msgstr ""
+"Cartographier les types de structures à utiliser dans la carte du monde"
 
 msgctxt "app"
 msgid "Marker radius"

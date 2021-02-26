@@ -173,13 +173,14 @@ msgctxt "app"
 msgid "Are you sure you wish to remove the workspaces from the system?"
 msgstr "هل أنت متأكد من أنك تريد حذف مساحات العمل هذه من النظام؟"
 
+#, fuzzy
+msgctxt "app"
+msgid "Are you sure you wish to remove this element from the page?"
+msgstr "هل أنت متأكد أنك تريد حذف هذه الأداة من النظام؟"
+
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
 msgstr "هل أنت متأكد أنك تريد حذف هذا المشروع من النظام؟"
-
-msgctxt "app"
-msgid "Are you sure you wish to remove this tool from the system?"
-msgstr "هل أنت متأكد أنك تريد حذف هذه الأداة من النظام؟"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this workspace from the system?"
