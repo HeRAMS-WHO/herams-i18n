@@ -20,7 +20,7 @@ For general information on the HeRAMS approach and for technical guidance please
 Getting started
 ===============
 
-This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meanings>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform. 
+This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meaning>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform. 
 
 
 Creating a User Account
@@ -116,7 +116,7 @@ Change Password
    
 Change Language Preference
 ---------------------------
-The HeRAMS platform is available in multiple languages. Unless specified otherwise, the language will be automatically adjusted based on your browser language. 
+The HeRAMS platform is available in multiple languages. Unless specified otherwise, the language will be automatically selected based on your browser language. 
 For users having a browser language that is not supported by HeRAMS, the language will default to English. To manually adjust your language preference, follow the steps below. 
 
 
@@ -144,13 +144,16 @@ Icons and their Meaning
 -----------------------
 This section aims to provide an overview of key icons used across the platform and explains their meanings.
 
-
-* |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter.
+* |delete| **Delete**: Deletes a specific item or record.
+* |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`__. 
+* |home| **Home**: The home button takes you back to the world map (home screen).  
 * |settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter.
+* |star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter.
+* |user| **User profile**: Opens your user profile and allows you to modify your personal information (e.g. language preference, email address, and password). See `here <#pdate-your-user-profile>`__ for further details.
 * |user-guide| **User guide**: Opens the **HeRAMS User Guide**.
 * |view| **View**: Grants you view access to a specific item or record. 
-* |pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`__.
-* |delete| **Delete**: Deletes a specific item or record. 
+
+
 
 
 Breadcrumbs
@@ -276,7 +279,7 @@ Dashboards can be printed or exported as PDF documents.
    :height: 300px
    :align: center
 
-3. This will open a new tab containing a printable version of the dashboard. Click *CTRL*+ *P* to print the dashboard or save it as a pdf. 
+3. This will open a new tab containing a printable version of the dashboard. Click *CTRL* + *P* to print the dashboard or save it as a pdf. 
 
 Default dashboard pages
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -405,6 +408,7 @@ This chapter is intended for data managers responsible to update HeRAMS data. It
 
 Access your workspace
 ---------------------
+
 HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data.
 A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner, or any other logical entity. 
 Each workspace has a dedicated focal point, the *Workspace owner*, who is responsible for updating the health facilities within their workspace. 
@@ -413,7 +417,7 @@ For more information on how to grant users access to a workspace please view the
 
 
 1. Open the project summary pop-up by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map.
-2. Click the |workspace-button| button on the bottom right corner of the pop-up.
+2. Click the |workspace-button| button in the bottom right corner of the pop-up.
 
 .. image:: media/img/HeRAMS_popup_workspaces.png
 	:height: 250px
@@ -427,7 +431,7 @@ For each workspace, the table displays the date when a workspace was **last upda
 
 4. To view the list of health facilities belonging to a specific workspace, click the workspace name. 
 
-.. note:: Access to the list of health facilities requires specific permission. If you don't see an |eye| icon (3) next to the workspace name you do not have permission to view the list of health facilities. Contact your workspace administrator if you think your permissions need to elevate. 
+.. note:: Access to the list of health facilities requires specific permission. If you don't see an |icon_view| icon (3) next to the workspace name you do not have permission to view the list of health facilities. Contact your workspace administrator if you think your permissions need to elevate. 
 
 .. tip:: The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times.
 
@@ -441,12 +445,13 @@ For each workspace, the table displays the date when a workspace was **last upda
    :alt: filter workspaces
    :align: center
    
-The video below summarizes the steps to access your workspace.
+The video below shows how to access your project, filter workspaces and access your workspace. 
 
 .. image:: media/vid/HeRAMS_data_update_interface.gif
    :height: 300px
    :alt: data update interface
    :align: center
+
    
 Favorites
 ---------
@@ -468,7 +473,7 @@ To simplify navigation, it is recommended that you add frequently accessed works
 Edit a Response
 ----------------
 
-.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a response to a health facility record>`_.
+.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a New Response>`_.
 
 1. Access your workspace as outlined `above <#access-your-workspace>`__.
 
@@ -525,7 +530,7 @@ If HeRAMS is used as a monitoring tool, you can record changes to a health facil
 2. Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details).  
 3. To add a new response, click the |add-response| button above the most recent response (see below). 
 
- .. image:: media/img/HeRAMS_data_update_interface_add_response.png
+ .. image:: media/img/HeRAMS_data_update_interface_add_responses.png
    :height: 200px
    :alt: add a response
    :align: center
@@ -585,14 +590,14 @@ Follow the instructions below to export data from your workspace. If you require
 .. note:: In order to download data, you will require special permissions to the workspace. Contact your system administrator to elevate your access rights if needed.
 
 
-1. To export data, access your workspace as outlined `here <#access-your-workspace`__). 
+1. To export data, access your workspace as outlined `here <#access-your-workspace>`__). 
 2. You should now see a table displaying the list of workspaces available in your project. If you have been granted permission to download data, you should see a second tab labeled "Download" (1). Click the tab name to open the download settings.
 3. In the download tab you have the option to customize your data export. You can choose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options (2).
 
 .. note:: If you choose to export answers as code, questions with predefined answer options will show coded values instead of the text labels (e.g. A1 instead of "available").
 
 4. If a survey is available in multiple languages, use the drop-down list to specify the export language (3). 
-5. By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report** date can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4).
+5. By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report date** can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4).
 6. Once you have defined the export settings, select between the two export formats (**CSV** or **Excel**) by clicking the respective button (5). 
 
 
@@ -763,7 +768,7 @@ Under special circumstances a *project admin* might grant a *workspace owner* ad
 Add a User
 ~~~~~~~~~~~~
 
-1. To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See `Access-your-workspace>`__ for details. 
+1. To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See `Access your workspace`_ for details. 
 	
 2. Click the *Users* tab to open the user management section. 
 
@@ -819,7 +824,7 @@ Managing the list of available workspaces is a key component of the *Project adm
 Create a Workspace
 ~~~~~~~~~~~~~~~~~~
 
-1. To create a new workspace, navigate to the list of workspaces of your project. See `Access-your-workspace>`__ steps (1-2) for details. 
+1. To create a new workspace, navigate to the list of workspaces of your project. See `Access your workspace`_ steps (1-2) for details. 
 2. In the upper right corner, you will see a button labeled |create-workspace|.
 3. You will be directed to a page where you will be able to create a new workspace.
 4. Enter the workspace's name into the title field.
@@ -864,19 +869,14 @@ Create a Dashboard Page
 
 .. note:: To create the standard HeRAMS dashboard, export an existing dashboard from another project using the *Export all* button. This will export a JSON file. Return to your project and import the JSON file using the *Import dashboard* button. Once imported, you can adjust individual pages and elements according to your needs.
 
-3. You should now see a page similar to the one displayed below. Enter the page name in the top field. It is recommended to select an item from the drop-down list. This will assure the page title is automatically translated into other languages. 
-
-.. image:: media/img/HeRAMS_dashboard_pages.png
-	:height: 250px
-	:alt: create-dashboard-page
-	:align: center
+3. Enter the page name in the top field. It is recommended to select an item from the drop-down list. This will assure the page title is automatically translated into other languages. 
 
 4. If you are adding a sub-page to an existing page, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**.
 5. Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page.
 6. Click the |create-page| button to add the page to the dashboard.
 7. To return to the list of available dashboard pages click the |back-to-list| button. 
 
-.. note:: You only created an empty page. To add elements to your page, see section `Add a new element to a page`_.
+.. note:: You only created an empty page. To add elements to your page, see section `Create a Dashboard Element`_.
 
 Modify a Dashboard Page
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -944,7 +944,7 @@ This section covers the steps required to add a new element to an existing dashb
 
 The below video summarizes how to create a new dashboard page and add elements.
 
-.. image:: media/vid/HeRAMS_update_dashboard.gif
+.. image:: media/vid/HeRAMS_dashboard_update.gif
 	:height: 300px
 	:alt: create-dashboard-element
 	:align: center
@@ -968,10 +968,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 
 4. Save your changes by clicking the |update-element| button.
 
-.. image:: media/vid/HeRAMS_edit_dashboard_element.gif
-   :height: 300px
-   :alt: edit_dashboard
-   :align: center
+
 
 Delete Dashboard Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1050,6 +1047,10 @@ Exported data is unreadable / contains strange characters
 
 If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not displaying correctly, resulting in unreadable text. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct encoding type to read your data. To correct the issue, follow the instruction outlined `here <#data-encoding-in-excel>`__.
 
+.. |add| image:: media/img/bt_add.png
+     :height: 1.3em
+     :align: top
+     :alt: add
 
 .. |add-response| image:: media/img/bt_add_response.png
      :height: 1.3em
@@ -1086,7 +1087,7 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :alt: create-element
    :align: top
 
-.. |create-page| image:: media/img/bt_create_page_blue   .png
+.. |create-page| image:: media/img/bt_create_page.png
    :height: 1.3em
    :alt: create-element
    :align: top
@@ -1144,6 +1145,11 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :height: 1.3em
    :alt: forward
    :align: top
+
+.. |home| image:: media/img/incon_home.png
+   :height: 1.3em
+   :align: top
+   :alt: home
 
 .. |login| image:: media/img/bt_login.png
    :height: 1.3em
@@ -1273,6 +1279,11 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :alt: update-project
    :align: top 
 
+.. |user| image:: media/img/icon_user.png
+   :height: 1.3em
+   :alt: user
+   :align: top  
+   
 .. |user-guide| image:: media/img/icon_user_guide.png
    :height: 1.3em
    :alt: user-guide
