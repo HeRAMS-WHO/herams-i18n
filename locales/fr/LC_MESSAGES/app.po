@@ -698,6 +698,11 @@ msgctxt "app"
 msgid "Marker radius"
 msgstr "Rayon du marqueur"
 
+#, fuzzy
+msgctxt "app"
+msgid "Mass workspace sync"
+msgstr "Gestion des espaces de travail"
+
 msgctxt "app"
 msgid "N/A"
 msgstr "N/A"
@@ -991,6 +996,11 @@ msgctxt "app"
 msgid "Secondary"
 msgstr "Secondaires"
 
+#, fuzzy
+msgctxt "app"
+msgid "Select and sync any number of workspaces in the project"
+msgstr "supprimer toutes les espaces de travail"
+
 msgctxt "app"
 msgid "Send confirmation"
 msgstr "Envoyer une confirmation"
@@ -1039,6 +1049,10 @@ msgstr "Langage par défaut du formulaire ({lang})"
 msgctxt "app"
 msgid "Survey {id} does not exist"
 msgstr "Formulaire {id} inexistant"
+
+msgctxt "app"
+msgid "Sync"
+msgstr ""
 
 #, fuzzy
 msgctxt "app"

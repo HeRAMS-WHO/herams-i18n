@@ -683,6 +683,11 @@ msgctxt "app"
 msgid "Marker radius"
 msgstr "نصف قطر العلامة"
 
+#, fuzzy
+msgctxt "app"
+msgid "Mass workspace sync"
+msgstr "إدارة مساحات العمل"
+
 msgctxt "app"
 msgid "N/A"
 msgstr "لا يمكن تطبيقة"
@@ -972,6 +977,11 @@ msgctxt "app"
 msgid "Secondary"
 msgstr "الرعاية الصحية الثانوية"
 
+#, fuzzy
+msgctxt "app"
+msgid "Select and sync any number of workspaces in the project"
+msgstr "حذف جميع مساحات العمل في المشروع"
+
 msgctxt "app"
 msgid "Send confirmation"
 msgstr "أرسل التأكيد"
@@ -1019,6 +1029,10 @@ msgstr "لغة الإستبيان الإفتراضية ({lang})"
 msgctxt "app"
 msgid "Survey {id} does not exist"
 msgstr "الاستطلاع {id} غير موجود"
+
+msgctxt "app"
+msgid "Sync"
+msgstr ""
 
 msgctxt "app"
 msgid "Sync workspaces"

@@ -678,6 +678,10 @@ msgid "Marker radius"
 msgstr ""
 
 msgctxt "app"
+msgid "Mass workspace sync"
+msgstr ""
+
+msgctxt "app"
 msgid "N/A"
 msgstr ""
 
@@ -958,6 +962,10 @@ msgid "Secondary"
 msgstr ""
 
 msgctxt "app"
+msgid "Select and sync any number of workspaces in the project"
+msgstr ""
+
+msgctxt "app"
 msgid "Send confirmation"
 msgstr ""
 
@@ -1003,6 +1011,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Survey {id} does not exist"
+msgstr ""
+
+msgctxt "app"
+msgid "Sync"
 msgstr ""
 
 msgctxt "app"
