@@ -860,6 +860,10 @@ msgid "Project <strong>{project}</strong> created"
 msgstr ""
 
 msgctxt "app"
+msgid "Project coordinator"
+msgstr ""
+
+msgctxt "app"
 msgid "Project dashboard"
 msgstr ""
 
@@ -1260,6 +1264,10 @@ msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
 "</strong>"
+msgstr ""
+
+msgctxt "app"
+msgid "Workspace owner"
 msgstr ""
 
 msgctxt "app"

@@ -867,6 +867,11 @@ msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr "مشروع <strong> {project} </strong> تم إنشائه"
 
+#, fuzzy
+msgctxt "app"
+msgid "Project coordinator"
+msgstr "لوحة معلومات المشروع"
+
 msgctxt "app"
 msgid "Project dashboard"
 msgstr "لوحة معلومات المشروع"
@@ -1289,6 +1294,11 @@ msgid ""
 msgstr ""
 "تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
 "strong>"
+
+#, fuzzy
+msgctxt "app"
+msgid "Workspace owner"
+msgstr "مساحة العمل"
 
 msgctxt "app"
 msgid "Workspace settings"

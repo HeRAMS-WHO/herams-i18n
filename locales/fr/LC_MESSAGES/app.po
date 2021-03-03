@@ -884,6 +884,11 @@ msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr "Projet <strong>{project}</strong> créé"
 
+#, fuzzy
+msgctxt "app"
+msgid "Project coordinator"
+msgstr "Tableau de bord du projet"
+
 msgctxt "app"
 msgid "Project dashboard"
 msgstr "Tableau de bord du projet"
@@ -1320,6 +1325,11 @@ msgid ""
 msgstr ""
 "Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
 "</strong>"
+
+#, fuzzy
+msgctxt "app"
+msgid "Workspace owner"
+msgstr "Espaces de travail"
 
 #, fuzzy
 msgctxt "app"
