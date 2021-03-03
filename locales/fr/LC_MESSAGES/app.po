@@ -653,6 +653,10 @@ msgid "Latitude"
 msgstr "Latitude"
 
 msgctxt "app"
+msgid "Lead"
+msgstr ""
+
+msgctxt "app"
 msgid "Loading Error"
 msgstr "Erreur de chargement"
 

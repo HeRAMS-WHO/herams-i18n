@@ -639,6 +639,10 @@ msgid "Latitude"
 msgstr "دوائر العرض"
 
 msgctxt "app"
+msgid "Lead"
+msgstr ""
+
+msgctxt "app"
 msgid "Loading Error"
 msgstr "خطأ في التحميل"
 
