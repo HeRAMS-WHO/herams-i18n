@@ -72,7 +72,11 @@ msgid "A table"
 msgstr ""
 
 msgctxt "app"
-msgid "A verification email has beent sent to your address"
+msgid "A verification email has been sent to your address"
+msgstr ""
+
+msgctxt "app"
+msgid "Accept invitation"
 msgstr ""
 
 msgctxt "app"
@@ -230,6 +234,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Configure dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Confirm password"
 msgstr ""
 
 msgctxt "app"
@@ -429,6 +437,10 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
+msgid "Enter the email address you want to use for your account."
+msgstr ""
+
+msgctxt "app"
 msgid "Error"
 msgstr ""
 
@@ -513,7 +525,9 @@ msgid "Global permissions"
 msgstr ""
 
 msgctxt "app"
-msgid "Global permissions granted to {users}"
+msgid ""
+"Global permissions granted to: <strong>{users}</strong> and invited users: "
+"<strong>{invitedUsers}</strong>"
 msgstr ""
 
 msgctxt "app"
@@ -590,6 +604,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Info"
+msgstr ""
+
+msgctxt "app"
+msgid "Invalid user."
 msgstr ""
 
 msgctxt "app"
@@ -855,6 +873,12 @@ msgid "Project"
 msgstr ""
 
 msgctxt "app"
+msgid ""
+"Project <strong>{modelName}</strong> has been shared with: <strong>{users}</"
+"strong> and invited users: <strong>{invitedUsers}</strong>"
+msgstr ""
+
+msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr ""
 
@@ -876,10 +900,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Project updated"
-msgstr ""
-
-msgctxt "app"
-msgid "Project {modelName} has been shared with: {users}"
 msgstr ""
 
 msgctxt "app"
@@ -1045,6 +1065,10 @@ msgid "The aggregate availability of services per HF"
 msgstr ""
 
 msgctxt "app"
+msgid "The invitation was accepted"
+msgstr ""
+
+msgctxt "app"
 msgid "The page you are looking for doesn't exist"
 msgstr ""
 
@@ -1056,6 +1080,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "This action cannot be undone."
+msgstr ""
+
+msgctxt "app"
+msgid "This email is already in use, log in and click the link again."
 msgstr ""
 
 msgctxt "app"
@@ -1262,7 +1290,7 @@ msgstr ""
 msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
-"</strong>"
+"</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
 
 msgctxt "app"
@@ -1302,6 +1330,12 @@ msgid "Yes"
 msgstr ""
 
 msgctxt "app"
+msgid ""
+"You are currently logged in with {user}. You can either accept the "
+"invitation with the current account or create a new account below."
+msgstr ""
+
+msgctxt "app"
 msgid "You are not allowed to share this project"
 msgstr ""
 
@@ -1313,6 +1347,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
+msgstr ""
+
+msgctxt "app"
+msgid "Your account has been created and invitation was accepted."
 msgstr ""
 
 msgctxt "app"
@@ -1341,6 +1379,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
+msgstr ""
+
+msgctxt "app"
+msgid "{value} is an invalid email address."
 msgstr ""
 
 msgctxt "app.model.workspace"

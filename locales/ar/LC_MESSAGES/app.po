@@ -72,9 +72,15 @@ msgctxt "app"
 msgid "A table"
 msgstr "جدول"
 
+#, fuzzy
 msgctxt "app"
-msgid "A verification email has beent sent to your address"
+msgid "A verification email has been sent to your address"
 msgstr "تم إرسال بريد إلكتروني للتحقق من عنوانك"
+
+#, fuzzy
+msgctxt "app"
+msgid "Accept invitation"
+msgstr "مدير النظام"
 
 msgctxt "app"
 msgid "Actions"
@@ -232,6 +238,11 @@ msgstr "تكوين"
 msgctxt "app"
 msgid "Configure dashboard"
 msgstr "تكوين لوحة القيادة"
+
+#, fuzzy
+msgctxt "app"
+msgid "Confirm password"
+msgstr "كلمة المرور الحالي"
 
 msgctxt "app"
 msgid "Contributors"
@@ -433,6 +444,10 @@ msgstr ""
 "القديمة للمرفق الصحي، اترك الحقل فارغًا."
 
 msgctxt "app"
+msgid "Enter the email address you want to use for your account."
+msgstr ""
+
+msgctxt "app"
 msgid "Error"
 msgstr "خطأ"
 
@@ -517,9 +532,14 @@ msgctxt "app"
 msgid "Global permissions"
 msgstr "صلاحيات عالمية"
 
+#, fuzzy
 msgctxt "app"
-msgid "Global permissions granted to {users}"
-msgstr "الأذونات العامة الممنوحة ل {users}"
+msgid ""
+"Global permissions granted to: <strong>{users}</strong> and invited users: "
+"<strong>{invitedUsers}</strong>"
+msgstr ""
+"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
+"strong>"
 
 #, fuzzy
 msgctxt "app"
@@ -597,6 +617,10 @@ msgstr "إضافة نص السؤال"
 msgctxt "app"
 msgid "Info"
 msgstr "معلومات"
+
+msgctxt "app"
+msgid "Invalid user."
+msgstr ""
 
 msgctxt "app"
 msgid "Is the service fully available"
@@ -863,6 +887,15 @@ msgctxt "app"
 msgid "Project"
 msgstr "مشروع"
 
+#, fuzzy
+msgctxt "app"
+msgid ""
+"Project <strong>{modelName}</strong> has been shared with: <strong>{users}</"
+"strong> and invited users: <strong>{invitedUsers}</strong>"
+msgstr ""
+"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
+"strong>"
+
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr "مشروع <strong> {project} </strong> تم إنشائه"
@@ -887,10 +920,6 @@ msgstr "حالة المشروع معروضة على خريطة العالم"
 msgctxt "app"
 msgid "Project updated"
 msgstr "تم تحديث المشروع"
-
-msgctxt "app"
-msgid "Project {modelName} has been shared with: {users}"
-msgstr "تمت مشاركة المشروع {modelName} مع: {users}"
 
 msgctxt "app"
 msgid "Projects"
@@ -1067,6 +1096,10 @@ msgid "The aggregate availability of services per HF"
 msgstr "التوافر الكلي للخدمات لكل مرفق صحي"
 
 msgctxt "app"
+msgid "The invitation was accepted"
+msgstr ""
+
+msgctxt "app"
 msgid "The page you are looking for doesn't exist"
 msgstr "الصفحة التي تبحث عنها غير موجودة"
 
@@ -1081,6 +1114,10 @@ msgstr ""
 msgctxt "app"
 msgid "This action cannot be undone."
 msgstr "هذا الإجراء لا يمكن إلغاؤه."
+
+msgctxt "app"
+msgid "This email is already in use, log in and click the link again."
+msgstr ""
 
 msgctxt "app"
 msgid ""
@@ -1287,10 +1324,11 @@ msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
 msgstr "تم إنشاء مساحة عمل <strong> {modelName} </strong>"
 
+#, fuzzy
 msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
-"</strong>"
+"</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
 "تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
 "strong>"
@@ -1333,6 +1371,12 @@ msgid "Yes"
 msgstr "نعم"
 
 msgctxt "app"
+msgid ""
+"You are currently logged in with {user}. You can either accept the "
+"invitation with the current account or create a new account below."
+msgstr ""
+
+msgctxt "app"
 msgid "You are not allowed to share this project"
 msgstr "لا يسمح لك بمشاركة هذا المشروع"
 
@@ -1346,6 +1390,11 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
+msgstr "تم إنشاء حسابك"
+
+#, fuzzy
+msgctxt "app"
+msgid "Your account has been created and invitation was accepted."
 msgstr "تم إنشاء حسابك"
 
 msgctxt "app"
@@ -1375,6 +1424,11 @@ msgstr "صفحات"
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr "{0, date, MMMM dd, YYYY HH:mm}"
+
+#, fuzzy
+msgctxt "app"
+msgid "{value} is an invalid email address."
+msgstr "فشل تحديث عنوان البريد الإلكتروني"
 
 msgctxt "app.model.workspace"
 msgid "Closed"
@@ -1487,6 +1541,14 @@ msgstr "Target ID"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Target type"
+
+#~ msgctxt "app"
+#~ msgid "Global permissions granted to {users}"
+#~ msgstr "الأذونات العامة الممنوحة ل {users}"
+
+#~ msgctxt "app"
+#~ msgid "Project {modelName} has been shared with: {users}"
+#~ msgstr "تمت مشاركة المشروع {modelName} مع: {users}"
 
 #~ msgctxt "app"
 #~ msgid "Download data"

@@ -73,9 +73,15 @@ msgctxt "app"
 msgid "A table"
 msgstr "Tableau"
 
+#, fuzzy
 msgctxt "app"
-msgid "A verification email has beent sent to your address"
+msgid "A verification email has been sent to your address"
 msgstr "Un e-mail de vérification a été envoyé à votre adresse"
+
+#, fuzzy
+msgctxt "app"
+msgid "Accept invitation"
+msgstr "Console administrative"
 
 msgctxt "app"
 msgid "Actions"
@@ -240,6 +246,11 @@ msgstr "Config"
 msgctxt "app"
 msgid "Configure dashboard"
 msgstr "Configurer le tableau de bord"
+
+#, fuzzy
+msgctxt "app"
+msgid "Confirm password"
+msgstr "Mot de passe actuel"
 
 msgctxt "app"
 msgid "Contributors"
@@ -447,6 +458,10 @@ msgstr ""
 "laisser le champ libre."
 
 msgctxt "app"
+msgid "Enter the email address you want to use for your account."
+msgstr ""
+
+msgctxt "app"
 msgid "Error"
 msgstr "Erreur"
 
@@ -531,9 +546,14 @@ msgctxt "app"
 msgid "Global permissions"
 msgstr "Ajouter des permissions"
 
+#, fuzzy
 msgctxt "app"
-msgid "Global permissions granted to {users}"
-msgstr "Permissions globales accordées aux {users}"
+msgid ""
+"Global permissions granted to: <strong>{users}</strong> and invited users: "
+"<strong>{invitedUsers}</strong>"
+msgstr ""
+"Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
+"</strong>"
 
 msgctxt "app"
 msgid "Go to workspaces"
@@ -611,6 +631,10 @@ msgstr "Inclure en-tête de text"
 msgctxt "app"
 msgid "Info"
 msgstr "Info"
+
+msgctxt "app"
+msgid "Invalid user."
+msgstr ""
 
 msgctxt "app"
 msgid "Is the service fully available"
@@ -880,6 +904,15 @@ msgctxt "app"
 msgid "Project"
 msgstr "Projet"
 
+#, fuzzy
+msgctxt "app"
+msgid ""
+"Project <strong>{modelName}</strong> has been shared with: <strong>{users}</"
+"strong> and invited users: <strong>{invitedUsers}</strong>"
+msgstr ""
+"Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
+"</strong>"
+
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr "Projet <strong>{project}</strong> créé"
@@ -905,10 +938,6 @@ msgstr "Statut de projet affiché dans le résumé"
 msgctxt "app"
 msgid "Project updated"
 msgstr "Projet mis à jour"
-
-msgctxt "app"
-msgid "Project {modelName} has been shared with: {users}"
-msgstr "Le projet {modelName} a été partagé avec: {users}"
 
 msgctxt "app"
 msgid "Projects"
@@ -1090,6 +1119,10 @@ msgid "The aggregate availability of services per HF"
 msgstr "Agrégation de la disponibilité des services par structure sanitaire"
 
 msgctxt "app"
+msgid "The invitation was accepted"
+msgstr ""
+
+msgctxt "app"
 msgid "The page you are looking for doesn't exist"
 msgstr "La page que vous demandez n'existe pas"
 
@@ -1104,6 +1137,10 @@ msgstr ""
 msgctxt "app"
 msgid "This action cannot be undone."
 msgstr "Cette action ne peut pas être annulée."
+
+msgctxt "app"
+msgid "This email is already in use, log in and click the link again."
+msgstr ""
 
 msgctxt "app"
 msgid ""
@@ -1318,10 +1355,11 @@ msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
 msgstr "Espace de travail <strong>{modelName}</strong> créé"
 
+#, fuzzy
 msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
-"</strong>"
+"</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
 "Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
 "</strong>"
@@ -1367,6 +1405,12 @@ msgid "Yes"
 msgstr "Oui"
 
 msgctxt "app"
+msgid ""
+"You are currently logged in with {user}. You can either accept the "
+"invitation with the current account or create a new account below."
+msgstr ""
+
+msgctxt "app"
 msgid "You are not allowed to share this project"
 msgstr "Vous n'avez pas la permission de partager ce projet"
 
@@ -1380,6 +1424,11 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
+msgstr "Compte enregistré"
+
+#, fuzzy
+msgctxt "app"
+msgid "Your account has been created and invitation was accepted."
 msgstr "Compte enregistré"
 
 msgctxt "app"
@@ -1411,6 +1460,11 @@ msgstr "Pages"
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr "{0, date, MMMM dd, YYYY HH:mm}"
+
+#, fuzzy
+msgctxt "app"
+msgid "{value} is an invalid email address."
+msgstr "Erreur de mise à jour de l'adresse email"
 
 #, fuzzy
 msgctxt "app.model.workspace"
@@ -1530,6 +1584,14 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Global permissions granted to {users}"
+#~ msgstr "Permissions globales accordées aux {users}"
+
+#~ msgctxt "app"
+#~ msgid "Project {modelName} has been shared with: {users}"
+#~ msgstr "Le projet {modelName} a été partagé avec: {users}"
 
 #~ msgctxt "app"
 #~ msgid "Download data"
