@@ -1154,6 +1154,10 @@ msgid "Too many attempts, try again in {seconds} seconds"
 msgstr "لقد قمت بمحاولات كثيرة ، حاول مرة أخرى بعد {seconds} ثانية"
 
 msgctxt "app"
+msgid "Translated attributes"
+msgstr ""
+
+msgctxt "app"
 msgid "Transpose"
 msgstr "نقل"
 

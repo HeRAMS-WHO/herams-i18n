@@ -1121,6 +1121,10 @@ msgid "Too many attempts, try again in {seconds} seconds"
 msgstr ""
 
 msgctxt "app"
+msgid "Translated attributes"
+msgstr ""
+
+msgctxt "app"
 msgid "Transpose"
 msgstr ""
 
