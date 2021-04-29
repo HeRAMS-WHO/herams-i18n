@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-04-26 14:52+0000\n"
+"PO-Revision-Date: 2021-04-29 14:47+0000\n"
 "Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
@@ -372,7 +372,7 @@ msgstr "يحدد ترتيب العناصر على الصفحة، والعناص�
 
 msgctxt "app"
 msgid "Disabled"
-msgstr ""
+msgstr "متوقف"
 
 msgctxt "app"
 msgid "Discard & go back"
@@ -436,7 +436,7 @@ msgstr "مشروع فارغ"
 
 msgctxt "app"
 msgid "Enabled"
-msgstr ""
+msgstr "متاح"
 
 msgctxt "app"
 msgid ""
@@ -450,7 +450,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Enter the email address you want to use for your account."
-msgstr ""
+msgstr "أدخل عنوان البريد الإلكتروني الذي تريد استخدامه لحسابك."
 
 msgctxt "app"
 msgid "Error"
@@ -468,10 +468,9 @@ msgctxt "app"
 msgid "Export all"
 msgstr "تصدير كل البيانات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Export all pages to pdf"
-msgstr "طباعة جميع الصفحات"
+msgstr "تصدير كل الصفحات إلى مِلَفّ pdf"
 
 msgctxt "app"
 msgid "Export data"
@@ -487,7 +486,7 @@ msgstr "تصدير البيانات من مساحة العمل {مساحة ال�
 
 msgctxt "app"
 msgid "Export this page to pdf"
-msgstr ""
+msgstr "تصدير هذه الصفحة إلى مِلَفّ pdf"
 
 msgctxt "app"
 msgid "Failed"
@@ -537,19 +536,17 @@ msgctxt "app"
 msgid "Global permissions"
 msgstr "صلاحيات عالمية"
 
-#, fuzzy
 msgctxt "app"
 msgid ""
 "Global permissions granted to: <strong>{users}</strong> and invited users: "
 "<strong>{invitedUsers}</strong>"
 msgstr ""
-"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
-"strong>"
+"صلاحيات واسعة ممنوحة ل <strong> {المستخدمين} </strong> والمستخدمين المدعوين: "
+"<strong> {المدعويين} </strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid "Go to workspaces"
-msgstr "استيراد مساحات العمل"
+msgstr "اذهب إلى مساحات العمل"
 
 msgctxt "app"
 msgid "Grant admin permissions"
@@ -629,7 +626,7 @@ msgstr "معلومات"
 
 msgctxt "app"
 msgid "Invalid user."
-msgstr ""
+msgstr "مستخدم غير صالح."
 
 msgctxt "app"
 msgid "Invalid value {value} for enum"
@@ -728,10 +725,9 @@ msgctxt "app"
 msgid "Marker radius"
 msgstr "نصف قطر العلامة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Mass workspace sync"
-msgstr "إدارة مساحات العمل"
+msgstr "مزامنة مساحة العمل الجماعية"
 
 msgctxt "app"
 msgid "N/A"
