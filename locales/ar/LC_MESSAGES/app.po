@@ -210,6 +210,10 @@ msgid "Bar"
 msgstr "شريط"
 
 msgctxt "app"
+msgid "Baseline"
+msgstr ""
+
+msgctxt "app"
 msgid "Become this user"
 msgstr "كن هذا المستخدم"
 
@@ -423,6 +427,10 @@ msgid "Email already taken"
 msgstr "هذا البريد الإلكتروني تم أخذه بالفعل"
 
 msgctxt "app"
+msgid "Emergency specific"
+msgstr ""
+
+msgctxt "app"
 msgid "Empty project"
 msgstr "مشروع فارغ"
 
@@ -576,6 +584,10 @@ msgid "Hidden"
 msgstr "مخفي"
 
 msgctxt "app"
+msgid "Hidden, this project is only visible to people with permissions"
+msgstr ""
+
+msgctxt "app"
 msgid "Home"
 msgstr "الصفحة الرئيسية"
 
@@ -620,6 +632,10 @@ msgid "Invalid user."
 msgstr ""
 
 msgctxt "app"
+msgid "Invalid value {value} for enum"
+msgstr ""
+
+msgctxt "app"
 msgid "Is the service fully available"
 msgstr "هل الخدمة متوفرة بالكامل"
 
@@ -645,6 +661,11 @@ msgstr "نقص في تدريب الكوادر الصحية"
 
 msgctxt "app"
 msgid "Language"
+msgstr "اللغة"
+
+#, fuzzy
+msgctxt "app"
+msgid "Languages"
 msgstr "اللغة"
 
 msgctxt "app"
@@ -785,6 +806,10 @@ msgid "On"
 msgstr "تشغيل"
 
 msgctxt "app"
+msgid "Ongoing"
+msgstr ""
+
+msgctxt "app"
 msgid ""
 "Only countries with an ISO3166 Alpha-3:wq\n"
 "             code are listed"
@@ -877,6 +902,12 @@ msgid "Print all pages"
 msgstr "طباعة جميع الصفحات"
 
 msgctxt "app"
+msgid ""
+"Private, this project is visible on the map and in the list, but people need "
+"permission to view it"
+msgstr ""
+
+msgctxt "app"
 msgid "Profile"
 msgstr "الملف الشخصي"
 
@@ -921,6 +952,10 @@ msgstr "تم تحديث المشروع"
 msgctxt "app"
 msgid "Projects"
 msgstr "المشاريع"
+
+msgctxt "app"
+msgid "Public, anyone can view this project"
+msgstr ""
 
 msgctxt "app"
 msgid "Question code containing the name (case sensitive)"
@@ -1071,6 +1106,11 @@ msgstr ""
 msgctxt "app"
 msgid "Sync workspaces"
 msgstr "مزامنة مساحات العمل"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target"
+msgstr "Target ID"
 
 msgctxt "app"
 msgid "Tertiary"
@@ -1542,6 +1582,10 @@ msgstr "Target ID"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Target type"
+
+msgctxt "app.validator.country"
+msgid "Country code {value} is not valid"
+msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Global permissions granted to {users}"

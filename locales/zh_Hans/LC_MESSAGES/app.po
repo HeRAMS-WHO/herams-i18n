@@ -209,6 +209,10 @@ msgid "Bar"
 msgstr ""
 
 msgctxt "app"
+msgid "Baseline"
+msgstr ""
+
+msgctxt "app"
 msgid "Become this user"
 msgstr ""
 
@@ -423,6 +427,10 @@ msgid "Email already taken"
 msgstr ""
 
 msgctxt "app"
+msgid "Emergency specific"
+msgstr ""
+
+msgctxt "app"
 msgid "Empty project"
 msgstr ""
 
@@ -568,6 +576,10 @@ msgid "Hidden"
 msgstr ""
 
 msgctxt "app"
+msgid "Hidden, this project is only visible to people with permissions"
+msgstr ""
+
+msgctxt "app"
 msgid "Home"
 msgstr ""
 
@@ -612,6 +624,10 @@ msgid "Invalid user."
 msgstr ""
 
 msgctxt "app"
+msgid "Invalid value {value} for enum"
+msgstr ""
+
+msgctxt "app"
 msgid "Is the service fully available"
 msgstr ""
 
@@ -637,6 +653,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Language"
+msgstr ""
+
+msgctxt "app"
+msgid "Languages"
 msgstr ""
 
 msgctxt "app"
@@ -776,6 +796,10 @@ msgid "On"
 msgstr ""
 
 msgctxt "app"
+msgid "Ongoing"
+msgstr ""
+
+msgctxt "app"
 msgid ""
 "Only countries with an ISO3166 Alpha-3:wq\n"
 "             code are listed"
@@ -866,6 +890,12 @@ msgid "Print all pages"
 msgstr ""
 
 msgctxt "app"
+msgid ""
+"Private, this project is visible on the map and in the list, but people need "
+"permission to view it"
+msgstr ""
+
+msgctxt "app"
 msgid "Profile"
 msgstr ""
 
@@ -905,6 +935,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Projects"
+msgstr ""
+
+msgctxt "app"
+msgid "Public, anyone can view this project"
 msgstr ""
 
 msgctxt "app"
@@ -1047,6 +1081,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Sync workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Target"
 msgstr ""
 
 msgctxt "app"
@@ -1501,6 +1539,10 @@ msgstr ""
 
 msgctxt "app.permission"
 msgid "Target type"
+msgstr ""
+
+msgctxt "app.validator.country"
+msgid "Country code {value} is not valid"
 msgstr ""
 
 #, fuzzy
