@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2021-05-07 21:52+0000\n"
+"PO-Revision-Date: 2021-05-07 23:52+0000\n"
 "Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1291,17 +1291,18 @@ msgstr ""
 "جديدة>`_."
 
 #: docs/index.rst:478
-#, fuzzy
 msgid "Access your workspace as outlined `above <#access-your-workspace>`__."
 msgstr ""
-"لتغيير صلاحية المستخدم، أزل المستخدم من مساحة العمل كما هو موضح `أعلاه "
-"<#remove-a-user-from-a-workspace>`__."
+"قم بالوصول إلى مساحة العمل الخاصة بك كما هو موضح أعلاه <الوصول إلى مساحة "
+"العمل الخاصة بك> `__."
 
 #: docs/index.rst:480
 msgid ""
 "For multilingual HeRAMS projects, a drop-down list on top of the table "
 "permits altering the display language of the table and the questionnaire (1)."
 msgstr ""
+"بالنسبة لمشروعات هيرامس متعددة اللغات، تسمح القائمة المنسدلة الموجودة أعلى "
+"الجدول بتغيير لغة عرض الجدول والاستبانة (1)."
 
 #: docs/index.rst:482
 msgid ""
@@ -1314,62 +1315,64 @@ msgid ""
 "the top row above the header to limit the number of health facilities "
 "displayed (6)."
 msgstr ""
+"يظهر العدد الإجمالي للمرافق الصحية داخل مساحة العمل في أسفل الصفحة (2). "
+"للتقدم إلى الصفحة التالية، استخدم الجزء السفلي في الزاوية اليمنى السفلية (3)"
+". يمكن تعديل عدد المرافق الصحية المعروضة على الصفحة باستخدام القائمة "
+"المنسدلة في الزاوية اليمنى العليا (4). على غرار جدول مساحات العمل، سيؤدي "
+"النقر فوق رؤوس الأعمدة إلى فرز المرافق الصحية وفقًا لذلك (5). أخيرًا، يمكن "
+"تطبيق المرشحات في الصف العلوي أعلى الرأس للحد من عدد المرافق الصحية المعروضة "
+"(6)."
 
 #: docs/index.rst:484
-#, fuzzy
 msgid ""
 "For ease of navigation, responses are grouped by health facility. To view "
 "individual responses of a health facility, click anywhere in the "
 "corresponding row. This will expand the list of existing responses "
 "associated with the selected health facility."
 msgstr ""
-"لتسهيل التنقل، يتم تجميع السجلات حسب المنشأة الصحية. لتعديل إجابة محددة، "
-"عليك أولاً توسيع سجل المرفق الصحي بالضغط على أي مكان في الصف المقابل."
+"لتسهيل التنقل، تم تجميع الاستجابات حسب المرفق الصحي. لعرض الاستجابات الفردية "
+"لمنشأة صحية، انقر في أي مكان في الصف المقابل. سيؤدي ذلك إلى توسيع قائمة "
+"الاستجابات الحالية المرتبطة بالمنشأة الصحية المختارة."
 
 #: docs/index.rst:492
-#, fuzzy
 msgid ""
 "You should now see a list of all responses belonging to the selected health "
 "facility. The total number of responses is indicated in the left-most column "
 "(1). The|new| label indicates a newly added response. The label "
 "automatically disappears after 48h (2)."
 msgstr ""
-"ستشاهد الآن قائمة بجميع الإجابات الخاصة بالمنشأة الصحية التي قمت إختيارها. "
-"في العمود الموجود في أقصى اليسار من القائمة، توجد ثلاثة أزرار تسمح بتنفيذ "
-"الإجراءات التالية."
+"ستشاهد الآن قائمة بجميع الاستجابات الخاصة بالمنشأة الصحية المختارة. يُشار "
+"إلى العدد الإجمالي للاستجابات في العمود الموجود في أقصى اليسار (1). | الجديد "
+"| يشير التصنيف إلى استجابة مضافة حديثًا. يختفي الملصق تلقائيًا بعد 48 ساعة "
+"(2)."
 
 #: docs/index.rst:494
-#, fuzzy
 msgid ""
 "In the left-most column of the list of responses, you should see three "
 "buttons allowing you to perform the following actions."
 msgstr ""
-"ستشاهد الآن قائمة بجميع الإجابات الخاصة بالمنشأة الصحية التي قمت إختيارها. "
-"في العمود الموجود في أقصى اليسار من القائمة، توجد ثلاثة أزرار تسمح بتنفيذ "
-"الإجراءات التالية."
+"في العمود الموجود في أقصى اليسار من قائمة الاستجابات، من المفترض أن ترى ثلاث "
+"أزرار تسمح لك بتنفيذ الإجراءات التالية."
 
 #: docs/index.rst:496
-#, fuzzy
 msgid "|view| **View**: Click this button to view the full response"
-msgstr "|view| **عرض**: اضغط على هذا الزر لعرض الإجابة الكاملة"
+msgstr "| عرض | ** عرض **: انقر فوق هذا الزر لعرض الاستجابة الكاملة"
 
 #: docs/index.rst:497
-#, fuzzy
 msgid ""
 "|pencil| **Edit**: This allows you to modify an existing response. This will "
 "permanently overwrite the existing information and cannot be undone."
 msgstr ""
-"|pencil| **تعديل**: يسمح لك بتعديل إجابة موجودة. سيؤدي هذا إلى الكتابة فوق "
-"المعلومات الموجودة بشكل دائم ولا يمكن التراجع عنه."
+"| قلم رَصاص | ** تحرير **: يسمح لك هذا بتعديل استجابة موجودة. سيؤدي هذا إلى "
+"الكتابة فوق المعلومات الموجودة بشكل دائم ولا يمكن التراجع عنه."
 
 #: docs/index.rst:498
-#, fuzzy
 msgid ""
 "|delete| **Delete**: Permanently deletes a response from a health facility. "
 "See `remove a response from health facility`_ for more information."
 msgstr ""
-"|delete| **حذف**: حذف إجابة نهائياً من سجلات المنشأة الصحية. راجع `حذف إجابة "
-"من سجلات المنشأة الصحية`_ لمزيد من المعلومات."
+"| حذف | ** حذف **: يحذف بشكل دائم استجابة من منشأة صحية. راجع \"إزالة "
+"استجابة من منشأة صحية\" _ لمزيد من المعلومات."
 
 #: docs/index.rst:505
 msgid ""
@@ -1420,26 +1423,26 @@ msgstr ""
 "(*التحقق من صحة البيانات*) والضغط على زر |submit| ."
 
 #: docs/index.rst:513
-#, fuzzy
 msgid ""
 "The video below summarizes the steps to access your workspace and edit a "
 "health facility response."
-msgstr "يلخص الفيديو أدناه خطوات الوصول إلى واجهة إدخال البيانات."
+msgstr ""
+"يلخص الفيديو أدناه خطوات الوصول إلى مساحة العمل الخاصة بك وتعديل استجابة "
+"المنشأة الصحية."
 
 #: docs/index.rst:523
 msgid "Add a New Response"
-msgstr ""
+msgstr "أضف استجابة جديدة"
 
 #: docs/index.rst:525
-#, fuzzy
 msgid ""
 "If HeRAMS is used as a monitoring tool, you can record changes to a health "
 "facility by adding a new response. This will add a new response to your "
 "health facility while keeping the history of your updates."
 msgstr ""
-"إذا تم استخدام هيرامس كأداة مراقبة، فيمكنك تسجيل التغييرات بسجل المرفق الصحي "
-"عن طريق إضافة إجابة جديدة. بهذه الخطوة سيتم إضافة إجابة الى سجل المرفق الصحي "
-"مع الاحتفاظ بسجل المعلومات القديمة."
+"إذا تم استخدام هيرامس كأداة مراقبة، يمكنك تسجيل التغييرات على منشأة صحية عن "
+"طريق إضافة استجابة جديدة. سيضيف هذه استجابة جديدة إلى منشأتك الصحية مع "
+"الاحتفاظ بتاريخ تحديثاتك."
 
 #: docs/index.rst:527
 msgid ""
@@ -1452,25 +1455,27 @@ msgstr ""
 "لمزيد من المعلومات."
 
 #: docs/index.rst:529
-#, fuzzy
 msgid ""
 "To add a new response, access your workspace (see `Access your workspace`_ "
 "for details)."
 msgstr ""
-"لإنشاء مساحة عمل جديدة، قم بالدخول إلى صفحة مساحة العمل بمشروعك. أنظر `ادخل "
-"مساحة العمل الخاصة بك`_ لمزيد من الإرشادات."
+"لإضافة استجابة جديدة ، قم بالوصول إلى مساحة العمل الخاصة بك (انظر `الوصول "
+"إلى مساحة العمل الخاصة بك`_ للحصول على التفاصيل)."
 
 #: docs/index.rst:530 docs/index.rst:551
 msgid ""
 "Expand the list of available responses by clicking anywhere in the "
 "corresponding row (see `Edit a Response`_ for details)."
 msgstr ""
+"قم بتوسيع قائمة الاستجابات المتاحة عن طريق النقر فوق أي مكان في الصف المقابل "
+"(راجع \"تحرير استجابة\" _ للحصول على التفاصيل)."
 
 #: docs/index.rst:531
 msgid ""
 "To add a new response, click the |add-response| button above the most recent "
 "response (see below)."
 msgstr ""
+"لإضافة إجابة جديدة، انقر فوق | اضف استجابة | زر فوق أحدث رد (انظر أدناه)."
 
 #: docs/index.rst:538
 msgid ""
@@ -1502,28 +1507,29 @@ msgid ""
 "editing. This is to prevent users from accidentally overwriting previous "
 "responses and thereby losing the history of change."
 msgstr ""
+"عند إضافة استجابة جديدة، سيتم قفل الاستجابات السابقة للتحرير. هذا لمنع "
+"المستخدمين من الكتابة عن طريق الخطأ بالاستجابات السابقة وعلى هذا فقدان "
+"محفوظات التغيير."
 
 #: docs/index.rst:548
 msgid "Register a New Health Facility"
 msgstr "تسجيل مرفق صحي جديد"
 
 #: docs/index.rst:550
-#, fuzzy
 msgid ""
 "To register a new health facility, access your workspace (see `Access your "
 "workspace`_ for details)."
 msgstr ""
-"لإنشاء مساحة عمل جديدة، قم بالدخول إلى صفحة مساحة العمل بمشروعك. أنظر `ادخل "
-"مساحة العمل الخاصة بك`_ لمزيد من الإرشادات."
+"لتسجيل منشأة صحية جديدة ، قم بالوصول إلى مساحة العمل الخاصة بك (انظر \"الوصول"
+" إلى مساحة العمل الخاصة بك\" _ للحصول على التفاصيل)."
 
 #: docs/index.rst:552
-#, fuzzy
 msgid ""
 "Click the |new-record| button in the top right corner. This will open a "
 "blank form, allowing you to register a new health facility."
 msgstr ""
-"اضغط على زر |new-record| في الزاوية اليسرى العليا. سيؤدي هذا إلى فتح إستمارة "
-"فارغة، مما يسمح لك بتسجيل منشأة صحية جديدة."
+"انقر فوق زر | سجل جديد | في الزاوية اليمنى العليا. سيؤدي هذا إلى فتح نموذج "
+"فارغ، مما يسمح لك بتسجيل منشأة صحية جديدة."
 
 #: docs/index.rst:554
 #, fuzzy
@@ -1568,13 +1574,12 @@ msgid "Remove a Response from Health Facility"
 msgstr "حذف إجابة من سجلات المنشأة الصحية"
 
 #: docs/index.rst:565
-#, fuzzy
 msgid ""
 "To delete a response from a health facility, access your workspace (see "
 "`Access your workspace`_ for details)."
 msgstr ""
-"لحذف مساحة عمل من قائمة مساحات العمل، قم بالدخول إلى صفحة مساحة العمل "
-"بمشروعك. راجع `الدخول إلى مساحة العمل الخاصة بك`_ لإرشادات أكثر تفصيلاً."
+"لحذف استجابة من منشأة صحية ، قم بالوصول إلى مساحة العمل الخاصة بك (راجع "
+"\"الوصول إلى مساحة العمل الخاصة بك\" _ للحصول على التفاصيل)."
 
 #: docs/index.rst:566
 msgid ""
