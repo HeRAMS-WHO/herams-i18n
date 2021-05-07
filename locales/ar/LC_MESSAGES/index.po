@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2021-01-12 10:32+0000\n"
-"Last-Translator: Fatma Giha <gihaf@who.int>\n"
+"PO-Revision-Date: 2021-05-07 21:52+0000\n"
+"Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.6\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: docs/index.rst:11
@@ -256,22 +256,20 @@ msgid "Update your User Profile"
 msgstr "تحديث ملف تعريف المستخدم الخاص بك"
 
 #: docs/index.rst:102
-#, fuzzy
 msgid ""
 "Each user has a profile associated with their account. This permits you to "
 "change your user name, email address, or password without requiring "
 "additional support."
 msgstr ""
-"كل مستخدم لديه ملف تعريف مرتبط بحسابه. هذا يسمح لك بتغيير اسم المستخدم الخاص "
-"بك، عنوان البريد الإلكتروني أو كلمة المرور دون الحاجة إلى دعم إضافي."
+"كل مستخدم لديه مِلَفّ تعريف مرتبط بحسابه. هذا يسمح لك بتغيير اسم المستخدم "
+"الخاص بك، عنوان البريد الإلكتروني أو كلمة المرور دون الحاجة إلى دعم إضافي."
 
 #: docs/index.rst:104
-#, fuzzy
 msgid ""
 "To update your user profile, click the |user| icon in the top right corner "
 "of the page."
 msgstr ""
-"لتحديث ملف تعريف المستخدم الخاص بك، اضغط على اسم المستخدم الظاهر في الركن "
+"لتحديث مِلَفّ تعريف المستخدم الخاص بك، اضغط على اسم المستخدم الظاهر في الركن "
 "الأيمن العلوي من الصفحة."
 
 #: docs/index.rst:105
@@ -310,12 +308,11 @@ msgid ""
 msgstr "تأكد من الضغط على زر |update-password| لتأكيد التغييرات الخاصة بك."
 
 #: docs/index.rst:114
-#, fuzzy
 msgid ""
 "To return to the main page, click the |home| icon in the top right corner."
 msgstr ""
-"للعودة إلى الصفحة الرئيسية، أغلق النافذة التي تظهر بالضغط على **X** في "
-"الزاوية اليمنى العليا من النافذة ."
+"للعودة إلى الصفحة الرئيسة، انقر فوق رمز | الصفحة الرئيسة | الزاوية اليمنى "
+"العليا."
 
 #: docs/index.rst:118
 msgid "Change Language Preference"
@@ -348,13 +345,12 @@ msgid "In the pop-up window that opens, navigate to the **Profile** tab."
 msgstr "في النافذة التي تظهر، قم بالانتقال إلى علامة **الملف الشخصي**."
 
 #: docs/index.rst:125
-#, fuzzy
 msgid ""
 "Change the drop-down list to the desired language and click the |update-"
 "profile| button."
 msgstr ""
-"قم بتغيير القائمة المنسدلة إلى اللغة المطلوبة ثم اضغط على زر |update-"
-"profile|."
+"قم بتغيير القائمة المنسدلة إلى اللغة المطلوبة ثم اضغط على زر |تحديث الملف "
+"الشخصي|."
 
 #: docs/index.rst:127
 msgid ""
@@ -406,13 +402,12 @@ msgid "Icons and their Meaning"
 msgstr "الرموز ومعانيها"
 
 #: docs/index.rst:145
-#, fuzzy
 msgid ""
 "This section aims to provide an overview of key icons used across the "
 "platform and explains their meanings."
 msgstr ""
-"يهدف هذا القسم إلى تقديم ملخص عن الرموز الرئيسية المستخدمة عبر برنامج هيرامس "
-"مع شرح معانيها."
+"يهدف هذا القسم إلى تقديم ملخص عن الرموز الرئيسية المستخدمة عبر برنامَج "
+"هيرامس مع شرح معانيها."
 
 #: docs/index.rst:147
 msgid "|delete| **Delete**: Deletes a specific item or record."
@@ -431,6 +426,8 @@ msgid ""
 "|home| **Home**: The home button takes you back to the world map (home "
 "screen)."
 msgstr ""
+"| الصفحة الرئيسة | ** الصفحة الرئيسة **: زر الصفحة الرئيسة يعيدك إلى خريطة "
+"العالم (الشاشة الرئيسة)."
 
 #: docs/index.rst:150
 msgid ""
@@ -458,6 +455,10 @@ msgid ""
 "your personal information (e.g. language preference, email address, and "
 "password). See `here <#pdate-your-user-profile>`__ for further details."
 msgstr ""
+"| المستخدم | ** مِلَفّ تعريف المستخدم **: يفتح مِلَفّ تعريف المستخدم الخاص "
+"بك ويسمح لك بتعديل معلوماتك الشخصية (مثل اللغة المفضلة وعنوان البريد "
+"الإلكتروني وكلمة المرور). انظر هنا <قم بتحديث مِلَفّ تعريف المستخدم الخاص "
+"بك> `__ لمزيد من التفاصيل."
 
 #: docs/index.rst:153
 msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
@@ -489,7 +490,6 @@ msgid "View a Project"
 msgstr "عرض المشروع"
 
 #: docs/index.rst:172
-#, fuzzy
 msgid ""
 "This chapter provides an introduction to real-time analytics available in "
 "the HeRAMS platform. For each project, a high-level overview on key "
@@ -498,10 +498,10 @@ msgid ""
 "provide additional insights into individual projects and empower users to "
 "produce in-depth analyses for specific areas and indicators of interest."
 msgstr ""
-"يوفر هذا الفصل مقدمة عن التحليل الآني الذي يقدمه برنامج هيرامس. لكل مشروع "
+"يوفر هذا الفصل مقدمة عن التحليل الآني الذي يقدمه برنامَج هيرامس. لكل مشروع "
 "توجد صفحة تلخص المؤشرات الرئيسية مثل عدد المرافق الصحية التي تم تقييمها "
 "والوظائف العامة وتوافر الخدمة. توفر لوحات المعلومات التفاعلية رؤى إضافية حول "
-"مشاريع هيرامس وتمكن المستخدمين من إنتاج تحليلات متعمقة بسرعة لمناطق محددة "
+"مشروعات هيرامس وتمكن المستخدمين من إنتاج تحليلات متعمقة بسرعة لمناطق محددة "
 "ومؤشرات ذات اهتمام."
 
 #: docs/index.rst:176
@@ -509,7 +509,6 @@ msgid "Project Overview"
 msgstr "ملخص المشروع"
 
 #: docs/index.rst:178
-#, fuzzy
 msgid ""
 "After logging in, you will see a world map with several blue dots. Each of "
 "these dots represents a HeRAMS project. You can also see the list of all "
@@ -517,10 +516,10 @@ msgid ""
 "summary of the number of projects available in HeRAMS, the total number of "
 "contributors, and health facilities is shown in the bottom left corner."
 msgstr ""
-"بعد تسجيل الدخول، سترى خريطة العالم مع العديد من النقاط الزرقاء. اي نقطة من "
-"هذه النقاط تمثل مشروع هيرامس بأحد البلدان. يمكنك أيضاً الاطلاع على قائمة "
-"بجميع المشاريع المتاحة في لوحة التنقل على اليسار. بالإضافة إلى ذلك، يوجد "
-"ملخص موجز عن عدد المشروعات المتاحة في برنامج هيرامس، ويظهر العدد الإجمالي "
+"بعد تسجيل الدخول، سترى خريطة العالم مع العديد من النِّقَاط الزرقاء. أي نقطة "
+"من هذه النِّقَاط تمثل مشروع هيرامس بأحد البلدان. يمكنك أيضاً الاطلاع على "
+"قائمة بجميع المشروعات المتاحة في لوحة التنقل على اليسار. إضافة إلى ذلك، يوجد "
+"ملخص موجز عن عدد المشروعات المتاحة في برنامَج هيرامس، ويظهر العدد الإجمالي "
 "للمساهمين بالبيانات والمرافق الصحية في الركن الأيسر السفلي."
 
 #: docs/index.rst:182
@@ -637,12 +636,11 @@ msgid "Customizing a dashboard"
 msgstr "تعديل لوحة المعلومات"
 
 #: docs/index.rst:225
-#, fuzzy
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard by applying filters and alter some of the default display options."
 msgstr ""
-"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة معلومات المشروع من خلال "
+"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة معلومات المشروع بواسطة "
 "استخدام المصفاة/الفلتر وتغيير بعض خيارات العرض الافتراضية."
 
 #: docs/index.rst:228
@@ -707,7 +705,6 @@ msgid "Map Zoom Level and Focus Area"
 msgstr "مستوى تكبير الخريطة ومنطقة التركيز"
 
 #: docs/index.rst:252
-#, fuzzy
 msgid ""
 "You can adjust the zoom level of a map by using the scroll button on your "
 "mouse. To change the focus area of a map, position your mouse in the map "
@@ -715,7 +712,7 @@ msgid ""
 "This will move the map focus area."
 msgstr ""
 "يمكنك ضبط مستوى التكبير / التصغير للخريطة باستخدام زر التمرير الموجود "
-"بالماوس. لتغيير منطقة التركيز بالخريطة، ضع مؤشر الماوس على الخريطة. اضغط على "
+"بالفأرة. لتغيير منطقة التركيز بالخريطة، ضع مؤشر الفأرة على الخريطة. اضغط على "
 "الخريطة (مع الاستمرار) واسحب الخريطة في الاتجاه المطلوب. سيؤدي هذا إلى تحريك "
 "منطقة تركيز الخريطة."
 
@@ -823,14 +820,13 @@ msgstr ""
 "الصحية الأولية والثانوية والثالثية) ؛ و"
 
 #: docs/index.rst:297
-#, fuzzy
 msgid ""
 "donut charts to summarize different indicators, such as level of damage, "
 "functionality status, accessibility, and service availability in the "
 "assessed health facility."
 msgstr ""
-"مخططات دونات لتلخيص مؤشرات مختلفة، مثل مستوى الضرر، وحالة الوظيفة، وسهولة "
-"الوصول وتوافر الخدمة في المنشأة الصحية التي تم تقييمها."
+"المخططات الدائرية المجوفة لتلخيص مؤشرات مختلفة، مثل مستوى الضرر، وحالة "
+"الوظيفة، وسهولة الوصول وتوافر الخدمة في المنشأة الصحية التي تم تقييمها."
 
 #: docs/index.rst:299
 msgid ""
@@ -1009,9 +1005,8 @@ msgid "External support:"
 msgstr "الدعم الخارجي:"
 
 #: docs/index.rst:369
-#, fuzzy
 msgid "A donut chart to illustrate the level of support provided by partners."
-msgstr "مخطط دونات لتوضيح مستوى الدعم المقدم من الشركاء."
+msgstr "مخطط دائري مجوف لتوضيح مستوى الدعم المقدم من الشركاء."
 
 #: docs/index.rst:376
 msgid "Basic Amenities"
@@ -1108,7 +1103,6 @@ msgid "Access your workspace"
 msgstr "قم بالدخول إلى مساحة العمل الخاصة بك"
 
 #: docs/index.rst:412
-#, fuzzy
 msgid ""
 "HeRAMS uses so-called **workspaces** to manage access permissions to the "
 "underlying data. A workspace may include all health facilities of a "
@@ -1119,7 +1113,7 @@ msgid ""
 "contribute to their data. For more information on how to grant users access "
 "to a workspace please view the `user management`_ section."
 msgstr ""
-"يستخدم هيرامس ما يسمى ب **مساحات العمل** لإدارة أذونات الدخول إلى البيانات. "
+"يستخدم هيرامس ما يسمى ب **مساحات العمل** لإدارة صلاحيات الدخول إلى البيانات. "
 "قد تشمل مساحة العمل جميع المنشآت الصحية في منطقة جغرافية، أو فقط المنشآت "
 "الصحية التي يديرها شريك معين أو أي كيان آخر. يقوم بإدارة مساحة العمل شخص "
 "محوري *مالك مساحة العمل* وهو المسؤول عن تحديث وصيانة سجلات المنشأة الصحية "
@@ -1137,11 +1131,10 @@ msgstr ""
 "ذلك، يمكنك فتح ملخص المشروع بالضغط على النقطة الزرقاء في خريطة العالم."
 
 #: docs/index.rst:420
-#, fuzzy
 msgid ""
 "Click the |workspace-button| button in the bottom right corner of the pop-up."
 msgstr ""
-"اضغط على زر |workspace-button| الموجود في الزاوية اليمنى السفلية من النافذة "
+"اضغط على زر |زر مساحة العمل| الموجود في الزاوية اليمنى السفلية من النافذة "
 "المنبثقة."
 
 #: docs/index.rst:427
@@ -1154,6 +1147,12 @@ msgid ""
 "list of workspaces is sorted so that the most recently updated workspace "
 "appears on top. You can change the order by clicking the header names (2)."
 msgstr ""
+"3. يؤدي هذا إلى فتح صفحة جديدة تعرض جدولاً بقائمة مساحات العمل التي تنتمي "
+"إلى المشروع المحدد. يظهر العدد الإجمالي لمساحات العمل المتاحة داخل المشروع "
+"بجوار عنوان علامة التبويب (1). لكل مساحة عمل، يعرض الجدول التاريخ الذي تم "
+"فيه ** آخر تحديث لمساحة العمل ** وعدد ** المساهمين ** و ** المرافق الصحية ** "
+"و ** الاستجابات **. بشكل افتراضي، يتم فرز قائمة مساحات العمل بحيث تظهر أحدث "
+"مساحة عمل في الأعلى. يمكنك تغيير الترتيب بالنقر فوق أسماء الرأس (2)."
 
 #: docs/index.rst:430 docs/index.rst:436
 msgid ""
@@ -1165,13 +1164,12 @@ msgstr ""
 "إلى أن المنشأة الصحية تم تقييمها عدة مرات."
 
 #: docs/index.rst:432
-#, fuzzy
 msgid ""
 "To view the list of health facilities belonging to a specific workspace, "
 "click the workspace name."
 msgstr ""
-"لعرض قائمة المرافق الصحية الموجودة بمساحة عمل معينة، اضغط على رمز |pencil| "
-"في خانة **الإجراءات**."
+"لعرض قائمة المرافق الصحية التي تنتمي إلى مساحة عمل محددة ، انقر فوق اسم "
+"مساحة العمل."
 
 #: docs/index.rst:434
 msgid ""
@@ -1182,14 +1180,14 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:439
-#, fuzzy
 msgid ""
 "If your workspace does not appear, use the page navigation at the bottom (4) "
 "or filter the workspaces by typing the workspace name in the field below the "
 "header row (5)."
 msgstr ""
-"استخدم أزرار |forward-page| للانتقال إلى الصفحة التالية أو تصفية مساحات "
-"العمل عن طريق كتابة اسم مساحة العمل في الحقل الذي يوجدأسفل صف المقدمة ."
+"إذا لم تظهر مساحة العمل الخاصة بك ، فاستخدم التنقل في الصفحة في الأسفل (4) "
+"أو قم بتصفية مساحات العمل عن طريق كتابة اسم مساحة العمل في الحقل أسفل صف "
+"الرأس (5)."
 
 #: docs/index.rst:441
 msgid ""
@@ -1198,52 +1196,54 @@ msgid ""
 "workspace in the future. See `below <#favorites>`__ for more information on "
 "how to access your favorite workspaces"
 msgstr ""
+"بالنقر فوق | نجمة مجوفة | في العمود الأول، يمكنك وضع علامة على مساحة العمل "
+"على أنها ** مفضلة **. سيسهل هذا الوصول إلى مساحة العمل الخاصة بك في "
+"المستقبل. انظر أدناه <#التفضيلات>`__ لمزيد من المعلومات حول كيفية الوصول إلى "
+"مساحات العمل المفضلة لديك"
 
 #: docs/index.rst:448
-#, fuzzy
 msgid ""
 "The video below shows how to access your project, filter workspaces and "
 "access your workspace."
-msgstr "يلخص الفيديو أدناه خطوات الوصول إلى واجهة إدخال البيانات."
+msgstr ""
+"يوضح الفيديو أدناه كيفية الوصول إلى مشروعك وتصفية مساحات العمل والوصول إلى "
+"مساحة العمل الخاصة بك."
 
 #: docs/index.rst:457
 msgid "Favorites"
 msgstr "المفضلة"
 
 #: docs/index.rst:458
-#, fuzzy
 msgid ""
 "To simplify navigation, it is recommended that you add frequently accessed "
 "workspaces to your list of favorites. Workspaces marked as favorites can be "
 "accessed from anywhere in the platform by clicking the |star-filled| icon in "
 "the top right corner of your screen."
 msgstr ""
-"لتبسيط عملية التنقل، يوصى بإضافة مساحات العمل التي يتم الدخول إليها بشكل "
-"متكرر، إلى قائمة المفضلة لديك. يمكن الدخول إلى مساحات العمل التي تم تمييزها "
-"كمفضلة من أي مكان في البرنامج بالضغط على زر |star-filled| في أعلى يمين "
+"لتبسيط التنقل، يوصى بإضافة مساحات العمل التي يتم الوصول إليها بشكل متكرر إلى "
+"قائمة المفضلة لديك. يمكن الوصول إلى مساحات العمل التي تم تمييزها كمفضلة من "
+"أي مكان في النظام الأساسي بالنقر فوق الأيقونة | المليئة بالنجوم | أعلى يمين "
 "الشاشة."
 
 #: docs/index.rst:460
-#, fuzzy
 msgid ""
 "For users working on multiple projects, please note that it is possible to "
 "add workspace from different projects to your list of favorites."
 msgstr ""
-"بالنسبة للمستخدم الذي يعمل في مشاريع متعددة، يرجى ملاحظة أنه من الممكن إضافة "
-"مساحة عمل من مشاريع مختلفة إلى قائمة المفضلة لديك."
+"بالنسبة للمستخدم الذي يعمل في مشروعات متعددة، يرجى ملاحظة أنه من الممكن "
+"إضافة مساحة عمل من مشروعات مختلفة إلى قائمة المفضلة لديك."
 
 #: docs/index.rst:463
 msgid "Navigate to the list of workspaces as outlined above."
 msgstr "انتقل إلى قائمة مساحات العمل كما هو موضح أعلاه."
 
 #: docs/index.rst:464
-#, fuzzy
 msgid ""
 "In the first column you should see a |star-hollow| icon. To add a workspace "
 "to your list of favorites, simply click the icon."
 msgstr ""
-"في العمود قبل الأخير، ستشاهد رمز |star-hollow|. لإضافة مساحة عمل إلى قائمة "
-"المفضلات لديك، ما عليك سوى الضغط على الرمز."
+"في العمود الأول، سترى أيقونة | نجمة مجوفة |. لإضافة مساحة عمل إلى قائمة "
+"المفضلات لديك، ما عليك سوى النقر فوق الرمز."
 
 #: docs/index.rst:465
 msgid ""
@@ -1254,13 +1254,12 @@ msgstr ""
 "مساحة العمل الخاصة بك بنجاح إلى قائمة المفضلة لديك."
 
 #: docs/index.rst:466
-#, fuzzy
 msgid ""
 "You can now access the workspace directly from the world map by clicking the "
 "|star-filled| icon in the top right corner of your screen."
 msgstr ""
-"لمنح المستخدم حق الوصول إلى مشروع معين، افتح واجهة المسؤول بالنقر فوق زر |"
-"settings| في الزاوية اليمنى العليا من الشاشة."
+"يمكنك الآن الوصول إلى مساحة العمل مباشرة من خريطة العالم بالنقر فوق الأيقونة "
+"| المملوءة بالنجوم | أعلى يمين الشاشة."
 
 #: docs/index.rst:468
 msgid ""
@@ -1278,20 +1277,18 @@ msgid ""
 msgstr "إذا لم تختف مساحة العمل تلقائياَ من قائمتك المفضلة، فحاول تحديث الصفحة."
 
 #: docs/index.rst:474
-#, fuzzy
 msgid "Edit a Response"
-msgstr "تعديل سجل المرفق الصحي"
+msgstr "تحرير استجابة"
 
 #: docs/index.rst:476
-#, fuzzy
 msgid ""
 "Editing a response will overwrite the existing response. If you would like "
 "to update the status of a health facility while keeping the history of "
 "changes, go to `Add a New Response>`_."
 msgstr ""
-"سيؤدي تعديل السجل إلى استبدال السجل الحالي. إذا كنت ترغب في تحديث حالة "
-"المرفق الصحي مع الاحتفاظ بسجل التغييرات، انتقل الى `إضافة إجابة الى سجل "
-"المرفق الصحي`_."
+"سيؤدي تحرير الاستجابة إلى الكتابة فوق الاستجابة الحالية. إذا كنت ترغب في "
+"تحديث حالة منشأة صحية مع الاحتفاظ بسجل التغييرات، فانتقل إلى `إضافة استجابة "
+"جديدة>`_."
 
 #: docs/index.rst:478
 #, fuzzy
