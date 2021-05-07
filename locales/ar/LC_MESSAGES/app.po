@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-04-29 14:47+0000\n"
+"PO-Revision-Date: 2021-05-07 21:52+0000\n"
 "Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
@@ -211,7 +211,7 @@ msgstr "شريط"
 
 msgctxt "app"
 msgid "Baseline"
-msgstr ""
+msgstr "حدود"
 
 msgctxt "app"
 msgid "Become this user"
@@ -428,7 +428,7 @@ msgstr "هذا البريد الإلكتروني تم أخذه بالفعل"
 
 msgctxt "app"
 msgid "Emergency specific"
-msgstr ""
+msgstr "خاصة في حالات الطوارئ"
 
 msgctxt "app"
 msgid "Empty project"
@@ -582,7 +582,7 @@ msgstr "مخفي"
 
 msgctxt "app"
 msgid "Hidden, this project is only visible to people with permissions"
-msgstr ""
+msgstr "مخفي، هذا المشروع مرئي فقط للأشخاص الذين لديهم صلاحيات"
 
 msgctxt "app"
 msgid "Home"
@@ -630,7 +630,7 @@ msgstr "مستخدم غير صالح."
 
 msgctxt "app"
 msgid "Invalid value {value} for enum"
-msgstr ""
+msgstr "قيمة غير صالحة {قيمة} للتعداد"
 
 msgctxt "app"
 msgid "Is the service fully available"
@@ -660,10 +660,9 @@ msgctxt "app"
 msgid "Language"
 msgstr "اللغة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Languages"
-msgstr "اللغة"
+msgstr "اللغات"
 
 msgctxt "app"
 msgid "Last login at"
@@ -803,7 +802,7 @@ msgstr "تشغيل"
 
 msgctxt "app"
 msgid "Ongoing"
-msgstr ""
+msgstr "جاري التنفيذ"
 
 msgctxt "app"
 msgid ""
@@ -902,6 +901,8 @@ msgid ""
 "Private, this project is visible on the map and in the list, but people need "
 "permission to view it"
 msgstr ""
+"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَ"
+"ة لمشاهدته"
 
 msgctxt "app"
 msgid "Profile"
@@ -924,10 +925,9 @@ msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr "مشروع <strong> {project} </strong> تم إنشائه"
 
-#, fuzzy
 msgctxt "app"
 msgid "Project coordinator"
-msgstr "لوحة معلومات المشروع"
+msgstr "منسق المشروع"
 
 msgctxt "app"
 msgid "Project dashboard"
@@ -951,7 +951,7 @@ msgstr "المشاريع"
 
 msgctxt "app"
 msgid "Public, anyone can view this project"
-msgstr ""
+msgstr "عام ، يمكن لأي شخص مشاهدة هذا المشروع"
 
 msgctxt "app"
 msgid "Question code containing the name (case sensitive)"
@@ -1042,10 +1042,9 @@ msgctxt "app"
 msgid "Secondary"
 msgstr "الرعاية الصحية الثانوية"
 
-#, fuzzy
 msgctxt "app"
 msgid "Select and sync any number of workspaces in the project"
-msgstr "حذف جميع مساحات العمل في المشروع"
+msgstr "حدد أي عدد من مساحات العمل في المشروع وقم بمزامنتها"
 
 msgctxt "app"
 msgid "Send confirmation"
@@ -1097,7 +1096,7 @@ msgstr "الاستطلاع {id} غير موجود"
 
 msgctxt "app"
 msgid "Sync"
-msgstr ""
+msgstr "مزامنة"
 
 msgctxt "app"
 msgid "Sync workspaces"
@@ -1130,7 +1129,7 @@ msgstr "التوافر الكلي للخدمات لكل مرفق صحي"
 
 msgctxt "app"
 msgid "The invitation was accepted"
-msgstr ""
+msgstr "تم قبول الدعوة"
 
 msgctxt "app"
 msgid "The page you are looking for doesn't exist"
@@ -1151,6 +1150,8 @@ msgstr "هذا الإجراء لا يمكن إلغاؤه."
 msgctxt "app"
 msgid "This email is already in use, log in and click the link again."
 msgstr ""
+"هذا البريد الإلكتروني قيد الاستخدام بالفعل ، قم بتسجيل الدخول وانقر فوق "
+"الرابط مرة أخرى."
 
 msgctxt "app"
 msgid ""
@@ -1188,7 +1189,7 @@ msgstr "لقد قمت بمحاولات كثيرة ، حاول مرة أخرى ب
 
 msgctxt "app"
 msgid "Translated attributes"
-msgstr ""
+msgstr "السمات المترجمة"
 
 msgctxt "app"
 msgid "Transpose"
@@ -1370,10 +1371,9 @@ msgstr ""
 "تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
 "strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace owner"
-msgstr "مساحة العمل"
+msgstr "مالك مساحة العمل"
 
 msgctxt "app"
 msgid "Workspace settings"
@@ -1412,6 +1412,8 @@ msgid ""
 "You are currently logged in with {user}. You can either accept the "
 "invitation with the current account or create a new account below."
 msgstr ""
+"أنت مسجّل الدخول حاليًا باستخدام {مستخدم}. يمكنك إما قَبُول الدعوة بالحساب "
+"الحالي أو إنشاء حساب جديد أدناه."
 
 msgctxt "app"
 msgid "You are not allowed to share this project"
@@ -1429,10 +1431,9 @@ msgctxt "app"
 msgid "Your account has been created"
 msgstr "تم إنشاء حسابك"
 
-#, fuzzy
 msgctxt "app"
 msgid "Your account has been created and invitation was accepted."
-msgstr "تم إنشاء حسابك"
+msgstr "تم إنشاء حسابك وتم قبول الدعوة."
 
 msgctxt "app"
 msgid "Your email address has already been changed"
@@ -1462,10 +1463,9 @@ msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr "{0, date, MMMM dd, YYYY HH:mm}"
 
-#, fuzzy
 msgctxt "app"
 msgid "{value} is an invalid email address."
-msgstr "فشل تحديث عنوان البريد الإلكتروني"
+msgstr "{القيمة} هو عنوان بريد إلكتروني غير صالح."
 
 msgctxt "app.model.workspace"
 msgid "Closed"
@@ -1581,7 +1581,7 @@ msgstr "Target type"
 
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
-msgstr ""
+msgstr "رمز البلد {القيمة} غير صالح"
 
 #~ msgctxt "app"
 #~ msgid "Global permissions granted to {users}"
