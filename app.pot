@@ -1427,7 +1427,19 @@ msgid "Building and equipment condition"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Child health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Child health & nutrition"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Communicable diseases"
 msgstr ""
 
 msgctxt "app.pagetitle"
@@ -1443,6 +1455,26 @@ msgid "Functionality"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "General clinical services"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part I)"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part II)"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part III)"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr ""
 
@@ -1455,6 +1487,22 @@ msgid "Management and support"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Maternal and newborn health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Nutrition"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr ""
 
@@ -1463,11 +1511,31 @@ msgid "Power"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "STI & HIV/AIDS"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Sanitation"
 msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Service availability"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sexual and reproductive health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sexual violence"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Trauma Care"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Vaccination"
 msgstr ""
 
 msgctxt "app.pagetitle"

@@ -901,8 +901,8 @@ msgid ""
 "Private, this project is visible on the map and in the list, but people need "
 "permission to view it"
 msgstr ""
-"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَ"
-"ة لمشاهدته"
+"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَة "
+"لمشاهدته"
 
 msgctxt "app"
 msgid "Profile"
@@ -1507,8 +1507,20 @@ msgid "Building and equipment condition"
 msgstr "حالة المبنى والمعدات الطبية"
 
 msgctxt "app.pagetitle"
+msgid "Child health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Child health & nutrition"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
 msgstr "سلسلة تبريد / ثلاجة"
+
+msgctxt "app.pagetitle"
+msgid "Communicable diseases"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Communication"
@@ -1523,6 +1535,26 @@ msgid "Functionality"
 msgstr "الحالة التشغيلية"
 
 msgctxt "app.pagetitle"
+msgid "General clinical services"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part I)"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part II)"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part III)"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "المعلومات الصحية"
 
@@ -1535,6 +1567,23 @@ msgid "Management and support"
 msgstr "الإدارة والدعم"
 
 msgctxt "app.pagetitle"
+msgid "Maternal and newborn health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Nutrition"
+msgstr "المدة الزمنية"
+
+msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr "نظرة عامة على تنفيذ هيرامس على مستوى العالم"
 
@@ -1543,12 +1592,33 @@ msgid "Power"
 msgstr "مصادر الطاقة الكهربائية"
 
 msgctxt "app.pagetitle"
+msgid "STI & HIV/AIDS"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Sanitation"
 msgstr "الصرف الصحي"
 
 msgctxt "app.pagetitle"
 msgid "Service availability"
 msgstr "مدى توفر الخدمات الصحية"
+
+msgctxt "app.pagetitle"
+msgid "Sexual and reproductive health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sexual violence"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Trauma Care"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Vaccination"
+msgstr "الصرف الصحي"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"

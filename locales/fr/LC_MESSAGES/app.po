@@ -1558,8 +1558,20 @@ msgid "Building and equipment condition"
 msgstr "État des bâtiments et des équipements"
 
 msgctxt "app.pagetitle"
+msgid "Child health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Child health & nutrition"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
 msgstr "Chaîne de froid"
+
+msgctxt "app.pagetitle"
+msgid "Communicable diseases"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Communication"
@@ -1574,6 +1586,26 @@ msgid "Functionality"
 msgstr "Fonctionnalité"
 
 msgctxt "app.pagetitle"
+msgid "General clinical services"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part I)"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part II)"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "General clinical services & trauma care (part III)"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "Systèmes d'information"
 
@@ -1586,6 +1618,23 @@ msgid "Management and support"
 msgstr "Gestion et soutien"
 
 msgctxt "app.pagetitle"
+msgid "Maternal and newborn health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Nutrition"
+msgstr "Durée"
+
+msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr "Vue d’ensemble"
 
@@ -1594,12 +1643,33 @@ msgid "Power"
 msgstr "Énergie"
 
 msgctxt "app.pagetitle"
+msgid "STI & HIV/AIDS"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Sanitation"
 msgstr "Assainissement"
 
 msgctxt "app.pagetitle"
 msgid "Service availability"
 msgstr "Disponibilité des services de santé"
+
+msgctxt "app.pagetitle"
+msgid "Sexual and reproductive health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sexual violence"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Trauma Care"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Vaccination"
+msgstr "Assainissement"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"
