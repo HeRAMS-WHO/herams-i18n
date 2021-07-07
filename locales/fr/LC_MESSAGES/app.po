@@ -486,10 +486,6 @@ msgid "Export all"
 msgstr "Export complet"
 
 msgctxt "app"
-msgid "Export all pages to pdf"
-msgstr "Exporter toutes les pages au format pdf"
-
-msgctxt "app"
 msgid "Export data"
 msgstr "Exporter les données"
 
@@ -915,11 +911,6 @@ msgstr "Primaires"
 msgctxt "app"
 msgid "Print"
 msgstr "Imprimer"
-
-#, fuzzy
-msgctxt "app"
-msgid "Print all pages"
-msgstr "Page parent"
 
 msgctxt "app"
 msgid ""
@@ -1702,6 +1693,15 @@ msgstr "Type cible"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Export all pages to pdf"
+#~ msgstr "Exporter toutes les pages au format pdf"
+
+#, fuzzy
+#~ msgctxt "app"
+#~ msgid "Print all pages"
+#~ msgstr "Page parent"
 
 #~ msgctxt "app"
 #~ msgid "Global permissions granted to {users}"

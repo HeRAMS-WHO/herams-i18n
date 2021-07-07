@@ -466,10 +466,6 @@ msgid "Export all"
 msgstr ""
 
 msgctxt "app"
-msgid "Export all pages to pdf"
-msgstr ""
-
-msgctxt "app"
 msgid "Export data"
 msgstr ""
 
@@ -883,10 +879,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Print"
-msgstr ""
-
-msgctxt "app"
-msgid "Print all pages"
 msgstr ""
 
 msgctxt "app"

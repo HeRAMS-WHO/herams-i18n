@@ -469,10 +469,6 @@ msgid "Export all"
 msgstr "تصدير كل البيانات"
 
 msgctxt "app"
-msgid "Export all pages to pdf"
-msgstr "تصدير كل الصفحات إلى مِلَفّ pdf"
-
-msgctxt "app"
 msgid "Export data"
 msgstr "تصدير البيانات"
 
@@ -891,10 +887,6 @@ msgstr "أولي"
 msgctxt "app"
 msgid "Print"
 msgstr "طباعة الصفحة الحالية"
-
-msgctxt "app"
-msgid "Print all pages"
-msgstr "طباعة جميع الصفحات"
 
 msgctxt "app"
 msgid ""
@@ -1651,6 +1643,14 @@ msgstr "Target type"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr "رمز البلد {القيمة} غير صالح"
+
+#~ msgctxt "app"
+#~ msgid "Export all pages to pdf"
+#~ msgstr "تصدير كل الصفحات إلى مِلَفّ pdf"
+
+#~ msgctxt "app"
+#~ msgid "Print all pages"
+#~ msgstr "طباعة جميع الصفحات"
 
 #~ msgctxt "app"
 #~ msgid "Global permissions granted to {users}"
