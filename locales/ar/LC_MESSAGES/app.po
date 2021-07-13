@@ -81,6 +81,38 @@ msgid "Accept invitation"
 msgstr "اقبل الدعوة"
 
 msgctxt "app"
+msgid "Accepted"
+msgstr ""
+
+msgctxt "app"
+msgid "Access request has been <strong>granted</strong>."
+msgstr ""
+
+msgctxt "app"
+msgid "Access request has been <strong>revoked</strong>."
+msgstr ""
+
+msgctxt "app"
+msgid "Access request history"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests history"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests to respond to"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests you responded to"
+msgstr ""
+
+msgctxt "app"
 msgid "Actions"
 msgstr "إجراءات"
 
@@ -115,10 +147,6 @@ msgstr "بعد إغلاق هذه الشاشة، اضغط على {{apply}} لمش
 msgctxt "app"
 msgid "Allow everything"
 msgstr "السماح بكل شيء"
-
-msgctxt "app"
-msgid "Allowed"
-msgstr "مسموح"
 
 msgctxt "app"
 msgid "Already shared with"
@@ -218,6 +246,10 @@ msgid "Become this user"
 msgstr "كن هذا المستخدم"
 
 msgctxt "app"
+msgid "Body"
+msgstr ""
+
+msgctxt "app"
 msgid "Causes of unavailability"
 msgstr "أسباب عدم التوافر"
 
@@ -244,6 +276,11 @@ msgstr "تكوين لوحة القيادة"
 msgctxt "app"
 msgid "Confirm password"
 msgstr "تأكيد كلمة المرور"
+
+#, fuzzy
+msgctxt "app"
+msgid "Contribute data"
+msgstr "عدد المساهمين"
 
 msgctxt "app"
 msgid "Contributors"
@@ -303,6 +340,11 @@ msgstr "إنشاء مساحة عمل"
 
 msgctxt "app"
 msgid "Created at"
+msgstr "أنشئت في"
+
+#, fuzzy
+msgctxt "app"
+msgid "Created by"
 msgstr "أنشئت في"
 
 msgctxt "app"
@@ -383,6 +425,10 @@ msgid "Donut"
 msgstr "مخطط دائري"
 
 msgctxt "app"
+msgid "Download data"
+msgstr "تحميل البيانات"
+
+msgctxt "app"
 msgid "Duration"
 msgstr "المدة الزمنية"
 
@@ -455,6 +501,18 @@ msgstr "أدخل عنوان البريد الإلكتروني الذي تريد 
 msgctxt "app"
 msgid "Error"
 msgstr "خطأ"
+
+msgctxt "app"
+msgid "Expires at"
+msgstr ""
+
+msgctxt "app"
+msgid "Explain what permissions you need and why you need them."
+msgstr ""
+
+msgctxt "app"
+msgid "Explanation of grant or deny"
+msgstr ""
 
 msgctxt "app"
 msgid "Export CSV"
@@ -549,6 +607,10 @@ msgid "Grant admin permissions"
 msgstr "منح أذونات المسؤول"
 
 msgctxt "app"
+msgid "Granted"
+msgstr ""
+
+msgctxt "app"
 msgid "HeRAMS email verification"
 msgstr "التحقق من البريد الإلكتروني"
 
@@ -591,6 +653,10 @@ msgstr "هوية شخصية"
 msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
 msgstr "إذا استخدمت خيارًا محددًا مسبقًا، فسيتم ترجمته تلقائيًا"
+
+msgctxt "app"
+msgid "Implicitly granted"
+msgstr ""
 
 msgctxt "app"
 msgid "Import Pages"
@@ -749,6 +815,10 @@ msgid "New workspace"
 msgstr "مساحة عمل جديدة"
 
 msgctxt "app"
+msgid "Newsletter subscription"
+msgstr ""
+
+msgctxt "app"
 msgid "No"
 msgstr "لا"
 
@@ -769,10 +839,6 @@ msgid "None"
 msgstr "لا يوجد"
 
 msgctxt "app"
-msgid "Not allowed"
-msgstr "غير مسموح"
-
-msgctxt "app"
 msgid "Not available"
 msgstr "غير متوفر"
 
@@ -783,6 +849,11 @@ msgstr "لا تعمل"
 msgctxt "app"
 msgid "Not normally provided"
 msgstr "لا تُقدم عادة"
+
+#, fuzzy
+msgctxt "app"
+msgid "Notifications"
+msgstr "لا تعمل"
 
 msgctxt "app"
 msgid "Off"
@@ -811,6 +882,10 @@ msgstr ""
 msgctxt "app"
 msgid "Other"
 msgstr "أخرى"
+
+msgctxt "app"
+msgid "Other, explain in request"
+msgstr ""
 
 msgctxt "app"
 msgid "Overrides"
@@ -874,6 +949,11 @@ msgstr "الإذن"
 
 msgctxt "app"
 msgid "Permissions"
+msgstr "الإذونات"
+
+#, fuzzy
+msgctxt "app"
+msgid "Permissions to grant"
 msgstr "الإذونات"
 
 msgctxt "app"
@@ -954,6 +1034,10 @@ msgid "Question code containing the type (case sensitive)"
 msgstr "رمز السؤال يحتوي على النوع (حساس لحالة الأحرف)"
 
 msgctxt "app"
+msgid "Read"
+msgstr ""
+
+msgctxt "app"
 msgid "Refresh"
 msgstr "تحديث"
 
@@ -1002,8 +1086,26 @@ msgid "Report date"
 msgstr "تاريخ التقرير"
 
 msgctxt "app"
+msgid "Request"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Request access"
+msgstr "طلب اعادة تشغيل كلمة المرور"
+
+msgctxt "app"
 msgid "Request password reset"
 msgstr "طلب اعادة تشغيل كلمة المرور"
+
+msgctxt "app"
+msgid "Requested access to {modelName}"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Requested permissions"
+msgstr "عرض صلاحيات المستخدم"
 
 msgctxt "app"
 msgid "Reset password"
@@ -1013,9 +1115,40 @@ msgctxt "app"
 msgid "Reset your password"
 msgstr "قم بإعادة ضبط كلمة المرور الخاصة بك"
 
+#, fuzzy
+msgctxt "app"
+msgid "Respond"
+msgstr "عدد الإستجابات"
+
+msgctxt "app"
+msgid "Respond to: {modelName}"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Responded at"
+msgstr "عدد الإستجابات"
+
+#, fuzzy
+msgctxt "app"
+msgid "Responded by"
+msgstr "عدد الإستجابات"
+
+#, fuzzy
+msgctxt "app"
+msgid "Response"
+msgstr "عدد الإستجابات"
+
 msgctxt "app"
 msgid "Responses"
 msgstr "عدد الإستجابات"
+
+msgctxt "app"
+msgid ""
+"Review the requested permission. Either grant permissions by selecting the "
+"permissions you think are applicable or deny the request by leaving the "
+"granted permissions empty. Explain your decision in the textarea."
+msgstr ""
 
 msgctxt "app"
 msgid "Save"
@@ -1070,6 +1203,14 @@ msgid "Status"
 msgstr "الحالة"
 
 msgctxt "app"
+msgid "Subject"
+msgstr ""
+
+msgctxt "app"
+msgid "Subscribe to newsletter"
+msgstr ""
+
+msgctxt "app"
 msgid "Success"
 msgstr "تمت العملية بنجاح"
 
@@ -1097,6 +1238,21 @@ msgstr "مزامنة مساحات العمل"
 msgctxt "app"
 msgid "Target"
 msgstr "Target ID"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target class"
+msgstr "Target ID"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target title"
+msgstr "Target type"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target type"
+msgstr "Target type"
 
 msgctxt "app"
 msgid "Tertiary"
@@ -1133,6 +1289,10 @@ msgid ""
 msgstr ""
 "حقل الرمز المميز المستخدم كاسم مساحة العمل، يتم تجاهل سمات الرمز المميز "
 "الفارغة"
+
+msgctxt "app"
+msgid "There are open access requests that you can respond to."
+msgstr ""
 
 msgctxt "app"
 msgid "This action cannot be undone."
@@ -1227,10 +1387,6 @@ msgid "Update account"
 msgstr "تحديث الحساب"
 
 msgctxt "app"
-msgid "Update account information"
-msgstr "تحديث معلومات الحساب"
-
-msgctxt "app"
 msgid "Update element"
 msgstr "تحديث عنصر"
 
@@ -1249,6 +1405,11 @@ msgstr "تحديث الصفحة: {page}"
 msgctxt "app"
 msgid "Update password"
 msgstr "تحديث كلمة المرور"
+
+#, fuzzy
+msgctxt "app"
+msgid "Update profile"
+msgstr "تحديث المشروع"
 
 msgctxt "app"
 msgid "Update token"
@@ -1291,12 +1452,21 @@ msgid "Validation failed"
 msgstr "فشل التحقق من صحة البيانات"
 
 msgctxt "app"
+msgid "View"
+msgstr ""
+
+msgctxt "app"
 msgid "View current users"
 msgstr "عرض المستخدمين الحاليين"
 
 msgctxt "app"
 msgid "View dashboard"
 msgstr "عرض لوحة التحكم"
+
+#, fuzzy
+msgctxt "app"
+msgid "View project"
+msgstr "إنشاء مشروع"
 
 msgctxt "app"
 msgid "View user permissions"
@@ -1394,6 +1564,11 @@ msgctxt "app"
 msgid "World overview"
 msgstr "نظرة عامة على تنفيذ هيرامس على مستوى العالم"
 
+#, fuzzy
+msgctxt "app"
+msgid "Write"
+msgstr "مفضلة"
+
 msgctxt "app"
 msgid "Yes"
 msgstr "نعم"
@@ -1406,6 +1581,16 @@ msgstr ""
 "أنت مسجّل الدخول حاليًا باستخدام {مستخدم}. يمكنك إما قَبُول الدعوة بالحساب "
 "الحالي أو إنشاء حساب جديد أدناه."
 
+#, fuzzy
+msgctxt "app"
+msgid "You are not allowed to request access to this project"
+msgstr "لا يسمح لك بمشاركة هذا المشروع"
+
+#, fuzzy
+msgctxt "app"
+msgid "You are not allowed to request access to this workspace"
+msgstr "لا يسمح لك بمشاركة هذا المشروع"
+
 msgctxt "app"
 msgid "You are not allowed to share this project"
 msgstr "لا يسمح لك بمشاركة هذا المشروع"
@@ -1417,6 +1602,10 @@ msgid ""
 msgstr ""
 "يمكنك البحث بإستخدام أكثر من شرط، سيتم عرض النتائج التي تنطبق عليها جميع "
 "الشروط فقط"
+
+msgctxt "app"
+msgid "Your access requests"
+msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
@@ -1645,6 +1834,18 @@ msgid "Country code {value} is not valid"
 msgstr "رمز البلد {القيمة} غير صالح"
 
 #~ msgctxt "app"
+#~ msgid "Allowed"
+#~ msgstr "مسموح"
+
+#~ msgctxt "app"
+#~ msgid "Not allowed"
+#~ msgstr "غير مسموح"
+
+#~ msgctxt "app"
+#~ msgid "Update account information"
+#~ msgstr "تحديث معلومات الحساب"
+
+#~ msgctxt "app"
 #~ msgid "Export all pages to pdf"
 #~ msgstr "تصدير كل الصفحات إلى مِلَفّ pdf"
 
@@ -1661,25 +1862,12 @@ msgstr "رمز البلد {القيمة} غير صالح"
 #~ msgstr "تمت مشاركة المشروع {modelName} مع: {users}"
 
 #~ msgctxt "app"
-#~ msgid "Download data"
-#~ msgstr "تحميل البيانات"
-
-#~ msgctxt "app"
 #~ msgid "Download"
 #~ msgstr "تحميل"
 
 #~ msgctxt "app"
-#~ msgid "Update project"
-#~ msgstr "تحديث المشروع"
-
-#~ msgctxt "app"
 #~ msgid "Edit dashboard"
 #~ msgstr "تعديل لوحة التحكم"
-
-#, fuzzy
-#~ msgctxt "app"
-#~ msgid "Favorite"
-#~ msgstr "مفضلة"
 
 #~ msgctxt "app"
 #~ msgid "Share"
@@ -1700,10 +1888,6 @@ msgstr "رمز البلد {القيمة} غير صالح"
 #~ msgctxt "app"
 #~ msgid "Already have an account? Sign in!"
 #~ msgstr "هل لديك حساب؟ قم بالدخول!"
-
-#~ msgctxt "app"
-#~ msgid "Contributor count"
-#~ msgstr "عدد المساهمين"
 
 #~ msgctxt "app"
 #~ msgid "Create Project"

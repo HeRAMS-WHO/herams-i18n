@@ -75,6 +75,38 @@ msgid "Accept invitation"
 msgstr ""
 
 msgctxt "app"
+msgid "Accepted"
+msgstr ""
+
+msgctxt "app"
+msgid "Access request has been <strong>granted</strong>."
+msgstr ""
+
+msgctxt "app"
+msgid "Access request has been <strong>revoked</strong>."
+msgstr ""
+
+msgctxt "app"
+msgid "Access request history"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests history"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests to respond to"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests you responded to"
+msgstr ""
+
+msgctxt "app"
 msgid "Actions"
 msgstr ""
 
@@ -108,10 +140,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Allow everything"
-msgstr ""
-
-msgctxt "app"
-msgid "Allowed"
 msgstr ""
 
 msgctxt "app"
@@ -211,6 +239,10 @@ msgid "Become this user"
 msgstr ""
 
 msgctxt "app"
+msgid "Body"
+msgstr ""
+
+msgctxt "app"
 msgid "Causes of unavailability"
 msgstr ""
 
@@ -236,6 +268,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Confirm password"
+msgstr ""
+
+msgctxt "app"
+msgid "Contribute data"
 msgstr ""
 
 msgctxt "app"
@@ -296,6 +332,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Created at"
+msgstr ""
+
+msgctxt "app"
+msgid "Created by"
 msgstr ""
 
 msgctxt "app"
@@ -375,6 +415,10 @@ msgid "Donut"
 msgstr ""
 
 msgctxt "app"
+msgid "Download data"
+msgstr ""
+
+msgctxt "app"
 msgid "Duration"
 msgstr ""
 
@@ -440,6 +484,18 @@ msgstr ""
 
 msgctxt "app"
 msgid "Error"
+msgstr ""
+
+msgctxt "app"
+msgid "Expires at"
+msgstr ""
+
+msgctxt "app"
+msgid "Explain what permissions you need and why you need them."
+msgstr ""
+
+msgctxt "app"
+msgid "Explanation of grant or deny"
 msgstr ""
 
 msgctxt "app"
@@ -531,6 +587,10 @@ msgid "Grant admin permissions"
 msgstr ""
 
 msgctxt "app"
+msgid "Granted"
+msgstr ""
+
+msgctxt "app"
 msgid "HeRAMS email verification"
 msgstr ""
 
@@ -572,6 +632,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
+msgstr ""
+
+msgctxt "app"
+msgid "Implicitly granted"
 msgstr ""
 
 msgctxt "app"
@@ -731,6 +795,10 @@ msgid "New workspace"
 msgstr ""
 
 msgctxt "app"
+msgid "Newsletter subscription"
+msgstr ""
+
+msgctxt "app"
 msgid "No"
 msgstr ""
 
@@ -751,10 +819,6 @@ msgid "None"
 msgstr ""
 
 msgctxt "app"
-msgid "Not allowed"
-msgstr ""
-
-msgctxt "app"
 msgid "Not available"
 msgstr ""
 
@@ -764,6 +828,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Not normally provided"
+msgstr ""
+
+msgctxt "app"
+msgid "Notifications"
 msgstr ""
 
 msgctxt "app"
@@ -788,6 +856,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Other"
+msgstr ""
+
+msgctxt "app"
+msgid "Other, explain in request"
 msgstr ""
 
 msgctxt "app"
@@ -852,6 +924,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Permissions to grant"
 msgstr ""
 
 msgctxt "app"
@@ -923,6 +999,10 @@ msgid "Question code containing the type (case sensitive)"
 msgstr ""
 
 msgctxt "app"
+msgid "Read"
+msgstr ""
+
+msgctxt "app"
 msgid "Refresh"
 msgstr ""
 
@@ -959,7 +1039,23 @@ msgid "Report date"
 msgstr ""
 
 msgctxt "app"
+msgid "Request"
+msgstr ""
+
+msgctxt "app"
+msgid "Request access"
+msgstr ""
+
+msgctxt "app"
 msgid "Request password reset"
+msgstr ""
+
+msgctxt "app"
+msgid "Requested access to {modelName}"
+msgstr ""
+
+msgctxt "app"
+msgid "Requested permissions"
 msgstr ""
 
 msgctxt "app"
@@ -971,7 +1067,31 @@ msgid "Reset your password"
 msgstr ""
 
 msgctxt "app"
+msgid "Respond"
+msgstr ""
+
+msgctxt "app"
+msgid "Respond to: {modelName}"
+msgstr ""
+
+msgctxt "app"
+msgid "Responded at"
+msgstr ""
+
+msgctxt "app"
+msgid "Responded by"
+msgstr ""
+
+msgctxt "app"
+msgid "Response"
+msgstr ""
+
+msgctxt "app"
 msgid "Responses"
+msgstr ""
+
+msgctxt "app"
+msgid "Review the requested permission. Either grant permissions by selecting the permissions you think are applicable or deny the request by leaving the granted permissions empty. Explain your decision in the textarea."
 msgstr ""
 
 msgctxt "app"
@@ -1027,6 +1147,14 @@ msgid "Status"
 msgstr ""
 
 msgctxt "app"
+msgid "Subject"
+msgstr ""
+
+msgctxt "app"
+msgid "Subscribe to newsletter"
+msgstr ""
+
+msgctxt "app"
 msgid "Success"
 msgstr ""
 
@@ -1055,6 +1183,18 @@ msgid "Target"
 msgstr ""
 
 msgctxt "app"
+msgid "Target class"
+msgstr ""
+
+msgctxt "app"
+msgid "Target title"
+msgstr ""
+
+msgctxt "app"
+msgid "Target type"
+msgstr ""
+
+msgctxt "app"
 msgid "Tertiary"
 msgstr ""
 
@@ -1076,6 +1216,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "The token field that is used as the workspace name, empty token attributes are ignored"
+msgstr ""
+
+msgctxt "app"
+msgid "There are open access requests that you can respond to."
 msgstr ""
 
 msgctxt "app"
@@ -1167,10 +1311,6 @@ msgid "Update account"
 msgstr ""
 
 msgctxt "app"
-msgid "Update account information"
-msgstr ""
-
-msgctxt "app"
 msgid "Update element"
 msgstr ""
 
@@ -1188,6 +1328,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Update password"
+msgstr ""
+
+msgctxt "app"
+msgid "Update profile"
 msgstr ""
 
 msgctxt "app"
@@ -1231,11 +1375,19 @@ msgid "Validation failed"
 msgstr ""
 
 msgctxt "app"
+msgid "View"
+msgstr ""
+
+msgctxt "app"
 msgid "View current users"
 msgstr ""
 
 msgctxt "app"
 msgid "View dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "View project"
 msgstr ""
 
 msgctxt "app"
@@ -1323,6 +1475,10 @@ msgid "World overview"
 msgstr ""
 
 msgctxt "app"
+msgid "Write"
+msgstr ""
+
+msgctxt "app"
 msgid "Yes"
 msgstr ""
 
@@ -1331,11 +1487,23 @@ msgid "You are currently logged in with {user}. You can either accept the invita
 msgstr ""
 
 msgctxt "app"
+msgid "You are not allowed to request access to this project"
+msgstr ""
+
+msgctxt "app"
+msgid "You are not allowed to request access to this workspace"
+msgstr ""
+
+msgctxt "app"
 msgid "You are not allowed to share this project"
 msgstr ""
 
 msgctxt "app"
 msgid "You may search for multiple terms, only results that contain all terms are shown"
+msgstr ""
+
+msgctxt "app"
+msgid "Your access requests"
 msgstr ""
 
 msgctxt "app"

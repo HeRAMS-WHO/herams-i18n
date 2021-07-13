@@ -84,6 +84,38 @@ msgid "Accept invitation"
 msgstr "Console administrative"
 
 msgctxt "app"
+msgid "Accepted"
+msgstr ""
+
+msgctxt "app"
+msgid "Access request has been <strong>granted</strong>."
+msgstr ""
+
+msgctxt "app"
+msgid "Access request has been <strong>revoked</strong>."
+msgstr ""
+
+msgctxt "app"
+msgid "Access request history"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests history"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests to respond to"
+msgstr ""
+
+msgctxt "app"
+msgid "Access requests you responded to"
+msgstr ""
+
+msgctxt "app"
 msgid "Actions"
 msgstr "Actions"
 
@@ -120,10 +152,6 @@ msgstr ""
 msgctxt "app"
 msgid "Allow everything"
 msgstr "Autoriser tout"
-
-msgctxt "app"
-msgid "Allowed"
-msgstr "Autorisé(e)"
 
 msgctxt "app"
 msgid "Already shared with"
@@ -228,6 +256,10 @@ msgid "Become this user"
 msgstr "Devenir cet utilisateur"
 
 msgctxt "app"
+msgid "Body"
+msgstr ""
+
+msgctxt "app"
 msgid "Causes of unavailability"
 msgstr "Causes d'indisponibilité"
 
@@ -255,6 +287,11 @@ msgstr "Configurer le tableau de bord"
 msgctxt "app"
 msgid "Confirm password"
 msgstr "Mot de passe actuel"
+
+#, fuzzy
+msgctxt "app"
+msgid "Contribute data"
+msgstr "# de contributeurs"
 
 msgctxt "app"
 msgid "Contributors"
@@ -314,6 +351,11 @@ msgstr "Créer un espace de travail"
 
 msgctxt "app"
 msgid "Created at"
+msgstr "Créer à"
+
+#, fuzzy
+msgctxt "app"
+msgid "Created by"
 msgstr "Créer à"
 
 msgctxt "app"
@@ -400,6 +442,10 @@ msgid "Donut"
 msgstr "Beignet"
 
 msgctxt "app"
+msgid "Download data"
+msgstr "Télécharger les données"
+
+msgctxt "app"
 msgid "Duration"
 msgstr "Durée"
 
@@ -472,6 +518,18 @@ msgstr ""
 msgctxt "app"
 msgid "Error"
 msgstr "Erreur"
+
+msgctxt "app"
+msgid "Expires at"
+msgstr ""
+
+msgctxt "app"
+msgid "Explain what permissions you need and why you need them."
+msgstr ""
+
+msgctxt "app"
+msgid "Explanation of grant or deny"
+msgstr ""
 
 msgctxt "app"
 msgid "Export CSV"
@@ -568,6 +626,10 @@ msgid "Grant admin permissions"
 msgstr "Accorder des permissions administratives"
 
 msgctxt "app"
+msgid "Granted"
+msgstr ""
+
+msgctxt "app"
 msgid "HeRAMS email verification"
 msgstr "HeRAMS vérification d'email"
 
@@ -611,6 +673,10 @@ msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
 msgstr ""
 "Si vous utilisez une option prédéfinie, elle sera automatiquement traduite"
+
+msgctxt "app"
+msgid "Implicitly granted"
+msgstr ""
 
 msgctxt "app"
 msgid "Import Pages"
@@ -773,6 +839,10 @@ msgid "New workspace"
 msgstr "Nouvel espace de travail"
 
 msgctxt "app"
+msgid "Newsletter subscription"
+msgstr ""
+
+msgctxt "app"
 msgid "No"
 msgstr "Non"
 
@@ -793,10 +863,6 @@ msgid "None"
 msgstr "Aucun"
 
 msgctxt "app"
-msgid "Not allowed"
-msgstr "non autorisé(e)"
-
-msgctxt "app"
 msgid "Not available"
 msgstr "Non disponible"
 
@@ -807,6 +873,11 @@ msgstr "Pas fonctionnels"
 msgctxt "app"
 msgid "Not normally provided"
 msgstr "Non prévu"
+
+#, fuzzy
+msgctxt "app"
+msgid "Notifications"
+msgstr "Pas fonctionnels"
 
 msgctxt "app"
 msgid "Off"
@@ -835,6 +906,10 @@ msgstr ""
 msgctxt "app"
 msgid "Other"
 msgstr "Autre"
+
+msgctxt "app"
+msgid "Other, explain in request"
+msgstr ""
 
 msgctxt "app"
 msgid "Overrides"
@@ -898,6 +973,11 @@ msgstr "Permission"
 
 msgctxt "app"
 msgid "Permissions"
+msgstr "Permissions"
+
+#, fuzzy
+msgctxt "app"
+msgid "Permissions to grant"
 msgstr "Permissions"
 
 msgctxt "app"
@@ -978,6 +1058,10 @@ msgid "Question code containing the type (case sensitive)"
 msgstr "Code question contenant le type (sensible à la casse)"
 
 msgctxt "app"
+msgid "Read"
+msgstr ""
+
+msgctxt "app"
 msgid "Refresh"
 msgstr "Actualiser"
 
@@ -1027,8 +1111,26 @@ msgid "Report date"
 msgstr "Date du rapport"
 
 msgctxt "app"
+msgid "Request"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Request access"
+msgstr "Réinitialisation du mot de passe"
+
+msgctxt "app"
 msgid "Request password reset"
 msgstr "Réinitialisation du mot de passe"
+
+msgctxt "app"
+msgid "Requested access to {modelName}"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Requested permissions"
+msgstr "Voir les permissions des utilisateurs"
 
 msgctxt "app"
 msgid "Reset password"
@@ -1038,9 +1140,40 @@ msgctxt "app"
 msgid "Reset your password"
 msgstr "Réinitialisation du mot de passe"
 
+#, fuzzy
+msgctxt "app"
+msgid "Respond"
+msgstr "Réponses"
+
+msgctxt "app"
+msgid "Respond to: {modelName}"
+msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "Responded at"
+msgstr "# des réponses"
+
+#, fuzzy
+msgctxt "app"
+msgid "Responded by"
+msgstr "Réponses"
+
+#, fuzzy
+msgctxt "app"
+msgid "Response"
+msgstr "Réponses"
+
 msgctxt "app"
 msgid "Responses"
 msgstr "Réponses"
+
+msgctxt "app"
+msgid ""
+"Review the requested permission. Either grant permissions by selecting the "
+"permissions you think are applicable or deny the request by leaving the "
+"granted permissions empty. Explain your decision in the textarea."
+msgstr ""
 
 msgctxt "app"
 msgid "Save"
@@ -1097,6 +1230,14 @@ msgctxt "app"
 msgid "Status"
 msgstr "Statut"
 
+msgctxt "app"
+msgid "Subject"
+msgstr ""
+
+msgctxt "app"
+msgid "Subscribe to newsletter"
+msgstr ""
+
 #, fuzzy
 msgctxt "app"
 msgid "Success"
@@ -1127,6 +1268,21 @@ msgstr "Gestion des espaces de travail"
 msgctxt "app"
 msgid "Target"
 msgstr "ID cible"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target class"
+msgstr "ID cible"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target title"
+msgstr "Type cible"
+
+#, fuzzy
+msgctxt "app"
+msgid "Target type"
+msgstr "Type cible"
 
 msgctxt "app"
 msgid "Tertiary"
@@ -1164,6 +1320,10 @@ msgid ""
 msgstr ""
 "Champ du token utilisé pour le nom de l'espace de travail, les champs vides "
 "sont ignorés"
+
+msgctxt "app"
+msgid "There are open access requests that you can respond to."
+msgstr ""
 
 msgctxt "app"
 msgid "This action cannot be undone."
@@ -1258,10 +1418,6 @@ msgid "Update account"
 msgstr "Mise à jour du compte"
 
 msgctxt "app"
-msgid "Update account information"
-msgstr "Mise à jour des données du compte"
-
-msgctxt "app"
 msgid "Update element"
 msgstr "Mise à jour de l'élément"
 
@@ -1282,6 +1438,11 @@ msgstr "Mise à jour de la page"
 msgctxt "app"
 msgid "Update password"
 msgstr "Modifier le mot de passe"
+
+#, fuzzy
+msgctxt "app"
+msgid "Update profile"
+msgstr "Modifier le projet"
 
 msgctxt "app"
 msgid "Update token"
@@ -1325,12 +1486,21 @@ msgid "Validation failed"
 msgstr "Erreur de validation"
 
 msgctxt "app"
+msgid "View"
+msgstr ""
+
+msgctxt "app"
 msgid "View current users"
 msgstr "Afficher les utilisateurs actuels"
 
 msgctxt "app"
 msgid "View dashboard"
 msgstr "Afficher le tableau de bord"
+
+#, fuzzy
+msgctxt "app"
+msgid "View project"
+msgstr "Créer un projet"
 
 msgctxt "app"
 msgid "View user permissions"
@@ -1435,6 +1605,11 @@ msgctxt "app"
 msgid "World overview"
 msgstr "Vue globale"
 
+#, fuzzy
+msgctxt "app"
+msgid "Write"
+msgstr "Favoris"
+
 msgctxt "app"
 msgid "Yes"
 msgstr "Oui"
@@ -1444,6 +1619,16 @@ msgid ""
 "You are currently logged in with {user}. You can either accept the "
 "invitation with the current account or create a new account below."
 msgstr ""
+
+#, fuzzy
+msgctxt "app"
+msgid "You are not allowed to request access to this project"
+msgstr "Vous n'avez pas la permission de partager ce projet"
+
+#, fuzzy
+msgctxt "app"
+msgid "You are not allowed to request access to this workspace"
+msgstr "Vous n'avez pas la permission de partager ce projet"
 
 msgctxt "app"
 msgid "You are not allowed to share this project"
@@ -1456,6 +1641,10 @@ msgid ""
 msgstr ""
 "Vous pouvez rechercher plusieurs termes, seuls les résultats qui contiennent "
 "tous les termes sont affichés"
+
+msgctxt "app"
+msgid "Your access requests"
+msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
@@ -1695,6 +1884,18 @@ msgid "Country code {value} is not valid"
 msgstr ""
 
 #~ msgctxt "app"
+#~ msgid "Allowed"
+#~ msgstr "Autorisé(e)"
+
+#~ msgctxt "app"
+#~ msgid "Not allowed"
+#~ msgstr "non autorisé(e)"
+
+#~ msgctxt "app"
+#~ msgid "Update account information"
+#~ msgstr "Mise à jour des données du compte"
+
+#~ msgctxt "app"
 #~ msgid "Export all pages to pdf"
 #~ msgstr "Exporter toutes les pages au format pdf"
 
@@ -1712,25 +1913,12 @@ msgstr ""
 #~ msgstr "Le projet {modelName} a été partagé avec: {users}"
 
 #~ msgctxt "app"
-#~ msgid "Download data"
-#~ msgstr "Télécharger les données"
-
-#~ msgctxt "app"
 #~ msgid "Download"
 #~ msgstr "Télécharger"
 
 #~ msgctxt "app"
-#~ msgid "Update project"
-#~ msgstr "Modifier le projet"
-
-#~ msgctxt "app"
 #~ msgid "Edit dashboard"
 #~ msgstr "Modifier le tableau de bord"
-
-#, fuzzy
-#~ msgctxt "app"
-#~ msgid "Favorite"
-#~ msgstr "Favoris"
 
 #~ msgctxt "app"
 #~ msgid "Share"
@@ -1751,10 +1939,6 @@ msgstr ""
 #~ msgctxt "app"
 #~ msgid "Already have an account? Sign in!"
 #~ msgstr "Vous avez déjà un compte ? Connectez-vous !"
-
-#~ msgctxt "app"
-#~ msgid "Contributor count"
-#~ msgstr "# de contributeurs"
 
 #~ msgctxt "app"
 #~ msgid "Create Project"
@@ -1795,10 +1979,6 @@ msgstr ""
 #~ msgctxt "app"
 #~ msgid "PDF"
 #~ msgstr "PDF"
-
-#~ msgctxt "app"
-#~ msgid "Response count"
-#~ msgstr "# des réponses"
 
 #~ msgctxt "app"
 #~ msgid "Settings"
