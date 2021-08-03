@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-03 12:46+0000\n"
+"PO-Revision-Date: 2021-08-03 15:25+0000\n"
 "Last-Translator: Ousmane Toure <obtoure@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
@@ -1286,7 +1286,7 @@ msgstr "Agrégation de la disponibilité des services par structure sanitaire"
 
 msgctxt "app"
 msgid "The invitation was accepted"
-msgstr ""
+msgstr "L'invitation a été acceptée"
 
 msgctxt "app"
 msgid "The page you are looking for doesn't exist"
@@ -1302,7 +1302,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "There are open access requests that you can respond to."
-msgstr ""
+msgstr "Il existe des demandes d'accès ouvert auxquelles vous pouvez répondre."
 
 msgctxt "app"
 msgid "This action cannot be undone."
@@ -1311,6 +1311,7 @@ msgstr "Cette action ne peut pas être annulée."
 msgctxt "app"
 msgid "This email is already in use, log in and click the link again."
 msgstr ""
+"Cet e-mail est déjà utilisé, connectez-vous et cliquez à nouveau sur le lien."
 
 msgctxt "app"
 msgid ""
@@ -1330,7 +1331,6 @@ msgctxt "app"
 msgid "This will permanently delete the workspace."
 msgstr "Cela supprimera définitivement espaces de travail."
 
-#, fuzzy
 msgctxt "app"
 msgid "This will reload the page losing all other changes"
 msgstr "Les changements non enregistrés seront perdus"
@@ -1339,7 +1339,6 @@ msgctxt "app"
 msgid "Title"
 msgstr "Titre"
 
-#, fuzzy
 msgctxt "app"
 msgid "Token updated"
 msgstr "Token mis à jour."
@@ -1350,7 +1349,7 @@ msgstr "Trop de tentatives simultanées. Réessayez dans {seconds} secondes"
 
 msgctxt "app"
 msgid "Translated attributes"
-msgstr ""
+msgstr "Traduire les attributions"
 
 msgctxt "app"
 msgid "Transpose"
@@ -1400,16 +1399,14 @@ msgctxt "app"
 msgid "Update element"
 msgstr "Mise à jour de l'élément"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update element & go back"
-msgstr "Enregistrer / Retourner au tableau de bord"
+msgstr "Mettre à jour l'élément et revenir en arrière"
 
 msgctxt "app"
 msgid "Update page"
 msgstr "Mise à jour de la page"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update page: {page}"
 msgstr "Mise à jour de la page"
@@ -1418,10 +1415,9 @@ msgctxt "app"
 msgid "Update password"
 msgstr "Modifier le mot de passe"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update profile"
-msgstr "Modifier le projet"
+msgstr "Modifier le profil"
 
 msgctxt "app"
 msgid "Update token"
@@ -1455,10 +1451,9 @@ msgctxt "app"
 msgid "Users"
 msgstr "Utilisateurs"
 
-#, fuzzy
 msgctxt "app"
 msgid "Users ({n})"
-msgstr "Utilisateurs"
+msgstr "Utilisateurs ({n})"
 
 msgctxt "app"
 msgid "Validation failed"
@@ -1466,7 +1461,7 @@ msgstr "Erreur de validation"
 
 msgctxt "app"
 msgid "View"
-msgstr ""
+msgstr "Affichage"
 
 msgctxt "app"
 msgid "View current users"
@@ -1476,10 +1471,9 @@ msgctxt "app"
 msgid "View dashboard"
 msgstr "Afficher le tableau de bord"
 
-#, fuzzy
 msgctxt "app"
 msgid "View project"
-msgstr "Créer un projet"
+msgstr "Affichage du projet"
 
 msgctxt "app"
 msgid "View user permissions"
@@ -1489,12 +1483,10 @@ msgctxt "app"
 msgid "Visibility"
 msgstr "Visibilité"
 
-#, fuzzy
 msgctxt "app"
 msgid "Warning"
 msgstr "Alerte"
 
-#, fuzzy
 msgctxt "app"
 msgid "We use this field to store the country for the project"
 msgstr "Ce champs contient le pays du projet"
@@ -1530,7 +1522,6 @@ msgctxt "app"
 msgid "Width"
 msgstr "Largeur"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace"
 msgstr "Espaces de travail"
@@ -1539,42 +1530,38 @@ msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
 msgstr "Espace de travail <strong>{modelName}</strong> créé"
 
-#, fuzzy
 msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
 "</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
-"Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
-"</strong>"
+"L'espace de travail <strong>{modelName}</strong> a été partagé avec : "
+"<strong>{users}</strong> et les utilisateurs invités : "
+"<strong>{invitedUsers}</strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace owner"
-msgstr "Espaces de travail"
+msgstr "Proprieteur de l'espaces de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace settings"
-msgstr "Espaces de travail"
+msgstr "Paramêtres de l'espaces de travail"
 
 msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "Espace de travail {workspace}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspace {workspace} has been updated"
-msgstr "Espace de travail {workspace}"
+msgstr "Espace de travail {workspace} a été mis à jour"
 
 msgctxt "app"
 msgid "Workspaces"
 msgstr "Espaces de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Workspaces ({n})"
-msgstr "Espaces de travail"
+msgstr "Espaces de travail ({n})"
 
 msgctxt "app"
 msgid "Workspaces for {project}"
@@ -1584,10 +1571,9 @@ msgctxt "app"
 msgid "World overview"
 msgstr "Vue globale"
 
-#, fuzzy
 msgctxt "app"
 msgid "Write"
-msgstr "Favoris"
+msgstr "Ecrire"
 
 msgctxt "app"
 msgid "Yes"
@@ -1598,16 +1584,16 @@ msgid ""
 "You are currently logged in with {user}. You can either accept the "
 "invitation with the current account or create a new account below."
 msgstr ""
+"Vous êtes actuellement connecté avec {user}. Vous pouvez soit accepter "
+"l'invitation avec le compte actuel, soit créer un nouveau compte ci-dessous."
 
-#, fuzzy
 msgctxt "app"
 msgid "You are not allowed to request access to this project"
-msgstr "Vous n'avez pas la permission de partager ce projet"
+msgstr "Vous n'avez pas la permission d'acceder à ce projet"
 
-#, fuzzy
 msgctxt "app"
 msgid "You are not allowed to request access to this workspace"
-msgstr "Vous n'avez pas la permission de partager ce projet"
+msgstr "Vous n'avez pas la permission d'accéder à ce projet"
 
 msgctxt "app"
 msgid "You are not allowed to share this project"
@@ -1623,16 +1609,15 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your access requests"
-msgstr ""
+msgstr "Vos demandes d'accès"
 
 msgctxt "app"
 msgid "Your account has been created"
 msgstr "Compte enregistré"
 
-#, fuzzy
 msgctxt "app"
 msgid "Your account has been created and invitation was accepted."
-msgstr "Compte enregistré"
+msgstr "Votre compte a été créé et l'invitation a été acceptée."
 
 msgctxt "app"
 msgid "Your email address has already been changed"
@@ -1642,7 +1627,6 @@ msgctxt "app"
 msgid "Your email address has been updated"
 msgstr "Votre email a été modifié"
 
-#, fuzzy
 msgctxt "app"
 msgid "Your password has been reset"
 msgstr "Mot de passe réinitialisé"
@@ -1655,7 +1639,6 @@ msgctxt "app"
 msgid "never"
 msgstr "Jamais"
 
-#, fuzzy
 msgctxt "app"
 msgid "pages"
 msgstr "Pages"
@@ -1664,42 +1647,34 @@ msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr "{0, date, MMMM dd, YYYY HH:mm}"
 
-#, fuzzy
 msgctxt "app"
 msgid "{value} is an invalid email address."
-msgstr "Erreur de mise à jour de l'adresse email"
+msgstr "{valeur} est une adresse e-mail invalide."
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Closed"
 msgstr "Fermé"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Contributors"
 msgstr "Contributeurs"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Facilities"
 msgstr "Structures sanitaires"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Latest update"
 msgstr "Dernière mise à jour"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Project"
 msgstr "Projet"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Responses"
 msgstr "Réponses"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Token"
 msgstr "Token"
@@ -1718,11 +1693,11 @@ msgstr "État des bâtiments et des équipements"
 
 msgctxt "app.pagetitle"
 msgid "Child health"
-msgstr ""
+msgstr "Santé de l'enfant"
 
 msgctxt "app.pagetitle"
 msgid "Child health & nutrition"
-msgstr ""
+msgstr "Santé et nutrition de l'enfant"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
@@ -1730,7 +1705,7 @@ msgstr "Chaîne de froid"
 
 msgctxt "app.pagetitle"
 msgid "Communicable diseases"
-msgstr ""
+msgstr "Maladies transmissibles"
 
 msgctxt "app.pagetitle"
 msgid "Communication"
@@ -1746,23 +1721,23 @@ msgstr "Fonctionnalité"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services"
-msgstr ""
+msgstr "Services cliniques généraux"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care"
-msgstr ""
+msgstr "Services cliniques généraux et soins de traumatologie"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part I)"
-msgstr ""
+msgstr "Services cliniques généraux et soins de traumatologie (partie I)"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part II)"
-msgstr ""
+msgstr "Services cliniques généraux et soins de traumatologie (partie II)"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part III)"
-msgstr ""
+msgstr "Services cliniques généraux et soins de traumatologie (Partie III)"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
@@ -1778,20 +1753,19 @@ msgstr "Gestion et soutien"
 
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
-msgstr ""
+msgstr "Santé maternelle et néonatale"
 
 msgctxt "app.pagetitle"
 msgid "Mental health"
-msgstr ""
+msgstr "Santé mentale"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
-msgstr ""
+msgstr "Maladies non transmissible"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Nutrition"
-msgstr "Durée"
+msgstr "Nutrition"
 
 msgctxt "app.pagetitle"
 msgid "Overview"
@@ -1803,7 +1777,7 @@ msgstr "Énergie"
 
 msgctxt "app.pagetitle"
 msgid "STI & HIV/AIDS"
-msgstr ""
+msgstr "IST & VIH/SIDA"
 
 msgctxt "app.pagetitle"
 msgid "Sanitation"
@@ -1815,20 +1789,19 @@ msgstr "Disponibilité des services de santé"
 
 msgctxt "app.pagetitle"
 msgid "Sexual and reproductive health"
-msgstr ""
+msgstr "Santé sexuelle et reproductive"
 
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
-msgstr ""
+msgstr "Violence sexuelle"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
-msgstr ""
+msgstr "Soins tramatologiques"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Vaccination"
-msgstr "Assainissement"
+msgstr "Vaccination"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"
@@ -1860,7 +1833,7 @@ msgstr "Type cible"
 
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
-msgstr ""
+msgstr "Le code de pays {valeur} n'est pas valide"
 
 #~ msgctxt "app"
 #~ msgid "Allowed"
