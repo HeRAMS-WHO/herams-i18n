@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-03 10:48+0000\n"
-"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"PO-Revision-Date: 2021-08-03 12:46+0000\n"
+"Last-Translator: Ousmane Toure <obtoure@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
 "Language: fr\n"
@@ -72,7 +72,6 @@ msgctxt "app"
 msgid "A table"
 msgstr "Tableau"
 
-#, fuzzy
 msgctxt "app"
 msgid "A verification email has been sent to your address"
 msgstr "Un e-mail de vérification a été envoyé à votre adresse"
@@ -91,27 +90,27 @@ msgstr "La demande d'accès a été <strong>approuvée.</strong>."
 
 msgctxt "app"
 msgid "Access request has been <strong>revoked</strong>."
-msgstr ""
+msgstr "La demande d'accès a été <strong>révoquée</strong>."
 
 msgctxt "app"
 msgid "Access request history"
-msgstr ""
+msgstr "Historique des demandes d'accès"
 
 msgctxt "app"
 msgid "Access requests"
-msgstr ""
+msgstr "Demandes d'accès"
 
 msgctxt "app"
 msgid "Access requests history"
-msgstr ""
+msgstr "Historiques des Demandes d'accès"
 
 msgctxt "app"
 msgid "Access requests to respond to"
-msgstr ""
+msgstr "Demandes d'accès pour répondre à"
 
 msgctxt "app"
 msgid "Access requests you responded to"
-msgstr ""
+msgstr "Demandes d'accès pour répondre à"
 
 msgctxt "app"
 msgid "Actions"
@@ -175,7 +174,6 @@ msgctxt "app"
 msgid "Apply filters"
 msgstr "Appliquer les filtres"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete all workspaces?"
 msgstr "Êtes-vous ABSOLUMENT SÛR de vouloir supprimer cet espace de travail ?"
@@ -207,15 +205,13 @@ msgstr ""
 "Êtes-vous sûr de vouloir passer à cet utilisateur pour le reste de la "
 "session?"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you sure you wish to remove the workspaces from the system?"
 msgstr "Êtes-vous sûr de vouloir supprimer cet espace de travail ?"
 
-#, fuzzy
 msgctxt "app"
 msgid "Are you sure you wish to remove this element from the page?"
-msgstr "Êtes-vous sûr de vouloir supprimer cet outil ?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet élément de la page ?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -247,7 +243,7 @@ msgstr "barre"
 
 msgctxt "app"
 msgid "Baseline"
-msgstr ""
+msgstr "Référence"
 
 msgctxt "app"
 msgid "Become this user"
@@ -255,7 +251,7 @@ msgstr "Devenir cet utilisateur"
 
 msgctxt "app"
 msgid "Body"
-msgstr ""
+msgstr "corps"
 
 msgctxt "app"
 msgid "Causes of unavailability"
@@ -281,15 +277,13 @@ msgctxt "app"
 msgid "Configure dashboard"
 msgstr "Configurer le tableau de bord"
 
-#, fuzzy
 msgctxt "app"
 msgid "Confirm password"
-msgstr "Mot de passe actuel"
+msgstr "Confirmez le mot de passe"
 
-#, fuzzy
 msgctxt "app"
 msgid "Contribute data"
-msgstr "# de contributeurs"
+msgstr "contributeurs de données"
 
 msgctxt "app"
 msgid "Contributors"
@@ -351,10 +345,9 @@ msgctxt "app"
 msgid "Created at"
 msgstr "Créer à"
 
-#, fuzzy
 msgctxt "app"
 msgid "Created by"
-msgstr "Créer à"
+msgstr "Créer par"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
@@ -489,7 +482,7 @@ msgstr "Email déjà utilisé"
 
 msgctxt "app"
 msgid "Emergency specific"
-msgstr ""
+msgstr "Spécifique aux urgences"
 
 msgctxt "app"
 msgid "Empty project"
@@ -512,6 +505,7 @@ msgstr ""
 msgctxt "app"
 msgid "Enter the email address you want to use for your account."
 msgstr ""
+"Saisissez l'adresse e-mail que vous souhaitez utiliser pour votre compte."
 
 msgctxt "app"
 msgid "Error"
@@ -519,15 +513,17 @@ msgstr "Erreur"
 
 msgctxt "app"
 msgid "Expires at"
-msgstr ""
+msgstr "Expire à"
 
 msgctxt "app"
 msgid "Explain what permissions you need and why you need them."
 msgstr ""
+"Expliquez les autorisations dont vous avez besoin et pourquoi vous en avez "
+"besoin."
 
 msgctxt "app"
 msgid "Explanation of grant or deny"
-msgstr ""
+msgstr "Explication de l'octroi ou du refus"
 
 msgctxt "app"
 msgid "Export CSV"
@@ -601,19 +597,17 @@ msgctxt "app"
 msgid "Functionality"
 msgstr "Fonctionnalité"
 
-#, fuzzy
 msgctxt "app"
 msgid "Global permissions"
-msgstr "Ajouter des permissions"
+msgstr "des permissions globales"
 
-#, fuzzy
 msgctxt "app"
 msgid ""
 "Global permissions granted to: <strong>{users}</strong> and invited users: "
 "<strong>{invitedUsers}</strong>"
 msgstr ""
-"Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
-"</strong>"
+"Autorisations globales accordées à : <strong>{users}</strong> et aux "
+"utilisateurs invités : <strong>{invitedUsers}</strong>"
 
 msgctxt "app"
 msgid "Go to workspaces"
@@ -625,7 +619,7 @@ msgstr "Accorder des permissions administratives"
 
 msgctxt "app"
 msgid "Granted"
-msgstr ""
+msgstr "Accordée"
 
 msgctxt "app"
 msgid "HeRAMS email verification"
@@ -658,6 +652,7 @@ msgstr "Masqué"
 msgctxt "app"
 msgid "Hidden, this project is only visible to people with permissions"
 msgstr ""
+"Masqué, ce projet n'est visible que par les personnes ayant des autorisations"
 
 msgctxt "app"
 msgid "Home"
@@ -674,7 +669,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Implicitly granted"
-msgstr ""
+msgstr "Implicitement accordé"
 
 msgctxt "app"
 msgid "Import Pages"
@@ -706,11 +701,11 @@ msgstr "Info"
 
 msgctxt "app"
 msgid "Invalid user."
-msgstr ""
+msgstr "Utilisateur invalide."
 
 msgctxt "app"
 msgid "Invalid value {value} for enum"
-msgstr ""
+msgstr "Valeur non valide {valeur} pour enum"
 
 msgctxt "app"
 msgid "Is the service fully available"
@@ -740,10 +735,9 @@ msgctxt "app"
 msgid "Language"
 msgstr "Langue"
 
-#, fuzzy
 msgctxt "app"
 msgid "Languages"
-msgstr "Langue"
+msgstr "Langues"
 
 msgctxt "app"
 msgid "Last login at"
@@ -759,7 +753,7 @@ msgstr "Latitude"
 
 msgctxt "app"
 msgid "Lead"
-msgstr ""
+msgstr "Mener"
 
 msgctxt "app"
 msgid "Loading Error"
@@ -785,10 +779,9 @@ msgctxt "app"
 msgid "Manage data implies creating facilities"
 msgstr "Gérer les données implique la création de structures"
 
-#, fuzzy
 msgctxt "app"
 msgid "Manage surveys"
-msgstr "Gestion des utilisateurs"
+msgstr "Gérer les sondages"
 
 msgctxt "app"
 msgid "Manage users"
@@ -807,10 +800,9 @@ msgctxt "app"
 msgid "Marker radius"
 msgstr "Rayon du marqueur"
 
-#, fuzzy
 msgctxt "app"
 msgid "Mass workspace sync"
-msgstr "Gestion des espaces de travail"
+msgstr "Synchronisation de masse de l'espace de travail"
 
 msgctxt "app"
 msgid "N/A"
@@ -838,7 +830,7 @@ msgstr "Nouvel espace de travail"
 
 msgctxt "app"
 msgid "Newsletter subscription"
-msgstr ""
+msgstr "Inscription à la Nouvelle lettre"
 
 msgctxt "app"
 msgid "No"
@@ -872,10 +864,9 @@ msgctxt "app"
 msgid "Not normally provided"
 msgstr "Non prévu"
 
-#, fuzzy
 msgctxt "app"
 msgid "Notifications"
-msgstr "Pas fonctionnels"
+msgstr "Notifications"
 
 msgctxt "app"
 msgid "Off"
@@ -891,7 +882,7 @@ msgstr "en marche (sur)"
 
 msgctxt "app"
 msgid "Ongoing"
-msgstr ""
+msgstr "en cours"
 
 msgctxt "app"
 msgid ""
@@ -907,7 +898,7 @@ msgstr "Autre"
 
 msgctxt "app"
 msgid "Other, explain in request"
-msgstr ""
+msgstr "Autre, expliquez dans la demande"
 
 msgctxt "app"
 msgid "Overrides"
@@ -973,10 +964,9 @@ msgctxt "app"
 msgid "Permissions"
 msgstr "Permissions"
 
-#, fuzzy
 msgctxt "app"
 msgid "Permissions to grant"
-msgstr "Permissions"
+msgstr "Permissions accordées"
 
 msgctxt "app"
 msgid "Please check your mailbox"
@@ -995,6 +985,8 @@ msgid ""
 "Private, this project is visible on the map and in the list, but people need "
 "permission to view it"
 msgstr ""
+"Privé, ce projet est visible sur la carte et dans la liste, mais les gens "
+"ont besoin d'une autorisation pour le voir"
 
 msgctxt "app"
 msgid "Profile"
@@ -1004,32 +996,29 @@ msgctxt "app"
 msgid "Project"
 msgstr "Projet"
 
-#, fuzzy
 msgctxt "app"
 msgid ""
 "Project <strong>{modelName}</strong> has been shared with: <strong>{users}</"
 "strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
-"Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
-"</strong>"
+"Le projet <strong>{modelName}</strong> a été partagé avec : <strong>{users}</"
+"strong> et les utilisateurs invités : <strong>{invitedUsers}</strong>"
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr "Projet <strong>{project}</strong> créé"
 
-#, fuzzy
 msgctxt "app"
 msgid "Project coordinator"
-msgstr "Tableau de bord du projet"
+msgstr "Coordinateur du projet"
 
 msgctxt "app"
 msgid "Project dashboard"
 msgstr "Tableau de bord du projet"
 
-#, fuzzy
 msgctxt "app"
 msgid "Project settings"
-msgstr "Modifier les paramètres"
+msgstr "Les paramètres du projet"
 
 msgctxt "app"
 msgid "Project status is shown on the world map"
@@ -1045,7 +1034,7 @@ msgstr "Projets"
 
 msgctxt "app"
 msgid "Public, anyone can view this project"
-msgstr ""
+msgstr "Public, tout le monde peut voir ce projet"
 
 msgctxt "app"
 msgid "Question code containing the name (case sensitive)"
@@ -1057,7 +1046,7 @@ msgstr "Code question contenant le type (sensible à la casse)"
 
 msgctxt "app"
 msgid "Read"
-msgstr ""
+msgstr "Lire"
 
 msgctxt "app"
 msgid "Refresh"
@@ -1067,10 +1056,9 @@ msgctxt "app"
 msgid "Refresh data from limesurvey"
 msgstr "Rafraîchir les données"
 
-#, fuzzy
 msgctxt "app"
 msgid "Refresh workspace"
-msgstr "Nouvel espace de travail"
+msgstr "Actualiser l'espace de travail"
 
 msgctxt "app"
 msgid ""
@@ -1110,12 +1098,11 @@ msgstr "Date du rapport"
 
 msgctxt "app"
 msgid "Request"
-msgstr ""
+msgstr "Demande"
 
-#, fuzzy
 msgctxt "app"
 msgid "Request access"
-msgstr "Réinitialisation du mot de passe"
+msgstr "Demande d'accès"
 
 msgctxt "app"
 msgid "Request password reset"
@@ -1123,12 +1110,11 @@ msgstr "Réinitialisation du mot de passe"
 
 msgctxt "app"
 msgid "Requested access to {modelName}"
-msgstr ""
+msgstr "Accès demandé à {modelName}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Requested permissions"
-msgstr "Voir les permissions des utilisateurs"
+msgstr "les permissions demandées"
 
 msgctxt "app"
 msgid "Reset password"
@@ -1138,26 +1124,22 @@ msgctxt "app"
 msgid "Reset your password"
 msgstr "Réinitialisation du mot de passe"
 
-#, fuzzy
 msgctxt "app"
 msgid "Respond"
 msgstr "Réponses"
 
 msgctxt "app"
 msgid "Respond to: {modelName}"
-msgstr ""
+msgstr "Répondre à : {modelName}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Responded at"
-msgstr "# des réponses"
+msgstr "Répondée à"
 
-#, fuzzy
 msgctxt "app"
 msgid "Responded by"
-msgstr "Réponses"
+msgstr "Répondée par"
 
-#, fuzzy
 msgctxt "app"
 msgid "Response"
 msgstr "Réponses"
@@ -1172,6 +1154,10 @@ msgid ""
 "permissions you think are applicable or deny the request by leaving the "
 "granted permissions empty. Explain your decision in the textarea."
 msgstr ""
+"Vérifiez l'autorisation demandée. Accordez des autorisations en "
+"sélectionnant les autorisations que vous pensez applicables ou refusez la "
+"demande en laissant les autorisations accordées vides. Expliquez votre "
+"décision dans la zone de texte."
 
 msgctxt "app"
 msgid "Save"
@@ -1191,10 +1177,11 @@ msgctxt "app"
 msgid "Secondary"
 msgstr "Secondaires"
 
-#, fuzzy
 msgctxt "app"
 msgid "Select and sync any number of workspaces in the project"
-msgstr "supprimer toutes les espaces de travail"
+msgstr ""
+"Sélectionnez et synchronisez n'importe quel nombre d'espaces de travail dans "
+"le projet"
 
 msgctxt "app"
 msgid "Send confirmation"
@@ -1230,13 +1217,12 @@ msgstr "Statut"
 
 msgctxt "app"
 msgid "Subject"
-msgstr ""
+msgstr "Soumettre à"
 
 msgctxt "app"
 msgid "Subscribe to newsletter"
-msgstr ""
+msgstr "S'inscrire à journal"
 
-#, fuzzy
 msgctxt "app"
 msgid "Success"
 msgstr "Succès"
@@ -1255,32 +1241,27 @@ msgstr "Formulaire {id} inexistant"
 
 msgctxt "app"
 msgid "Sync"
-msgstr ""
+msgstr "Synchroniser"
 
-#, fuzzy
 msgctxt "app"
 msgid "Sync workspaces"
-msgstr "Gestion des espaces de travail"
+msgstr "Synchronisation de l' espaces de travail"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target"
-msgstr "ID cible"
+msgstr "Cible"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target class"
-msgstr "ID cible"
+msgstr "Classe du cible"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target title"
-msgstr "Type cible"
+msgstr "Titre de la cible"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target type"
-msgstr "Type cible"
+msgstr "Type de cible"
 
 msgctxt "app"
 msgid "Tertiary"
