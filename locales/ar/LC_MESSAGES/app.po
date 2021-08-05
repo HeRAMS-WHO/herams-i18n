@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-05 16:25+0000\n"
+"PO-Revision-Date: 2021-08-06 01:25+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
@@ -106,11 +106,11 @@ msgstr "سجل طلبات الوصول"
 
 msgctxt "app"
 msgid "Access requests to respond to"
-msgstr ""
+msgstr "طلبات وصول للرد عليها"
 
 msgctxt "app"
 msgid "Access requests you responded to"
-msgstr ""
+msgstr "طلبات الوصول التي قمت بالرد عليها"
 
 msgctxt "app"
 msgid "Actions"
@@ -247,7 +247,7 @@ msgstr "كن هذا المستخدم"
 
 msgctxt "app"
 msgid "Body"
-msgstr ""
+msgstr "المحتوى الرئيسي"
 
 msgctxt "app"
 msgid "Causes of unavailability"
@@ -277,10 +277,9 @@ msgctxt "app"
 msgid "Confirm password"
 msgstr "تأكيد كلمة المرور"
 
-#, fuzzy
 msgctxt "app"
 msgid "Contribute data"
-msgstr "عدد المساهمين"
+msgstr "المساهمة في البيانات"
 
 msgctxt "app"
 msgid "Contributors"
@@ -342,10 +341,9 @@ msgctxt "app"
 msgid "Created at"
 msgstr "أنشئت في"
 
-#, fuzzy
 msgctxt "app"
 msgid "Created by"
-msgstr "أنشئت في"
+msgstr "أنشئت من قبل"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
@@ -504,15 +502,15 @@ msgstr "خطأ"
 
 msgctxt "app"
 msgid "Expires at"
-msgstr ""
+msgstr "تنتهي في"
 
 msgctxt "app"
 msgid "Explain what permissions you need and why you need them."
-msgstr ""
+msgstr "اشرح الأذونات التي تحتاجها ولماذا تحتاج إليها."
 
 msgctxt "app"
 msgid "Explanation of grant or deny"
-msgstr ""
+msgstr "شرح المنح أو الرفض"
 
 msgctxt "app"
 msgid "Export CSV"
@@ -608,7 +606,7 @@ msgstr "منح أذونات المسؤول"
 
 msgctxt "app"
 msgid "Granted"
-msgstr ""
+msgstr "ممنوح"
 
 msgctxt "app"
 msgid "HeRAMS email verification"
@@ -656,7 +654,7 @@ msgstr "إذا استخدمت خيارًا محددًا مسبقًا، فسيت�
 
 msgctxt "app"
 msgid "Implicitly granted"
-msgstr ""
+msgstr "منح ضمنيًا"
 
 msgctxt "app"
 msgid "Import Pages"
@@ -816,7 +814,7 @@ msgstr "مساحة عمل جديدة"
 
 msgctxt "app"
 msgid "Newsletter subscription"
-msgstr ""
+msgstr "الاشتراك في النشرة الإخبارية"
 
 msgctxt "app"
 msgid "No"
@@ -850,10 +848,9 @@ msgctxt "app"
 msgid "Not normally provided"
 msgstr "لا تُقدم عادة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Notifications"
-msgstr "لا تعمل"
+msgstr "إشعارات"
 
 msgctxt "app"
 msgid "Off"
@@ -885,7 +882,7 @@ msgstr "أخرى"
 
 msgctxt "app"
 msgid "Other, explain in request"
-msgstr ""
+msgstr "أخرى ، اشرح في الطلب"
 
 msgctxt "app"
 msgid "Overrides"
@@ -951,10 +948,9 @@ msgctxt "app"
 msgid "Permissions"
 msgstr "الإذونات"
 
-#, fuzzy
 msgctxt "app"
 msgid "Permissions to grant"
-msgstr "الإذونات"
+msgstr "أذونات للمنح"
 
 msgctxt "app"
 msgid "Please check your mailbox"
@@ -984,14 +980,13 @@ msgctxt "app"
 msgid "Project"
 msgstr "مشروع"
 
-#, fuzzy
 msgctxt "app"
 msgid ""
 "Project <strong>{modelName}</strong> has been shared with: <strong>{users}</"
 "strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
-"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
-"strong>"
+"تمت مشاركة مشروع <strong>{modelName}</strong> مع:<strong>{users} </strong> و "
+"دعوة المستخدمين:<strong>{invitedUsers}</strong>"
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
@@ -1035,7 +1030,7 @@ msgstr "رمز السؤال يحتوي على النوع (حساس لحالة ا
 
 msgctxt "app"
 msgid "Read"
-msgstr ""
+msgstr "قراءة"
 
 msgctxt "app"
 msgid "Refresh"
@@ -1087,12 +1082,11 @@ msgstr "تاريخ التقرير"
 
 msgctxt "app"
 msgid "Request"
-msgstr ""
+msgstr "طلب"
 
-#, fuzzy
 msgctxt "app"
 msgid "Request access"
-msgstr "طلب اعادة تشغيل كلمة المرور"
+msgstr "طلب الوصول"
 
 msgctxt "app"
 msgid "Request password reset"
@@ -1100,12 +1094,11 @@ msgstr "طلب اعادة تشغيل كلمة المرور"
 
 msgctxt "app"
 msgid "Requested access to {modelName}"
-msgstr ""
+msgstr "تم طلب الوصول إلى {modelName}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Requested permissions"
-msgstr "عرض صلاحيات المستخدم"
+msgstr "الأذونات المطلوبة"
 
 msgctxt "app"
 msgid "Reset password"
@@ -1115,33 +1108,29 @@ msgctxt "app"
 msgid "Reset your password"
 msgstr "قم بإعادة ضبط كلمة المرور الخاصة بك"
 
-#, fuzzy
 msgctxt "app"
 msgid "Respond"
-msgstr "عدد الإستجابات"
+msgstr "رد"
 
 msgctxt "app"
 msgid "Respond to: {modelName}"
-msgstr ""
+msgstr "الرد على: {modelName}"
 
-#, fuzzy
 msgctxt "app"
 msgid "Responded at"
-msgstr "عدد الإستجابات"
+msgstr "تم الرد على"
 
-#, fuzzy
 msgctxt "app"
 msgid "Responded by"
-msgstr "عدد الإستجابات"
+msgstr "تمت الاستجابة من قبل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Response"
-msgstr "عدد الإستجابات"
+msgstr "استجابة"
 
 msgctxt "app"
 msgid "Responses"
-msgstr "عدد الإستجابات"
+msgstr "استجابات"
 
 msgctxt "app"
 msgid ""
@@ -1149,6 +1138,9 @@ msgid ""
 "permissions you think are applicable or deny the request by leaving the "
 "granted permissions empty. Explain your decision in the textarea."
 msgstr ""
+"راجع الإذن المطلوب. إما أن تمنح الأذونات عن طريق تحديد الأذونات التي تعتقد "
+"أنها قابلة للتطبيق أو ارفض الطلب عن طريق ترك الأذونات الممنوحة فارغة. اشرح "
+"قرارك في منطقة النص."
 
 msgctxt "app"
 msgid "Save"
@@ -1204,11 +1196,11 @@ msgstr "الحالة"
 
 msgctxt "app"
 msgid "Subject"
-msgstr ""
+msgstr "الموضوع"
 
 msgctxt "app"
 msgid "Subscribe to newsletter"
-msgstr ""
+msgstr "اشترك في النشرة الإخبارية"
 
 msgctxt "app"
 msgid "Success"
