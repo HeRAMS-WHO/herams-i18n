@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-06 01:25+0000\n"
+"PO-Revision-Date: 2021-08-07 00:25+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
@@ -1226,25 +1226,21 @@ msgctxt "app"
 msgid "Sync workspaces"
 msgstr "مزامنة مساحات العمل"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target"
-msgstr "Target ID"
+msgstr "المستهدف"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target class"
-msgstr "Target ID"
+msgstr "الفئة المستهدفة"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target title"
-msgstr "Target type"
+msgstr "عنوان المستهدف"
 
-#, fuzzy
 msgctxt "app"
 msgid "Target type"
-msgstr "Target type"
+msgstr "نوع الهدف"
 
 msgctxt "app"
 msgid "Tertiary"
@@ -1257,10 +1253,9 @@ msgid ""
 "essential health resources and services is systematically shared and readily "
 "available to decision makers at country, regional and global levels"
 msgstr ""
-"نظام مراقبة الموارد والخدمات الصحية (هيرامس) هو نهج تعاوني يهدف إلى التأكد "
-"أن المعلومات الجوهرية الخاصة بالموارد والخدمات الصحية الأساسيةمتاحة بسهولة "
-"ويتم مشاركتها بصورة منهجية مع صناع القرار على المستوى المحلي والإقليمي "
-"والدولي."
+"نظام مراقبة توفر الموارد والخدمات الصحية (هيرامس) هو نهج تعاوني يهدف إلى "
+"ضمان مشاركة المعلومات الجوهرية الخاصة بالموارد والخدمات الصحية الأساسية بشكل "
+"منهجي وبأنها متاحة بسهولة لصناع القرار على المستوى المحلي والإقليمي والدولي"
 
 msgctxt "app"
 msgid "The aggregate availability of services per HF"
@@ -1284,7 +1279,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "There are open access requests that you can respond to."
-msgstr ""
+msgstr "توجد طلبات وصول مفتوحة يمكنك الرد عليها."
 
 msgctxt "app"
 msgid "This action cannot be undone."
@@ -1398,14 +1393,13 @@ msgctxt "app"
 msgid "Update password"
 msgstr "تحديث كلمة المرور"
 
-#, fuzzy
 msgctxt "app"
 msgid "Update profile"
-msgstr "تحديث المشروع"
+msgstr "تحديث الملف الشخصي"
 
 msgctxt "app"
 msgid "Update token"
-msgstr "رمز التحديث"
+msgstr "تحديث الرمز المميز"
 
 msgctxt "app"
 msgid "Update workspace token"
@@ -1445,7 +1439,7 @@ msgstr "فشل التحقق من صحة البيانات"
 
 msgctxt "app"
 msgid "View"
-msgstr ""
+msgstr "عرض"
 
 msgctxt "app"
 msgid "View current users"
@@ -1455,10 +1449,9 @@ msgctxt "app"
 msgid "View dashboard"
 msgstr "عرض لوحة التحكم"
 
-#, fuzzy
 msgctxt "app"
 msgid "View project"
-msgstr "إنشاء مشروع"
+msgstr "عرض المشروع"
 
 msgctxt "app"
 msgid "View user permissions"
@@ -1515,14 +1508,13 @@ msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
 msgstr "تم إنشاء مساحة عمل <strong> {modelName} </strong>"
 
-#, fuzzy
 msgctxt "app"
 msgid ""
 "Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
 "</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
-"تمت مشاركة مساحة عمل <strong> {modelName} </strong> مع: <strong> {users} </"
-"strong>"
+"مساحة العمل <strong> {modelName} </strong> تمت مشاركتها مع: <strong> {users} "
+"</strong> ودعوة المستخدمين: <strong> {callingUsers} </strong>"
 
 msgctxt "app"
 msgid "Workspace owner"
@@ -1556,10 +1548,9 @@ msgctxt "app"
 msgid "World overview"
 msgstr "نظرة عامة على تنفيذ هيرامس على مستوى العالم"
 
-#, fuzzy
 msgctxt "app"
 msgid "Write"
-msgstr "مفضلة"
+msgstr "اكتب"
 
 msgctxt "app"
 msgid "Yes"
@@ -1573,15 +1564,13 @@ msgstr ""
 "أنت مسجّل الدخول حاليًا باستخدام {مستخدم}. يمكنك إما قَبُول الدعوة بالحساب "
 "الحالي أو إنشاء حساب جديد أدناه."
 
-#, fuzzy
 msgctxt "app"
 msgid "You are not allowed to request access to this project"
-msgstr "لا يسمح لك بمشاركة هذا المشروع"
+msgstr "ليس لديك إذن للوصول إلى هذا المشروع"
 
-#, fuzzy
 msgctxt "app"
 msgid "You are not allowed to request access to this workspace"
-msgstr "لا يسمح لك بمشاركة هذا المشروع"
+msgstr "ليس لديك إذن للوصول إلى مساحة العمل هذه"
 
 msgctxt "app"
 msgid "You are not allowed to share this project"
@@ -1597,7 +1586,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your access requests"
-msgstr ""
+msgstr "طلبات الوصول الخاصة بك"
 
 msgctxt "app"
 msgid "Your account has been created"
@@ -1681,11 +1670,11 @@ msgstr "حالة المبنى والمعدات الطبية"
 
 msgctxt "app.pagetitle"
 msgid "Child health"
-msgstr ""
+msgstr "صحة الطفل"
 
 msgctxt "app.pagetitle"
 msgid "Child health & nutrition"
-msgstr ""
+msgstr "صحة الطفل وتغذيته"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
@@ -1693,7 +1682,7 @@ msgstr "سلسلة تبريد / ثلاجة"
 
 msgctxt "app.pagetitle"
 msgid "Communicable diseases"
-msgstr ""
+msgstr "الأمراض المعدية"
 
 msgctxt "app.pagetitle"
 msgid "Communication"
@@ -1709,23 +1698,23 @@ msgstr "الحالة التشغيلية"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services"
-msgstr ""
+msgstr "الخدمات السريرية العامة"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care"
-msgstr ""
+msgstr "الخدمات السريرية العامة و رعاية الإصابات"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part I)"
-msgstr ""
+msgstr "الخدمات السريرية العامة ورعاية الإصابات (المستوى الأول)"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part II)"
-msgstr ""
+msgstr "الخدمات السريرية العامة ورعاية الإصابات (المستوى الثاني)"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part III)"
-msgstr ""
+msgstr "الخدمات السريرية العامة ورعاية الإصابات (المستوى الثالث)"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
@@ -1741,20 +1730,19 @@ msgstr "الإدارة والدعم"
 
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
-msgstr ""
+msgstr "صحة الأم والوليد"
 
 msgctxt "app.pagetitle"
 msgid "Mental health"
-msgstr ""
+msgstr "الصحة النفسية"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
-msgstr ""
+msgstr "الأمراض غير المعدية"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Nutrition"
-msgstr "المدة الزمنية"
+msgstr "التغذية"
 
 msgctxt "app.pagetitle"
 msgid "Overview"
@@ -1766,7 +1754,7 @@ msgstr "مصادر الطاقة الكهربائية"
 
 msgctxt "app.pagetitle"
 msgid "STI & HIV/AIDS"
-msgstr ""
+msgstr "الأمراض المنقولة جنسيا وفيروس نقص المناعة البشرية / الإيدز"
 
 msgctxt "app.pagetitle"
 msgid "Sanitation"
@@ -1778,20 +1766,19 @@ msgstr "مدى توفر الخدمات الصحية"
 
 msgctxt "app.pagetitle"
 msgid "Sexual and reproductive health"
-msgstr ""
+msgstr "الصحة الجنسية و الإنجابية"
 
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
-msgstr ""
+msgstr "العنف الجنسي"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
-msgstr ""
+msgstr "رعاية الصدمات"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Vaccination"
-msgstr "الصرف الصحي"
+msgstr "التلقيح"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"
@@ -1815,11 +1802,11 @@ msgstr "Source type"
 
 msgctxt "app.permission"
 msgid "Target ID"
-msgstr "Target ID"
+msgstr "معرف المستهدف"
 
 msgctxt "app.permission"
 msgid "Target type"
-msgstr "Target type"
+msgstr "نوع المستهدف"
 
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
