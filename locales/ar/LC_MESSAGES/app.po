@@ -1720,6 +1720,11 @@ msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "المعلومات الصحية"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Health information systems"
+msgstr "المعلومات الصحية"
+
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
 msgstr "البنية التحتية"

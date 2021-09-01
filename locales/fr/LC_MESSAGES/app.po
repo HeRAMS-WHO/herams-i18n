@@ -1535,8 +1535,8 @@ msgid ""
 "</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
 "L'espace de travail <strong>{modelName}</strong> a été partagé avec : "
-"<strong>{users}</strong> et les utilisateurs invités : "
-"<strong>{invitedUsers}</strong>"
+"<strong>{users}</strong> et les utilisateurs invités : <strong>{invitedUsers}"
+"</strong>"
 
 msgctxt "app"
 msgid "Workspace owner"
@@ -1740,6 +1740,11 @@ msgstr "Services cliniques généraux et soins de traumatologie (Partie III)"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
+msgstr "Systèmes d'information"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Health information systems"
 msgstr "Systèmes d'information"
 
 msgctxt "app.pagetitle"

@@ -1639,6 +1639,10 @@ msgid "Health Information"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Health information systems"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Infrastructure"
 msgstr ""
 
