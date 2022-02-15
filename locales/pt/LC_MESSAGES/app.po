@@ -2,13 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-02-15 12:11+0000\n"
+"Last-Translator: Caroline Test Account <fuhrerc@who.int>\n"
+"Language-Team: Portuguese <https://weblate.herams-staging.org/projects/"
+"herams/herams-platform/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 msgctxt "app"
 msgid "# Contributors"
@@ -16,7 +19,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "# Health facilities"
-msgstr ""
+msgstr "# Unidade sanitária"
 
 msgctxt "app"
 msgid "# Responses"
@@ -32,19 +35,19 @@ msgstr ""
 
 msgctxt "app"
 msgid "25 - 50%"
-msgstr ""
+msgstr "25 - 50%"
 
 msgctxt "app"
 msgid "50 - 75%"
-msgstr ""
+msgstr "50 - 75%"
 
 msgctxt "app"
 msgid "< 25%"
-msgstr ""
+msgstr "< 25%"
 
 msgctxt "app"
 msgid "> 75%"
-msgstr ""
+msgstr "> 75%"
 
 msgctxt "app"
 msgid "A bar chart"
@@ -156,15 +159,15 @@ msgstr ""
 
 msgctxt "app"
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 msgctxt "app"
 msgid "Apply changes"
-msgstr ""
+msgstr "Aplicar alterações"
 
 msgctxt "app"
 msgid "Apply filters"
-msgstr ""
+msgstr "Aplicar filtros"
 
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete all workspaces?"
@@ -212,7 +215,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Autodetected ({language}"
-msgstr ""
+msgstr "Autodetectado ({language})"
 
 msgctxt "app"
 msgid "Back to list"
@@ -548,7 +551,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Filters"
-msgstr ""
+msgstr "Filtros"
 
 msgctxt "app"
 msgid "Forgot your password ?"
@@ -560,15 +563,15 @@ msgstr ""
 
 msgctxt "app"
 msgid "Fully available"
-msgstr ""
+msgstr "Disponível pleno"
 
 msgctxt "app"
 msgid "Fully functional"
-msgstr ""
+msgstr "Funcionamento pleno"
 
 msgctxt "app"
 msgid "Functionality"
-msgstr ""
+msgstr "Funcionalidade"
 
 msgctxt "app"
 msgid "Global permissions"
@@ -680,31 +683,31 @@ msgstr ""
 
 msgctxt "app"
 msgid "Lack of finances"
-msgstr ""
+msgstr "Falta de finanças"
 
 msgctxt "app"
 msgid "Lack of health staff"
-msgstr ""
+msgstr "Falta de pessoal"
 
 msgctxt "app"
 msgid "Lack of medical equipment"
-msgstr ""
+msgstr "Falta de material médico"
 
 msgctxt "app"
 msgid "Lack of medical supplies"
-msgstr ""
+msgstr "Falta de material médico"
 
 msgctxt "app"
 msgid "Lack of training of health staff"
-msgstr ""
+msgstr "Falta de formação"
 
 msgctxt "app"
 msgid "Language"
-msgstr ""
+msgstr "Língua"
 
 msgctxt "app"
 msgid "Languages"
-msgstr ""
+msgstr "Línguas"
 
 msgctxt "app"
 msgid "Last login at"
@@ -820,15 +823,15 @@ msgstr ""
 
 msgctxt "app"
 msgid "Not available"
-msgstr ""
+msgstr "Não disponível"
 
 msgctxt "app"
 msgid "Not functional"
-msgstr ""
+msgstr "Não funciona"
 
 msgctxt "app"
 msgid "Not normally provided"
-msgstr ""
+msgstr "Normalmente não fornecido"
 
 msgctxt "app"
 msgid "Notifications"
@@ -856,7 +859,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Other"
-msgstr ""
+msgstr "Outro"
 
 msgctxt "app"
 msgid "Other, explain in request"
@@ -892,11 +895,11 @@ msgstr ""
 
 msgctxt "app"
 msgid "Partially available"
-msgstr ""
+msgstr "Parcialmente disponível"
 
 msgctxt "app"
 msgid "Partially functional"
-msgstr ""
+msgstr "Parcialmente funcional"
 
 msgctxt "app"
 msgid "Password"
@@ -936,7 +939,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Primary"
-msgstr ""
+msgstr "Primário"
 
 msgctxt "app"
 msgid "Print"
@@ -1100,7 +1103,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Search"
-msgstr ""
+msgstr "Pesquisar"
 
 msgctxt "app"
 msgid "Search also uses the group name, for example try typing \"Trauma\""
@@ -1108,7 +1111,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Secondary"
-msgstr ""
+msgstr "Secundário"
 
 msgctxt "app"
 msgid "Select and sync any number of workspaces in the project"
@@ -1120,11 +1123,11 @@ msgstr ""
 
 msgctxt "app"
 msgid "Service Availability"
-msgstr ""
+msgstr "Disponibilidade de serviços"
 
 msgctxt "app"
 msgid "Service availability"
-msgstr ""
+msgstr "Disponibilidade de serviços"
 
 msgctxt "app"
 msgid "Show the debug toolbar"
@@ -1196,7 +1199,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Tertiary"
-msgstr ""
+msgstr "Terciário"
 
 msgctxt "app"
 msgid "The Health Resources and Services Availability Monitoring System (HeRAMS) is a collaborative approach aimed at ensuring that core information on essential health resources and services is systematically shared and readily available to decision makers at country, regional and global levels"
@@ -1204,7 +1207,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "The aggregate availability of services per HF"
-msgstr ""
+msgstr "A disponibilidade agregada de serviços por unidade sanitária"
 
 msgctxt "app"
 msgid "The invitation was accepted"
@@ -1292,7 +1295,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Unknown"
-msgstr ""
+msgstr "Desconhecido"
 
 msgctxt "app"
 msgid "Unknown email"
@@ -1472,7 +1475,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "World overview"
-msgstr ""
+msgstr "Visão global"
 
 msgctxt "app"
 msgid "Write"
@@ -1576,35 +1579,35 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Accessibility"
-msgstr ""
+msgstr "Acessibilidade"
 
 msgctxt "app.pagetitle"
 msgid "Basic Amenities"
-msgstr ""
+msgstr "Comodidades básicas"
 
 msgctxt "app.pagetitle"
 msgid "Building and equipment condition"
-msgstr ""
+msgstr "Condição de Construção e Equipamento"
 
 msgctxt "app.pagetitle"
 msgid "Child health"
-msgstr ""
+msgstr "Saúde Infantil"
 
 msgctxt "app.pagetitle"
 msgid "Child health & nutrition"
-msgstr ""
+msgstr "Saúde & nutrição infantil"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
-msgstr ""
+msgstr "Cadeia de frio"
 
 msgctxt "app.pagetitle"
 msgid "Communicable diseases"
-msgstr ""
+msgstr "Doenças transmissíveis"
 
 msgctxt "app.pagetitle"
 msgid "Communication"
-msgstr ""
+msgstr "Comunicação"
 
 msgctxt "app.pagetitle"
 msgid "Condition"
@@ -1612,35 +1615,35 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
-msgstr ""
+msgstr "Funcionalidade"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services"
-msgstr ""
+msgstr "Serviços Slínicos Gerais"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care"
-msgstr ""
+msgstr "Serviços Slínicos Gerais e Atendimento de Emergência"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part I)"
-msgstr ""
+msgstr "Serviços Slínicos Gerais e Atendimento de Emergência (parte I)"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part II)"
-msgstr ""
+msgstr "Serviços Slínicos Gerais e Atendimento de Emergência (parte II)"
 
 msgctxt "app.pagetitle"
 msgid "General clinical services & trauma care (part III)"
-msgstr ""
+msgstr "Serviços Slínicos Gerais e Atendimento de Emergência (parte III)"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
-msgstr ""
+msgstr "Informação sanitária"
 
 msgctxt "app.pagetitle"
 msgid "Health information systems"
-msgstr ""
+msgstr "Informação sanitária"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1648,51 +1651,51 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Management and support"
-msgstr ""
+msgstr "Apoio"
 
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
-msgstr ""
+msgstr "Cuidados maternos & recém-nascidos"
 
 msgctxt "app.pagetitle"
 msgid "Mental health"
-msgstr ""
+msgstr "Saúde mental"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
-msgstr ""
+msgstr "Doenças não transmissíveis"
 
 msgctxt "app.pagetitle"
 msgid "Nutrition"
-msgstr ""
+msgstr "Nutrição"
 
 msgctxt "app.pagetitle"
 msgid "Overview"
-msgstr ""
+msgstr "Visão geral"
 
 msgctxt "app.pagetitle"
 msgid "Power"
-msgstr ""
+msgstr "Energia"
 
 msgctxt "app.pagetitle"
 msgid "STI & HIV/AIDS"
-msgstr ""
+msgstr "DSTS & HIV/SIDA"
 
 msgctxt "app.pagetitle"
 msgid "Sanitation"
-msgstr ""
+msgstr "Saneamento"
 
 msgctxt "app.pagetitle"
 msgid "Service availability"
-msgstr ""
+msgstr "Disponibilidade de serviços"
 
 msgctxt "app.pagetitle"
 msgid "Sexual and reproductive health"
-msgstr ""
+msgstr "Saúde sexual & reprodutiva"
 
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
-msgstr ""
+msgstr "Violência sexual"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
@@ -1700,15 +1703,15 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Vaccination"
-msgstr ""
+msgstr "Vacinação"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"
-msgstr ""
+msgstr "Gestão de resíduos"
 
 msgctxt "app.pagetitle"
 msgid "Water"
-msgstr ""
+msgstr "Água"
 
 msgctxt "app.permission"
 msgid "Permission"
