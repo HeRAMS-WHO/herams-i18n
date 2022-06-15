@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2021-05-08 02:52+0000\n"
+"PO-Revision-Date: 2022-06-15 11:25+0000\n"
 "Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 4.12\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: docs/index.rst:11
@@ -2429,7 +2429,8 @@ msgstr ""
 msgid ""
 "Click the |delete-bt| button in the bottom half of the page to permanently "
 "delete the workspace."
-msgstr "انقر فوق | زر حذف | في النصف السفلي من الصفحة لحذف مساحة العمل نهائيًا."
+msgstr ""
+"انقر فوق | delete-bt | في النصف السفلي من الصفحة لحذف مساحة العمل نهائيًا."
 
 #: docs/index.rst:859
 msgid "Configure the Project dashboard"
@@ -2715,13 +2716,12 @@ msgid ""
 msgstr "تظهر معاينة للعنصر الذي تقوم بإنشائه في النصف السفلي من الصفحة."
 
 #: docs/index.rst:941
-#, fuzzy
 msgid ""
 "To save the element, click the |create-element-blue| button or use the |"
 "create-return| button save and return to the dashboard."
 msgstr ""
-"أخيراً، اضغط على زر |create-element-blue| لإضافة العنصر إلى صفحة لوحة "
-"المعلومات."
+"لحفظ العنصر، انقر فوق زر | create-element-blue | أو استخدم زر| create-return "
+"| حفظ والعودة إلى لوحة القيادة."
 
 #: docs/index.rst:943
 msgid "To add additional elements, use the breadcrumbs to return to the"
