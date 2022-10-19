@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-18 19:11+0000\n"
+"PO-Revision-Date: 2022-10-19 16:11+0000\n"
 "Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
@@ -1247,7 +1247,7 @@ msgstr "Synchroniser"
 
 msgctxt "app"
 msgid "Sync workspaces"
-msgstr "Synchronisation de l' espaces de travail"
+msgstr "Synchronisation des espaces de travail"
 
 msgctxt "app"
 msgid "Target"
@@ -1331,7 +1331,7 @@ msgstr "Cela supprimera définitivement tous les espaces de travail du projet."
 
 msgctxt "app"
 msgid "This will permanently delete the workspace."
-msgstr "Cela supprimera définitivement espaces de travail."
+msgstr "Cela supprimera définitivement l'espace de travail."
 
 msgctxt "app"
 msgid "This will reload the page losing all other changes"
@@ -1371,7 +1371,7 @@ msgstr "Type de carte"
 
 msgctxt "app"
 msgid "Unchanged"
-msgstr "Inchangée"
+msgstr "Inchangé"
 
 msgctxt "app"
 msgid "Universal ID"
@@ -1744,10 +1744,9 @@ msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "Systèmes d'information"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Health information systems"
-msgstr "Systèmes d'information"
+msgstr "Systèmes d'information sanitaire"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
