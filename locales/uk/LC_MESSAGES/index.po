@@ -8,1049 +8,1625 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-11-08 15:11+0000\n"
+"Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
+"Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: docs/index.rst:11
 msgid "Introduction"
-msgstr ""
+msgstr "Вступ"
 
 #: docs/index.rst:13
 msgid "Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instructions on how to register and access the HeRAMS platform as well as a brief overview of key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how to edit data in the `Contribute data`_ section. For more advanced topics related to user management and project administration, please consult the `HeRAMS administration`_ section."
 msgstr ""
+"Ласкаво просимо до «Посібника користувача HeRAMS». Цей посібник було "
+"створено для користувачів платформи HeRAMS. Він містить покрокові інструкції "
+"щодо реєстрації на платформі HeRAMS та доступу до неї, а також стислий огляд "
+"ключових компонентів платформи, у тому числі детальну інформацію про роботу "
+"з наявною інформацією за допомогою інтерактивних аналітичних панелей. "
+"Адміністратори даних можуть знайти додаткову інформацію щодо редагування "
+"даних у розділі `Реєстрація даних`_. Більш поглиблені теми, які стосуються "
+"адміністрування користувачів і проєктів, розглянуті в розділі `"
+"Адміністрування HeRAMS`_."
 
 #: docs/index.rst:16
 msgid "It should be noted that this guide only addresses issues related to the `HeRAMS platform <https://herams.org/>`_. For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_ or contact the `HeRAMS support team <mailto:herams@who.int?>`_."
 msgstr ""
+"Варто зазначити, що цей посібник присвячений лише питанням, які стосуються `"
+"платформи HeRAMS <https://herams.org/>`_. З приводу загальної інформації "
+"стосовно підходу до HeRAMS та по технічну допомогу варто звертатися до "
+"офіційної `вебсторінки HeRAMS ВООЗ <https://www.who.int/hac/herams/en//>`_ "
+"або до `служби підтримки HeRAMS <mailto:herams@who.int?>`_."
 
 #: docs/index.rst:21
 msgid "Getting started"
-msgstr ""
+msgstr "Початок роботи"
 
 #: docs/index.rst:23
 msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meaning>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform."
 msgstr ""
+"Ця глава призначена для нових користувачів платформи `HeRAMS <https://herams."
+"org/>`_. Вона охоплює питання, пов’язані з реєстрацією "
+"<#Створення-облікового-запису-користувача>`на платформі та доступом до неї, "
+"а також з керуванням `профілем користувача <#Оновлення-облікового-запису>`"
+"__. На допомогу Вам у самостійній навігації платформою остання частина цієї "
+"глави містить огляд `повторюваних піктограм платформи "
+"<#Піктограми-та-їхні-значення>`_ , і в ній вводиться поняття навігаційних "
+"ланцюжків (англ. breadcrumbs) як ефективного способу навігації платформою."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
-msgstr ""
+msgstr "Створення облікового запису користувача"
 
 #: docs/index.rst:30
 msgid "To register as a new user, open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr ""
+"Щоб зареєструватися як новий користувач, відкрийте в браузері посилання `"
+"herams.org <https://herams.org>`_."
 
 #: docs/index.rst:32
 msgid "It is strongly recommended to either user FireFox or Chrome."
-msgstr ""
+msgstr "Настійно рекомендовано використовувати FireFox або Chrome."
 
 #: docs/index.rst:34
 msgid "In the lower half of the screen you should see an option to register as a new user. Enter your email address and click the |register-white| button."
 msgstr ""
+"У нижній половині екрана Ви побачите кнопку реєстрації нового користувача. "
+"Введіть Вашу адресу електронної пошти і натисніть кнопку |register-white| "
+"(Зареєструватися)."
 
 #: docs/index.rst:41
 msgid "A confirmation email will be sent to your email. Confirm your registration by clicking the link in the email."
 msgstr ""
+"На Вашу адресу електронної пошти буде надіслано повідомлення з "
+"підтвердженням. Підтвердьте реєстрацію, натиснувши на посилання в "
+"повідомленні."
 
 #: docs/index.rst:43
 msgid "If you don't receive a confirmation email within a few minutes, check your spam folder."
 msgstr ""
+"Якщо Ви не отримали повідомлення з підтвердженням упродовж кількох хвилин, "
+"перевірте теку зі спамом."
 
 #: docs/index.rst:45
 msgid "A new tab will open prompting you to enter your name and password. Click the |register-blue| button to finalize your registration."
 msgstr ""
+"Відкриється нова вкладка, в якій буде запит на введення імені та паролю. "
+"Натисніть кнопку |register-blue| (Зареєструватися), щоб завершити реєстрацію."
 
 #: docs/index.rst:47
 msgid "If you are not automatically logged-in, please follow the steps below to login as an existing user."
 msgstr ""
+"Якщо автоматичного входу до Вашого облікового запису не відбувається, "
+"скористайтеся кроками нижче, щоб увійти на платформу як наявний користувач."
 
 #: docs/index.rst:55
 msgid "Logging in"
-msgstr ""
+msgstr "Вхід на платформу"
 
 #: docs/index.rst:57
 msgid "New users without an existing account, will have to register before being able to login to the HeRAMS platform. To create a user account, follow the instructions `here <#creating-a-user-account>`__."
 msgstr ""
+"Нові користувачі, які не мають облікового запису, повинні зареєструватися, "
+"перш ніж зможуть входити на платформу HeRAMS. Щоб створити обліковий запис "
+"користувача, дотримуйтеся інструкцій `тут "
+"<#Створення-облікового-запису-користувача>`__.."
 
 #: docs/index.rst:59
 msgid "Open the link `herams.org <https://herams.org>`__ in your browser."
-msgstr ""
+msgstr "Відкрийте у браузері посилання `herams.org <https://herams.org>`__."
 
 #: docs/index.rst:60
 msgid "Enter your email address and password in the designated fields in the top half of the page and click the |login| button."
 msgstr ""
+"Введіть Ваші адресу електронної пошти та пароль у відповідні поля у верхній "
+"половині сторінки та натисніть кнопку |login| (Увійти)."
 
 #: docs/index.rst:68
 msgid "It is strongly recommended to use either FireFox or Chrome."
-msgstr ""
+msgstr "Настійно рекомендовано використовувати FireFox або Chrome."
 
 #: docs/index.rst:71
 msgid "Logging out"
-msgstr ""
+msgstr "Вихід з платформи"
 
 #: docs/index.rst:73
 msgid "To logout click the |logout| button in the top right corner of the screen."
-msgstr ""
+msgstr "Для виходу натисніть кнопку |logout| у верхньому правому куті екрана."
 
 #: docs/index.rst:77
 msgid "Reset password"
-msgstr ""
+msgstr "Скидання пароля"
 
 #: docs/index.rst:79
 msgid "In case you forgot your password, the instructions below will guide you through the steps to reset your password."
 msgstr ""
+"На випадок, якщо Ви забули пароль, нижче описано інструкції з кроками "
+"скидання пароля."
 
 #: docs/index.rst:81
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
-msgstr ""
+msgstr "Відкрийте у браузері посилання `herams.org <https://herams.org>`_."
 
 #: docs/index.rst:82
 msgid "On the sign-in page, click the `Forgot your password <https://herams.org/user/request-reset>`_ link."
 msgstr ""
+"На сторінці входу на платформу натисніть посилання `Забули пароль? "
+"<https://herams.org/user/request-reset>`_."
 
 #: docs/index.rst:89
 msgid "Enter your email address in the designated field and click the |request-password-reset| button."
 msgstr ""
+"Введіть Вашу адресу електронної пошти у відповідне поле та натисніть кнопку "
+"|request-password-reset| (Надіслати запит на скидання пароля)."
 
 #: docs/index.rst:90
 msgid "You will receive an email with a password reset link. Click the link in the email to open the password reset page."
 msgstr ""
+"Вам надійде повідомлення з посиланням для скидання пароля. Натисніть "
+"посилання в повідомленні, щоб відкрити сторінку скидання пароля."
 
 #: docs/index.rst:92
 msgid "If you did not receive this email within a few minutes, check your spam folder."
 msgstr ""
+"Якщо Ви не отримали це повідомлення впродовж кількох хвилин, перевірте теку "
+"зі спамом."
 
 #: docs/index.rst:94
 msgid "On the page that opens, enter your new password."
-msgstr ""
+msgstr "На сторінці, яка відкриється, введіть новий пароль."
 
 #: docs/index.rst:95
 msgid "Click the |reset-password| button to confirm your new password."
 msgstr ""
+"Натисніть кнопку |reset-password| (Скинути пароль), щоб підтвердити новий "
+"пароль."
 
 #: docs/index.rst:96
 msgid "You have now successfully changed your password. To access the HeRAMS platform, return to the `sign-in page <https://herams.org>`__ and enter your credentials."
 msgstr ""
+"Ви успішно змінили свій пароль. Для доступу до платформи HeRAMS поверніться "
+"на ` сторінку входу <https://herams.org>`__ і введіть свої облікові дані."
 
 #: docs/index.rst:101
 msgid "Update your User Profile"
-msgstr ""
+msgstr "Оновлення облікового запису"
 
 #: docs/index.rst:102
 msgid "Each user has a profile associated with their account. This permits you to change your user name, email address, or password without requiring additional support."
 msgstr ""
+"Кожен користувач має профіль, пов’язаний із його обліковим записом. Він дає "
+"змогу змінювати ім’я користувача, адресу електронної пошти або пароль без "
+"потреби в додатковій підтримці."
 
 #: docs/index.rst:104
 msgid "To update your user profile, click the |user| icon in the top right corner of the page."
 msgstr ""
+"Щоб оновити свій профіль користувача, натисніть піктограму |user| у "
+"верхньому правому куті сторінки."
 
 #: docs/index.rst:105
 msgid "This opens your `user profile <https://herams.org/user/account>`__ and allows you to change your personal information."
 msgstr ""
+"Відкриється Ваш `профіль користувача <https://herams.org/user/account>`__, "
+"де можна змінити персональну інформацію."
 
 #: docs/index.rst:108
 msgid "Change Password"
-msgstr ""
+msgstr "Змінення пароля"
 
 #: docs/index.rst:110
 msgid "To change your password, open your user profile as explained `above <#update-your-user-profile>`__."
 msgstr ""
+"Щоб змінити пароль, відкрийте свій профіль користувача, як пояснено `вище "
+"<#Оновлення-облікового-запису>`__.."
 
 #: docs/index.rst:111
 msgid "In the pop-up window that opens, select the **Password** tab."
-msgstr ""
+msgstr "У спливному вікні, яке відкриється, перейдіть на вкладку **Пароль**."
 
 #: docs/index.rst:112
 msgid "You should now be able to change your email address and enter a new password."
 msgstr ""
+"Тут Ви зможете змінити свою адресу електронної пошти та ввести новий пароль."
 
 #: docs/index.rst:113
 msgid "Make sure to click the |update-password| button to confirm your changes."
 msgstr ""
+"Обов’язково натисніть кнопку |update-password| (Оновити пароль), щоб "
+"підтвердити зміни."
 
 #: docs/index.rst:114
 msgid "To return to the main page, click the |home| icon in the top right corner."
 msgstr ""
+"Щоб повернутися на головну сторінку, натисніть піктограму |home| у верхньому "
+"правому куті."
 
 #: docs/index.rst:118
 msgid "Change Language Preference"
-msgstr ""
+msgstr "Змінення налаштування мови"
 
 #: docs/index.rst:119
 msgid "The HeRAMS platform is available in multiple languages. Unless specified otherwise, the language will be automatically selected based on your browser language. For users having a browser language that is not supported by HeRAMS, the language will default to English. To manually adjust your language preference, follow the steps below."
 msgstr ""
+"Платформа HeRAMS доступна кількома мовами. Якщо не зазначено іншого, мову "
+"буде вибрано автоматично у відповідності до мови браузера. Для користувачів, "
+"чия мова браузера не підтримується HeRAMS, за промовчанням встановлюється "
+"англійська. Для змінення налаштування мови вручну дотримуйтеся кроків нижче."
 
 #: docs/index.rst:123
 msgid "To change your language preference, open your user profile as explained `above <#update-your-user-profile>`__."
 msgstr ""
+"Щоб змінити налаштування мови, відкрийте свій профіль користувача, як "
+"пояснено `вище <#Оновлення-облікового-запису>`__."
 
 #: docs/index.rst:124
 msgid "In the pop-up window that opens, navigate to the **Profile** tab."
-msgstr ""
+msgstr "У спливному вікні, яке відкрилося, перейдіть на вкладку **Профіль**."
 
 #: docs/index.rst:125
 msgid "Change the drop-down list to the desired language and click the |update-profile| button."
 msgstr ""
+"Змініть мову в випадному списку на бажану та натисніть кнопку |update-"
+"profile| (Оновити інформацію облікового запису)."
 
 #: docs/index.rst:127
 msgid "HeRAMS will remember your language preferences next time you log in. If you would like to change them, you must return to this page and update your user profile."
 msgstr ""
+"HeRAMS застосує збережене налаштування мови під час наступного входу до "
+"платформи. Якщо Ви бажаєте змінити його, поверніться на цю сторінку й "
+"оновіть профіль користувача."
 
 #: docs/index.rst:137
 msgid "Change Email Address"
-msgstr ""
+msgstr "Змінення адреси електронної пошти"
 
 #: docs/index.rst:138
 msgid "To change your e-mail address, open your user profile as explained `above <#update-your-user-profile>`__."
 msgstr ""
+"Щоб змінити адресу електронної пошти, відкрийте свій профіль користувача, як "
+"пояснено `вище <#Оновлення-облікового-запису>`__."
 
 #: docs/index.rst:139
 msgid "Open the **Email** tab and enter the new email address you would like to use for your HeRAMS account."
 msgstr ""
+"Відкрийте вкладку **Електронна пошта** та введіть нову адресу електронної "
+"пошти, яку Ви бажаєте використовувати для свого облікового запису HeRAMS."
 
 #: docs/index.rst:140
 msgid "Click the |send-confirmation| button. This will send a confirmation email to your new email address."
 msgstr ""
+"Натисніть кнопку |send-confirmation| (Надіслати підтвердження). На Вашу нову "
+"адресу електронної пошти буде надіслано повідомлення з підтвердженням."
 
 #: docs/index.rst:141
 msgid "Click the link in the confirmation email to validate your new email address."
 msgstr ""
+"Натисніть посилання в повідомленні з підтвердженням, щоб підтвердити нову "
+"адресу електронної пошти."
 
 #: docs/index.rst:144
 msgid "Icons and their Meaning"
-msgstr ""
+msgstr "Піктограми та їхні значення"
 
 #: docs/index.rst:145
 msgid "This section aims to provide an overview of key icons used across the platform and explains their meanings."
 msgstr ""
+"У цьому розділі розглянуто основні піктограми платформи з поясненням їхніх "
+"значень."
 
 #: docs/index.rst:147
 msgid "|delete| **Delete**: Deletes a specific item or record."
-msgstr ""
+msgstr "|delete| **Видалити**: Видалення конкретного елемента або запису."
 
 #: docs/index.rst:148
 msgid "|pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`__."
 msgstr ""
+"|pencil| : **Редагувати** Відкриття інтерфейсу редагування даних. Додаткова "
+"інформація щодо редагування й оновлення даних міститься `тут "
+"<#Реєстрація-даних>`__."
 
 #: docs/index.rst:149
 msgid "|home| **Home**: The home button takes you back to the world map (home screen)."
 msgstr ""
+"|home|**Додому**: За натисненням цієї кнопки здійснюється перехід назад до "
+"мапи світу (домашнього екрана)."
 
 #: docs/index.rst:150
 msgid "|settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter."
 msgstr ""
+"|settings| **Налаштування**: Використовуйте цю кнопку для переходу до "
+"інтерфейсу адміністрування HeRAMS. Додаткова інформація щодо інтерфейсу "
+"адміністрування HeRAMS міститься у главі `Адміністрування HeRAMS`_."
 
 #: docs/index.rst:151
 msgid "|star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter."
 msgstr ""
+"|star-filled| **Обране**: Ця функція дає можливість створювати персональний "
+"список обраних робочих просторів, до яких можна переходити напряму з мапи "
+"світу. Додаткова інформація про додавання робочих просторів до списку "
+"`Обране`_ міститься у главі `Реєстрація даних`_."
 
 #: docs/index.rst:152
 msgid "|user| **User profile**: Opens your user profile and allows you to modify your personal information (e.g. language preference, email address, and password). See `here <#pdate-your-user-profile>`__ for further details."
 msgstr ""
+"|user| **Профіль користувача**: За натисненням цієї кнопки відкривається "
+"профіль користувача, де можна змінити персональну інформацію (наприклад, "
+"налаштовання мови, адресу електронної пошти чи пароль). Детальніше про це "
+"див. < тут #Оновлення-облікового-запису>`__."
 
 #: docs/index.rst:153
 msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
+"|user-guide| **Посібник користувача**: За натисненням цієї кнопки "
+"відкривається **Посібник користувача HeRAMS**."
 
 #: docs/index.rst:154
 msgid "|view| **View**: Grants you view access to a specific item or record."
 msgstr ""
+"|view| **Переглянути**: Доступ до перегляду конкретного елемента або запису."
 
 #: docs/index.rst:160
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "Навігаційні ланцюжки"
 
 #: docs/index.rst:161
 msgid "Across the platform, breadcrumb trails are shown on top of every page. They intend to help you navigate the platform more effectively and provide a simple way to access previous pages. In the example below, clicking on **Nigeria** in the breadcrumb trail allows you to return to the dashboard overview page from any of the sub-pages."
 msgstr ""
+"Вгорі на кожній сторінці платформи відображаються навігаційні ланцюжки. "
+"Їхньою метою є сприяння ефективнішій навігації платформою, з їх допомогою "
+"можна зручно повертатися до попередніх сторінок. У прикладах нижче "
+"натиснення на елемент **Nigeria** (Нігерія) в навігаційному ланцюжку дає "
+"змогу з будь-якої підсторінки повернутися до сторінки огляду аналітичної "
+"панелі."
 
 #: docs/index.rst:170
 msgid "View a Project"
-msgstr ""
+msgstr "Перегляд проєкту"
 
 #: docs/index.rst:172
 msgid "This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high-level overview on key indicators such as the number of health facilities assessed, overall functionality, and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to produce in-depth analyses for specific areas and indicators of interest."
 msgstr ""
+"Ця глава присвячена вступу до аналітики в реальному часі, доступної на "
+"платформі HeRAMS. Для кожного проєкту надається високорівневий огляд "
+"ключових показників, як-от кількість оцінених закладів охорони здоров’я, "
+"їхня загальна функціональність і доступність послуг. Інтерактивні аналітичні "
+"панелі містять додаткові деталі про окремі проєкти та дають користувачам "
+"можливість здійснювати глибокий аналіз конкретних районів і показників, які "
+"становлять інтерес."
 
 #: docs/index.rst:176
 msgid "Project Overview"
-msgstr ""
+msgstr "Огляд проєкту"
 
 #: docs/index.rst:178
 msgid "After logging in, you will see a world map with several blue dots. Each of these dots represents a HeRAMS project. You can also see the list of all available projects in the navigation pane on the left. In addition, a brief summary of the number of projects available in HeRAMS, the total number of contributors, and health facilities is shown in the bottom left corner."
 msgstr ""
+"Виконавши вхід, Ви побачите мапу світу з декількома синіми точками. Кожна з "
+"цих точок представляє проєкт HeRAMS. Навігаційна панель ліворуч містить "
+"перелік доступних проєктів. На додачу до цього в лівому нижньому куті "
+"виводяться дані про кількість проєктів, наявних у HeRAMS, та загальну "
+"кількість реєстраторів даних і закладів охорони здоров’я."
 
 #: docs/index.rst:182
 msgid "To learn more about a project, either click the blue dot on the world map or select the project from the navigation pane on the left."
 msgstr ""
+"Щоб переглянути детальніші дані про проєкт, натисніть на синю точку на мапі "
+"світу або виберіть проєкт на навігаційній панелі ліворуч."
 
 #: docs/index.rst:183
 msgid "You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up, you can see the project name, the number of health facilities assessed as well as the number of contributors. The lower half of the pop-up window displays a brief summary of the distribution of health facility types, their functionality, and service availability."
 msgstr ""
+"З’явиться спливне вікно з оглядом вибраного проєкту. У верхній частині "
+"спливного вікна виводиться назва проєкту, кількість оцінених закладів "
+"охорони здоров’я, а також кількість реєстраторів даних. У нижній половині "
+"спливного вікна відображається стислий опис розподілу закладів охорони "
+"здоров’я за типами, функціональністю та доступністю послуг."
 
 #: docs/index.rst:184
 msgid "For further details, click the |dashboard-button| button. This will open the project dashboard."
 msgstr ""
+"Для отримання докладніших даних натисніть кнопку |dashboard-button| ("
+"Аналітична панель). Відкриється аналітична панель проєкту."
 
 #: docs/index.rst:186
 msgid "Access to the project dashboards may be restricted to selected users. If you would like to be granted access to a project dashboard, please contact your country focal point or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like to access the dashboard."
 msgstr ""
+"Доступ до аналітичних панелей проєктів може бути обмежений і надаватися лише "
+"обраним користувачам. Якщо Вам потрібно отримати доступ до аналітичної "
+"панелі певного проєкту, зверніться до координатора Вашої країни або "
+"надішліть електронний лист на адресу `herams@who.int <mailto:herams@who."
+"int?>`_ , зазначивши свої посаду та роль і надавши стисле пояснення того, "
+"навіщо Вам потрібен доступ до аналітичної панелі."
 
 #: docs/index.rst:195
 msgid "Project dashboard"
-msgstr ""
+msgstr "Аналітична панель проєкту"
 
 #: docs/index.rst:196
 msgid "Each project in HeRAMS has a custom interactive dashboard providing an instant and in-depth analysis based on the available data."
 msgstr ""
+"Кожен проєкт на HeRAMS має індивідуально налаштовувану інтерактивну "
+"аналітичну панель, яка містить миттєвий глибокий аналіз на основі наявних "
+"даних."
 
 #: docs/index.rst:199
 msgid "To view a project dashboard, open the project summary by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map."
 msgstr ""
+"Щоб переглянути аналітичну панель проєкту, відкрийте опис проєкту, вибравши "
+"його на навігаційній панелі ліворуч. Також опис проєкту можна відкрити, "
+"натиснувши на відповідну синю точку на мапі світу."
 
 #: docs/index.rst:200
 msgid "In the pop-up window, click the |dashboard-button| button. This will open the interactive dashboard."
 msgstr ""
+"У спливному вікні натисніть кнопку |dashboard-button| (Аналітична панель). "
+"Відкриється інтерактивна аналітична панель."
 
 #: docs/index.rst:201
 msgid "You should now see a page similar to the one shown below. In the navigation pane on the left, you will find a list of all available pages."
 msgstr ""
+"Ви побачите сторінку, подібну до зображеної нижче. На навігаційній панелі "
+"ліворуч буде перелік усіх доступних сторінок."
 
 #: docs/index.rst:208
 msgid "To open a page, click the page name in the navigation pane."
-msgstr ""
+msgstr "Щоб відкрити сторінку, натисніть на її назву на навігаційній панелі."
 
 #: docs/index.rst:210
 msgid "Some pages may contain a sub-page, indicated by a |forward| icon next to the page's name."
 msgstr ""
+"Деякі сторінки можуть мати підсторінки, які позначаються піктограмою "
+"|forward| поряд із назвою сторінки."
 
 #: docs/index.rst:212
 msgid "If you hover with your mouse over a point on a map or a chart, a small pop-up message will appear, displaying additional details."
 msgstr ""
+"Якщо навести покажчик миші на точку на мапі або на діаграму, з’явиться "
+"невелике спливне повідомлення з додатковими даними."
 
 #: docs/index.rst:215
 msgid "The animation below shows the dashboards in action."
-msgstr ""
+msgstr "Роботу аналітичної панелі ілюструє анімація нижче."
 
 #: docs/index.rst:224
 msgid "Customizing a dashboard"
-msgstr ""
+msgstr "Налаштування аналітичної панелі"
 
 #: docs/index.rst:225
 msgid "This section provides a few tips and tricks on how to customize the dashboard by applying filters and alter some of the default display options."
 msgstr ""
+"Цей розділ містить кілька порад і підказок щодо налаштування аналітичної "
+"панелі з використанням фільтрів і за допомогою змінення параметрів "
+"відображення за промовчанням."
 
 #: docs/index.rst:228
 msgid "Apply filters"
-msgstr ""
+msgstr "Застосування фільтрів"
 
 #: docs/index.rst:230
 msgid "Data on the dashboard can be filtered. This allows you to scrutinize the data subsets that are of interest to you."
 msgstr ""
+"Дані на аналітичній панелі можна фільтрувати. Це дає змогу звужувати вибірки "
+"даних, які становлять інтерес."
 
 #: docs/index.rst:232
 msgid "Filtering is not persistent and only visible during your current session."
-msgstr ""
+msgstr "Фільтрація не є постійною й чинна лише в поточному сеансі."
 
 #: docs/index.rst:234
 msgid "In the top right corner of the dashboard, click the |filter| button."
 msgstr ""
+"Натисніть кнопку |filter| (Фільтри) у верхньому правому куті аналітичної "
+"панелі."
 
 #: docs/index.rst:235
 msgid "You should now see the filtering setting page. Use the drop-down list to select your filter criteria. Repeat this process until you have added all the desired filter criteria."
 msgstr ""
+"Відкриється сторінка налаштувань фільтрів. Виберіть критерії фільтрації за "
+"допомогою випадного списку. Повторюйте цю дію, доки не додасте всі потрібні "
+"критерії фільтрації."
 
 #: docs/index.rst:237
 msgid "If you apply multiple search criteria, only results that contain all terms will be shown."
 msgstr ""
+"У разі застосування кількох критеріїв пошуку буде відображено тільки ті "
+"результати, які містять їх усі."
 
 #: docs/index.rst:239
 msgid "You can limit the number of fields displayed using the search field on the top of the page."
 msgstr ""
+"Кількість відображуваних полів можна обмежити за допомогою поля пошуку вгорі "
+"сторінки."
 
 #: docs/index.rst:241
 msgid "Click the |applyfilter| button to activate your filter."
-msgstr ""
+msgstr "Для застосування фільтра натисніть кнопку |applyfilter| (Застосувати)."
 
 #: docs/index.rst:242
 msgid "To remove the filters, return to the **Filter** pages and click the |clearfilter| button."
 msgstr ""
+"Для скасування фільтрів поверніться на сторінку **Фільтри** та натисніть "
+"кнопку |clearfilter| (Очистити)."
 
 #: docs/index.rst:250
 msgid "Map Zoom Level and Focus Area"
-msgstr ""
+msgstr "Масштабування мапи та відображувана область"
 
 #: docs/index.rst:252
 msgid "You can adjust the zoom level of a map by using the scroll button on your mouse. To change the focus area of a map, position your mouse in the map element. Click the map (hold) and drag the map in the desired direction. This will move the map focus area."
 msgstr ""
+"Масштаб мапи можна регулювати за допомогою коліщатка миші. Для змінення "
+"відображуваної області наведіть покажчик миші на мапу, а тоді натисніть ліву "
+"кнопку миші та, утримуючи її, перетягніть мапу в потрібному напрямку. "
+"Відображувана область мапи зміститься."
 
 #: docs/index.rst:255
 msgid "Remove a Category from Charts or Maps"
-msgstr ""
+msgstr "Видалення категорії з діаграм або мап"
 
 #: docs/index.rst:257
 msgid "By clicking the icons in the legend, you can remove a category from a chart or map. To add it again, simply click the circle again."
 msgstr ""
+"Натискаючи піктограми в умовних позначеннях, можна прибирати категорії з "
+"діаграми або мапи. Щоб повернути категорію, просто натисніть на кружечок іще "
+"раз."
 
 #: docs/index.rst:260
 msgid "Reorder map layers"
-msgstr ""
+msgstr "Змінення порядку шарів мапи"
 
 #: docs/index.rst:262
 msgid "Depending on the zoom level applied to a map, it may happen that several points lie on top of each other, hiding some facilities. To bring a specific category to the front, uncheck the category in the legend. This will remove the category from the map. If you add the category again (click the now empty circle), the category will be added on top of the other points."
 msgstr ""
+"Залежно від масштабу мапи, кілька точок можуть утворювати скупчення, "
+"затуляючи окремі заклади. Щоб перемістити конкретну категорію наперед, "
+"зніміть з неї вибір в умовних позначеннях. Ця категорія зникне з мапи. Якщо "
+"повернути категорію (натиснувши на кружечок, який став порожнім), її буде "
+"додано поверх решти точок."
 
 #: docs/index.rst:270
 msgid "Exporting a dashboard"
-msgstr ""
+msgstr "Експорт аналітичної панелі"
 
 #: docs/index.rst:271
 msgid "Dashboards can be printed or exported as PDF documents."
-msgstr ""
+msgstr "Аналітичні панелі можна друкувати або експортувати як PDF-документи."
 
 #: docs/index.rst:273
 msgid "The export will include any applied filters."
-msgstr ""
+msgstr "Експорт здійснюється з урахуванням застосованих фільтрів."
 
 #: docs/index.rst:275
 msgid "To export a dashboard, open the desired dashboard as explained `here <#view-a-project-dashboard>`__."
 msgstr ""
+"Щоб експортувати аналітичну панель, відкрийте потрібну панель, як пояснено `"
+"тут <Огляд-проєкту>`__."
 
 #: docs/index.rst:276
 msgid "Click the |pdf| icon in the top right corner of your screen."
-msgstr ""
+msgstr "Натисніть кнопку |pdf| у верхньому правому куті екрана."
 
 #: docs/index.rst:282
 msgid "This will open a new tab containing a printable version of the dashboard. Click *CTRL* + *P* to print the dashboard or save it as a pdf."
 msgstr ""
+"Відкриється нова вкладка з версією аналітичної панелі для друку. Натисніть "
+"*CTRL* + *P*, щоб роздрукувати аналітичну панель або зберегти її як "
+"PDF-документ."
 
 #: docs/index.rst:285
 msgid "Default dashboard pages"
-msgstr ""
+msgstr "Сторінки аналітичних панелей за замовчанням"
 
 #: docs/index.rst:287
 msgid "The below section provides an overview of the standard pages available in a dashboard. Each page refers to a HeRAMS standard information pillar."
 msgstr ""
+"Цей розділ містить огляд стандартних сторінок, які є на аналітичній панелі. "
+"Кожна сторінка пов’язана зі стандартним інформаційним стовпцем HeRAMS."
 
 #: docs/index.rst:289
 msgid "The order and the content of dashboards are customized individually based on each project's need. Your dashboard might, therefore, be substantially different from the example pages displayed below."
 msgstr ""
+"Порядок і вміст аналітичних панелей налаштовуються індивідуально відповідно "
+"до потреб кожного проєкту. Таким чином, Ваша аналітична панель може значною "
+"мірою відрізнятися від прикладів сторінок, зображених нижче."
 
 #: docs/index.rst:292
 msgid "Overview"
-msgstr ""
+msgstr "Огляд"
 
 #: docs/index.rst:294
 msgid "The **Overview** page provides a summary, in form of:"
-msgstr ""
+msgstr "Сторінка **Огляд** містить стислий опис у формі:"
 
 #: docs/index.rst:296
 msgid "a map to spot the distribution and number of health facilities by level of care (i.e. primary, secondary and tertiary health care facilities); and"
 msgstr ""
+"мапи з точками розподілу та кількості закладів охорони здоров’я за рівнями "
+"допомоги (тобто заклади первинної, вторинної та третинної медичної допомоги);"
+" та"
 
 #: docs/index.rst:297
 msgid "donut charts to summarize different indicators, such as level of damage, functionality status, accessibility, and service availability in the assessed health facility."
 msgstr ""
+"кругові діаграми, які відображають різні зведені показники, як-от рівень "
+"пошкоджень, функціональний стан, доступність будівлі та доступність послуг "
+"для оціненого закладу охорони здоров’я."
 
 #: docs/index.rst:299
 msgid "The service availability indicator is country-specific. Thus, direct comparisons from one country to another should be avoided."
 msgstr ""
+"Показник доступності послуг залежить від конкретної країни. З огляду на це, "
+"варто уникати прямих порівнянь між країнами."
 
 #: docs/index.rst:306
 msgid "Infrastructure"
-msgstr ""
+msgstr "Інфраструктура"
 
 #: docs/index.rst:308
 msgid "The **Infrastructure** page displays a descriptive analysis, including:"
-msgstr ""
+msgstr "Сторінка **Інфраструктура** містить описовий аналіз, зокрема таке:"
 
 #: docs/index.rst:310
 msgid "a map to spot the distribution and number of health facilities by type;"
 msgstr ""
+"мапу з точками розподілу та кількості закладів охорони здоров’я за типами;"
 
 #: docs/index.rst:311
 msgid "donut charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery (**MoSD**\\s) by type as well as the modality of the building structure (permanent vs. temporary); and"
 msgstr ""
+"кругові діаграми для ілюстрації закладів за способами надання послуг **Mo**"
+"\\des of **S**\\ervice **D**\\elivery (**MoSD**\\s), а також за призначенням "
+"споруди (постійна або тимчасова); та"
 
 #: docs/index.rst:312
 msgid "a table to illustrate reported accessibility barriers."
-msgstr ""
+msgstr "таблицю зі списком повідомлених перешкод для доступності."
 
 #: docs/index.rst:319
 msgid "Condition"
-msgstr ""
+msgstr "Стан"
 
 #: docs/index.rst:321
 msgid "The **Condition** page displays the level of reported damage to MoSD buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualized as:"
 msgstr ""
+"На сторінці **Стан** відображається рівень повідомлених пошкоджень за типами "
+"закладів (MoSD) за стандартною класифікацією та шкалою (від «Не пошкоджено» "
+"до «Повністю пошкоджено»). Візуалізація інформації така:"
 
 #: docs/index.rst:323
 msgid "a map to spot the distribution and number of health facilities according to the level of building damage (i.e. condition);"
 msgstr ""
+"мапа з точками розподілу та кількості закладів охорони здоров’я за рівнями "
+"пошкодження будівель (тобто за станом);"
 
 #: docs/index.rst:324
 msgid "donut charts summarizing the reported level of building damage by level of severity as well as the distribution of MoSD by type; and"
 msgstr ""
+"кругові діаграми, які відображають зведені повідомлені рівні пошкодження "
+"будівель за ступенями тяжкості, а також розподіл закладів за типами; та"
 
 #: docs/index.rst:325
 msgid "a table to provide the name of the prioritized localities in terms of damage and their main causes."
 msgstr ""
+"таблиця з назвами місць, які є пріоритетними з точки зору пошкоджень та "
+"їхніх причин."
 
 #: docs/index.rst:332
 msgid "Functionality"
-msgstr ""
+msgstr "Функціональність"
 
 #: docs/index.rst:334
 msgid "The **Functionality** page displays the level of functionality of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) represented as:"
 msgstr ""
+"На сторінці **Функціональність** відображається рівень функціональності "
+"закладів за стандартною класифікацією та шкалою (від «Повністю функціонує» "
+"до «Не функціонує») у таких формах:"
 
 #: docs/index.rst:336
 msgid "a map to spot the distribution and number of MoSDs according to the functionality status;"
 msgstr ""
+"мапа з точками розподілу та кількості закладів за функціональним станом;"
 
 #: docs/index.rst:337
 msgid "donut charts to summarize the level of functionality as well as main causes of non-functionality; and"
 msgstr ""
+"кругові діаграми, які відображають зведений рівень функціональності, а також "
+"основні причини нефункціональності; та"
 
 #: docs/index.rst:338
 msgid "a table displays the list of priority areas in terms of non-functional health facilities and reported causes."
 msgstr ""
+"таблиця зі списком районів, які є пріоритетними з точки зору "
+"нефункціональності закладів охорони здоров’я та повідомлених причин."
 
 #: docs/index.rst:345
 msgid "Accessibility"
-msgstr ""
+msgstr "Доступність"
 
 #: docs/index.rst:347
 msgid "The **Accessibility** page displays the level of accessibility to MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:"
 msgstr ""
+"На сторінці **Доступність** відображається рівень доступності закладів за "
+"стандартною класифікацією та шкалою (від «Повністю доступно» до «Не "
+"доступно») у таких формах:"
 
 #: docs/index.rst:349
 msgid "a map to spot the distribution and number of MoSDs according to the accessibility status;"
-msgstr ""
+msgstr "мапа з точками розподілу та кількості закладів за станом доступності;"
 
 #: docs/index.rst:350
 msgid "donut charts to summarize the level of accessibility per number of MoSDs as well as the reported causes of inaccessibility per number of MoSDs; and"
 msgstr ""
+"кругові діаграми, які відображають зведений рівень доступності відносно "
+"кількості закладів, а також повідомлені причини недоступності відносно "
+"кількості закладів; та"
 
 #: docs/index.rst:351
 msgid "a table displays the list of priority areas with inaccessible MoSDs and the main reported cause of inaccessibility."
 msgstr ""
+"таблиця зі списком районів, які є пріоритетними з точки зору недоступності "
+"закладів та основних повідомлених причин недоступності."
 
 #: docs/index.rst:358
 msgid "Management & support"
-msgstr ""
+msgstr "Керівництво та підтримка"
 
 #: docs/index.rst:360
 msgid "The **Management & support** page displays information on the management of the MoSDs and the level of support provided by partners. The information is illustrated in terms of:"
 msgstr ""
+"На сторінці **Керівництво та підтримка** відображається інформація щодо "
+"керівництва закладів і рівнів підтримки з боку партнерів. Інформація "
+"подається в такій формі:"
 
 #: docs/index.rst:362
 msgid "Ownership:"
-msgstr ""
+msgstr "Тип власності:"
 
 #: docs/index.rst:364
 msgid "A map to spot the distribution of MoSDs according to their ownership (i.e. public, private, faith-based and, NGO/iNGO)."
 msgstr ""
+"Мапа з точками розподілу закладів за їхніми типами власності (тобто "
+"державні, приватні, релігійні та НУО/МНУО)."
 
 #: docs/index.rst:365
 msgid "A donut chart to highlight the categories of ownership as a percentage of the total number of MoSDs."
 msgstr ""
+"Кругова діаграма, яка ілюструє категорії власності у відсотках від загальної "
+"кількості закладів."
 
 #: docs/index.rst:367
 msgid "External support:"
-msgstr ""
+msgstr "Зовнішня підтримка:"
 
 #: docs/index.rst:369
 msgid "A donut chart to illustrate the level of support provided by partners."
 msgstr ""
+"Кругова діаграма, яка ілюструє рівні підтримки, забезпечуваної партнерами."
 
 #: docs/index.rst:376
 msgid "Basic Amenities"
-msgstr ""
+msgstr "Базова інфраструра"
 
 #: docs/index.rst:378
 msgid "Information on **Basic Amenities** is presented in a series of subpages. Each subpage is dedicated to a particular category and includes:"
 msgstr ""
+"Платформа має групу підсторінок **Базова інфраструктура**. Кожна підсторінка "
+"присвячена окремій категорії та містить таке:"
 
 #: docs/index.rst:380
 msgid "a map displaying the availability and sufficiency of the basic amenity; and"
-msgstr ""
+msgstr "мапу з позначеннями наявності та достатності базових зручностей; та"
 
 #: docs/index.rst:381
 msgid "donut charts highlighting the percentage of MoSDs with sufficient availability of the amenity as well as main sources."
 msgstr ""
+"кругові діаграми, які ілюструють відсотки закладів, у яких наявні в "
+"достатньому обсязі зручності, а також основні ресурси."
 
 #: docs/index.rst:389
 msgid "Service Availability"
-msgstr ""
+msgstr "Доступність послуг"
 
 #: docs/index.rst:391
 msgid "The **Service Availability** page displays multiple pages per type of service. Each page displays:"
 msgstr ""
+"Сторінка **Доступність послуг** має кілька частин, по одній на кожен вид "
+"послуг. У кожній частині відображається таке:"
 
 #: docs/index.rst:393
 msgid "a map to spot the distribution of the MoSDs providing the selected health service;"
-msgstr ""
+msgstr "мапа з точками розподілу закладів, які надають вибрані медичні послуги;"
 
 #: docs/index.rst:394
 msgid "donut charts to summarize the level of service availability as well as the underlying causes of unavailability of the service; and"
 msgstr ""
+"кругові діаграми, які відображають зведений рівень доступності послуг, а "
+"також першопричини недоступності послуг; та"
 
 #: docs/index.rst:395
 msgid "a table displaying the list of priority areas per service unavailability and the main reported underlying causes."
 msgstr ""
+"таблиця зі списком районів, які є пріоритетними з точки зору недоступності "
+"послуг та основних повідомлених першопричин."
 
 #: docs/index.rst:403
 msgid "Contribute Data"
-msgstr ""
+msgstr "Реєстрація даних"
 
 #: docs/index.rst:405
 msgid "This chapter is intended for data managers responsible to update HeRAMS data. It covers all aspects related to data editing, including registering new health facilities, updating the status of existing health facilities as well as deleting erroneous records (e.g. duplicates)."
 msgstr ""
+"Ця глава призначена адміністраторам даних, відповідальним за оновлення даних "
+"HeRAMS. Вона охоплює всі аспекти редагування даних, у тому числі реєстрацію "
+"нових закладів охорони здоров’я, оновлення стану наявних закладів охорони "
+"здоров’я, а також видалення хибних записів (наприклад, дублікатів)."
 
 #: docs/index.rst:407
 msgid "Access to the data edit interface is limited to users responsible to update data. If you require your access permissions to be changed, kindly contact the *Workspace owner*, your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
+"Доступ до інтерфейсу редагування даних надається тільки користувачам, "
+"відповідальним за оновлення даних. Якщо Вам потрібно змінити права доступу, "
+"зверніться до *власника робочого простору*, свого *адміністратора проєкту* "
+"або надішліть електронний лист на адресу `herams@who.int <mailto:herams@who."
+"int?>`_, зазначивши свої посаду та роль і надавши стисле пояснення того, "
+"навіщо Вам потрібно змінити права доступу."
 
 #: docs/index.rst:410
 msgid "Access your workspace"
-msgstr ""
+msgstr "Доступ до робочого простору"
 
 #: docs/index.rst:412
 msgid "HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data. A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner, or any other logical entity. Each workspace has a dedicated focal point, the *Workspace owner*, who is responsible for updating the health facilities within their workspace. *Workspace owners* may invite additional users to contribute to their data. For more information on how to grant users access to a workspace please view the `user management`_ section."
 msgstr ""
+"Для адміністрування прав доступу до відповідних даних у HeRAMS "
+"використовуються так звані робочі простори (англ. workspaces). До робочого "
+"простору можуть входити всі заклади охорони здоров’я географічного регіону, "
+"заклади охорони здоров’я, що їх адмініструє певний партнер, або будь-які "
+"інші логічні сутності. Кожен робочий простір має окремого координатора — "
+"власника робочого простору (англ. Workspace owner), який відповідає за "
+"оновлення даних про заклади охорони здоров’я у своєму робочому просторі. *"
+"Власники робочих просторів* можуть запрошувати додаткових користувачів, щоб "
+"вони могли реєструвати нові дані. Додаткова інформація про надання "
+"користувачам доступу до робочого простору міститься в розділі `"
+"Адміністрування користувачів`_ ."
 
 #: docs/index.rst:419
 msgid "Open the project summary pop-up by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map."
 msgstr ""
+"Відкрийте спливне вікно з описом проєкту, вибравши проєкт на навігаційній "
+"панелі ліворуч. Також опис проєкту можна відкрити, натиснувши на відповідну "
+"синю точку на мапі світу."
 
 #: docs/index.rst:420
 msgid "Click the |workspace-button| button in the bottom right corner of the pop-up."
 msgstr ""
+"Натисніть кнопку |workspace-button| (Робочий простір) у нижньому правому "
+"куті спливного вікна."
 
 #: docs/index.rst:427
 msgid "3. This opens a new page displaying a table with the list of workspaces belonging to the selected project. The total number of workspaces available within a project is shown next to the tab title (1). For each workspace, the table displays the date when a workspace was **last updated**, the number of **contributors**, **health facilities** and **responses**. By default, the list of workspaces is sorted so that the most recently updated workspace appears on top. You can change the order by clicking the header names (2)."
 msgstr ""
+"Відкриється нова сторінка з таблицею, в якій будуть перелічені робочі "
+"простори, які належать до вибраного проєкту. Загальна кількість робочих "
+"просторів у проєкті відображається поряд із заголовком вкладки (1). Для "
+"кожного робочого простору в таблиці зазначається дата, коли його було "
+"востаннє оновлено (стовпчик **Last Updated**), кількість реєстраторів даних ("
+"стовпчик **Contributors**), закладів охорони здоров’я (стовпчик "
+"**Facilities**) та відповідей (стовпчик **Responses**). За промовчанням "
+"список робочих просторів упорядковується за датою їх оновлення (на першому "
+"місці — останнє оновлене). Цей порядок можна змінювати натисненнями на "
+"заголовки стовпчиків (2)."
 
 #: docs/index.rst:430
 #: docs/index.rst:436
 msgid "The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times."
 msgstr ""
+"Кількість відповідей може бути більшою, ніж загальна кількість закладів "
+"охорони здоров’я. Це означає, що якийсь заклад охорони здоров’я було оцінено "
+"кілька разів."
 
 #: docs/index.rst:432
 msgid "To view the list of health facilities belonging to a specific workspace, click the workspace name."
 msgstr ""
+"Для перегляду списку закладів охорони здоров’я, які належать до певного "
+"робочого простору, натисніть на назву відповідного робочого простору."
 
 #: docs/index.rst:434
 msgid "Access to the list of health facilities requires specific permission. If you don't see an |icon_view| icon (3) next to the workspace name you do not have permission to view the list of health facilities. Contact your workspace administrator if you think your permissions need to elevate."
 msgstr ""
+"Для доступу до списку закладів охорони здоров’я потрібний спеціальний "
+"дозвіл. Якщо Ви не бачите піктограми |icon_view| (3) поряд із назвою "
+"робочого простору, у Вас немає дозволу на перегляд списку закладів охорони "
+"здоров’я. Зверніться до адміністратора робочого простору, якщо Ви вважаєте, "
+"що Вам потрібне підвищення рівня дозволу."
 
 #: docs/index.rst:439
 msgid "If your workspace does not appear, use the page navigation at the bottom (4) or filter the workspaces by typing the workspace name in the field below the header row (5)."
 msgstr ""
+"Якщо Вашого робочого простору немає у списку, скористайтеся кнопками "
+"переходу сторінками внизу (4) або відфільтруйте робочі простори, ввівши "
+"назву робочого простору в поле під рядком заголовків (5)."
 
 #: docs/index.rst:441
 msgid "By clicking the |star-hollow| icon in the first column you can mark a workspace as a **favorite**. This will make it easier to access your workspace in the future. See `below <#favorites>`__ for more information on how to access your favorite workspaces"
 msgstr ""
+"Натиснувши піктограму у першому стовпчику, можна позначити робочий простір "
+"як обраний. Завдяки цьому буде зручніше переходити до робочого простору в "
+"майбутньому. Детальніша інформація щодо доступу до обраних робочих просторів "
+"наводиться `нижче <#Обране>`__."
 
 #: docs/index.rst:448
 msgid "The video below shows how to access your project, filter workspaces and access your workspace."
 msgstr ""
+"На відео нижче пояснюється, як відкрити проєкт, відфільтрувати робочі "
+"простори та відкрити робочий простір."
 
 #: docs/index.rst:457
 msgid "Favorites"
-msgstr ""
+msgstr "Обране"
 
 #: docs/index.rst:458
 msgid "To simplify navigation, it is recommended that you add frequently accessed workspaces to your list of favorites. Workspaces marked as favorites can be accessed from anywhere in the platform by clicking the |star-filled| icon in the top right corner of your screen."
 msgstr ""
+"Для спрощення навігації рекомендовано додати робочі простори, якими Ви часто "
+"користуєтеся, до списку обраного. До робочих просторів, позначених як "
+"обрані, можна переходити з будь-якої сторінки платформи, натиснувши "
+"піктограму |star-filled| у верхньому правому куті екрана."
 
 #: docs/index.rst:460
 msgid "For users working on multiple projects, please note that it is possible to add workspace from different projects to your list of favorites."
 msgstr ""
+"Користувачам, які працюють із кількома проєктами, варто зважати на те, що до "
+"списку обраного не можна додавати робочі простори з різних проєктів."
 
 #: docs/index.rst:463
 msgid "Navigate to the list of workspaces as outlined above."
-msgstr ""
+msgstr "Перейдіть до списку робочих просторів, як описано вище."
 
 #: docs/index.rst:464
 msgid "In the first column you should see a |star-hollow| icon. To add a workspace to your list of favorites, simply click the icon."
 msgstr ""
+"У першому стовпчику Ви побачите піктограму |star-hollow|. Щоб додати робочий "
+"простір до свого списку обраного, просто натисніть на цю піктограму."
 
 #: docs/index.rst:465
 msgid "The icon should have changed to a filled star |star-filled|, indicating that your workspace was successfully added to your list of favorites."
 msgstr ""
+"Піктограма зміниться на зірочку із заливкою |star-filled|, що означатиме, що "
+"цей робочий простір було успішно додано до списку обраного."
 
 #: docs/index.rst:466
 msgid "You can now access the workspace directly from the world map by clicking the |star-filled| icon in the top right corner of your screen."
 msgstr ""
+"Після цього Ви зможете відкривати цей робочий простір безпосередньо з мапи "
+"світу, натискаючи піктограму |star-filled| у верхньому правому куті екрана."
 
 #: docs/index.rst:468
 msgid "To remove a workspace from your list of favorites, clicked the |star-filled| icon again. You should see the icon changing back to an unfilled |star-hollow|."
 msgstr ""
+"Щоб видалити робочий простір зі списку обраного, натисніть піктограму |star-"
+"filled| іще раз. Піктограма зміниться назад на порожню зірочку |star-hollow|."
 
 #: docs/index.rst:470
 msgid "If the workspace does not automatically disappear from your list of favorites, try refreshing the page."
 msgstr ""
+"Якщо робочий простір не зник зі списку обраного автоматично, спробуйте "
+"оновити сторінку."
 
 #: docs/index.rst:474
 msgid "Edit a Response"
-msgstr ""
+msgstr "Редагування відповіді"
 
 #: docs/index.rst:476
 msgid "Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a New Response>`_."
 msgstr ""
+"Редагування відповіді перезапише наявну відповідь. Якщо Вам потрібно оновити "
+"стан закладу охорони здоров’я зі збереженням історії змін, перейдіть до "
+"функції `Додати нову відповідь>`_."
 
 #: docs/index.rst:478
 msgid "Access your workspace as outlined `above <#access-your-workspace>`__."
 msgstr ""
+"Відкрийте робочий простір, як описано `вище "
+"<#Доступ-до-робочого-простору>`__."
 
 #: docs/index.rst:480
 msgid "For multilingual HeRAMS projects, a drop-down list on top of the table permits altering the display language of the table and the questionnaire (1)."
 msgstr ""
+"У багатомовних проєктах HeRAMS можна перемикати мову таблиці та "
+"опитувальника (1) за допомогою розкривного списку вгорі таблиці."
 
 #: docs/index.rst:482
 msgid "The total number of health facilities within a workspace is shown at the bottom of the page (2). To advance to the next page, use the bottom in the bottom right corner (3). The number of health facilities displayed on a page can be adjusted using the drop-down list in the top right corner (4). Similar to the table of workspaces, clicking the column headers will sort the health facilities accordingly (5). Finally, filters can be applied in the top row above the header to limit the number of health facilities displayed (6)."
 msgstr ""
+"Загальна кількість закладів охорони здоров’я (2) в робочому просторі "
+"відображається внизу сторінки. Для переходу до наступної сторінки "
+"використовуйте кнопку в нижньому правому куті (3). Кількість закладів "
+"охорони здоров’я, які виводяться на сторінці, можна змінювати за допомогою "
+"розкривного списку (4) у верхньому правому куті. Аналогічно, як у таблиці "
+"робочих просторів, заклади охорони здоров’я можна сортувати, натискаючи "
+"заголовки відповідних стовпчиків (5). Крім того, для звуження набору "
+"відображуваних закладів охорони здоров’я можна застосовувати фільтри (6) у "
+"верхньому рядку над заголовком."
 
 #: docs/index.rst:484
 msgid "For ease of navigation, responses are grouped by health facility. To view individual responses of a health facility, click anywhere in the corresponding row. This will expand the list of existing responses associated with the selected health facility."
 msgstr ""
+"Для зручності навігації відповіді групуються за закладом охорони здоров’я. "
+"Щоб переглянути окремі відповіді за закладом охорони здоров’я, натисніть у "
+"будь-якому місці відповідного рядка. При цьому розгорнеться список наявних "
+"відповідей, пов’язаних із обраним закладом охорони здоров’я."
 
 #: docs/index.rst:492
 msgid "You should now see a list of all responses belonging to the selected health facility. The total number of responses is indicated in the left-most column (1). The|new| label indicates a newly added response. The label automatically disappears after 48h (2)."
 msgstr ""
+"Ви побачите список усіх відповідей, які стосуються обраного закладу охорони "
+"здоров’я. Загальна кількість відповідей відображається у крайньому лівому "
+"стовпчику (1). Нова додана відповідь позначається міткою |New| (Нова). Ця "
+"мітка (2) зникне за 48 годин."
 
 #: docs/index.rst:494
 msgid "In the left-most column of the list of responses, you should see three buttons allowing you to perform the following actions."
 msgstr ""
+"У крайньому лівому стовпчику списку відповідей будуть три кнопки, які дають "
+"змогу виконувати описані нижче дії."
 
 #: docs/index.rst:496
 msgid "|view| **View**: Click this button to view the full response"
 msgstr ""
+"|view| **Переглянути**: Натисніть цю кнопку, щоб переглянути повну "
+"інформацію про відповідь"
 
 #: docs/index.rst:497
 msgid "|pencil| **Edit**: This allows you to modify an existing response. This will permanently overwrite the existing information and cannot be undone."
 msgstr ""
+"|pencil| **Редагувати**: Це дає змогу редагувати наявну відповідь. При цьому "
+"наявну інформацію буде остаточно й незворотно перезаписано."
 
 #: docs/index.rst:498
 msgid "|delete| **Delete**: Permanently deletes a response from a health facility. See `remove a response from health facility`_ for more information."
 msgstr ""
+"|delete| **Видалити**: Остаточне видалення відповіді для закладу охорони "
+"здоров’я. Додаткова інформація міститься в розділі "
+"`Видалення-відповіді-для-закладу-охорони-здоров’я`_ ."
 
 #: docs/index.rst:505
 msgid "The number of action buttons visible depends on your project's settings."
-msgstr ""
+msgstr "Кількість видимих кнопок дій залежить від налаштовань проєкту."
 
 #: docs/index.rst:507
 msgid "To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected response. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or to return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
 msgstr ""
+"Для змінення запису натисніть піктограму |pencil| у стовпчику *Actions* (Дії)"
+". Після цього Ви зможете відредагувати вибрану відповідь. Для переходу на "
+"наступну сторінку опитувальника або повернення на попередню використовуйте "
+"кнопки |next| (Далі) та |previous| (Назад), відповідно, у нижньому правому "
+"куті. Для переходу до потрібного розділу опитувальника також можна "
+"використовувати навігаційну панель ліворуч."
 
 #: docs/index.rst:508
 #: docs/index.rst:539
 #: docs/index.rst:557
 msgid "Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button."
 msgstr ""
+"Перш ніж вийти із запису, його потрібно підтвердити та зберегти. Щоб "
+"зберегти зміни, перейдіть на останню сторінку **Validate** (Перевірка) та "
+"натисніть кнопку |submit| (Надіслати)."
 
 #: docs/index.rst:509
 #: docs/index.rst:540
 #: docs/index.rst:558
 msgid "If you would like to discard your edits, click the |clear| button in the lower right corner of the page."
 msgstr ""
+"Якщо потрібно скасувати внесені зміни, натисніть кнопку |clear| (Очистити) у "
+"нижньому правому куті сторінки."
 
 #: docs/index.rst:511
 msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and in the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page (*Validate*) and click the |submit| button."
 msgstr ""
+"Попри те, що у проєкті може бути можливим зберегти відповідь, щоб "
+"повернутися до неї пізніше, на аналітичній панелі та в експортованих даних "
+"будуть тільки відправлені записи. Отже, завершивши редагування, завжди "
+"переходьте на останню сторінку (*Validate* (Перевірка)) та натискайте кнопку "
+"|submit| (Надіслати)."
 
 #: docs/index.rst:513
 msgid "The video below summarizes the steps to access your workspace and edit a health facility response."
 msgstr ""
+"На відео нижче пояснено кроки для відкриття робочого простору та редагування "
+"відповіді для закладу охорони здоров’я."
 
 #: docs/index.rst:523
 msgid "Add a New Response"
-msgstr ""
+msgstr "Додавання нової відповіді"
 
 #: docs/index.rst:525
 msgid "If HeRAMS is used as a monitoring tool, you can record changes to a health facility by adding a new response. This will add a new response to your health facility while keeping the history of your updates."
 msgstr ""
+"Якщо HeRAMS використовується як засіб моніторингу, додаючи нові відповіді, "
+"можна фіксувати зміни в закладі охорони здоров’я. Нову відповідь буде додано "
+"до закладу охорони здоров’я зі збереженням історії оновлень."
 
 #: docs/index.rst:527
 msgid "This feature is not enabled in all projects. Contact your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information."
 msgstr ""
+"Ця функція ввімкнена не в усіх проєктах. Зверніться до свого адміністратора "
+"проєкту або надішліть електронного листа на адресу `herams@who.int "
+"<mailto:herams@who.int?>`_ , щоб отримати додаткову інформацію."
 
 #: docs/index.rst:529
 msgid "To add a new response, access your workspace (see `Access your workspace`_ for details)."
 msgstr ""
+"Щоб додати нову відповідь, відкрийте робочий простір (докладніше про це див. "
+"у розділі `Доступ до робочого простору`_ )."
 
 #: docs/index.rst:530
 #: docs/index.rst:551
 msgid "Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details)."
 msgstr ""
+"Розгорніть список наявних відповідей, натиснувши в будь-якій точці "
+"відповідного рядка (докладніше про це див. у розділі `Редагування "
+"відповіді`_)."
 
 #: docs/index.rst:531
 msgid "To add a new response, click the |add-response| button above the most recent response (see below)."
 msgstr ""
+"Щоб додати нову відповідь, натисніть кнопку |add-response| (Додати нову "
+"відповідь) над найновішою відповіддю (див. нижче)."
 
 #: docs/index.rst:538
 msgid "You should now be able to edit the selected record. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
 msgstr ""
+"Після цього Ви зможете відредагувати вибраний запис. Для переходу на "
+"наступну сторінку опитувальника або повернення на попередню використовуйте "
+"кнопки |next| (Далі) та |previous| (Назад), відповідно, у нижньому правому "
+"куті. Для переходу до потрібного розділу опитувальника також можна "
+"використовувати навігаційну панель ліворуч."
 
 #: docs/index.rst:542
 msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, (*Validate*) and click the |submit| button."
 msgstr ""
+"Попри те, що у проєкті може бути можливим зберегти відповідь, щоб "
+"повернутися до неї пізніше, на аналітичній панелі та в експортованих даних "
+"будуть тільки відправлені записи. Отже, завершивши редагування, завжди "
+"переходьте на останню сторінку («Validate» (Перевірка)) та натискайте кнопку "
+"|submit| (Відправити)."
 
 #: docs/index.rst:544
 msgid "Upon adding a new response, the previous responses will be locked for editing. This is to prevent users from accidentally overwriting previous responses and thereby losing the history of change."
 msgstr ""
+"Після додавання нової відповіді попередні відповіді будуть заблоковані для "
+"редагування. Цю функцію впроваджено з метою захисту від випадкового "
+"перезапису користувачами попередніх відповідей і пов’язаної з цим утрати "
+"історії змін."
 
 #: docs/index.rst:548
 msgid "Register a New Health Facility"
-msgstr ""
+msgstr "Реєстрація нового закладу охорони здоров’я"
 
 #: docs/index.rst:550
 msgid "To register a new health facility, access your workspace (see `Access your workspace`_ for details)."
 msgstr ""
+"Щоб зареєструвати новий заклад охорони здоров’я, відкрийте робочий простір ("
+"докладніше про це див. у розділі `Доступ до робочого простору`_)."
 
 #: docs/index.rst:552
 msgid "Click the |new-record| button in the top right corner. This will open a blank form, allowing you to register a new health facility."
 msgstr ""
+"Натисніть кнопку |new-record| у верхньому правому куті. Відкриється порожня "
+"форма, за допомогою якої можна зареєструвати новий заклад охорони здоров’я."
 
 #: docs/index.rst:554
 msgid "The ability to add a new health facility may have been restricted by your project admin. If the button is not visible to you, contact your *project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
+"Адміністратор проєкту може обмежити можливість додавання нових закладів "
+"охорони здоров’я. Якщо Ви не бачите цієї кнопки, зверніться до свого "
+"адміністратора проєкту або надішліть електронного листа на адресу `herams@"
+"who.int <mailto:herams@who.int?>`_ , зазначивши свої посаду та роль і "
+"надавши стисле пояснення того, навіщо Вам потрібно змінити права доступу."
 
 #: docs/index.rst:556
 msgid "Use the |next| buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
 msgstr ""
+"Для переходу на наступну сторінку опитувальника або повернення на попередню "
+"використовуйте кнопки |next|(Далі) та |previous| (Назад), відповідно, у "
+"нижньому правому куті. Для переходу до потрібного розділу опитувальника "
+"також можна використовувати навігаційну панель ліворуч."
 
 #: docs/index.rst:560
 msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button."
 msgstr ""
+"Попри те, що у проєкті може бути можливим зберегти відповідь, щоб "
+"повернутися до неї пізніше, на аналітичній панелі та в експортованих даних "
+"будуть тільки відправлені записи. Отже, завершивши редагування, завжди "
+"переходьте на останню сторінку («Validate» (Перевірка)) та натискайте кнопку "
+"|submit| (Відправити)."
 
 #: docs/index.rst:563
 msgid "Remove a Response from Health Facility"
-msgstr ""
+msgstr "Видалення відповіді для закладу охорони здоров’я"
 
 #: docs/index.rst:565
 msgid "To delete a response from a health facility, access your workspace (see `Access your workspace`_ for details)."
 msgstr ""
+"Щоб видалити відповідь для закладу охорони здоров’я, відкрийте робочий "
+"простір (докладніше про це див. у розділі `Доступ до робочого простору`_)."
 
 #: docs/index.rst:566
 msgid "2. Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details). 2. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column 3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted."
 msgstr ""
+"Розгорніть список наявних відповідей, натиснувши в будь-якій точці "
+"відповідного рядка (докладніше про це див. у розділі `Редагування "
+"відповіді`_). 2. Відкриється історія відповідей для вибраного запису. Щоб "
+"видалити конкретну відповідь, натисніть піктограму |delete| у першому "
+"стовпчику. 3. Якщо потрібно видалити заклад охорони здоров’я повністю, "
+"повторюйте попередній крок, доки не буде видалено всі відповіді."
 
 #: docs/index.rst:570
 msgid "It is only possible to delete the most recent response. Previous responses are locked for editing/deleting to preserve the historical changes."
 msgstr ""
+"Видалити можливо тільки останню відповідь. Попередні відповіді блокуються "
+"для редагування/видалення з метою збереження історії змін."
 
 #: docs/index.rst:572
 msgid "Only delete all responses to a health facility if you are sure that it was entered by mistake (e.g. duplicated record). For health facilities that are permanently closed, add a new response and change the status to *permanently closed*."
 msgstr ""
+"Видаляти всі відповіді для закладу охорони здоров’я слід тільки тоді, коли "
+"Ви впевнені, що його було введено помилково (наприклад, було створено "
+"дубльований запис). Для закладів охорони здоров’я, які є остаточно "
+"зачиненими, додавайте нову відповідь зі зміненням стану на «permanently "
+"closed» (Закритий назавжди)."
 
 #: docs/index.rst:575
 msgid "Deleting responses cannot be undone. Thus, be careful when deleting responses."
 msgstr ""
+"Видалення відповідей є незворотною дією. Видаляючи відповіді, будьте обачні."
 
 #: docs/index.rst:579
 msgid "Download Data"
-msgstr ""
+msgstr "Завантаження даних"
 
 #: docs/index.rst:581
 msgid "Data for individual health facilities can be downloaded as **CSV** or **Excel** file."
 msgstr ""
+"Дані про окремі заклади охорони здоров’я можна завантажувати у вигляді файлу "
+"**CSV** або **Excel**."
 
 #: docs/index.rst:583
 msgid "Whether you have permissions to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your workspace owner, project admin or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
+"Наявність у Вас дозволу на завантаження даних залежить від Ваших посади та "
+"ролі. Якщо Вам потрібно змінити права доступу, зверніться до власника "
+"робочого простору, свого адміністратора проєкту або надішліть електронного "
+"листа на адресу `herams@who.int <mailto:herams@who.int?>`_ , зазначивши свої "
+"посаду та роль і надавши стисле пояснення того, навіщо Вам потрібно змінити "
+"права доступу."
 
 #: docs/index.rst:586
 msgid "Download Workspace Data"
-msgstr ""
+msgstr "Завантаження даних робочого простору"
 
 #: docs/index.rst:588
 msgid "Follow the instructions below to export data from your workspace. If you require data from multiple workspaces, you can repeat the below steps and merge your data in the analysis tool of choice."
 msgstr ""
+"Щоб експортувати дані з робочого простору, дотримуйтеся інструкцій нижче. "
+"Якщо Вам потрібні дані з кількох робочих просторів, повторіть описані нижче "
+"кроки для кожного з них, після чого об’єднайте дані в потрібному "
+"аналітичному засобі."
 
 #: docs/index.rst:590
 msgid "In order to download data, you will require special permissions to the workspace. Contact your system administrator to elevate your access rights if needed."
 msgstr ""
+"Для завантаження даних Вам буде потрібен особливий дозвіл у робочому "
+"просторі. За потреби зверніться до свого системного адміністратора для "
+"підвищення рівня прав доступу."
 
 #: docs/index.rst:593
 msgid "To export data, access your workspace as outlined `here <#access-your-workspace>`__)."
 msgstr ""
+"Щоб експортувати дані, відкрийте робочий простір, як описано `тут "
+"<#Доступ-до-робочого-простору>`__."
 
 #: docs/index.rst:594
 #: docs/index.rst:614
 msgid "You should now see a table displaying the list of workspaces available in your project. If you have been granted permission to download data, you should see a second tab labeled \"Download\" (1). Click the tab name to open the download settings."
 msgstr ""
+"Ви побачите таблицю зі списком робочих просторів, наявних у Вашому проєкті. "
+"Якщо Вам було надано дозвіл на завантаження даних, Ви побачите другу вкладку "
+"під назвою «Download» (Експорт даних) (1). Натисніть на назву вкладки, щоб "
+"відкрити налаштування завантаження."
 
 #: docs/index.rst:595
 #: docs/index.rst:615
 msgid "In the download tab you have the option to customize your data export. You can choose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options (2)."
 msgstr ""
+"На вкладці «Download» (Експорт даних) можна налаштувати параметри експорту "
+"даних. Можна вибрати між експортуванням даних як тексту або як коду, а також "
+"вибрати тип заголовка, який буде додано до експортованих даних. Для "
+"перемикання варіантів за промовчанням скористайтеся перемикачами "
+"«увімк./вимк.» (2)."
 
 #: docs/index.rst:597
 #: docs/index.rst:617
 msgid "If you choose to export answers as code, questions with predefined answer options will show coded values instead of the text labels (e.g. A1 instead of \"available\")."
 msgstr ""
+"Якщо Ви виберете експорт відповідей у вигляді коду, для запитань із "
+"визначеними варіантами відповідей будуть відображені кодові значення замість "
+"текстових написів (наприклад, A1 замість «доступний»)."
 
 #: docs/index.rst:599
 #: docs/index.rst:619
 msgid "If a survey is available in multiple languages, use the drop-down list to specify the export language (3)."
 msgstr ""
+"Якщо опитувальник доступний кількома мовами, скористайтеся випадним списком "
+"(3) для задання мови експорту."
 
 #: docs/index.rst:600
 msgid "By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report date** can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4)."
 msgstr ""
+"За замовчанням експортуються всі наявні відповіді для закладу охорони здоров’"
+"я. Для проєктів із кількома відповідями на заклад охорони здоров’я можна "
+"використовувати параметр **Report date** (Дата звіту), щоб обмежити "
+"кількість експортованих відповідей. Якщо визначено дату звіту, для кожного "
+"закладу охорони здоров’я буде експортовано тільки останній запис, дата якого "
+"збігається з визначеною або передує їй. Для отримання найбільш свіжих даних "
+"задайте для параметра **Report date** (Дата звіту) сьогоднішню дату (4)."
 
 #: docs/index.rst:601
 #: docs/index.rst:621
 msgid "Once you have defined the export settings, select between the two export formats (**CSV** or **Excel**) by clicking the respective button (5)."
 msgstr ""
+"Визначивши налаштування експорту, виберіть один із двох форматів експорту "
+"(**CSV** або **Excel**), натиснувши відповідну кнопку (5)."
 
 #: docs/index.rst:604
 #: docs/index.rst:625
 msgid "To avoid encoding issues, it is recommended that you download your data as an Excel file if you select a language other than English. For more information on the encoding of **CSV** files for use in Excel, see `Data Encoding in Excel`_."
 msgstr ""
+"Щоб уникнути проблем із кодуванням у разі завантаження даних мовою, "
+"відмінною від англійської, рекомендовано вибрати формат Excel. Детальніше "
+"про кодування файлів **CSV** для використання їх у програмі Excel див. у "
+"розділі `Кодування даних в Excel`_."
 
 #: docs/index.rst:608
 msgid "Download the Entire Data Set"
-msgstr ""
+msgstr "Завантаження всього набору даних"
 
 #: docs/index.rst:609
 msgid "Project administrators or users with special permissions can export the entire project data from the admin interface."
 msgstr ""
+"Адміністратори проєкту і користувачі зі спеціальними дозволами можуть через "
+"інтерфейс адміністрування експортувати всі дані проєкту."
 
 #: docs/index.rst:611
 msgid "Access to project level data is limited to selected users only. Contact your country administrator for further information."
 msgstr ""
+"Доступ до даних рівня проєкту надається тільки обраним користувачам. По "
+"додаткову інформацію зверніться до адміністратора Вашої країни."
 
 #: docs/index.rst:613
 msgid "Open your project's admin pages (see `Access your workspace`_ steps 1-2 for details)."
 msgstr ""
+"Відкрийте сторінку адміністрування Вашого проєкту (докладніше про це див. у "
+"кроках 1–2 розділу `Доступ до робочого простору`_)."
 
 #: docs/index.rst:620
 msgid "By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report** date can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4)."
 msgstr ""
+"За замовчанням експортуються всі наявні відповіді для закладу охорони здоров’"
+"я. Для проєктів із кількома відповідями на заклад охорони здоров’я можна "
+"використовувати параметр **Report date** (Дата звіту), щоб обмежити "
+"кількість експортованих відповідей. Якщо визначено дату звіту, для кожного "
+"закладу охорони здоров’я буде експортовано тільки останній запис, дата якого "
+"збігається з визначеною або передує їй. Для отримання найбільш свіжих даних "
+"задайте для параметра **Report date** (Дата звіту) сьогоднішню дату (4)."
 
 #: docs/index.rst:623
 msgid "For large data sets, exporting data in Excel takes substantially longer than exporting as **CSV** format."
 msgstr ""
+"Експортування великих наборів даних у формат Excel займає суттєво більше "
+"часу, аніж у формат **CSV**."
 
 #: docs/index.rst:629
 msgid "Data Encoding in Excel"
-msgstr ""
+msgstr "Кодування даних в Excel"
 
 #: docs/index.rst:630
 msgid "If data is downloaded for further analysis in Excel or a statistical software of choice (e.g. R or STATA), data encoding should always be set to UTF-8."
 msgstr ""
+"Якщо Ви завантажуєте дані для подальшого аналізу в Excel чи іншому "
+"відповідному статистичному програмному забезпеченні (наприклад, R чи STATA), "
+"завжди потрібно вибирати кодування даних UTF-8."
 
 #: docs/index.rst:632
 msgid "Encoding issues are particularly prevalent in languages with special character and can result in the data being unreadable. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
+"Проблеми з кодуванням особливо характерні для мов зі спеціальними символами "
+"та можуть призводити до того, що дані стають непридатними для читання. "
+"Наприклад, замість **camp de réfugiés** може утворитися **Camp de "
+"rÃ©fugiÃ©s**."
 
 #: docs/index.rst:634
 msgid "To avoid encoding issues, it is recommended that you download your data as an **Excel** file."
 msgstr ""
+"Щоб уникнути проблем із кодуванням, рекомендовано завантажувати дані у файлі "
+"**Excel**."
 
 #: docs/index.rst:636
 msgid "The below instructions guide users through the steps to define the data encoding in Excel."
 msgstr ""
+"Нижче описано кроки інструкції з визначення кодування даних у файлі Excel."
 
 #: docs/index.rst:638
 msgid "Open a new Excel file."
-msgstr ""
+msgstr "Відкрийте новий файл Excel."
 
 #: docs/index.rst:639
 msgid "On the Data tab in the **Get & Transform Data** group, click **From Text/CSV**."
 msgstr ""
+"На вкладці «Data» (Дані) у групі **Get & Transform Data** (Отримання та "
+"перетворення даних) натисніть **From Text/CSV** (Із тексту/CSV)."
 
 #: docs/index.rst:640
 msgid "In the **Import Data** dialog box, locate and double-click the text file that you want to import, and click **Import**."
 msgstr ""
+"У діалоговому вікні **Import Data** (Імпорт даних) відшукайте текстовий "
+"файл, який потрібно імпортувати, натисніть на нього двічі та натисніть "
+"кнопку **Import** (Імпорт)."
 
 #: docs/index.rst:641
 msgid "In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click **Import**."
 msgstr ""
+"У верхньому лівому куті спливного вікна, яке відкриється, змініть кодування "
+"на **UTF-8** і натисніть кнопку **Import** (Імпорт)."
 
 #: docs/index.rst:650
 msgid "HeRAMS Administration"
-msgstr ""
+msgstr "Адміністрування HeRAMS"
 
 #: docs/index.rst:652
 msgid "This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used throughout the platform followed by a detailed description of how to add users to workspaces and projects. The remaining parts of this chapter focus on more advanced topics and are intended to guide *Project admins* on how to administer a project locally."
 msgstr ""
+"Ця глава містить огляд сторінок адміністратора в HeRAMS і покрокові "
+"інструкції з типових завдань, виконуваних користувачами з розширеними "
+"привілеями (як-от *власниками робочих просторів* та *адміністраторами "
+"проєктів*). Першу частину глави присвячено адмініструванню користувачів. "
+"Вона містить огляд розділу `Ролі користувачів`_ на платформі за "
+"промовчанням, а також детальний опис процедури додавання користувачів до "
+"робочих просторів і проєктів. Решту частин цієї глави присвячено більш "
+"поглибленим темам, і вони мають на меті допомагати адміністраторам проєктів "
+"у локальному адмініструванні проєктів."
 
 #: docs/index.rst:655
 msgid "Access to different parts of the admin interface depends on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to be altered."
 msgstr ""
+"Доступ до різних частин інтерфейсу адміністрування залежить від Ваших посади "
+"та ролі. Якщо Вам потрібно змінити права доступу, зверніться до свого "
+"адміністратора проєкту або надішліть електронний лист `службі підтримки "
+"HeRAMS <mailto:herams@who.int?>`_ , зазначивши свої посаду та роль і надавши "
+"стисле пояснення того, навіщо Вам потрібно змінити права доступу."
 
 #: docs/index.rst:658
 msgid "User Management"
-msgstr ""
+msgstr "Адміністрування користувачів"
 
 #: docs/index.rst:661
 msgid "Workspace Permissions"
-msgstr ""
+msgstr "Дозволи в робочому просторі"
 
 #: docs/index.rst:663
 msgid "The use of workspaces permits users to manage a set of health facilities (e.g. all health facilities within a district) autonomously. **Workspace owners** have full control over their workspace and can decide to invite other users to contribute or access their data. There are four permissions at the workspace level:"
 msgstr ""
+"Використання робочих просторів дає користувачам змогу адмініструвати набори "
+"закладів охорони здоров’я (наприклад, усі заклади охорони здоров’я в межах "
+"району) автономно. **Власники робочих просторів** мають повний контроль над "
+"своїми робочими просторами та можуть приймати рішення щодо запрошення інших "
+"користувачів для реєстрації нових даних або доступу до наявних даних. На "
+"рівні робочого простору існують чотири дозволи:"
 
 #: docs/index.rst:666
 msgid "**Edit data**: Allows users to create, edit and delete records."
 msgstr ""
+"**Редагування даних**: Дозвіл користувачам на створення, редагування та "
+"видалення записів."
 
 #: docs/index.rst:668
 msgid "**Download data** Enables users to download all records from a workspace for further analysis in external applications."
 msgstr ""
+"**Експорт даних**: Дозвіл користувачам на завантаження всіх записів із "
+"робочого простору для подальшого аналізу в зовнішніх прикладних програмах."
 
 #: docs/index.rst:670
 msgid "**Manage users**: Permits users to share access to a workspace with other users."
 msgstr ""
+"**Керувати користувачами**: Дозвіл користувачам на надання доступу до "
+"робочого простору іншим користувачам."
 
 #: docs/index.rst:672
 msgid "**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to **workspace owners**. It provides a user with full admin privileges to a workspace, including the ability to grant another user the permission to invite new users."
 msgstr ""
+"**Надати адміністративні дозволи**: Цей дозвіл доступний тільки *"
+"адміністраторам проєктів*, і його слід надавати тільки **власникам робочих "
+"просторів**. Він надає користувачеві повні адміністраторські привілеї в "
+"робочому просторі, у тому числі змогу надавати іншим користувачам дозвіл "
+"запрошувати нових користувачів."
 
 #: docs/index.rst:674
 msgid "The ability to invite new users to contribute or manage a workspace depends on the permission of the user granting access. A user with permission to invite other users can only grant permissions they themselves have. Hence, it is possible that a user with the permission to ** manage users** is not able to grant access to edit or download data to other users."
 msgstr ""
+"Змога запрошувати нових користувачів для реєстрації даних у робочому "
+"просторі або для його адміністрування залежить від дозволів, які має "
+"користувач, що надає доступ. Користувач із дозволом на запрошення інших "
+"користувачів може надавати тільки ті дозволи, які він сам має. Таким чином, "
+"може так статися, що користувач із дозволом на адміністрування користувачів "
+"не зможе надавати іншим користувачам доступ для редагування або завантаження "
+"даних."
 
 #: docs/index.rst:676
 msgid "Access to workspaces and projects should always be granted with regards to the users' roles and responsibilities. For more information on user roles and the recommended permissions for each role consult the sections `user roles`_ and `mapping user roles to permissions`_."
 msgstr ""
+"Доступ до робочих просторів і проєктів слід завжди надавати з урахуванням "
+"ролей і сфер відповідальності користувачів. Додаткову інформацію про ролі "
+"користувачів і рекомендовані дозволи для кожної ролі див. у розділах `Ролі "
+"користувачів`_ і `Зіставлення ролей користувачів і дозволів`_ ."
 
 #: docs/index.rst:680
 msgid "Project Permissions"
-msgstr ""
+msgstr "Дозволи у проєкті"
 
 #: docs/index.rst:682
 msgid "Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *project level*, users are being granted access to *all* workspaces. For example, if a user is granted *edit* permission at the project level, they can edit data in all workspaces. In contrast, if a user is granted access at the workspace level, they are only able to contribute data to that specific workspace."
 msgstr ""
+"Аналогічно до дозволів у робочому просторі, дозволи можна надавати також і "
+"на *рівні проєкту*. Важливо зауважити, що якщо дозволи надаються на рівні "
+"проєкту, користувачі отримують відповідні доступи до всіх робочих просторів. "
+"Наприклад, якщо користувачеві надано дозвіл на *редагування* на рівні "
+"проєкту, то він зможе редагувати дані в усіх робочих просторах. І навпаки, "
+"якщо користувачеві надано доступ на рівні робочого простору, він зможе "
+"реєструвати дані тільки в цьому конкретному робочому просторі."
 
 #: docs/index.rst:684
 msgid "There are six permissions that can be granted at the project level:"
-msgstr ""
+msgstr "На рівні проєкту можуть надаватися шість дозволів:"
 
 #: docs/index.rst:686
 msgid "**View dashboard**: Grants access exclusively to the project dashboard. Granting users explicit access to the project dashboard is only required for *closed* or *private* projects. For all other projects, any user subscribed to the platform will be able to view the project dashboard."
 msgstr ""
+"**Переглянути дашборд**: Надання доступу винятково до аналітичної панелі "
+"проєкту. Надання користувачам спеціального доступу до аналітичної панелі "
+"проєкту потрібне лише для закритих або приватних проєктів. У всіх інших "
+"проєктах переглядати аналітичну панель може будь-який користувач із "
+"підпискою на платформу."
 
 #: docs/index.rst:688
 msgid "**Edit data**: Allows users to create, edit and delete records in any workspace of the project."
 msgstr ""
+"**Редагувати дані**: Дозвіл користувачам на створення, редагування та "
+"видалення записів у будь-якому робочому просторі проєкту."
 
 #: docs/index.rst:690
 msgid "**Download data**: Enables users to download the entire dataset, including records from all workspaces for further analysis in external applications."
 msgstr ""
+"**Експорт даних**: Дозвіл користувачам на завантаження всього набору даних "
+"разом із записами з усіх робочих просторів для подальшого аналізу в "
+"зовнішніх прикладних програмах."
 
 #: docs/index.rst:692
 msgid "**Manage workspaces**: Grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace."
 msgstr ""
+"**Керувати робочими просторами**: Надання користувачеві доступу для "
+"створення, змінення та видалення робочих просторів, а також змоги "
+"запрошувати користувачів для реєстрації даних у конкретному робочому "
+"просторі."
 
 #: docs/index.rst:694
 msgid "*Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces."
