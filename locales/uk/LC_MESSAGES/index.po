@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2022-11-08 15:11+0000\n"
+"PO-Revision-Date: 2022-11-08 17:11+0000\n"
 "Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/uk/>\n"
@@ -1631,50 +1631,96 @@ msgstr ""
 #: docs/index.rst:694
 msgid "*Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces."
 msgstr ""
+"*Власникам робочих просторів* дозволи повинні надаватися на рівні робочого "
+"простору. Якщо користувачеві надано дозвіл на *адміністрування робочих "
+"просторів*, він матиме доступ до всіх робочих просторів."
 
 #: docs/index.rst:696
 msgid "**Configure dashboard**: Grants users the ability to configure their project dashboard."
 msgstr ""
+"**Конфігурування аналітичної панелі**: Надання користувачам змоги "
+"конфігурувати аналітичну панель у своєму проєкті."
 
 #: docs/index.rst:698
 msgid "**Manage survey** Grants permission to access the survey configurations. This permission can only be granted by a global administrator."
 msgstr ""
+"**Адміністрування опитувань**: Надання дозволу на доступ до конфігурації "
+"опитування. Цей дозвіл може надавати тільки глобальний адміністратор."
 
 #: docs/index.rst:702
 msgid "User Roles"
-msgstr ""
+msgstr "Ролі користувачів"
 
 #: docs/index.rst:704
 msgid "There are six standard user roles used accross projects."
 msgstr ""
+"Існують шість стандартних ролей користувачів, які використовуються у "
+"проєктах."
 
 #: docs/index.rst:712
 msgid "**Project owner**: The designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality."
 msgstr ""
+"**Власник проєкту**: Призначена особа, відповідальна за проєкт HeRAMS. Вона "
+"може запрошувати користувачів для перегляду аналітичної панелі проєкту або "
+"списку наявних робочих просторів, але виконання рутинних дій із керування "
+"користувачами та забезпечення якості даних від неї не очікується."
 
 #: docs/index.rst:714
 msgid "**Project admin**: The *project owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS project and assigns them the role of *project admin*. The *project admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *project admins* are responsible for the overall training and management of users, they can assign *Workspace owners* to manage individual workspaces."
 msgstr ""
+"**Адміністратор проєкту**: *Власник проєкту* зазвичай покладає рутинні дії "
+"стосовно проєкту HeRAMS на особу, відповідальну за адміністрування "
+"інформації, та призначає їй роль *адміністратора проєкту*. Адміністратор "
+"проєкту має доступ до всіх робочих просторів. Залежно від налаштовань "
+"проєкту його також може бути призначено для конфігурування аналітичної "
+"панелі проєкту. Оскільки *адміністратори проєктів* загалом відповідають за "
+"підготовку користувачів і їх адміністрування, вони можуть призначати *"
+"власників робочих просторів* для адміністрування окремих робочих просторів."
 
 #: docs/index.rst:716
 msgid "**Workspace owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *workspace owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard."
 msgstr ""
+"**Власник робочого простору**: Зазвичай призначається на місцевому рівні та "
+"здійснює нагляд за збиранням даних за конкретною територією (наприклад, "
+"районом). Має повний контроль над своїм робочим простором і може запрошувати "
+"інших користувачів для реєстрації даних у його робочому просторі. Важливо "
+"зазначити, що *власник робочого простору* може редагувати тільки робочі "
+"простори, якими він володіє, та надавати доступ лише до них. Однак, як і "
+"будь-який користувач, якому було надано доступ до проєкту, він може "
+"переглядати дані з інших робочих просторів за допомогою аналітичної панелі "
+"проєкту."
 
 #: docs/index.rst:718
 msgid "**Data contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *workspace owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard."
 msgstr ""
+"**Реєстратор даних**: Допомагає власникові робочого простору у збиранні й "
+"адмініструванні інформації щодо окремих закладів охорони здоров’я. Як і "
+"власник робочого простору, може редагувати дані тільки у своєму робочому "
+"просторі, але також може переглядати проєкт загалом за допомогою аналітичної "
+"панелі проєкту."
 
 #: docs/index.rst:720
 msgid "**Data viewers**: Under exceptional situations, a user might be granted the role of *data viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard."
 msgstr ""
+"**Переглядач даних**: За особливих обставин користувачеві може бути надано "
+"роль *переглядача даних*. Це означає, що він отримує доступ для завантаження "
+"даних робочого простору, але не може їх редагувати. Як і всі користувачі, "
+"яким було надано доступ до проєкту, він може відкривати аналітичну панель "
+"проєкту."
 
 #: docs/index.rst:722
 msgid "**Project viewer:** The role of *project viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces."
 msgstr ""
+"**Переглядач проєкту**: Роль *переглядача проєкту* передбачена для "
+"користувачів на будь-якому рівні, які потребують даних HeRAMS для своєї "
+"роботи. Їхній доступ обмежується аналітичною панеллю проєкту та списком "
+"наявних робочих просторів."
 
 #: docs/index.rst:724
 msgid "If a project is set to **private** or **closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses."
 msgstr ""
+"Якщо проєкт є **приватним** або **закритим**, доступ до аналітичної панелі "
+"проєкту можливо обмежити ще більше."
 
 #: docs/index.rst:728
 msgid "Mapping User Roles to Permissions"
