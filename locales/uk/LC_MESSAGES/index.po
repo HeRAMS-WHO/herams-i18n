@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2022-11-08 19:11+0000\n"
+"PO-Revision-Date: 2022-11-08 22:11+0000\n"
 "Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/uk/>\n"
@@ -962,7 +962,7 @@ msgstr ""
 "Натиснувши піктограму у першому стовпчику, можна позначити робочий простір "
 "як обраний. Завдяки цьому буде зручніше переходити до робочого простору в "
 "майбутньому. Детальніша інформація щодо доступу до обраних робочих просторів "
-"наводиться `нижче <#Обране>`__."
+"наводиться `нижче <#Обране>`__"
 
 #: docs/index.rst:448
 msgid "The video below shows how to access your project, filter workspaces and access your workspace."
@@ -1922,364 +1922,520 @@ msgstr "Перейменування робочого простору"
 #: docs/index.rst:843
 msgid "To rename a workspace, open your workspace as outlined `here <#Access-your-workspace>`__ and go to *Workspace settings* tabs."
 msgstr ""
+"Щоб перейменувати робочий простір, відкрийте його, як описано `тут "
+"<#Доступ-до-робочого-простору>`__, і перейдіть на вкладку «Workspace "
+"settings» (Налаштування робочого простору)."
 
 #: docs/index.rst:844
 msgid "You should now be able to modify the title and token of your workspace."
-msgstr ""
+msgstr "Після цього ви зможете змінити заголовок і токен робочого простору."
 
 #: docs/index.rst:845
 msgid "Save your changes by clicking the |save| button."
-msgstr ""
+msgstr "Збережіть зміни, натиснувши кнопку |save| (Зберегти)."
 
 #: docs/index.rst:850
 msgid "Delete a Workspace"
-msgstr ""
+msgstr "Видалення робочого простору"
 
 #: docs/index.rst:852
 msgid "Access the workspace settings as outlined `above <#rename-a-workspace>`__."
 msgstr ""
+"Відкрийте налаштування робочого простору, як описано `вище "
+"<#Перейменування-робочого-простору>`__."
 
 #: docs/index.rst:853
 msgid "Click the |delete-bt| button in the bottom half of the page to permanently delete the workspace."
 msgstr ""
+"Натисніть кнопку |delete-bt| (Видалити) в нижній половні сторінки, щоб "
+"незворотно видалити цей робочий простір."
 
 #: docs/index.rst:859
 msgid "Configure the Project dashboard"
-msgstr ""
+msgstr "Конфігурування аналітичної панелі проєкту"
 
 #: docs/index.rst:861
 msgid "For each HeRAMS Project, an interactive dashboard can be configured providing summarizing key indicators and findings of a project. This section provides project administrators with a detailed description on how to edit these dashboards. An overview of the standard dashboard pages is available `here <#default-dashboard-pages>`__."
 msgstr ""
+"Для кожного проєкту HeRAMS можна сконфігурувати аналітичну панель, яка "
+"відображатиме зведення ключових показників. Цей розділ містить детальний "
+"опис процесу редагування цих аналітичних панелей для адміністраторів "
+"проєктів. Огляд стандартних сторінок аналітичної панелі приведено `тут "
+"<#Сторінки-аналітичних-панелей-за-замовчанням>`__."
 
 #: docs/index.rst:864
 msgid "Create a Dashboard Page"
-msgstr ""
+msgstr "Створення сторінки аналітичної панелі"
 
 #: docs/index.rst:866
 msgid "To add a new page to a dashboard, open your project's admin page."
 msgstr ""
+"Щоб додати до аналітичної панелі нову сторінку, відкрийте сторінку "
+"адміністратора проєкту."
 
 #: docs/index.rst:867
 msgid "Open the `Dashboard settings` tab. You should now see a table with the list of existing dashboard pages."
 msgstr ""
+"Відкрийте вкладку `Dashboard settings` (Налаштування аналітичної панелі). Ви "
+"побачите таблицю зі списком наявних сторінок аналітичної панелі."
 
 #: docs/index.rst:868
 msgid "To add a new page to the dashboard, click the |add-page| button in the top right corner."
 msgstr ""
+"Щоб додати нову сторінку до аналітичної панелі, натисніть кнопку |add-page| ("
+"Додати сторінку) у верхньому правому куті."
 
 #: docs/index.rst:870
 msgid "To create the standard HeRAMS dashboard, export an existing dashboard from another project using the *Export all* button. This will export a JSON file. Return to your project and import the JSON file using the *Import dashboard* button. Once imported, you can adjust individual pages and elements according to your needs."
 msgstr ""
+"Щоб створити стандартну аналітичну панель HeRAMS, експортуйте наявну "
+"аналітичну панель з іншого проєкту за допомогою кнопки *Export all* ("
+"Експортувати все). Результатом операції експорту буде файл JSON. Поверніться "
+"до свого проєкту та імпортуйте файл JSON за допомогою кнопки *Import "
+"dashboard* (Імпортувати аналітичну панель). Після імпортування можна "
+"налаштувати окремі сторінки й елементи відповідно до потреб."
 
 #: docs/index.rst:872
 msgid "Enter the page name in the top field. It is recommended to select an item from the drop-down list. This will assure the page title is automatically translated into other languages."
 msgstr ""
+"Введіть назву сторінки у верхнє поле. Рекомендовано вибрати варіант із "
+"розкривного списку. Це забезпечить автоматичний переклад заголовка сторінки "
+"іншими мовами."
 
 #: docs/index.rst:874
 msgid "If you are adding a sub-page to an existing page, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**."
 msgstr ""
+"Якщо Ви додаєте підсторінку до наявної сторінки, виберіть батьківську "
+"сторінку з розкривного списку **Parent Id** (Ідентифікатор батьківської "
+"сторінки). Для решти сторінок виберіть **No parent** (Немає батьківської "
+"сторінки)."
 
 #: docs/index.rst:875
 msgid "Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page."
 msgstr ""
+"Задайте порядковий номер сторінки, ввівши індекс **Sort** (Сортування). "
+"Збільшуйте індекс на 1 для кожної нової сторінки, починаючи з **0** для "
+"першої."
 
 #: docs/index.rst:876
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr ""
+"Натисніть кнопку |create-page| (Створити сторінку), щоб додати сторінку "
+"аналітичної панелі."
 
 #: docs/index.rst:877
 #: docs/index.rst:887
 msgid "To return to the list of available dashboard pages click the |back-to-list| button."
 msgstr ""
+"Щоб повернутися до списку наявних сторінок аналітичної панелі, натисніть "
+"кнопку |back-to-list| (Назад до списку)."
 
 #: docs/index.rst:879
 msgid "You only created an empty page. To add elements to your page, see section `Create a Dashboard Element`_."
 msgstr ""
+"У результаті Ви створите порожню сторінку. Щоб додати на неї елементи, див. "
+"розділ `Створення елемента аналітичної панелі»`_."
 
 #: docs/index.rst:882
 msgid "Modify a Dashboard Page"
-msgstr ""
+msgstr "Змінення сторінки аналітичної панелі"
 
 #: docs/index.rst:884
 msgid "To modify an existing page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
+"Щоб змінити наявну сторінку, перейдіть до списку наявних сторінок, як "
+"описано `вище <#Створення-сторінки-аналітичної-панелі>`__."
 
 #: docs/index.rst:885
 msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as modifying elements displayed on this page. Go to `create a dashboard element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
+"Натисніть піктограму |pencil-thin| поряд із назвою сторінки. Відкриються "
+"налаштування сторінки. Тут Ви зможете змінити налаштовання цієї сторінки, а "
+"також елементи, які на ній відображаються. Детальнішу інформацію про "
+"додавання елементів на сторінку аналітичної панелі див. у розділі "
+"`Створення-елемента-аналітичної-панелі`_."
 
 #: docs/index.rst:886
 msgid "Save your changes by clicking the |update-page| button."
-msgstr ""
+msgstr "Збережіть зміни, натиснувши кнопку |update-page| (Оновити сторінку)."
 
 #: docs/index.rst:890
 msgid "Delete a Dashboard Page"
-msgstr ""
+msgstr "Видалення сторінки аналітичної панелі"
 
 #: docs/index.rst:892
 msgid "To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
+"Щоб незворотно видалити сторінку, перейдіть до списку наявних сторінок, як "
+"описано `вище <#Створення елемента аналітичної панелі>`_."
 
 #: docs/index.rst:893
 msgid "In the list of available pages, use the |delete| icon in the right-most column to permanently delete the page."
 msgstr ""
+"У списку наявних сторінок натисніть піктограму |delete| у крайньому правому "
+"стовпчику навпроти відповідної сторінки, щоб незворотно видалити її."
 
 #: docs/index.rst:895
 msgid "Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including sub-pages. This action cannot be undone."
 msgstr ""
+"Видаляючи сторінки або елементи, будьте обачні. У результаті операції "
+"видалення сторінки аналітичної панелі її буде незворотно видалено разом із "
+"її підсторінками. Цю дію скасувати неможливо."
 
 #: docs/index.rst:898
 msgid "Create a Dashboard Element"
-msgstr ""
+msgstr "Створення елемента аналітичної панелі"
 
 #: docs/index.rst:900
 msgid "This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `create a dashboard page`_ for further information."
 msgstr ""
+"У цьому розділі описані кроки, які потрібно виконати, щоб додати новий "
+"елемент до наявної сторінки аналітичної панелі. Якщо Вам потрібно доповнити "
+"аналітичну панель новими сторінками, див. детальнішу інформацію в розділі `"
+"Створення сторінки аналітичної панелі`_."
 
 #: docs/index.rst:902
 msgid "To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
+"Щоб змінити наявну сторінку, перейдіть до списку наявних сторінок, як "
+"описано у `попередньому розділі <#Створення-сторінки-аналітичної-панелі>`_."
 
 #: docs/index.rst:903
 msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings."
 msgstr ""
+"Натисніть піктограму |pencil-thin| поряд із назвою сторінки. Відкриються "
+"налаштування сторінки."
 
 #: docs/index.rst:904
 msgid "On the right side of the page you should see a list of available dashboard elements. Above this list, you have three buttons |create-elements|. Select the type of element you would like to add by clicking the corresponding button."
 msgstr ""
+"Праворуч на сторінці з’явиться список наявних елементів аналітичної панелі. "
+"Над списком буде три кнопки: |create-elements| (Створити елементи). Виберіть "
+"тип елемента, який потрібно додати, натиснувши відповідну кнопку."
 
 #: docs/index.rst:911
 msgid "You should now see a page similar to the one displayed below."
-msgstr ""
+msgstr "Відкриється сторінка, подібна до зображеної нижче."
 
 #: docs/index.rst:918
 msgid "The **Transpose** feature allows switching between aggregating data at the health facility and the health service level. Set the feature to **No** to display data aggregated at the health facility level."
 msgstr ""
+"Функція **Transpose** (Транспонувати) дає змогу перемикатися між зведенням "
+"даних на рівні закладу охорони здоров’я та на рівні служби охорони здоров’я. "
+"Встановіть цю функцію в значення **No** (Ні), щоб відображалися дані, "
+"зведені на рівні закладу охорони здоров’я."
 
 #: docs/index.rst:920
 msgid "Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits."
 msgstr ""
+"Транспонування елемента або зміна коду запитання призведе до "
+"перезавантаження сторінки та втрати всіх незбережених змін."
 
 #: docs/index.rst:922
 msgid "Select the question to be displayed using the **Code** dropdown list."
 msgstr ""
+"Виберіть запитання, яке повинне відображатися, за допомогою розкривного "
+"списку **Code** (Код)."
 
 #: docs/index.rst:923
 msgid "Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page."
 msgstr ""
+"Задайте положення елемента на сторінці аналітичної панелі, вказавши індекс "
+"**Sort** (Порядок). Збільшуйте індекс на 1 для кожного нового елемента, "
+"починаючи з 0 для першого."
 
 #: docs/index.rst:924
 msgid "The **Width** and **Height** fields allow creating custom-sized elements."
 msgstr ""
+"Поля **Width** (Ширина) і **Height** (Висота) дають змогу створювати "
+"елементи довільних розмірів."
 
 #: docs/index.rst:926
 msgid "For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly."
 msgstr ""
+"Для діаграм із великими елементами умовних позначень рекомендовано задавати "
+"параметру **Width** (Ширина) значення 2, щоб умовні позначення відображалися "
+"коректно."
 
 #: docs/index.rst:928
 msgid "Optionally, the **Title** field allows you to overwrite the default title of the element."
 msgstr ""
+"Додатково можна скористатися полем **Title** (Заголовок), щоб замінити "
+"заголовок елемента за промовчанням."
 
 #: docs/index.rst:929
 msgid "For **maps** and **charts**, the bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you to pick custom colors. For **maps**, you can further specify the size of the dots by increasing/decreasing the  **Marker Radius**."
 msgstr ""
+"Для **мап** і **діаграм** у нижній половині сторінки буде відображатися "
+"список попередньо визначених варіантів відповідей на вибрані запитання. "
+"Натисніть на кнопку кольору поряд із найменуванням категорії. Відкриється "
+"палітра кольорів, на якій можна вибрати кольори за бажанням. Для **мап** "
+"можна додатково визначати розмір точок, збільшуючи/зменшуючи значення "
+"параметра **Marker Radius**(Радіус маркера)."
 
 #: docs/index.rst:932
 msgid "For **tables**, two additional fields will be displayed to specify the **Reason Code** and **Group Code**."
 msgstr ""
+"Для **таблиць** будуть відображатися два додаткові поля для вказання "
+"параметрів **Reason Code** (Код причини) і **Group Code** (Код групи)."
 
 #: docs/index.rst:939
 msgid "A preview of the element you are creating is shown in the lower half of the page."
 msgstr ""
+"Попередній перегляд елемента, який Ви створюєте, відображається в нижній "
+"половині сторінки."
 
 #: docs/index.rst:941
 msgid "To save the element, click the |create-element-blue| button or use the |create-return| button save and return to the dashboard."
 msgstr ""
+"Щоб зберегти елемент, натисніть кнопку |create-element-blue| (Створити "
+"елемент), або скористайтеся кнопкою |create-return| (Створити й повернутися)"
+", щоб зберегти елемент та повернутися до аналітичної панелі."
 
 #: docs/index.rst:943
 msgid "To add additional elements, use the breadcrumbs to return to the"
 msgstr ""
+"Щоб додати більше елементів, скористайтеся навігаційним ланцюжком для "
+"повернення до створення елемента"
 
 #: docs/index.rst:945
 msgid "The below video summarizes how to create a new dashboard page and add elements."
 msgstr ""
+"У відео нижче розглянуто створення нової сторінки аналітичної панелі та "
+"додавання елементів."
 
 #: docs/index.rst:953
 msgid "Modify Dashboard Elements"
-msgstr ""
+msgstr "Змінення елементів аналітичної панелі"
 
 #: docs/index.rst:955
 msgid "Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard."
 msgstr ""
+"Користувачі з дозволами на редагування аналітичних панелей можуть змінювати "
+"діаграми та мапи безпосередньо на аналітичній панелі."
 
 #: docs/index.rst:957
 msgid "To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`__."
 msgstr ""
+"Щоб змінити порядок сторінок аналітичної панелі або перейменувати сторінку, "
+"див. інформацію `тут <#Змінення-сторінки-аналітичної-панелі>`__."
 
 #: docs/index.rst:959
 msgid "Open the dashboard and navigate to the element you would like to change."
 msgstr ""
+"Відкрийте аналітичну панель і перейдіть до елемента, який потрібно змінити."
 
 #: docs/index.rst:960
 msgid "In the top right corner of the element you would like to change, you should see a |pencil-thin| icon. Right-click the icon to open the element's configuration page."
 msgstr ""
+"У верхньому правому куті елемента, який потрібно змінити, знайдіть "
+"піктограму |pencil-thin|. Натисніть на цю піктограму правою кнопкою миші, "
+"щоб відкрити сторінку конфігурації цього елемента."
 
 #: docs/index.rst:961
 msgid "You should now be able:"
-msgstr ""
+msgstr "Після цього Ви зможете:"
 
 #: docs/index.rst:963
 msgid "to change the variables displayed;"
-msgstr ""
+msgstr "змінити відображувані змінні;"
 
 #: docs/index.rst:964
 msgid "to change the colors of a map or a chart; and"
-msgstr ""
+msgstr "змінити кольори мапи або діаграми; та"
 
 #: docs/index.rst:965
 msgid "to rename the element."
-msgstr ""
+msgstr "перейменувати елемент."
 
 #: docs/index.rst:969
 msgid "Save your changes by clicking the |update-element| button."
-msgstr ""
+msgstr "Збережіть зміни, натиснувши кнопку |update-element| (Оновити елемент)."
 
 #: docs/index.rst:974
 msgid "Delete Dashboard Elements"
-msgstr ""
+msgstr "Видалення елементів аналітичної панелі"
 
 #: docs/index.rst:976
 msgid "Access the list of existing dashboard elements as described `here <#create-a-dashboard-element>`__."
 msgstr ""
+"Перейдіть до списку наявних елементів аналітичної панелі, як описано `тут "
+"<#Створення-елемента-аналітичної-панелі>`__."
 
 #: docs/index.rst:977
 msgid "In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify."
 msgstr ""
+"У нижній половині сторінки буде список усіх наявних сторінок аналітичної "
+"панелі. Натисніть піктограму |pencil-thin|, щоб відкрити сторінку, яку "
+"потрібно змінити."
 
 #: docs/index.rst:978
 msgid "In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element."
 msgstr ""
+"У нижній половині сторінки буде список усіх елементів, відображуваних на "
+"сторінці аналітичної панелі. Скористайтеся піктограмою |delete|, щоб "
+"незворотно видалити елемент."
 
 #: docs/index.rst:980
 msgid "Be careful when deleting dashboard elements. Deleted elements cannot be restored."
 msgstr ""
+"Видаляючи елементи аналітичної панелі, будьте обачні. Видалені елементи "
+"неможливо відновити."
 
 #: docs/index.rst:984
 msgid "FAQ"
-msgstr ""
+msgstr "Часті запитання"
 
 #: docs/index.rst:986
 msgid "This section aims to help users troubleshoot frequently encountered issues. In case you encounter an issue that is not addressed here, please contact your country administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
+"Ця глава має на меті допомогу користувачам в усуненні типових проблем. Якщо "
+"Ви зіткнулися з проблемою, яку тут не розглянуто, зверніться до "
+"адміністратора Вашої країни або надішліть електронний лист на адресу `hearms@"
+"who.int <mailto:herams@who.int?>`_."
 
 #: docs/index.rst:988
 msgid "`General`_"
-msgstr ""
+msgstr "`Загальні проблеми`_"
 
 #: docs/index.rst:990
 msgid "`Confirmation email not received`_"
-msgstr ""
+msgstr "`Повідомлення з підтвердженням не надійшло`_"
 
 #: docs/index.rst:991
 msgid "`How to reset your password?`_"
-msgstr ""
+msgstr "`Як скинути пароль?`_"
 
 #: docs/index.rst:993
 msgid "`View a project/dashboard`_"
-msgstr ""
+msgstr "`Перегляд проєкту/аналітичної панелі`_"
 
 #: docs/index.rst:995
 msgid "`Can't access a project dashboard`_"
-msgstr ""
+msgstr "`Не вдається отримати доступ до аналітичної панелі проєкту`_"
 
 #: docs/index.rst:996
 msgid "`Who has access to your project/workspace?`_"
-msgstr ""
+msgstr "`Хто має доступ до мого проєкту/робочого простору?`_"
 
 #: docs/index.rst:998
 msgid "`Data editing & downloading`_"
-msgstr ""
+msgstr "`Редагування та завантаження даних`_"
 
 #: docs/index.rst:1000
 msgid "`Data updates don't appear on the dashboard`_"
-msgstr ""
+msgstr "`Оновлення даних не відображається на аналітичній панелі`_"
 
 #: docs/index.rst:1001
 msgid "`Exported data is unreadable / contains strange characters`_"
-msgstr ""
+msgstr "`Експортовані дані неможливо читати/містять дивні символи`_"
 
 #: docs/index.rst:1005
 msgid "General"
-msgstr ""
+msgstr "Загальні проблеми"
 
 #: docs/index.rst:1008
 msgid "Confirmation email not received"
-msgstr ""
+msgstr "Повідомлення з підтвердженням не надійшло"
 
 #: docs/index.rst:1010
 msgid "If you did not receive an email upon registering or resetting your password, follow the steps below to troubleshoot the issue."
 msgstr ""
+"Якщо Ви не отримали повідомлення під час реєстрації або скидання пароля, "
+"виконайте описані нижче кроки для усунення проблеми."
 
 #: docs/index.rst:1012
 msgid "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
+"Оновіть теку вхідних повідомлень. Повідомлення може з’явитися за кілька "
+"хвилин."
 
 #: docs/index.rst:1013
 msgid "Check your spam/junk folder."
-msgstr ""
+msgstr "Перевірте теку зі спамом."
 
 #: docs/index.rst:1014
 msgid "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
+"Спробуйте зареєструватися ще раз. Ви могли допустити помилку під час "
+"введення своєї адреси електронної пошти."
 
 #: docs/index.rst:1015
 msgid "If the above steps did not solve your issue, please contact your system administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
+"Якщо описані вище кроки не допомогли усунути проблему, зверніться до свого "
+"системного адміністратора або надішліть електронний лист на адресу `hearms@"
+"who.int <mailto:herams@who.int?>`_."
 
 #: docs/index.rst:1018
 msgid "How to reset your password?"
-msgstr ""
+msgstr "Як скинути пароль?"
 
 #: docs/index.rst:1020
 msgid "If you forgot your password, follow the instructions provided `here <#reset-password>`__ to reset your password."
 msgstr ""
+"Якщо Ви забули пароль, дотримуйтеся інструкцій, наведених `тут "
+"<#Скидання-пароля>`__, щоб скинути пароль."
 
 #: docs/index.rst:1023
 msgid "View a project/dashboard"
-msgstr ""
+msgstr "Перегляд проєкту/аналітичної панелі"
 
 #: docs/index.rst:1026
 msgid "Can't access a project dashboard"
-msgstr ""
+msgstr "Не вдається отримати доступ до аналітичної панелі проєкту"
 
 #: docs/index.rst:1028
 msgid "For data protection reasons, access to the project dashboards is only granted upon request. If you require access to a project, please contact your country focal point or send an email to `hearms@who.int <mailto:herams@who.int?>`_, specifying why you require access to the project."
 msgstr ""
+"З міркувань захисту даних доступ до аналітичних панелей проєктів надається "
+"тільки за запитом. Якщо Вам потрібен доступ до певного проєкту, зверніться "
+"до координатора Вашої країни або надішліть електронний лист на адресу "
+"`hearms@who.int <mailto:herams@who.int?>`_, надавши пояснення того, навіщо "
+"Вам потрібен доступ до проєкту."
 
 #: docs/index.rst:1031
 msgid "Who has access to your project/workspace?"
-msgstr ""
+msgstr "Хто має доступ до мого проєкту/робочого простору?"
 
 #: docs/index.rst:1033
 msgid "In-country administrators and users responsible for a project or workspace can verify the list of users having access to the project and/or workspace as well as their permission levels. See `Add a user`_ for more information on granting users access to a *Project* or *Workspace*."
 msgstr ""
+"Перевіряти список користувачів, які мають доступ до проєкту та/або робочого "
+"простору, а також їхні рівні дозволів, можуть адміністратори в межах країни "
+"та користувачі, відповідальні за проєкт або робочий простір. Додаткову "
+"інформацію щодо надання користувачам доступу до *проєкту* або *робочого "
+"простору* див. у розділі `Додавання користувача`_."
 
 #: docs/index.rst:1038
 msgid "Data editing & downloading"
-msgstr ""
+msgstr "Редагування та завантаження даних"
 
 #: docs/index.rst:1041
 msgid "Data updates don't appear on the dashboard"
-msgstr ""
+msgstr "Оновлення даних не відображається на аналітичній панелі"
 
 #: docs/index.rst:1043
 msgid "It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and their Meaning`_."
 msgstr ""
+"Важливо зазначити, що дані, відображувані на інтерактивних аналітичних "
+"панелях, синхронізуються лише раз на 30 хвилин. Таким чином, може статися "
+"так, що оновлення даних не відображатиметься на аналітичних панелях миттєво. "
+"Для усунення цієї проблеми синхронізуйте кеш даних робочого простору вручну. "
+"Додаткову інформацію щодо кешування даних див. у розділі `Піктограми та їхні "
+"значення`_."
 
 #: docs/index.rst:1046
 msgid "Exported data is unreadable / contains strange characters"
-msgstr ""
+msgstr "Експортовані дані неможливо читати/містять дивні символи"
 
 #: docs/index.rst:1048
 msgid "If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not displaying correctly, resulting in unreadable text. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct encoding type to read your data. To correct the issue, follow the instruction outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
+"Якщо Ви відкриваєте дані, завантажені з HeRAMS, у програмі Excel, ви можете "
+"зіткнутися з проблемою, коли спеціальні символи відображаються некоректно, "
+"через що текст неможливо читати. Наприклад, замість **camp de réfugiés** "
+"може утворитися **Camp de rÃ©fugiÃ©s**. Причиною для цього є те, що Excel "
+"використовує для зчитування даних неправильне кодування. Для усунення цієї "
+"проблеми дотримуйтеся інструкції, описаної `тут "
+"<#Кодування-даних-в-Excel>`__."
