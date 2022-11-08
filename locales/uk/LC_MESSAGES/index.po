@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2022-11-08 17:11+0000\n"
+"PO-Revision-Date: 2022-11-08 19:11+0000\n"
 "Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/uk/>\n"
@@ -1724,132 +1724,200 @@ msgstr ""
 
 #: docs/index.rst:728
 msgid "Mapping User Roles to Permissions"
-msgstr ""
+msgstr "Зіставлення ролей користувачів і дозволів"
 
 #: docs/index.rst:730
 msgid "**Data contributors**: *data contributors* are granted access to *edit data* for individual workspaces."
 msgstr ""
+"**Реєстратор даних**: *Реєстраторові даних* надається доступ для редагування "
+"даних в окремих робочих просторах."
 
 #: docs/index.rst:737
 msgid "Optionally, *data contributors* can also be granted permissions to download data."
 msgstr ""
+"На додачу *реєстраторові даних* можуть також бути надані дозволи на "
+"завантаження даних."
 
 #: docs/index.rst:744
 msgid "**Data viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with the permission to *Edit Data*, under special circumstances, permission might only be granted to download data."
 msgstr ""
+"**Переглядач даних**: Можливо надати користувачеві доступ для завантаження "
+"даних, не надаючи при цьому прав на редагування. І хоча цей дозвіл зазвичай "
+"поєднується з дозволом на *редагування даних*, за особливих обставин можна "
+"надати доступ лише для завантаження даних."
 
 #: docs/index.rst:751
 msgid "**Workspace owners**: In addition to editing and downloading data, *workspace owners* are granted permission to *manage users*. This grants them the ability to invite other users to contribute to their workspace."
 msgstr ""
+"**Власник робочого простору**: На додачу до редагування та завантаження "
+"даних, *власникові робочого простору* надається дозвіл на адміністрування "
+"користувачів. Це дає йому змогу запрошувати інших користувачів для "
+"реєстрації даних у його робочому просторі."
 
 #: docs/index.rst:758
 msgid "Under special circumstances a *project admin* might grant a *workspace owner* admin permission to a workspace, allowing the *workspace owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary."
 msgstr ""
+"За особливих обставин *адміністратор проєкту* може надати *власникові "
+"робочого простору* адміністраторський дозвіл у межах робочого простору, "
+"даючи власникові робочого простору змогу делегувати адміністрування доступу "
+"користувачів до його робочого простору. Цей дозвіл слід використовувати "
+"обачливо та надавати його тільки за крайньої потреби."
 
 #: docs/index.rst:765
 msgid "While *workspace owners* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it."
 msgstr ""
+"Попри те, що *власник робочого простору* може делегувати надання дозволів на "
+"доступ іншому користувачеві, він залишається відповідальним як за свій "
+"робочий простір, так і за користувачів, які мають доступ до нього."
 
 #: docs/index.rst:769
 msgid "Add a User"
-msgstr ""
+msgstr "Додавання користувача"
 
 #: docs/index.rst:771
 msgid "To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See `Access your workspace`_ for details."
 msgstr ""
+"Щоб надати користувачеві доступ до проєкту, перейдіть до списку робочих "
+"просторів проєкту. Якщо потрібно надати доступ тільки до конкретного "
+"робочого простору, відкрийте відповідний робочий простір, натиснувши на його "
+"назву. Детальнішу інформацію див. у розділі `Доступ до робочого простору`_."
 
 #: docs/index.rst:773
 msgid "Click the *Users* tab to open the user management section."
 msgstr ""
+"Натисніть вкладку *Користувачі*, щоб відкрити розділ адміністрування "
+"користувачів."
 
 #: docs/index.rst:775
 msgid "You should now see a page similar to the image below. On the bottom half of the page, you can see a list of all users currently having access to the workspace including their permissions. In the top half of the page, you have the option to add a new user. Start typing the user’s name in the top field. You will notice that the list of available users dynamically filters as you are typing. Select the user you would like to add."
 msgstr ""
+"Ви побачите сторінку, подібну до зображеної нижче. У нижній половині "
+"сторінки буде список усіх користувачів, які наразі мають доступ до робочого "
+"простору, разом із їхніми дозволами. У верхній половині сторінки буде "
+"функція додавання нового користувача. Почніть вводити ім’я користувача у "
+"верхнє поле. Ви побачите, що мірою введення нових літер буде динамічно "
+"фільтруватися список наявних користувачів. Виберіть користувача, якого "
+"потрібно додати."
 
 #: docs/index.rst:782
 msgid "You can add multiple users add once as shown in the image above."
 msgstr ""
+"Можна додати кількох користувачів одночасно, як показано на зображенні вище."
 
 #: docs/index.rst:786
 msgid "Use the checkboxes to select the appropriate permission level. See `Workspace Permissions`_ or `Project Permissions`_ for further details on workspace permissions."
 msgstr ""
+"За допомогою галочок виберіть належний рівень доступу. Детальнішу інформацію "
+"про дозволи в робочих просторах див. у розділах `Дозволи в робочому просторі`"
+"_ та `Дозволи у проєкті`_."
 
 #: docs/index.rst:788
 msgid "Click the |add| button to grant users the desired permissions."
 msgstr ""
+"Натисніть кнопку |add| (Додати), щоб надати користувачам потрібні дозволи."
 
 #: docs/index.rst:797
 msgid "Change a User's Permission"
-msgstr ""
+msgstr "Змінення дозволів користувача"
 
 #: docs/index.rst:799
 msgid "Follow the instructions outlined  `above <#add-a-user>`__ to open the user management interface of your workspace or project."
 msgstr ""
+"Дотримуйтеся інструкцій `вище <#Додавання-користувача>`__, щоб відкрити "
+"інтерфейс адміністрування користувачів робочого простору або проєкту."
 
 #: docs/index.rst:800
 #: docs/index.rst:813
 msgid "On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions."
 msgstr ""
+"У другій половині сторінки буде список усіх користувачів, які мають доступ "
+"до робочого простору або проєкту, разом із їхніми дозволами."
 
 #: docs/index.rst:801
 msgid "You can change a user's permission by flipping the corresponding switch button to **Allowed** or **Denied**."
 msgstr ""
+"Ви можете змінити дозволи користувача за допомогою кнопок-перемикачів «"
+"Allowed/Denied» (Дозволено/заборонено)."
 
 #: docs/index.rst:810
 msgid "Remove a User"
-msgstr ""
+msgstr "Видалення користувача"
 
 #: docs/index.rst:812
 msgid "Open the user management interface of your *Workspace* or *Project*. See `here <#add-a-user>`__ for more details on how to access the user management interface."
 msgstr ""
+"Відкрийте інтерфейс адміністрування користувачів *робочого простору* або "
+"*проєкту*. Детальнішу інформацію про доступ до інтерфейсу адміністрування "
+"користувачів див. `тут <#Додавання-користувача>`__."
 
 #: docs/index.rst:814
 msgid "To remove a user change all permissions to **Not allowed**. Upon reloading the page, you will see that the user has disappeared from the list (see video above)."
 msgstr ""
+"Щоб видалити користувача, змініть усі дозволи у стан **Not allowed** (Не "
+"дозволено). Перезавантаживши сторінку, Ви побачите, що цей користувач зник "
+"зі списку (див. відео вище)."
 
 #: docs/index.rst:816
 msgid "Removing a user from a **Workspace** will not revoke their **Project** level permissions and vice versa."
 msgstr ""
+"Видалення користувача з **робочого простору** не призведе до відкликання "
+"його дозволів на рівні **проєкту**, і навпаки."
 
 #: docs/index.rst:820
 msgid "Manage Workspaces"
-msgstr ""
+msgstr "Адміністрування робочих просторів"
 
 #: docs/index.rst:821
 msgid "Managing the list of available workspaces is a key component of the *Project admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace owners* and granting them appropriate permissions."
 msgstr ""
+"Керування списком наявних робочих просторів є основним обов’язком *"
+"адміністратора проєкту*. На додачу до змоги створювати, редагувати та "
+"видаляти робочі простори, їх адміністрування також передбачає призначання *"
+"власників робочих просторів* і надавання їм належних дозволів."
 
 #: docs/index.rst:825
 msgid "Create a Workspace"
-msgstr ""
+msgstr "Створення робочого простору"
 
 #: docs/index.rst:827
 msgid "To create a new workspace, navigate to the list of workspaces of your project. See `Access your workspace`_ steps (1-2) for details."
 msgstr ""
+"Щоб створити новий робочий простір, перейдіть до списку робочих просторів "
+"проєкту. Детальнішу інформацію про це див. у кроках 1–2 розділу `Доступ до "
+"робочого простору`_ ."
 
 #: docs/index.rst:828
 msgid "In the upper right corner, you will see a button labeled |create-workspace|."
 msgstr ""
+"У верхньому правому куті буде кнопка |create-workspace| (Створити робочий "
+"простір)."
 
 #: docs/index.rst:829
 msgid "You will be directed to a page where you will be able to create a new workspace."
 msgstr ""
+"Вас буде перенаправлено на сторінку, де можна створити новий робочий простір."
 
 #: docs/index.rst:830
 msgid "Enter the workspace's name into the title field."
-msgstr ""
+msgstr "Введіть назву робочого простору в поле заголовка."
 
 #: docs/index.rst:831
 msgid "Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**."
 msgstr ""
+"За допомого розкривного списку виберіть відповідний **токен** або створіть "
+"новий токен, вибравши варіант **Create new token** (Створити новий токен)."
 
 #: docs/index.rst:838
 msgid "Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token."
 msgstr ""
+"Токени — це унікальні ідентифікатори, які пов’язують заклади охорони здоров’"
+"я з робочими просторами. Щоб додати заклад охорони здоров’я до робочого "
+"простору, потрібно вручну змінити токен відповідного запису. По допомогу у "
+"зміненні токена запису зверніться до свого системного адміністратора."
 
 #: docs/index.rst:841
 msgid "Rename a Workspace"
-msgstr ""
+msgstr "Перейменування робочого простору"
 
 #: docs/index.rst:843
 msgid "To rename a workspace, open your workspace as outlined `here <#Access-your-workspace>`__ and go to *Workspace settings* tabs."
