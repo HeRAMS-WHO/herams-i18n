@@ -418,6 +418,10 @@ msgid "Discard & go back"
 msgstr ""
 
 msgctxt "app"
+msgid "Display name"
+msgstr ""
+
+msgctxt "app"
 msgid "Donut"
 msgstr ""
 
@@ -1261,6 +1265,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "This email is already in use, log in and click the link again."
+msgstr ""
+
+msgctxt "app"
+msgid "This is used for display purposes only"
 msgstr ""
 
 msgctxt "app"
