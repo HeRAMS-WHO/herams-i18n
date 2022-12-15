@@ -2,17 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-11-17 14:11+0000\n"
-"Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
+"PO-Revision-Date: 2022-12-15 16:09+0000\n"
+"Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 msgctxt "app"
 msgid "# Contributors"
@@ -426,7 +426,7 @@ msgstr "Відкинути та повернутися назад"
 
 msgctxt "app"
 msgid "Display name"
-msgstr ""
+msgstr "Відображуване ім'я"
 
 msgctxt "app"
 msgid "Donut"
@@ -1311,7 +1311,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "This is used for display purposes only"
-msgstr ""
+msgstr "Це використовується лише для показу"
 
 msgctxt "app"
 msgid ""
@@ -1700,7 +1700,7 @@ msgstr "Здоровʼя та харчування дітей"
 
 msgctxt "app.pagetitle"
 msgid "Cleaning equipment"
-msgstr ""
+msgstr "Прибиральний інвентар"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
@@ -1714,10 +1714,9 @@ msgctxt "app.pagetitle"
 msgid "Communication"
 msgstr "Комунікація"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Communications"
-msgstr "Комунікація"
+msgstr "Комунікації"
 
 msgctxt "app.pagetitle"
 msgid "Condition"
@@ -1725,7 +1724,7 @@ msgstr "Стан"
 
 msgctxt "app.pagetitle"
 msgid "Connectivity"
-msgstr ""
+msgstr "підключення"
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1753,7 +1752,7 @@ msgstr "Основні клінічні сервіси та допомога п�
 
 msgctxt "app.pagetitle"
 msgid "Hand hygiene"
-msgstr ""
+msgstr "Гігієна рук"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
@@ -1765,7 +1764,7 @@ msgstr "Системи управління інформацією у сфері
 
 msgctxt "app.pagetitle"
 msgid "Heating"
-msgstr ""
+msgstr "Опалення"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1817,12 +1816,11 @@ msgstr "Сексуальне насильство"
 
 msgctxt "app.pagetitle"
 msgid "Support"
-msgstr ""
+msgstr "Підтримка"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Transportation"
-msgstr "Санітарія"
+msgstr "Транспорт"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
