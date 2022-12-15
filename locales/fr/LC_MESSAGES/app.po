@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-12-09 13:12+0000\n"
+"PO-Revision-Date: 2022-12-15 16:09+0000\n"
 "Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.14.2\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
@@ -432,7 +432,7 @@ msgstr "Annuler & retourner"
 
 msgctxt "app"
 msgid "Display name"
-msgstr ""
+msgstr "Afficher le nom"
 
 msgctxt "app"
 msgid "Donut"
@@ -1075,7 +1075,7 @@ msgid ""
 "        {unchanged} unchanged records, \n"
 "        {failed} invalid records"
 msgstr ""
-"Le rafraîchissement des données à duré {time} secondes; \n"
+"Le rafraîchissement des données a duré {time} secondes; \n"
 "        {new} nouveaux enregistrements, \n"
 "        {updated} enregistrements existants, \n"
 "        {deleted} enregistrements effacés, \n"
@@ -1321,7 +1321,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "This is used for display purposes only"
-msgstr ""
+msgstr "Ceci est utilisé à des fins d'affichage uniquement"
 
 msgctxt "app"
 msgid ""
@@ -1710,7 +1710,7 @@ msgstr "Santé et nutrition de l'enfant"
 
 msgctxt "app.pagetitle"
 msgid "Cleaning equipment"
-msgstr ""
+msgstr "Equipement de nettoyage"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
@@ -1724,10 +1724,9 @@ msgctxt "app.pagetitle"
 msgid "Communication"
 msgstr "Communication"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Communications"
-msgstr "Communication"
+msgstr "Communications"
 
 msgctxt "app.pagetitle"
 msgid "Condition"
@@ -1735,7 +1734,7 @@ msgstr "État"
 
 msgctxt "app.pagetitle"
 msgid "Connectivity"
-msgstr ""
+msgstr "Connectivité"
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1763,7 +1762,7 @@ msgstr "Services cliniques généraux et soins de traumatologie (Partie III)"
 
 msgctxt "app.pagetitle"
 msgid "Hand hygiene"
-msgstr ""
+msgstr "Lavage des mains"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
@@ -1773,10 +1772,9 @@ msgctxt "app.pagetitle"
 msgid "Health information systems"
 msgstr "Systèmes d'information sanitaire"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Heating"
-msgstr "Paramètres"
+msgstr "Chauffage"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1826,15 +1824,13 @@ msgctxt "app.pagetitle"
 msgid "Sexual violence"
 msgstr "Violence sexuelle"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Support"
-msgstr "Import"
+msgstr "Soutien"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Transportation"
-msgstr "Assainissement"
+msgstr "Transport"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
