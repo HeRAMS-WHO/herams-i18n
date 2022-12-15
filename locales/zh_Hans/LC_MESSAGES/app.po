@@ -1650,6 +1650,10 @@ msgid "Child health & nutrition"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Cleaning equipment"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
 msgstr ""
 
@@ -1662,7 +1666,15 @@ msgid "Communication"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Communications"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Connectivity"
 msgstr ""
 
 msgctxt "app.pagetitle"
@@ -1690,11 +1702,19 @@ msgid "General clinical services & trauma care (part III)"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Hand hygiene"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Health information systems"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Heating"
 msgstr ""
 
 msgctxt "app.pagetitle"
@@ -1707,10 +1727,6 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
-msgstr ""
-
-msgctxt "app.pagetitle"
-msgid "Mental health"
 msgstr ""
 
 msgctxt "app.pagetitle"
@@ -1747,6 +1763,14 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Support"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Transportation"
 msgstr ""
 
 msgctxt "app.pagetitle"

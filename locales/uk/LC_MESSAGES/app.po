@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.14.1\n"
 
 msgctxt "app"
@@ -1699,6 +1699,10 @@ msgid "Child health & nutrition"
 msgstr "Здоровʼя та харчування дітей"
 
 msgctxt "app.pagetitle"
+msgid "Cleaning equipment"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
 msgstr "Холодовий ланцюг"
 
@@ -1710,9 +1714,18 @@ msgctxt "app.pagetitle"
 msgid "Communication"
 msgstr "Комунікація"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Communications"
+msgstr "Комунікація"
+
 msgctxt "app.pagetitle"
 msgid "Condition"
 msgstr "Стан"
+
+msgctxt "app.pagetitle"
+msgid "Connectivity"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1739,12 +1752,20 @@ msgid "General clinical services & trauma care (part III)"
 msgstr "Основні клінічні сервіси та допомога при травмах (частина ІІІ)"
 
 msgctxt "app.pagetitle"
+msgid "Hand hygiene"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "Інформація у сфері охорони здоровʼя"
 
 msgctxt "app.pagetitle"
 msgid "Health information systems"
 msgstr "Системи управління інформацією у сфері охорони здоров’я"
+
+msgctxt "app.pagetitle"
+msgid "Heating"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1757,10 +1778,6 @@ msgstr "Управління та підтримка"
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
 msgstr "Допомога матерям та новонародженим"
-
-msgctxt "app.pagetitle"
-msgid "Mental health"
-msgstr "Психічне здоровʼя"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
@@ -1797,6 +1814,15 @@ msgstr "Сексуальне та репродуктивне здоровʼя"
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
 msgstr "Сексуальне насильство"
+
+msgctxt "app.pagetitle"
+msgid "Support"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Transportation"
+msgstr "Санітарія"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
@@ -1837,3 +1863,7 @@ msgstr "Тип цілі"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr "Код країни {value} не дійсний"
+
+#~ msgctxt "app.pagetitle"
+#~ msgid "Mental health"
+#~ msgstr "Психічне здоровʼя"

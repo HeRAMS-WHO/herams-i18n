@@ -1685,6 +1685,10 @@ msgid "Child health & nutrition"
 msgstr "صحة الطفل وتغذيته"
 
 msgctxt "app.pagetitle"
+msgid "Cleaning equipment"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
 msgstr "سلسلة تبريد / ثلاجة"
 
@@ -1696,9 +1700,18 @@ msgctxt "app.pagetitle"
 msgid "Communication"
 msgstr "وسائل الإتصال"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Communications"
+msgstr "وسائل الإتصال"
+
 msgctxt "app.pagetitle"
 msgid "Condition"
 msgstr "حالة المبنى"
+
+msgctxt "app.pagetitle"
+msgid "Connectivity"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1725,6 +1738,10 @@ msgid "General clinical services & trauma care (part III)"
 msgstr "الخدمات السريرية العامة ورعاية الإصابات (المستوى الثالث)"
 
 msgctxt "app.pagetitle"
+msgid "Hand hygiene"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "المعلومات الصحية"
 
@@ -1732,6 +1749,10 @@ msgstr "المعلومات الصحية"
 msgctxt "app.pagetitle"
 msgid "Health information systems"
 msgstr "المعلومات الصحية"
+
+msgctxt "app.pagetitle"
+msgid "Heating"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1744,10 +1765,6 @@ msgstr "الإدارة والدعم"
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
 msgstr "صحة الأم والوليد"
-
-msgctxt "app.pagetitle"
-msgid "Mental health"
-msgstr "الصحة النفسية"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
@@ -1784,6 +1801,16 @@ msgstr "الصحة الجنسية و الإنجابية"
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
 msgstr "العنف الجنسي"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Support"
+msgstr "استيراد"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Transportation"
+msgstr "الصرف الصحي"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
@@ -1824,6 +1851,10 @@ msgstr "نوع المستهدف"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr "رمز البلد {القيمة} غير صالح"
+
+#~ msgctxt "app.pagetitle"
+#~ msgid "Mental health"
+#~ msgstr "الصحة النفسية"
 
 #~ msgctxt "app"
 #~ msgid "Allowed"
@@ -1900,10 +1931,6 @@ msgstr "رمز البلد {القيمة} غير صالح"
 #~ msgctxt "app"
 #~ msgid "Global admin"
 #~ msgstr "المسؤول العام"
-
-#~ msgctxt "app"
-#~ msgid "Import"
-#~ msgstr "استيراد"
 
 #~ msgctxt "app"
 #~ msgid "Share workspace {workspace}"

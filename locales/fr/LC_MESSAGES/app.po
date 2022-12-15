@@ -1709,6 +1709,10 @@ msgid "Child health & nutrition"
 msgstr "Santé et nutrition de l'enfant"
 
 msgctxt "app.pagetitle"
+msgid "Cleaning equipment"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Cold chain"
 msgstr "Chaîne de froid"
 
@@ -1720,9 +1724,18 @@ msgctxt "app.pagetitle"
 msgid "Communication"
 msgstr "Communication"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Communications"
+msgstr "Communication"
+
 msgctxt "app.pagetitle"
 msgid "Condition"
 msgstr "État"
+
+msgctxt "app.pagetitle"
+msgid "Connectivity"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1749,12 +1762,21 @@ msgid "General clinical services & trauma care (part III)"
 msgstr "Services cliniques généraux et soins de traumatologie (Partie III)"
 
 msgctxt "app.pagetitle"
+msgid "Hand hygiene"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "Systèmes d'information"
 
 msgctxt "app.pagetitle"
 msgid "Health information systems"
 msgstr "Systèmes d'information sanitaire"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Heating"
+msgstr "Paramètres"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1767,10 +1789,6 @@ msgstr "Gestion et soutien"
 msgctxt "app.pagetitle"
 msgid "Maternal and newborn health"
 msgstr "Santé maternelle et néonatale"
-
-msgctxt "app.pagetitle"
-msgid "Mental health"
-msgstr "Santé mentale"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
@@ -1807,6 +1825,16 @@ msgstr "Santé sexuelle et reproductive"
 msgctxt "app.pagetitle"
 msgid "Sexual violence"
 msgstr "Violence sexuelle"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Support"
+msgstr "Import"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Transportation"
+msgstr "Assainissement"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
@@ -1847,6 +1875,10 @@ msgstr "Type cible"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr "Le code de pays {valeur} n'est pas valide"
+
+#~ msgctxt "app.pagetitle"
+#~ msgid "Mental health"
+#~ msgstr "Santé mentale"
 
 #~ msgctxt "app"
 #~ msgid "Allowed"
@@ -1926,10 +1958,6 @@ msgstr "Le code de pays {valeur} n'est pas valide"
 #~ msgstr "Administration globale"
 
 #~ msgctxt "app"
-#~ msgid "Import"
-#~ msgstr "Import"
-
-#~ msgctxt "app"
 #~ msgid "Import Project"
 #~ msgstr "Import le projet"
 
@@ -1944,10 +1972,6 @@ msgstr "Le code de pays {valeur} n'est pas valide"
 #~ msgctxt "app"
 #~ msgid "PDF"
 #~ msgstr "PDF"
-
-#~ msgctxt "app"
-#~ msgid "Settings"
-#~ msgstr "Paramètres"
 
 #~ msgctxt "app"
 #~ msgid "Share workspace {workspace}"
