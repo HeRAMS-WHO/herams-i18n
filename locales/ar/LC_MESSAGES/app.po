@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-08-09 23:25+0000\n"
-"Last-Translator: HeRAMS Tester <herams.tester@gmail.com>\n"
+"PO-Revision-Date: 2022-12-15 16:09+0000\n"
+"Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
 "Language: ar\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.14.2\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
@@ -418,9 +418,10 @@ msgctxt "app"
 msgid "Discard & go back"
 msgstr "تجاهل وعد"
 
+#, fuzzy
 msgctxt "app"
 msgid "Display name"
-msgstr ""
+msgstr "اسم العرض"
 
 msgctxt "app"
 msgid "Donut"
@@ -1295,9 +1296,10 @@ msgstr ""
 "هذا البريد الإلكتروني قيد الاستخدام بالفعل ، قم بتسجيل الدخول وانقر فوق "
 "الرابط مرة أخرى."
 
+#, fuzzy
 msgctxt "app"
 msgid "This is used for display purposes only"
-msgstr ""
+msgstr "يستخدم هذا لأغراض العرض فقط"
 
 msgctxt "app"
 msgid ""
@@ -1686,7 +1688,7 @@ msgstr "صحة الطفل وتغذيته"
 
 msgctxt "app.pagetitle"
 msgid "Cleaning equipment"
-msgstr ""
+msgstr "معدات التنظيف"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
@@ -1700,7 +1702,6 @@ msgctxt "app.pagetitle"
 msgid "Communication"
 msgstr "وسائل الإتصال"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Communications"
 msgstr "وسائل الإتصال"
@@ -1711,7 +1712,7 @@ msgstr "حالة المبنى"
 
 msgctxt "app.pagetitle"
 msgid "Connectivity"
-msgstr ""
+msgstr "الاتصال"
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1739,20 +1740,19 @@ msgstr "الخدمات السريرية العامة ورعاية الإصابا
 
 msgctxt "app.pagetitle"
 msgid "Hand hygiene"
-msgstr ""
+msgstr "نظافة اليدين"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
 msgstr "المعلومات الصحية"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Health information systems"
-msgstr "المعلومات الصحية"
+msgstr "نظم المعلومات الصحية"
 
 msgctxt "app.pagetitle"
 msgid "Heating"
-msgstr ""
+msgstr "التدفئة"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
@@ -1802,15 +1802,13 @@ msgctxt "app.pagetitle"
 msgid "Sexual violence"
 msgstr "العنف الجنسي"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Support"
-msgstr "استيراد"
+msgstr "الدعم"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Transportation"
-msgstr "الصرف الصحي"
+msgstr "النقل"
 
 msgctxt "app.pagetitle"
 msgid "Trauma Care"
