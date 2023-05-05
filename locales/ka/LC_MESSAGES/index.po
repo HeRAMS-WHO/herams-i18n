@@ -8,29 +8,48 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-05 14:22+0000\n"
+"Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
+"Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: docs/index.rst:11
 msgid "Introduction"
-msgstr ""
+msgstr "შესავალი"
 
 #: docs/index.rst:13
 msgid "Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instructions on how to register and access the HeRAMS platform as well as a brief overview of key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how to edit data in the `Contribute data`_ section. For more advanced topics related to user management and project administration, please consult the `HeRAMS administration`_ section."
 msgstr ""
+"კეთილი იყოს თქვენი მობრძანება **HeRAMS-ის მომხმარებლის გზამკვლევში**. "
+"გზამკვლევი შექმნილია `HeRAMS პლატფორმის <https://herams.org/>`_ "
+"მომხმარებლებისთვის. იგი გთავაზობთ დეტალურ ინსტრუქციებს, თუ როგორ უნდა "
+"დარეგისტრირდეთ და შეხვიდეთ HeRAMS პლატფორმაზე, ასევე პლატფორმის ძირითადი "
+"კომპონენტების მოკლე მიმოხილვას, მათ შორის დეტალურ ინფორმაციას იმის შესახებ, "
+"თუ როგორ უნდა შეისწავლოთ ხელმისაწვდომი მონაცემები ინტერაქტიული საკონტროლო "
+"პანელის გამოყენებით. მონაცემთა მენეჯერებს შეუძლიათ მოიძიონ დამატებითი "
+"ინფორმაცია მონაცემების რედაქტირების შესახებ განყოფილებაში `მონაცემების "
+"შეყვანა`_. მომხმარებლის მენეჯმენტთან და პროექტის ადმინისტრირებასთან "
+"დაკავშირებულ საკითხებზე, გთხოვთ მიმართოთ `HeRAMS ადმინისტრაციის`_ "
+"განყოფილებას."
 
 #: docs/index.rst:16
 msgid "It should be noted that this guide only addresses issues related to the `HeRAMS platform <https://herams.org/>`_. For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_ or contact the `HeRAMS support team <mailto:herams@who.int?>`_."
 msgstr ""
+"უნდა აღინიშნოს, რომ გზამკვლევი ეხება მხოლოდ `HeRAMS პლატფორმასთან "
+"დაკავშირებულ საკითხებს <https://herams.org/>`_ . HeRAMS-ის მიდგომის შესახებ "
+"ზოგადი ინფორმაციასა და ტექნიკურ საკითხებზე , გთხოვთ, გაეცნოთ `WHO HerAMS-ის "
+"ოფიციალურ ვებგვერდს <https://www.who.int/hac/herams/en//>`_ ან დაუკავშირდით "
+"`HeRAMS-ის მხარდაჭერის ჯგუფს <mailto: herams@who.int?>`_"
 
 #: docs/index.rst:21
 msgid "Getting started"
-msgstr ""
+msgstr "დაწყება"
 
 #: docs/index.rst:23
 msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meaning>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform."
