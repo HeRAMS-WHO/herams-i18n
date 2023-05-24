@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-05-05 14:22+0000\n"
+"PO-Revision-Date: 2023-05-24 07:22+0000\n"
 "Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -57,11 +57,13 @@ msgstr ""
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
-msgstr ""
+msgstr "ახალი მომხმარებლის ანგარიშის შექმნა"
 
 #: docs/index.rst:30
 msgid "To register as a new user, open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr ""
+"ახალი მომხმარებლის დასარეგისტრირებლად, თქვენს ბრაუზერში გახსენით ლინკი "
+"'<https://herams.org>'"
 
 #: docs/index.rst:32
 msgid "It is strongly recommended to either user FireFox or Chrome."
@@ -89,7 +91,7 @@ msgstr ""
 
 #: docs/index.rst:55
 msgid "Logging in"
-msgstr ""
+msgstr "სისტემაში შესვლა"
 
 #: docs/index.rst:57
 msgid "New users without an existing account, will have to register before being able to login to the HeRAMS platform. To create a user account, follow the instructions `here <#creating-a-user-account>`__."
