@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-02 14:22+0000\n"
+"PO-Revision-Date: 2023-06-05 09:22+0000\n"
 "Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ka/>\n"
@@ -355,123 +355,127 @@ msgstr "ახალი ანგარიშის შექმნა ელფ
 
 msgctxt "app"
 msgid "Current password"
-msgstr ""
+msgstr "მიმდინარე პაროლი"
 
 msgctxt "app"
 msgid "Dashboard"
-msgstr ""
+msgstr "საკონტროლო პანელი"
 
 msgctxt "app"
 msgid "Dashboard settings"
-msgstr ""
+msgstr "საკონტროლო პანელის პარამეტრები"
 
 msgctxt "app"
 msgid "Date"
-msgstr ""
+msgstr "თარიღი"
 
 msgctxt "app"
 msgid "Delete"
-msgstr ""
+msgstr "წაშლა"
 
 msgctxt "app"
 msgid "Delete all workspaces"
-msgstr ""
+msgstr "ყველა სამუშაო სივრცის წაშლა"
 
 msgctxt "app"
 msgid "Delete all workspaces in project"
-msgstr ""
+msgstr "პროექტის ყველა სამუშაო სივრცის წაშლა"
 
 msgctxt "app"
 msgid "Delete project"
-msgstr ""
+msgstr "პროექტის წაშლა"
 
 msgctxt "app"
 msgid "Delete this user"
-msgstr ""
+msgstr "მომხმარებლის წაშლა"
 
 msgctxt "app"
 msgid "Delete workspace"
-msgstr ""
+msgstr "სამუშაო სივრცის წაშლა"
 
 msgctxt "app"
 msgid "Deleted"
-msgstr ""
+msgstr "წაშლილია"
 
 msgctxt "app"
 msgid "Deleted user"
-msgstr ""
+msgstr "წაშლილი მომხმარებელი"
 
 msgctxt "app"
 msgid "Deleted {n} workspaces, {m} workspaces could not be removed"
-msgstr ""
+msgstr "წაშლილი {n} სამუშაო სივრცეები, {m} სამუშაო სივრცეების წაშლა შეუძლებელია"
 
 msgctxt "app"
 msgid "Determines the order of elements on a page, elements shown in ascending order"
 msgstr ""
+"განსაზღვრავს გვერდზე არსებული ელემენტების თანმიმდევრობას, ელემენტები "
+"ნაჩვენებია ზრდადი თანმიმდევრობით"
 
 msgctxt "app"
 msgid "Disabled"
-msgstr ""
+msgstr "გამორთულია"
 
 msgctxt "app"
 msgid "Discard & go back"
-msgstr ""
+msgstr "უარყოფა და უკან დაბრუნება"
 
 msgctxt "app"
 msgid "Display name"
-msgstr ""
+msgstr "სახელის ჩვენება"
 
+#, fuzzy
 msgctxt "app"
 msgid "Donut"
-msgstr ""
+msgstr "დიაგრამა"
 
 msgctxt "app"
 msgid "Download data"
-msgstr ""
+msgstr "მონაცემების გადმოწერა"
 
 msgctxt "app"
 msgid "Duration"
-msgstr ""
+msgstr "ხანგრძლივობა"
 
 msgctxt "app"
 msgid "Edit"
-msgstr ""
+msgstr "რედაქტირება"
 
 msgctxt "app"
 msgid "Edit data"
-msgstr ""
+msgstr "მონაცემების რედაქტირება"
 
 msgctxt "app"
 msgid "Edit settings"
-msgstr ""
+msgstr "რედაქტირების პარამეტრები"
 
+#, fuzzy
 msgctxt "app"
 msgid "Edit token"
-msgstr ""
+msgstr "სიმბოლოს რედაქტირება"
 
 msgctxt "app"
 msgid "Element created"
-msgstr ""
+msgstr "ელემენტი შექმნილია"
 
 msgctxt "app"
 msgid "Element not created"
-msgstr ""
+msgstr "ელემენტი არ არის შექმნილი"
 
 msgctxt "app"
 msgid "Element not updated"
-msgstr ""
+msgstr "ელემენტი არ არის განახლებული"
 
 msgctxt "app"
 msgid "Element updated"
-msgstr ""
+msgstr "ელემენტი განახლებულია"
 
 msgctxt "app"
 msgid "Email"
-msgstr ""
+msgstr "ელ-ფოსტა"
 
 msgctxt "app"
 msgid "Email already taken"
-msgstr ""
+msgstr "ელ-ფოსტა უკვე გამოყენებულია"
 
 msgctxt "app"
 msgid "Emergency specific"
