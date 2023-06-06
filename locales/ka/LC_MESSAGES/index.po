@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-05-24 07:22+0000\n"
-"Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
+"PO-Revision-Date: 2023-06-06 12:22+0000\n"
+"Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
 "Language: ka\n"
@@ -53,7 +53,7 @@ msgstr "დაწყება"
 
 #: docs/index.rst:23
 msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meaning>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform."
-msgstr ""
+msgstr "test"
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
