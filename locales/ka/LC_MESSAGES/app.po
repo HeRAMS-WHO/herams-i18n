@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-06 20:22+0000\n"
-"Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
+"PO-Revision-Date: 2023-06-07 15:22+0000\n"
+"Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ka/>\n"
 "Language: ka\n"
@@ -478,667 +478,709 @@ msgstr "ელ-ფოსტა უკვე გამოყენებული
 
 msgctxt "app"
 msgid "Emergency specific"
-msgstr ""
+msgstr "განსაკუთრებული შემთხვევისთვის სპეციფიური"
 
 msgctxt "app"
 msgid "Empty project"
-msgstr ""
+msgstr "ცარიელი პროექტი"
 
 msgctxt "app"
 msgid "Enabled"
-msgstr ""
+msgstr "შესაძლებელია"
 
 msgctxt "app"
 msgid "Enter a date to limit the export to the last record before or equal to the selected date for each health facility. To export all historic records of a health facility, leave the field blank."
 msgstr ""
+"შეიყვანეთ თარიღი, რათა შეზღუდოთ ჩანაწერების ექსპორტი არჩეულ თარიღამდე "
+"თითოეული ჯანდაცვის დაწესებულებისთვის. სამედიცინო დაწესებულების ყველა "
+"ისტორული ჩანაწერის ექსპორტისთვის, ველი დატოვეთ ცარიელი."
 
 msgctxt "app"
 msgid "Enter the email address you want to use for your account."
 msgstr ""
+"შეიყვანეთ ელ-ფოსტის მისამართი, რომელიც თქვენი ანგარიშისთვის გსურთ გამოიყენოთ "
+"."
 
 msgctxt "app"
 msgid "Error"
-msgstr ""
+msgstr "შეცდომა"
 
 msgctxt "app"
 msgid "Expires at"
-msgstr ""
+msgstr "ვადა გასდის"
 
 msgctxt "app"
 msgid "Explain what permissions you need and why you need them."
-msgstr ""
+msgstr "განმარტეთ რომელი ნებართვები გჭირდებათ და რატომ."
 
 msgctxt "app"
 msgid "Explanation of grant or deny"
-msgstr ""
+msgstr "ნებართვის მინიჭების ან უარყოფის განმარტება"
 
 msgctxt "app"
 msgid "Export CSV"
-msgstr ""
+msgstr "CSV ფაილის ექსპორტი"
 
 msgctxt "app"
 msgid "Export XLSX"
-msgstr ""
+msgstr "XLSX ფაილის ექსპორტი"
 
 msgctxt "app"
 msgid "Export all"
-msgstr ""
+msgstr "ყველაფრის ექსპორტი"
 
 msgctxt "app"
 msgid "Export data"
-msgstr ""
+msgstr "მონაცემების ექსპორტი"
 
 msgctxt "app"
 msgid "Export data from project {project}"
-msgstr "გადმოწერეთ პროექტის მონაცემები {პროექტი}"
+msgstr "გადმოწერეთ პროექტის მონაცემები {project}"
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
-msgstr ""
+msgstr "სამუშაო სივრცეებიდან მონაცემების ექსპორტი {workspace}"
 
 msgctxt "app"
 msgid "Export this page to pdf"
-msgstr ""
+msgstr "ამ გვერდის ექსპორტი პდფ-ფორმატში"
 
 msgctxt "app"
 msgid "Failed"
-msgstr ""
+msgstr "წარუმატებელია"
 
 msgctxt "app"
 msgid "Failed to update email address"
-msgstr ""
+msgstr "ელ-ფოსტის მისამართის განახალება ვერ მოხერხდა"
 
 msgctxt "app"
 msgid "Favorite workspaces"
-msgstr ""
+msgstr "ფავორიტი სამუშაო სივრცეები"
 
 msgctxt "app"
 msgid "Favorites"
-msgstr ""
+msgstr "ფავორიტები"
 
 msgctxt "app"
 msgid "Favorites only"
-msgstr ""
+msgstr "მხოლოდ ფავორიტები"
 
 msgctxt "app"
 msgid "Filters"
-msgstr ""
+msgstr "ფილტრები"
 
 msgctxt "app"
 msgid "Forgot your password ?"
-msgstr ""
+msgstr "დაგავიწყდათ თქვენი პაროლი?"
 
 msgctxt "app"
 msgid "Full"
-msgstr ""
+msgstr "სრული"
 
 msgctxt "app"
 msgid "Fully available"
-msgstr ""
+msgstr "სრულად ხელმისაწვდომია"
 
 msgctxt "app"
 msgid "Fully functional"
-msgstr ""
+msgstr "სრულად ფუნქციურია"
 
 msgctxt "app"
 msgid "Functionality"
-msgstr ""
+msgstr "ფუნქციურობა"
 
 msgctxt "app"
 msgid "Global permissions"
-msgstr ""
+msgstr "გლობალური ნებართვები"
 
 msgctxt "app"
 msgid "Global permissions granted to: <strong>{users}</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
+"გლობალური ნებართვები დაკმაყოფილებილია:  <strong>{users}</strong>  და "
+"მოწვეული მომხმარებლებისთვის: <strong>{invitedUsers}</strong>"
 
 msgctxt "app"
 msgid "Go to workspaces"
-msgstr ""
+msgstr "სამუშაო სივრცეებში შესვლა"
 
 msgctxt "app"
 msgid "Grant admin permissions"
-msgstr ""
+msgstr "ადმინისტრატორის ნებართვების მინიჭება"
 
 msgctxt "app"
 msgid "Granted"
-msgstr ""
+msgstr "მინიჭებულია"
 
 msgctxt "app"
 msgid "HeRAMS email verification"
-msgstr ""
+msgstr "HeRAMS ელ-ფოსტის ვერიფიკაცია"
 
 msgctxt "app"
 msgid "HeRAMS password reset"
-msgstr ""
+msgstr "HeRAMS პაროლის აღდგენა"
 
 msgctxt "app"
 msgid "HeRAMS projects"
-msgstr ""
+msgstr "HeRAMS-ის პროექტები"
 
 msgctxt "app"
 msgid "Health Facilities"
-msgstr ""
+msgstr "ჯანდაცვის დაწესებულებები"
 
 msgctxt "app"
 msgid "Health facilities"
-msgstr ""
+msgstr "ჯანდაცვის დაწესებულებები"
 
 msgctxt "app"
 msgid "Height"
-msgstr ""
+msgstr "სიმაღლე"
 
 msgctxt "app"
 msgid "Hidden"
-msgstr ""
+msgstr "დაფარული"
 
 msgctxt "app"
 msgid "Hidden, this project is only visible to people with permissions"
-msgstr ""
+msgstr "დაფარულია, ეს პროექტი მხოლოდ ნებართვის მქონე მომხარებლებისთვისაა ხილული"
 
 msgctxt "app"
 msgid "Home"
-msgstr ""
+msgstr "სახლი"
 
 msgctxt "app"
 msgid "Id"
-msgstr ""
+msgstr "საიდენტიფიკაციო ნომერი"
 
 msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
 msgstr ""
+"თუ თქვენ იყენებთ წინასწარ განსაზღვრულ ვარიანტს, ის ავტომატურად ითარგმნება"
 
 msgctxt "app"
 msgid "Implicitly granted"
-msgstr ""
+msgstr "ირიბი ნებართვა გაცემულია"
 
 msgctxt "app"
 msgid "Import Pages"
-msgstr ""
+msgstr "გვერდების ექსპორტი"
 
 msgctxt "app"
 msgid "Import pages"
-msgstr ""
+msgstr "გვერდების ექსპორტი"
 
 msgctxt "app"
 msgid "Import workspaces"
-msgstr ""
+msgstr "სამუშაო სივრცეები ექსპორტი"
 
 msgctxt "app"
 msgid "In Progress"
-msgstr ""
+msgstr "მიმდინარეობს"
 
+#, fuzzy
 msgctxt "app"
 msgid "Include code header"
-msgstr ""
+msgstr "კოდის ტიტულკოლონის ჩასმა"
 
+#, fuzzy
 msgctxt "app"
 msgid "Include text header"
-msgstr ""
+msgstr "ტექსტის ტიტულკოლონის ჩასმა"
 
 msgctxt "app"
 msgid "Info"
-msgstr ""
+msgstr "ინფორმაცია"
 
 msgctxt "app"
 msgid "Invalid user."
-msgstr ""
+msgstr "არასწორი მომხმარებელი."
 
 msgctxt "app"
 msgid "Invalid value {value} for enum"
-msgstr ""
+msgstr "ნუმერაციის არასწორი მნიშვნელობა {value}"
 
 msgctxt "app"
 msgid "Is the service fully available"
-msgstr ""
+msgstr "სერვისი სრულად ხელმისაწვდომია"
 
 msgctxt "app"
 msgid "Lack of finances"
-msgstr ""
+msgstr "ფინანსების ნაკლებობა"
 
 msgctxt "app"
 msgid "Lack of health staff"
-msgstr ""
+msgstr "ჯანდაცვის პერსონალის ნაკლებობა"
 
 msgctxt "app"
 msgid "Lack of medical equipment"
-msgstr ""
+msgstr "სამედიცინო აღჭურვილობის ნაკლებობა"
 
 msgctxt "app"
 msgid "Lack of medical supplies"
-msgstr ""
+msgstr "სამედიცინო მარაგების ნაკლებობა"
 
 msgctxt "app"
 msgid "Lack of training of health staff"
-msgstr ""
+msgstr "ტრენინგის ნაკლებობა ჯანდაცვის პერსონალისთვის"
 
 msgctxt "app"
 msgid "Language"
-msgstr ""
+msgstr "ენა"
 
 msgctxt "app"
 msgid "Languages"
-msgstr ""
+msgstr "ენები"
 
 msgctxt "app"
 msgid "Last login at"
-msgstr ""
+msgstr "სისტემაში ბოლოს შესვლა"
 
 msgctxt "app"
 msgid "Latest update"
-msgstr ""
+msgstr "ბოლო განახლება"
 
 msgctxt "app"
 msgid "Latitude"
-msgstr ""
+msgstr "განედი"
 
+#, fuzzy
 msgctxt "app"
 msgid "Lead"
-msgstr ""
+msgstr "მართვა"
 
 msgctxt "app"
 msgid "Loading Error"
-msgstr ""
+msgstr "ჩატვირთვის შეცდომა"
 
 msgctxt "app"
 msgid "Loading failed"
-msgstr ""
+msgstr "ჩატვირთვა ვერ განხორციელდა"
 
 msgctxt "app"
 msgid "Loading project summary"
-msgstr ""
+msgstr "პროექტის შეჯამების ჩატვირთვა"
 
 msgctxt "app"
 msgid "Log in"
-msgstr ""
+msgstr "სისტემაში შესვლა"
 
 msgctxt "app"
 msgid "Longitude"
-msgstr ""
+msgstr "გრძედი"
 
+#, fuzzy
 msgctxt "app"
 msgid "Manage data implies creating facilities"
-msgstr ""
+msgstr "მონაცემთა მართვა გულისხმობს დაწესებულებების შექმნას"
 
 msgctxt "app"
 msgid "Manage surveys"
-msgstr ""
+msgstr "კითხვარების მართვა"
 
 msgctxt "app"
 msgid "Manage users"
-msgstr ""
+msgstr "მომხმარებლების მართვა"
 
 msgctxt "app"
 msgid "Manage workspaces"
-msgstr ""
+msgstr "სამუშაო სივრცეების მართვა"
 
 msgctxt "app"
 msgid "Map facility types for use in the world map"
-msgstr ""
+msgstr "დაწესებულების ტიპების განსაზღვრა მსოფლიო რუკაზე დასატანად"
 
 msgctxt "app"
 msgid "Marker radius"
-msgstr ""
+msgstr "რადიუსის მონიშვნა"
 
 msgctxt "app"
 msgid "Mass workspace sync"
-msgstr ""
+msgstr "მასობრივი სამუშაო სივრცეების სინქრონიზაცია"
 
 msgctxt "app"
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 msgctxt "app"
 msgid "Name"
-msgstr ""
+msgstr "სახელი"
 
 msgctxt "app"
 msgid "New"
-msgstr ""
+msgstr "ახალი"
 
 msgctxt "app"
 msgid "New email address"
-msgstr ""
+msgstr "ახალი ელ-ფოსტის მისამართი"
 
 msgctxt "app"
 msgid "New password"
-msgstr ""
+msgstr "ახალი პაროლი"
 
 msgctxt "app"
 msgid "New workspace"
-msgstr ""
+msgstr "ახალი სამუშაო სივრცე"
 
 msgctxt "app"
 msgid "Newsletter subscription"
-msgstr ""
+msgstr "სიახლეების გამოწერა"
 
 msgctxt "app"
 msgid "No"
-msgstr ""
+msgstr "არა"
 
 msgctxt "app"
 msgid "No data loaded"
-msgstr ""
+msgstr "მონაცემები არ ჩაიტვირთა"
 
 msgctxt "app"
 msgid "No extra information is available at this time"
-msgstr ""
+msgstr "დამატებითი ინფორმაცია ამ ეტაპზე ხელმისაწვდომი არ არის"
 
 msgctxt "app"
 msgid "Non-favorites only"
-msgstr ""
+msgstr "მხოლოდ არა-ფავორიტები"
 
 msgctxt "app"
 msgid "None"
-msgstr ""
+msgstr "არცერთი"
 
 msgctxt "app"
 msgid "Not available"
-msgstr ""
+msgstr "არ არის ხელმისაწვდომი"
 
 msgctxt "app"
 msgid "Not functional"
-msgstr ""
+msgstr "არ არის ფუნქციური"
 
 msgctxt "app"
 msgid "Not normally provided"
-msgstr ""
+msgstr "არ არის გათვალისწინებული"
 
 msgctxt "app"
 msgid "Notifications"
-msgstr ""
+msgstr "შეტყობინებები"
 
+#, fuzzy
 msgctxt "app"
 msgid "Off"
-msgstr ""
+msgstr "გამორთული"
 
 msgctxt "app"
 msgid "Old email address"
-msgstr ""
+msgstr "ძველი ელ-ფოსტის მისამართი"
 
 msgctxt "app"
 msgid "On"
-msgstr ""
+msgstr "ჩართული"
 
 msgctxt "app"
 msgid "Ongoing"
-msgstr ""
+msgstr "მიმდინარე"
 
 msgctxt "app"
 msgid "Only countries with an ISO3166 Alpha-3:wq\n             code are listed"
 msgstr ""
+"მხოლოდ ISO3166 Alpha-3:wq კოდის მქონე ქვეყნებია\n"
+"              ჩამოთვლილი"
 
 msgctxt "app"
 msgid "Other"
-msgstr ""
+msgstr "სხვა"
 
+#, fuzzy
 msgctxt "app"
 msgid "Other, explain in request"
-msgstr ""
+msgstr "სხვა, განმარტეთ მოთხოვნის ველში"
 
+#, fuzzy
 msgctxt "app"
 msgid "Overrides"
-msgstr ""
+msgstr "უარყოფა"
 
 msgctxt "app"
 msgid "Page"
-msgstr ""
+msgstr "გვერდი"
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> created"
-msgstr ""
+msgstr "გვერდი <strong>{page}</strong> შექმნილია"
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
-msgstr ""
+msgstr "გვერდი <strong>{page}</strong> განახლებულია"
 
+#, fuzzy
 msgctxt "app"
 msgid "Page elements"
-msgstr ""
+msgstr "გვერდის ელემენტები"
 
+#, fuzzy
 msgctxt "app"
 msgid "Parent page"
-msgstr ""
+msgstr "მთავარი გვერდი"
 
 msgctxt "app"
 msgid "Partial"
-msgstr ""
+msgstr "ნაწილობრივ"
 
 msgctxt "app"
 msgid "Partially available"
-msgstr ""
+msgstr "ნაწილობრივ ხელმისაწვდომია"
 
 msgctxt "app"
 msgid "Partially functional"
-msgstr ""
+msgstr "ნაწილობრივ ფუნქციურია"
 
 msgctxt "app"
 msgid "Password"
-msgstr ""
+msgstr "პაროლი"
 
 msgctxt "app"
 msgid "Password changed"
-msgstr ""
+msgstr "პაროლი შეცვლილია"
 
+#, fuzzy
 msgctxt "app"
 msgid "Password hash"
-msgstr ""
+msgstr "პაროლი გარდაქმნილია"
 
 msgctxt "app"
 msgid "Password update failed"
-msgstr ""
+msgstr "პაროლის განახლება ვერ მოხერხდა"
 
 msgctxt "app"
 msgid "Passwords don't match"
-msgstr ""
+msgstr "პაროლები არ ემთხვევა"
 
 msgctxt "app"
 msgid "Permission"
-msgstr ""
+msgstr "ნებართვა"
 
 msgctxt "app"
 msgid "Permissions"
-msgstr ""
+msgstr "ნებართვები"
 
+#, fuzzy
 msgctxt "app"
 msgid "Permissions to grant"
-msgstr ""
+msgstr "ნებართვების გაცემა"
 
 msgctxt "app"
 msgid "Please check your mailbox"
-msgstr ""
+msgstr "გთხოვთ შეამოწმოთ თქვენი საფოსტო ყუთი"
 
 msgctxt "app"
 msgid "Primary"
-msgstr ""
+msgstr "ძირითადი"
 
 msgctxt "app"
 msgid "Print"
-msgstr ""
+msgstr "ბეჭდვა"
 
 msgctxt "app"
 msgid "Private, this project is visible on the map and in the list, but people need permission to view it"
 msgstr ""
+"კონფიდენციალურია, ეს პროექტი დატანილია რუკაზე და შეყვანილია სიაში, თუმცა მის "
+"სანახავად საჭიროა ნებართვა"
 
 msgctxt "app"
 msgid "Profile"
-msgstr ""
+msgstr "პროფილი"
 
 msgctxt "app"
 msgid "Project"
-msgstr ""
+msgstr "პროექტი"
 
+#, fuzzy
 msgctxt "app"
 msgid "Project <strong>{modelName}</strong> has been shared with: <strong>{users}</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
+"პროექტი <strong>{modelName}</strong> გაზიარებულია: <strong>{users}</strong> "
+"მოწვეულ მომხმარებლებთან: <strong>{invitedUsers}</strong>"
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
-msgstr ""
+msgstr "პროექტი <strong>{project}</strong> შექმნილია"
 
 msgctxt "app"
 msgid "Project coordinator"
-msgstr ""
+msgstr "პროექტის კოორდინატორი"
 
 msgctxt "app"
 msgid "Project dashboard"
-msgstr ""
+msgstr "პროექტის საკონტროლო პანელი"
 
 msgctxt "app"
 msgid "Project settings"
-msgstr ""
+msgstr "პროექტის პარამეტრები"
 
 msgctxt "app"
 msgid "Project status is shown on the world map"
-msgstr ""
+msgstr "პროექტის სტატუსი ნაჩვენებია მსოფლიო რუკაზე"
 
 msgctxt "app"
 msgid "Project updated"
-msgstr ""
+msgstr "პროექტი განახლებულია"
 
 msgctxt "app"
 msgid "Projects"
-msgstr ""
+msgstr "პროექტები"
 
 msgctxt "app"
 msgid "Public, anyone can view this project"
-msgstr ""
+msgstr "საჯარო, პროექტი ყველასთვის ხილულია"
 
+#, fuzzy
 msgctxt "app"
 msgid "Question code containing the name (case sensitive)"
 msgstr ""
+"კითხვის კოდი შეიცავს სახელს (მგრძნობიარეა დიდი და პატარა სიმბოლოების მიმართ)"
 
+#, fuzzy
 msgctxt "app"
 msgid "Question code containing the type (case sensitive)"
 msgstr ""
+"კითხვის კოდი შეიცავს ტიპს(მგრძნობიარეა დიდი და პატარა სიმბოლოების მიმართ)"
 
+#, fuzzy
 msgctxt "app"
 msgid "Read"
-msgstr ""
+msgstr "განხილვა, გადახედვა"
 
 msgctxt "app"
 msgid "Refresh"
-msgstr ""
+msgstr "განახლება"
 
 msgctxt "app"
 msgid "Refresh data from limesurvey"
-msgstr ""
+msgstr "განაახლეთ მონაცემები limesurvey-დან"
 
 msgctxt "app"
 msgid "Refresh workspace"
-msgstr ""
+msgstr "განაახლეთ სამუშაო სივრცე"
 
 msgctxt "app"
 msgid "Refreshing data took {time} seconds; \n        {new} new records, \n        {updated} existing records, \n        {deleted} deleted records, \n        {unchanged} unchanged records, \n        {failed} invalid records"
 msgstr ""
+"მონაცემების განახლება დასჭირდა {time} წამი; \n"
+"        {new} ახალი მონაცემები, \n"
+"        {updated} არსებული მონაცემები, \n"
+"        {deleted} წაშლილი მონაცემები, \n"
+"        {unchanged} უცვლელი მონაცემები, \n"
+"        {failed} არასწორი მონაცემები"
 
 msgctxt "app"
 msgid "Register"
-msgstr ""
+msgstr "რეგისტრაცია"
 
 msgctxt "app"
 msgid "Register a new facility"
-msgstr ""
+msgstr "ახალი დაწესებულების რეგისტრაცია"
 
 msgctxt "app"
 msgid "Register new health facility"
-msgstr ""
+msgstr "დაარეგისტრირეთ ახალი ჯანდაცვის დაწესებულება"
 
 msgctxt "app"
 msgid "Repeat password"
-msgstr ""
+msgstr "გაიმეორეთ პაროლი"
 
 msgctxt "app"
 msgid "Report date"
-msgstr ""
+msgstr "მიუთითეთ თარიღი"
 
 msgctxt "app"
 msgid "Request"
-msgstr ""
+msgstr "მოთხოვნა"
 
 msgctxt "app"
 msgid "Request access"
-msgstr ""
+msgstr "მოითხოვეთ წვდომა"
 
 msgctxt "app"
 msgid "Request password reset"
-msgstr ""
+msgstr "მოითხოვეთ პაროლის ცვლილება"
 
 msgctxt "app"
 msgid "Requested access to {modelName}"
-msgstr ""
+msgstr "მოითხოვეთ წვდომა {modelName}ზე"
 
 msgctxt "app"
 msgid "Requested permissions"
-msgstr ""
+msgstr "მოთხოვნილი ნებართვები"
 
 msgctxt "app"
 msgid "Reset password"
-msgstr ""
+msgstr "პაროლის ცვლილება"
 
 msgctxt "app"
 msgid "Reset your password"
-msgstr ""
+msgstr "შეცვალეთ თქვენი პაროლი"
 
 msgctxt "app"
 msgid "Respond"
-msgstr ""
+msgstr "პასუხი"
 
 msgctxt "app"
 msgid "Respond to: {modelName}"
-msgstr ""
+msgstr "უპასუხეთ: {modelName}"
 
 msgctxt "app"
 msgid "Responded at"
-msgstr ""
+msgstr "პასუხი გაცემულია"
 
 msgctxt "app"
 msgid "Responded by"
-msgstr ""
+msgstr "პასუხი გასცა"
 
 msgctxt "app"
 msgid "Response"
-msgstr ""
+msgstr "პასუხი"
 
 msgctxt "app"
 msgid "Responses"
-msgstr ""
+msgstr "პასუხები"
 
 msgctxt "app"
 msgid "Review the requested permission. Either grant permissions by selecting the permissions you think are applicable or deny the request by leaving the granted permissions empty. Explain your decision in the textarea."
 msgstr ""
+"განიხილეთ მოთხოვნილი ნებართვა. მიანიჭეთ ნებართვები, რომელიც თვლით რომ "
+"შესაფერისია ან არ დააკმაყოფილოთ მოთხოვნა. განმარტეთ თქვენი გადაწყვეტილება "
+"ტექსტის ველში."
 
 msgctxt "app"
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgctxt "app"
 msgid "Search"
-msgstr ""
+msgstr "ძებნა"
 
 msgctxt "app"
 msgid "Search also uses the group name, for example try typing \"Trauma\""
-msgstr ""
+msgstr "ძიების ფუნქცია იქენებს ჯგუფის სახელსაც, მაგალითად აკრიფეთ \"ტრამვა\""
 
 msgctxt "app"
 msgid "Secondary"
-msgstr ""
+msgstr "მეორადი"
 
 msgctxt "app"
 msgid "Select and sync any number of workspaces in the project"
 msgstr ""
+"აირჩიეთ და სინქრონიზაცია გაუკეთეთ პროექტის ნებისმიერი რაოდენობის სამუშაო "
+"სივრცეებს"
 
 msgctxt "app"
 msgid "Send confirmation"
-msgstr ""
+msgstr "გაგზავნეთ დასტური"
 
 msgctxt "app"
 msgid "Service Availability"
-msgstr ""
+msgstr "სერვისის ხელმისაწვდომობა"
 
 msgctxt "app"
 msgid "Service availability"
-msgstr ""
+msgstr "სერვისის ხელმისაწვდომობა"
 
 msgctxt "app"
 msgid "Show the debug toolbar"
