@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-19 13:57+0000\n"
+"PO-Revision-Date: 2023-06-19 15:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -218,50 +218,67 @@ msgstr ""
 #: docs/index.rst:105
 msgid "This opens your `user profile <https://herams.org/user/account>`__ and allows you to change your personal information."
 msgstr ""
+"ამ ღილაკით გახსნით თქვენს `მომხმარებლის პროფილს <https://herams.org/user/"
+"account>`__ და შეძლებთ შეცვალოთ თქვენი პერსონალური ინფორმაცია."
 
 #: docs/index.rst:108
 msgid "Change Password"
-msgstr ""
+msgstr "პაროლის შეცვლა"
 
 #: docs/index.rst:110
 msgid "To change your password, open your user profile as explained `above <#update-your-user-profile>`__."
 msgstr ""
+"პაროლის შესაცვლელად, გახსენით თქვენი მომხმარებლის პროფილი, როგორც `ზემოთ "
+"<#update-your-user-profile>`__ იყო აღწერილი."
 
 #: docs/index.rst:111
 msgid "In the pop-up window that opens, select the **Password** tab."
-msgstr ""
+msgstr "ფანჯარაში, რომელიც გაიხსნება, აირჩიეთ **პაროლის** ჩანართი."
 
 #: docs/index.rst:112
 msgid "You should now be able to change your email address and enter a new password."
 msgstr ""
+"ახლა თქვენ უკვე შეგიძლიათ თქვენი ელ. ფოსტის მისამართის შეცვლა და ახალი "
+"პაროლის შეყვანა."
 
 #: docs/index.rst:113
 msgid "Make sure to click the |update-password| button to confirm your changes."
-msgstr ""
+msgstr "დააწკაპუნეთ |update-password| ღილაკს ცვლილების დასადასტურებლად."
 
 #: docs/index.rst:114
 msgid "To return to the main page, click the |home| icon in the top right corner."
 msgstr ""
+"მთავარ გვერდზე დასაბრუნებლად, დააწკაპუნეთ ამ ხატულაზე |home| გვერდის ზედა "
+"მარჯვენა კუთხეში."
 
 #: docs/index.rst:118
 msgid "Change Language Preference"
-msgstr ""
+msgstr "ენის შეცვლა"
 
 #: docs/index.rst:119
 msgid "The HeRAMS platform is available in multiple languages. Unless specified otherwise, the language will be automatically selected based on your browser language. For users having a browser language that is not supported by HeRAMS, the language will default to English. To manually adjust your language preference, follow the steps below."
 msgstr ""
+"HeRAMS პლატფორმა ხელმისაწვდომია მრავალ ენაზე. თუ სხვა რამ არ არის "
+"მითითებული, ენა ავტომატურად შეირჩევა თქვენი ბრაუზერის ენის მიხედვით. "
+"მომხმარებლებისთვის, რომლებსაც აქვთ ბრაუზერის ენა, რომელიც არ არის "
+"მხარდაჭერილი HeRAMS-ის მიერ, ენა ავტომატურად იქნება ინგლისური. თქვენთვის "
+"სასურველი ენის ხელით შესაცვლელად, მიყევით ქვემოთ მოცემულ ნაბიჯებს."
 
 #: docs/index.rst:123
 msgid "To change your language preference, open your user profile as explained `above <#update-your-user-profile>`__."
 msgstr ""
+"ენის შესაცვლელად, გახსენით თქვენი მომხმარებლის პროფილი, როგორც აღწერილია `"
+"ზემოთ <#update-your-user-profile>`__."
 
 #: docs/index.rst:124
 msgid "In the pop-up window that opens, navigate to the **Profile** tab."
-msgstr ""
+msgstr "ფანჯარაში, რომელიც გაიხსნება, გადადით **პროფილის** ჩანართზე."
 
 #: docs/index.rst:125
 msgid "Change the drop-down list to the desired language and click the |update-profile| button."
 msgstr ""
+"შეცვალეთ ჩამოსაშლელი სია სასურველ ენაზე და დააწკაპუნეთ ღილაკს |update-"
+"profile|."
 
 #: docs/index.rst:127
 msgid "HeRAMS will remember your language preferences next time you log in. If you would like to change them, you must return to this page and update your user profile."
