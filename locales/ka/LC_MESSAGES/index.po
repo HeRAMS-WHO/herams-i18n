@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-20 13:57+0000\n"
+"PO-Revision-Date: 2023-06-20 20:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -26,26 +26,25 @@ msgstr "შესავალი"
 #: docs/index.rst:13
 msgid "Welcome to the **HeRAMS User Guide**. This user guide was designed for users of the `HeRAMS platform <https://herams.org/>`_. It provides step-by-step instructions on how to register and access the HeRAMS platform as well as a brief overview of key components of the platform, including detailed information on how to explore the available data using the interactive dashboards. Data managers can find additional information on how to edit data in the `Contribute data`_ section. For more advanced topics related to user management and project administration, please consult the `HeRAMS administration`_ section."
 msgstr ""
-"კეთილი იყოს თქვენი მობრძანება **HeRAMS-ის მომხმარებლის გზამკვლევში**. "
-"გზამკვლევი შექმნილია `HeRAMS პლატფორმის <https://herams.org/>`_ "
+"კეთილი იყოს თქვენი მობრძანება **HeRAMS-ის მომხმარებლის სახელმძღვანელოში**. "
+"ეს სახელმძღვანელო შექმნილია `HeRAMS პლატფორმის <https://herams.org/>`_ "
 "მომხმარებლებისთვის. იგი გთავაზობთ დეტალურ ინსტრუქციებს, თუ როგორ უნდა "
-"დარეგისტრირდეთ და შეხვიდეთ HeRAMS პლატფორმაზე, ასევე პლატფორმის ძირითადი "
-"კომპონენტების მოკლე მიმოხილვას, მათ შორის დეტალურ ინფორმაციას იმის შესახებ, "
-"თუ როგორ უნდა შეისწავლოთ ხელმისაწვდომი მონაცემები ინტერაქტიული საკონტროლო "
-"პანელის გამოყენებით. მონაცემთა მენეჯერებს შეუძლიათ მოიძიონ დამატებითი "
-"ინფორმაცია მონაცემების რედაქტირების შესახებ განყოფილებაში `მონაცემების "
-"შეყვანა`_. მომხმარებლის მენეჯმენტთან და პროექტის ადმინისტრირებასთან "
-"დაკავშირებულ საკითხებზე, გთხოვთ მიმართოთ `HeRAMS ადმინისტრაციის`_ "
-"განყოფილებას."
+"დარეგისტრირდეთ და შეხვიდეთ HeRAMS პლატფორმაზე. სახელმძღვანელო ასევე შეიცავს "
+"პლატფორმის ძირითადი კომპონენტების მოკლე მიმოხილვას, მათ შორის დეტალურ "
+"ინფორმაციას იმის შესახებ, თუ როგორ უნდა გააანალიზოთ არსებული მონაცემები "
+"ინტერაქტიული საკონტროლო პანელების გამოყენებით. მონაცემთა მენეჯერებს შეუძლიათ "
+"იპოვონ დამატებითი ინფორმაცია მონაცემების რედაქტირებაზე `მონაცემების შეყვანის`"
+"_ ნაწილში. მომხმარებლის და პროექტის მართვასთან დაკავშირებული უფრო "
+"სიღრმისეული ინფორმაციისთვის, გთხოვთ გეაცნოთ `HeRAMS-ის მართვის`_ ნაწილს."
 
 #: docs/index.rst:16
 msgid "It should be noted that this guide only addresses issues related to the `HeRAMS platform <https://herams.org/>`_. For general information on the HeRAMS approach and for technical guidance please consult the official `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_ or contact the `HeRAMS support team <mailto:herams@who.int?>`_."
 msgstr ""
-"უნდა აღინიშნოს, რომ გზამკვლევი ეხება მხოლოდ `HeRAMS პლატფორმასთან "
+"უნდა აღინიშნოს, რომ ეს სახელმძღვანელო შეეხება მხოლოდ `HeRAMS პლატფორმასთან "
 "დაკავშირებულ საკითხებს <https://herams.org/>`_ . HeRAMS-ის მიდგომის შესახებ "
-"ზოგადი ინფორმაციასა და ტექნიკურ საკითხებზე , გთხოვთ, გაეცნოთ `WHO HerAMS-ის "
-"ოფიციალურ ვებგვერდს <https://www.who.int/hac/herams/en//>`_ ან დაუკავშირდით "
-"`HeRAMS-ის მხარდაჭერის ჯგუფს <mailto: herams@who.int?>`_"
+"ზოგადი ინფორმაციასა და ტექნიკურ მითითებებისთვის, გთხოვთ, ესტუმროთ `WHO "
+"HeRAMS-ის ოფიციალურ ვებგვერდს <https://www.who.int/hac/herams/en//>`_ ან "
+"დაუკავშირდით `HeRAMS-ის მხარდაჭერის ჯგუფს <mailto: herams@who.int?>`_"
 
 #: docs/index.rst:21
 msgid "Getting started"
@@ -55,14 +54,13 @@ msgstr "დაწყება"
 msgid "This chapter is intended for new users of the `HeRAMS platform <https://herams.org/>`_. It covers issues related to `registering <#creating-a-user-account>`_ and `accessing <#logging-in>`_ the platform as well as managing your `user profile <#update-your-user-profile>`__. To help you navigate the platform on your own, the last part of this chapter provides an overview of `recurring icons <#icons-and-their-meaning>`_ used across the platform and introduces `breadcrumbs`_ as an efficient way to navigate the platform."
 msgstr ""
 "ეს თავი განკუთვნილია `HeRAMS პლატფორმის ახალი მომხმარებლებისთვის "
-"<https://herams.org/>`_. ის მოიცავს საკითხებს, რომლებიც დაკავშირებულია "
-"როგორც პლატფორმაზე `რეგისტრაციასთან <#creating-a-user-account>`_ და `"
-"წვდომასთან <#logging-in>`_ ასევე თქვენი `მომხმარებლის პროფილის <#update-your-"
-"user-profile>`__მართვასთან. იმისათვის, რომ დაგეხმაროთ პლატფორმაზე "
-"დამოუკიდებლად ნავიგაციაში, ამ თავის ბოლო ნაწილი გთავაზობთ `განმეორებადი "
-"ხატულების მიმოხილვას <#icons-and-their-meaning>`_ რომლებიც გამოიყენება "
-"პლატფორმაზე და წარმოგიდგენთ `breadcrumbs`_ როგორც პლატფორმაზე ნავიგაციის "
-"ეფექტურ გზას."
+"<https://herams.org/>`_. ის მოიცავს როგორც პლატფორმაზე `რეგისტრაციასთან "
+"<#creating-a-user-account>`_ და `წვდომასთან <#logging-in>`_ ასევე თქვენი `"
+"მომხმარებლის პროფილის <#update-your-user-profile>`__მართვასთან დაკავშირებულ "
+"საკითხებს. პლატფორმაზე დამოუკიდებლად და ეფექტურად ნავიგაციაში დაგეხმარებათ, "
+"ამ თავის ბოლო ნაწილში\n"
+"მოცემული ინფორმაცია `განმეორებადი ხატულებისა <#icons-and-their-meaning>`_ და "
+"`სანავიგაციო ჯაჭვის`_ შესახებ."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
@@ -289,139 +287,218 @@ msgstr ""
 
 #: docs/index.rst:137
 msgid "Change Email Address"
-msgstr ""
+msgstr "ელ. ფოსტის მისამართის შეცვლა"
 
 #: docs/index.rst:138
 msgid "To change your e-mail address, open your user profile as explained `above <#update-your-user-profile>`__."
 msgstr ""
+"თქვენი ელ-ფოსტის მისამართის შესაცვლელად, გახსენით თქვენი მომხმარებლის "
+"პროფილი, როგორც განმარტებულია `ზემოთ <#update-your-user-profile>`__."
 
 #: docs/index.rst:139
 msgid "Open the **Email** tab and enter the new email address you would like to use for your HeRAMS account."
 msgstr ""
+"გახსენით **ელ. ფოსტის** ჩანართი და შეიყვანეთ ახალი ელ. ფოსტის მისამართი, "
+"რომლის გამოყენებაც გსურთ თქვენი HeRAMS ანგარიშისთვის."
 
 #: docs/index.rst:140
 msgid "Click the |send-confirmation| button. This will send a confirmation email to your new email address."
 msgstr ""
+"დააჭირეთ ღილაკს |send-confirmation| . თქვენ მიიღებთ დამადასტურებელ წერილს "
+"თქვენს ახალ ელ-ფოსტის მისამართზე."
 
 #: docs/index.rst:141
 msgid "Click the link in the confirmation email to validate your new email address."
 msgstr ""
+"დააწკაპუნეთ წერილში მითითებულ ბმულზე თქვენი ახალი ელ. ფოსტის მისამართის "
+"დასადასტურებლად."
 
 #: docs/index.rst:144
 msgid "Icons and their Meaning"
-msgstr ""
+msgstr "ხატულები და მათი მნიშვნელობა"
 
 #: docs/index.rst:145
 msgid "This section aims to provide an overview of key icons used across the platform and explains their meanings."
 msgstr ""
+"ეს ნაწილი მიზნად ისახავს პლატფორმაზე გამოყენებული ძირითადი ხატულების "
+"მიმოხილვას და მათი მნიშვნელობის განმარტებას."
 
 #: docs/index.rst:147
 msgid "|delete| **Delete**: Deletes a specific item or record."
-msgstr ""
+msgstr "|delete| **წაშლა**: შლის კონკრეტულ ფაილს ან ჩანაწერს."
 
 #: docs/index.rst:148
 msgid "|pencil| **Edit**: Opens the data edit interface. More information on data editing and updating is available `here <#contribute-data>`__."
 msgstr ""
+"|pencil| **რედაქტირება**: ხსნის მონაცემთა რედაქტირების ინტერფეისს. "
+"დამატებითი ინფორმაცია მონაცემთა რედაქტირებისა და განახლების შესახებ "
+"ხელმისაწვდომია `აქ <#contribute-data>`__."
 
 #: docs/index.rst:149
 msgid "|home| **Home**: The home button takes you back to the world map (home screen)."
 msgstr ""
+"|home| **მთავარი**: ღილაკი „მთავარი“ გადაგიყვანთ მსოფლიო რუკაზე (საწყის "
+"ეკრანზე)."
 
 #: docs/index.rst:150
 msgid "|settings| **Settings**: Use this button to access the HeRAMS admin interface. Additional information on the HeRAMS admin interface is available in the `HeRAMS administration`_ chapter."
 msgstr ""
+"|settings| **პარამეტრები**: გამოიყენეთ ეს ღილაკი HeRAMS ადმინისტრატორის "
+"ინტერფეისზე წვდომისთვის. დამატებითი ინფორმაცია HeRAMS ადმინისტრატორის "
+"ინტერფეისის შესახებ ხელმისაწვდომია `HeRAMS ადმინისტრაცია`_ ნაწილში."
 
 #: docs/index.rst:151
 msgid "|star-filled| **Favorites**: This allows you to create a personal list of favorite workspaces, accessible directly from the world map. Further information on how to add workspaces to your `Favorites`_ is available in the `Contribute data`_ chapter."
 msgstr ""
+"|star-filled| **რჩეულები**: ეს საშუალებას გაძლევთ შექმნათ თქვენი რჩეული "
+"სამუშაო სივრცეების პერსონალური სია, რომელიც ხელმისაწვდომი იქნება უშუალოდ "
+"მსოფლიო რუკიდან. დამატებითი ინფორმაცია სამუშაო სივრცეების თქვენს `რჩეულებში`"
+"_ დასამატებლად ხელმისაწვდომია `მონაცემების შეყვანის`_ თავში."
 
 #: docs/index.rst:152
 msgid "|user| **User profile**: Opens your user profile and allows you to modify your personal information (e.g. language preference, email address, and password). See `here <#pdate-your-user-profile>`__ for further details."
 msgstr ""
+"|user| **მომხმარებლის პროფილი**: ხსნის თქვენს მომხმარებლის პროფილს და "
+"საშუალებას გაძლევთ შეცვალოთ თქვენი პერსონალური ინფორმაცია (მაგ. ენა, ელ-"
+"ფოსტის მისამართი და პაროლი). იხილეთ `აქ <#pdate-your-user-profile>`__ "
+"დამატებითი დეტალები."
 
 #: docs/index.rst:153
 msgid "|user-guide| **User guide**: Opens the **HeRAMS User Guide**."
 msgstr ""
+"|user-guide| **მომხმარებლის სახელმძღვანელო**: ხსნის **HeRAMS-ის მომხმარებლის "
+"სახელმძღვანელოს**."
 
 #: docs/index.rst:154
 msgid "|view| **View**: Grants you view access to a specific item or record."
-msgstr ""
+msgstr "|view| **დათვალიერება**: გაძლევთ წვდომას კონკრეტულ ფაილზე ან ჩანაწერზე."
 
 #: docs/index.rst:160
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "სანავიგაციო ჯაჭვი"
 
 #: docs/index.rst:161
 msgid "Across the platform, breadcrumb trails are shown on top of every page. They intend to help you navigate the platform more effectively and provide a simple way to access previous pages. In the example below, clicking on **Nigeria** in the breadcrumb trail allows you to return to the dashboard overview page from any of the sub-pages."
 msgstr ""
+"პლატფორმის ფარგლებში, ყოველი გვერდის თავზე ნაჩვენებია სანავიგაციო ბილიკები. "
+"ისინი გეხმარებიან პლატფორმაზე უფრო ეფექტურად ნავიგაციაში და უზრუნველყოფენ "
+"წინა გვერდებზე წვდომის მარტივ გზას. ქვემოთ მოყვანილ მაგალითში, **ნიგერიაზე** "
+"დაწკაპუნება საშუალებას გაძლევთ დაბრუნდეთ საკონტროლო პანელის მიმოხილვის "
+"გვერდზე რომელიმე სხვა ქვე-გვერდიდან."
 
 #: docs/index.rst:170
 msgid "View a Project"
-msgstr ""
+msgstr "პროექტის დათვალიერება"
 
 #: docs/index.rst:172
 msgid "This chapter provides an introduction to real-time analytics available in the HeRAMS platform. For each project, a high-level overview on key indicators such as the number of health facilities assessed, overall functionality, and service availability is available. Interactive dashboards provide additional insights into individual projects and empower users to produce in-depth analyses for specific areas and indicators of interest."
 msgstr ""
+"ეს თავი წარმოადგენს HeRAMS პლატფორმაზე რეალურ დროში ანალიტიკის საკითხების "
+"შესავალს. თითოეული პროექტისთვის ხელმისაწვდომია ძირითადი ინდიკატორების "
+"სიღრმისეული მიმოხილვა, როგორიცაა შეფასებული სამედიცინო დაწესებულებების "
+"რაოდენობა, საერთო ფუნქციონირება და სერვისის ხელმისაწვდომობა. ინტერაქტიული "
+"საკონტროლო პანელები დამატებით ინფორმაციას იძლევა ცალკეულ პროექტებზე და "
+"მომხმარებლებს სიღრმისეული ანალიზის საშუალებას აძლევს, მათთვის საინტერესო "
+"კონკრეტული სფეროებისა და ინდიკატორების მიხედვით."
 
 #: docs/index.rst:176
 msgid "Project Overview"
-msgstr ""
+msgstr "პროექტის მიმოხილვა"
 
 #: docs/index.rst:178
 msgid "After logging in, you will see a world map with several blue dots. Each of these dots represents a HeRAMS project. You can also see the list of all available projects in the navigation pane on the left. In addition, a brief summary of the number of projects available in HeRAMS, the total number of contributors, and health facilities is shown in the bottom left corner."
 msgstr ""
+"სისტემაში შესვლის შემდეგ თქვენ დაინახავთ ლურჯ წერტილებს მსოფლიო რუკაზე. "
+"თითოეული ეს წერტილი წარმოადგენს HeRAMS-ის პროექტს. თქვენ ასევე შეგიძლიათ "
+"იხილოთ ყველა ხელმისაწვდომი პროექტის სია მარცხნივ მდებარე ნავიგაციის პანელში. "
+"გარდა ამისა, ქვედა მარცხენა კუთხეში ნაჩვენებია HeRAMS-ში ხელმისაწვდომი "
+"პროექტების მოკლე შეჯამება, კონტრიბუტორთა საერთო რაოდენობა და ჯანდაცვის "
+"დაწესებულებები."
 
 #: docs/index.rst:182
 msgid "To learn more about a project, either click the blue dot on the world map or select the project from the navigation pane on the left."
 msgstr ""
+"პროექტის შესახებ მეტი ინფორმაციის მისაღებად, დააწკაპუნეთ მსოფლიო რუკაზე "
+"არსებულ ლურჯ წერტილზე ან აირჩიეთ პროექტი მარცხნივ მდებარე ნავიგაციის "
+"პანელიდან."
 
 #: docs/index.rst:183
 msgid "You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up, you can see the project name, the number of health facilities assessed as well as the number of contributors. The lower half of the pop-up window displays a brief summary of the distribution of health facility types, their functionality, and service availability."
 msgstr ""
+"შემდეგ თქვენ დაინახავთ ფანჯარას, რომელიც გთავაზობთ არჩეული პროექტის "
+"მიმოხილვას. ამ ფანჯრის ზედა ნაწილში შეგიძლიათ იხილოთ პროექტის სახელწოდება, "
+"შეფასებული ჯანდაცვის დაწესებულებების რაოდენობა და კონტრიბუტორების რაოდენობა. "
+"ფანჯრის ქვედა ნახევარში ნაჩვენებია სამედიცინო დაწესებულებების ტიპების "
+"გადანაწილება, მათი ფუნქციონირებისა და სერვისების ხელმისაწვდომობის მოკლე "
+"მიმოხილვა."
 
 #: docs/index.rst:184
 msgid "For further details, click the |dashboard-button| button. This will open the project dashboard."
 msgstr ""
+"დამატებითი ინფორმაციისთვის დააჭირეთ ღილაკს |dashboard-button| . მოცემული "
+"ღილაკი გახსნის საკონტროლო პანელს."
 
 #: docs/index.rst:186
 msgid "Access to the project dashboards may be restricted to selected users. If you would like to be granted access to a project dashboard, please contact your country focal point or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like to access the dashboard."
 msgstr ""
+"პროექტის საკონტროლო პანელებზე წვდომა შეიძლება მხოლოდ გარკვეულ მომხმარებლებს "
+"ჰქონდეთ. თუ გსურთ მიიღოთ წვდომა პროექტის საკონტროლო პანელზე, გთხოვთ, "
+"დაუკავშირდეთ თქვენი ქვეყნის საკონტაქტო პირს, ან გამოაგზავნოთ ელ. ფოსტა "
+"მისამართზე `herams@who.int <mailto:herams@who.int?>`_ , სადაც უნდა მიუთითოთ "
+"თქვენი ფუნქცია და როლი, ასევე მოკლე განმარტება იმისა, თუ რატომ გსურთ წვდომა "
+"საკონტროლო პანელზე."
 
 #: docs/index.rst:195
 msgid "Project dashboard"
-msgstr ""
+msgstr "პროექტის საკონტროლო პანელი"
 
 #: docs/index.rst:196
 msgid "Each project in HeRAMS has a custom interactive dashboard providing an instant and in-depth analysis based on the available data."
 msgstr ""
+"HeRAMS-ის თითოეულ პროექტს აქვს მასზე მორგებული ინტერაქტიული საკონტროლო "
+"პანელი, რომელიც არსებულ მონაცემებზე დაყრდნობით მყისიერ და სიღრმისეულ ანალიზს "
+"უზრუნველყოფს."
 
 #: docs/index.rst:199
 msgid "To view a project dashboard, open the project summary by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map."
 msgstr ""
+"პროექტის საკონტროლო პანელის სანახავად, გახსენით პროექტის შეჯამება შესაბამისი "
+"პროექტის არჩევით მარცხნივ მდებარე ნავიგაციის პანელიდან. ასევე, შეგიძლიათ "
+"გახსნათ პროექტის შეჯამება მსოფლიო რუკაზე შესაბამის ლურჯ წერტილზე "
+"დაწკაპუნებით."
 
 #: docs/index.rst:200
 msgid "In the pop-up window, click the |dashboard-button| button. This will open the interactive dashboard."
 msgstr ""
+"ფანჯარაზე, რომელიც გაიხსნება, დააჭირეთ ღილაკს |dashboard-button| , რის "
+"შემდეგაც გაიხსნება ინტერაქტიული საკონტროლო პანელი."
 
 #: docs/index.rst:201
 msgid "You should now see a page similar to the one shown below. In the navigation pane on the left, you will find a list of all available pages."
 msgstr ""
+"ახლა თქვენ ხედავთ ქვემოთ ნაჩვენები გვერდის მსგავს გვერდს. მარცხნივ მდებარე "
+"ნავიგაციის პანელში თქვენ ნახავთ ყველა ხელმისაწვდომი გვერდების ჩამონათვალს."
 
 #: docs/index.rst:208
 msgid "To open a page, click the page name in the navigation pane."
-msgstr ""
+msgstr "გვერდის გასახსნელად, ნავიგაციის პანელში დააწკაპუნეთ გვერდის სახელზე."
 
 #: docs/index.rst:210
 msgid "Some pages may contain a sub-page, indicated by a |forward| icon next to the page's name."
 msgstr ""
+"ზოგი გვერდი შეიძლება შეიცავდეს ქვე-გვერდებს, რომლებიც მონიშნულია |forward| "
+"ხატულით გვერდის სახელის გასწვრივ."
 
 #: docs/index.rst:212
 msgid "If you hover with your mouse over a point on a map or a chart, a small pop-up message will appear, displaying additional details."
 msgstr ""
+"თუ მაუსით დადგებით რუკაზე ან დიაგრამაზე არსებულ წერტილზე, გამოჩნდება მოკლე "
+"შეტყობინება, რომელიც დამატებით დეტალებს აჩვენებს."
 
 #: docs/index.rst:215
 msgid "The animation below shows the dashboards in action."
 msgstr ""
+"ქვემოთ მოყვანილი ანიმაცია აჩვენებს, თუ როგორ მუშაობს საკონტროლო პანელები."
 
 #: docs/index.rst:224
 msgid "Customizing a dashboard"
