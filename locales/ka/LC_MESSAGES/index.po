@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-19 15:57+0000\n"
+"PO-Revision-Date: 2023-06-20 13:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -283,6 +283,9 @@ msgstr ""
 #: docs/index.rst:127
 msgid "HeRAMS will remember your language preferences next time you log in. If you would like to change them, you must return to this page and update your user profile."
 msgstr ""
+"HeRAMS დაიმახსოვრებს თქვენი ენის არჩევანს შემდეგ ჯერზე, როდესაც სისტემაში "
+"შეხვალთ. თუ გსურთ ენის შეცვლა, უნდა დაბრუნდეთ ამ გვერდზე და განაახლოთ თქვენი "
+"მომხმარებლის პროფილი."
 
 #: docs/index.rst:137
 msgid "Change Email Address"
