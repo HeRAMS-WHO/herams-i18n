@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-21 14:57+0000\n"
+"PO-Revision-Date: 2023-06-21 16:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -1053,15 +1053,19 @@ msgid "Editing a response will overwrite the existing response. If you would lik
 msgstr ""
 "Პასუხის რედაქტირების შემთხვავაში ახალი პასუხის გადაწერა მოხდება არსებულ "
 "პასუხზე. თუ გსურთ განაახლოთ ჯანდაცვის დაწესებულებების სტატუსი და იმავდროულად "
-"შეინახოთ ცვლილებების ისტორია, გადადით ახალი პასუხის დამატებაზე."
+"შეინახოთ ცვლილებების ისტორია, გადადით შემდეგზე `ახალი პასუხის დამატება>`_."
 
 #: docs/index.rst:478
 msgid "Access your workspace as outlined `above <#access-your-workspace>`__."
 msgstr ""
+"შედით თქვენს სამუშაო სივრცეში როგორც აღწერილია `ზემოთ <#access-your-"
+"workspace>`__."
 
 #: docs/index.rst:480
 msgid "For multilingual HeRAMS projects, a drop-down list on top of the table permits altering the display language of the table and the questionnaire (1)."
 msgstr ""
+"მრავალენოვანი HeRAMS პროექტებისთვის, ჩამოსაშლელი სია ცხრილის თავზე იძლევა "
+"ცხრილისა და კითხვარის (1) ენის შეცვლის შესაძლებლობას."
 
 #: docs/index.rst:482
 msgid "The total number of health facilities within a workspace is shown at the bottom of the page (2). To advance to the next page, use the bottom in the bottom right corner (3). The number of health facilities displayed on a page can be adjusted using the drop-down list in the top right corner (4). Similar to the table of workspaces, clicking the column headers will sort the health facilities accordingly (5). Finally, filters can be applied in the top row above the header to limit the number of health facilities displayed (6)."
