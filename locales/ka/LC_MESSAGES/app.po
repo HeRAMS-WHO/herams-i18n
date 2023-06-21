@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-21 09:57+0000\n"
-"Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
+"PO-Revision-Date: 2023-06-21 14:57+0000\n"
+"Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ka/>\n"
 "Language: ka\n"
@@ -594,8 +594,8 @@ msgstr "გლობალური ნებართვები"
 msgctxt "app"
 msgid "Global permissions granted to: <strong>{users}</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
-"გლობალური ნებართვები დაკმაყოფილებილია:  <strong>{users}</strong>  და "
-"მოწვეული მომხმარებლებისთვის: <strong>{invitedUsers}</strong>"
+"გლობალური ნებართვები დაკმაყოფილებილია: <strong>{users}</strong> და მოწვეული "
+"მომხმარებლებისთვის: <strong>{invitedUsers}</strong>"
 
 msgctxt "app"
 msgid "Go to workspaces"
@@ -714,10 +714,9 @@ msgctxt "app"
 msgid "Lack of medical supplies"
 msgstr "სამედიცინო მარაგების ნაკლებობა"
 
-#, fuzzy
 msgctxt "app"
 msgid "Lack of training of health staff"
-msgstr "ჯანდაცვის პერსონალის მომზადების ნაკლებობა"
+msgstr "სამედიცინო პერსონალის მომზადების ნაკლებობა"
 
 msgctxt "app"
 msgid "Language"
@@ -739,7 +738,6 @@ msgctxt "app"
 msgid "Latitude"
 msgstr "განედი"
 
-#, fuzzy
 msgctxt "app"
 msgid "Lead"
 msgstr "მართვა"
@@ -764,7 +762,6 @@ msgctxt "app"
 msgid "Longitude"
 msgstr "გრძედი"
 
-#, fuzzy
 msgctxt "app"
 msgid "Manage data implies creating facilities"
 msgstr "მონაცემთა მართვა გულისხმობს დაწესებულებების შექმნას"
@@ -883,7 +880,6 @@ msgctxt "app"
 msgid "Other"
 msgstr "სხვა"
 
-#, fuzzy
 msgctxt "app"
 msgid "Other, explain in request"
 msgstr "სხვა, განმარტეთ მოთხოვნის ველში"
@@ -904,7 +900,6 @@ msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
 msgstr "გვერდი <strong>{page}</strong> განახლებულია"
 
-#, fuzzy
 msgctxt "app"
 msgid "Page elements"
 msgstr "გვერდის ელემენტები"
@@ -983,7 +978,6 @@ msgctxt "app"
 msgid "Project"
 msgstr "პროექტი"
 
-#, fuzzy
 msgctxt "app"
 msgid "Project <strong>{modelName}</strong> has been shared with: <strong>{users}</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
@@ -1028,7 +1022,6 @@ msgstr ""
 "კითხვის კოდი შეიცავს სახელს (ასხვავებს ტექსტში გამოყენებულ დიდ და პატარა "
 "ასოებს)"
 
-#, fuzzy
 msgctxt "app"
 msgid "Question code containing the type (case sensitive)"
 msgstr ""
@@ -1266,12 +1259,11 @@ msgctxt "app"
 msgid "The page you are looking for doesn't exist"
 msgstr "გვერდი, რომელსაც ეძებთ, არ არსებობს"
 
-#, fuzzy
 msgctxt "app"
 msgid "The token field that is used as the workspace name, empty token attributes are ignored"
 msgstr ""
-"სიმბოლოს ველი, რომელიც გამოყენებულია სამუშაო სივრცის სახელში; სიმბოლოს "
-"ცარიელი მახასიათებლები უგულებელყოფილია"
+"ცარილი ველი, რომელიც სამუშაო სივრცის სახელისთვისა განკუთვნილი, "
+"უგულებელყოფილია"
 
 msgctxt "app"
 msgid "There are open access requests that you can respond to."
@@ -1610,7 +1602,6 @@ msgctxt "app"
 msgid "pages"
 msgstr "გვერდები"
 
-#, fuzzy
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr "{0, date, MMMM dd, YYYY HH:mm}"
