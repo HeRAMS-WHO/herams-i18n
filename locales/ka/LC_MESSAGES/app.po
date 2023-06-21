@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-06-21 08:35+0000\n"
-"Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
+"Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ka/>\n"
 "Language: ka\n"
@@ -888,10 +888,9 @@ msgctxt "app"
 msgid "Other, explain in request"
 msgstr "სხვა, განმარტეთ მოთხოვნის ველში"
 
-#, fuzzy
 msgctxt "app"
 msgid "Overrides"
-msgstr "უარყოფა"
+msgstr "უგულებელყოფს"
 
 msgctxt "app"
 msgid "Page"
@@ -934,10 +933,9 @@ msgctxt "app"
 msgid "Password changed"
 msgstr "პაროლი შეცვლილია"
 
-#, fuzzy
 msgctxt "app"
 msgid "Password hash"
-msgstr "პაროლი გარდაქმნილია"
+msgstr "პაროლის გარდაქმნა"
 
 msgctxt "app"
 msgid "Password update failed"
@@ -1024,11 +1022,11 @@ msgctxt "app"
 msgid "Public, anyone can view this project"
 msgstr "საჯარო, პროექტი ყველასთვის ხილულია"
 
-#, fuzzy
 msgctxt "app"
 msgid "Question code containing the name (case sensitive)"
 msgstr ""
-"კითხვის კოდი შეიცავს სახელს (მგრძნობიარეა დიდი და პატარა სიმბოლოების მიმართ)"
+"კითხვის კოდი შეიცავს სახელს (ასხვავებს ტექსტში გამოყენებულ დიდ და პატარა "
+"ასოებს)"
 
 #, fuzzy
 msgctxt "app"
