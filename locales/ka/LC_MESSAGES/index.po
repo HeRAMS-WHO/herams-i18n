@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-21 21:57+0000\n"
+"PO-Revision-Date: 2023-06-21 23:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -1428,19 +1428,26 @@ msgstr ""
 
 #: docs/index.rst:608
 msgid "Download the Entire Data Set"
-msgstr ""
+msgstr "მონაცემთა მთლიანი წყების ჩამოტვირთვა"
 
 #: docs/index.rst:609
 msgid "Project administrators or users with special permissions can export the entire project data from the admin interface."
 msgstr ""
+"პროექტის ადმინისტრატორებს ან მომხმარებლებს, რომლებსაც სპეციალური ნებართვები "
+"აქვთ, შეუძლიათ პროექტის მთელი მონაცემების ექსპორტი ადმინისტრატორის "
+"ინტერფეისიდან."
 
 #: docs/index.rst:611
 msgid "Access to project level data is limited to selected users only. Contact your country administrator for further information."
 msgstr ""
+"პროექტის სრულ მონაცემებზე წვდომა მხოლოდ კონკრეტულ მომხმარებლებს შეუძლიათ. "
+"დამატებითი ინფორმაციისთვის დაუკავშირდით თქვენი ქვეყნის ადმინისტრატორს."
 
 #: docs/index.rst:613
 msgid "Open your project's admin pages (see `Access your workspace`_ steps 1-2 for details)."
 msgstr ""
+"გახსენით თქვენი პროექტის ადმინისტრატორის გვერდები (დეტალებისთვის იხილეთ `"
+"თქვენს სამუშაო სივრცეში შესვლა`_ ეტაპი 1-2)."
 
 #: docs/index.rst:620
 msgid "By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report** date can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4)."
