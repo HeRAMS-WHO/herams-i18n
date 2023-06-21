@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-20 20:57+0000\n"
+"PO-Revision-Date: 2023-06-21 09:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -57,7 +57,7 @@ msgstr ""
 "<https://herams.org/>`_. ის მოიცავს როგორც პლატფორმაზე `რეგისტრაციასთან "
 "<#creating-a-user-account>`_ და `წვდომასთან <#logging-in>`_ ასევე თქვენი `"
 "მომხმარებლის პროფილის <#update-your-user-profile>`__მართვასთან დაკავშირებულ "
-"საკითხებს. პლატფორმაზე დამოუკიდებლად და ეფექტურად ნავიგაციაში დაგეხმარებათ, "
+"საკითხებს. პლატფორმაზე დამოუკიდებლად და ეფექტურად ნავიგაციაში დაგეხმარებათ "
 "ამ თავის ბოლო ნაწილში\n"
 "მოცემული ინფორმაცია `განმეორებადი ხატულებისა <#icons-and-their-meaning>`_ და "
 "`სანავიგაციო ჯაჭვის`_ შესახებ."
@@ -502,103 +502,143 @@ msgstr ""
 
 #: docs/index.rst:224
 msgid "Customizing a dashboard"
-msgstr ""
+msgstr "საკონტროლო პანელის კონფიგურაცია"
 
 #: docs/index.rst:225
 msgid "This section provides a few tips and tricks on how to customize the dashboard by applying filters and alter some of the default display options."
 msgstr ""
+"ეს ნაწილი გთავაზობთ რამდენიმე რჩევას იმის შესახებ, თუ როგორ დააკონფიგურიროთ "
+"საკონტროლო პანელი ფილტრების გამოყენებით და შეცვალოთ გამოსახულების "
+"სტანდარტული ვარიანტი."
 
 #: docs/index.rst:228
 msgid "Apply filters"
-msgstr ""
+msgstr "ფილტრების გამოყენება"
 
 #: docs/index.rst:230
 msgid "Data on the dashboard can be filtered. This allows you to scrutinize the data subsets that are of interest to you."
 msgstr ""
+"საკონტროლო პანელზე არსებული მონაცემები შეიძლება გაიფილტროს. ეს საშუალებას "
+"გაძლევთ გაეცნოთ თქვენთვის საინტერესო მონაცემების ქვეჯგუფებს"
 
 #: docs/index.rst:232
 msgid "Filtering is not persistent and only visible during your current session."
 msgstr ""
+"ფილტრაციის ფუნქცია არ მოქმედებს მუდმივად და იგი მხოლოდ მიმდინარე მუშაობის "
+"პროცესში ხდება ხილვადი."
 
 #: docs/index.rst:234
 msgid "In the top right corner of the dashboard, click the |filter| button."
-msgstr ""
+msgstr "დააჭირეთ პანელის ზედა მარჯვენა კუთხეში მდებარე |filter| ღილაკს ."
 
 #: docs/index.rst:235
 msgid "You should now see the filtering setting page. Use the drop-down list to select your filter criteria. Repeat this process until you have added all the desired filter criteria."
 msgstr ""
+"ახლა თქვენ ხედავთ ფილტრაციის პარამეტრების გვერდს. გამოიყენეთ ჩამოსაშლელი სია "
+"თქვენი ფილტრის კრიტერიუმების შესარჩევად. გაიმეორეთ ეს პროცესი, სანამ არ "
+"დაამატებთ ყველა სასურველი ფილტრის კრიტერიუმს."
 
 #: docs/index.rst:237
 msgid "If you apply multiple search criteria, only results that contain all terms will be shown."
 msgstr ""
+"თუ გამოიყენებთ ძიების მრავალ კრიტერიუმს, ნაჩვენები იქნება მხოლოდ ის "
+"შედეგები, რომლებიც აკმაყოფილების ძიების ყველა არჩეულ პირობას."
 
 #: docs/index.rst:239
 msgid "You can limit the number of fields displayed using the search field on the top of the page."
 msgstr ""
+"შეგიძლიათ შეზღუდოთ ნაჩვენები ველების რაოდენობა გვერდის ზედა ნაწილში მდებარე "
+"საძიებო ველის გამოყენებით."
 
 #: docs/index.rst:241
 msgid "Click the |applyfilter| button to activate your filter."
-msgstr ""
+msgstr "დააწკაპუნეთ ღილაკზე |applyfilter| თქვენი ფილტრის აქტივაციისთვის."
 
 #: docs/index.rst:242
 msgid "To remove the filters, return to the **Filter** pages and click the |clearfilter| button."
 msgstr ""
+"ფილტრების მოსახსნელად, დაუბრუნდით **ფილტრების** გვერდებს და დააწკაპუნეთ "
+"ღილაკს |clearfilter|."
 
 #: docs/index.rst:250
 msgid "Map Zoom Level and Focus Area"
-msgstr ""
+msgstr "რუკის მიახლოების მასშტაბი და ფოკუსის არეალი"
 
 #: docs/index.rst:252
 msgid "You can adjust the zoom level of a map by using the scroll button on your mouse. To change the focus area of a map, position your mouse in the map element. Click the map (hold) and drag the map in the desired direction. This will move the map focus area."
 msgstr ""
+"თქვენ შეგიძლიათ დაარეგულიროთ რუკის მასშტაბისა და მიახლოების დონე თქვენს "
+"მაუსზე არსებული სქროლის (ტექსტის ან გამოსახულების გადაადგილების) ღილაკის "
+"გამოყენებით. რუკის ფოკუსის არეალის შესაცვლელად, დადექით მაუსით რუკის "
+"ელემენტზე. დააწკაპუნეთ რუკაზე და გადაადგილეთ რუკა სასურველი მიმართულებით. ეს "
+"გადააადგილებს რუკის ფოკუსის არეალსაც."
 
 #: docs/index.rst:255
 msgid "Remove a Category from Charts or Maps"
-msgstr ""
+msgstr "წაშალეთ კატეგორია დიაგრამებიდან ან რუკებიდან"
 
 #: docs/index.rst:257
 msgid "By clicking the icons in the legend, you can remove a category from a chart or map. To add it again, simply click the circle again."
 msgstr ""
+"ლეგენდის ხატულებზე დაწკაპუნებით, შეგიძლიათ წაშალოთ კატეგორია დიაგრამიდან ან "
+"რუკიდან. კატეგორიის ხელახლა დასამატებლად, უბრალოდ კვლავ დააწკაპუნეთ მასზე."
 
 #: docs/index.rst:260
 msgid "Reorder map layers"
-msgstr ""
+msgstr "რუკის ფენების გადალაგება"
 
 #: docs/index.rst:262
+#, fuzzy
 msgid "Depending on the zoom level applied to a map, it may happen that several points lie on top of each other, hiding some facilities. To bring a specific category to the front, uncheck the category in the legend. This will remove the category from the map. If you add the category again (click the now empty circle), the category will be added on top of the other points."
 msgstr ""
+"რუკაზე გამოყენებული ზუმის დონის მიხედვით, შეიძლება რუკის რამდენიმე წერტილი "
+"ერთმანეთს ფარავს, რის შედეგადაც გარკვეული ობიექტები შეიძლება არ ჩანდეს. "
+"კონკრეტული კატეგორიის წინა პლანზე გამოსატანად, მოხსენით შესაბამისი "
+"კატეგორიის მონიშვნა ლეგენდაში. ეს წაშლის კატეგორიას რუკიდან. თუ კვლავ "
+"დაამატებთ კატეგორიას (დააწკაპუნეთ არსებულ ცარიელ წრეზე), კატეგორია დაემატება "
+"სხვა ობიექტებს."
 
 #: docs/index.rst:270
 msgid "Exporting a dashboard"
-msgstr ""
+msgstr "საკონტროლო პანელის ექსპორტირება"
 
 #: docs/index.rst:271
 msgid "Dashboards can be printed or exported as PDF documents."
 msgstr ""
+"საკონტროლო პანელები შეიძლება დაიბეჭდოს ან ექსპორტირებული იყოს PDF "
+"დოკუმენტების სახით."
 
 #: docs/index.rst:273
+#, fuzzy
 msgid "The export will include any applied filters."
-msgstr ""
+msgstr "ექსპორტირებულ მონაცემებში ასახული იქნება ნებისმიერ გამოყენებული ფილტრი."
 
 #: docs/index.rst:275
 msgid "To export a dashboard, open the desired dashboard as explained `here <#view-a-project-dashboard>`__."
 msgstr ""
+"საკონტროლო პანელის ექსპორტირებისთვის, გახსენით სასურველი პანელი, როგორც ეს "
+"განმარტებულია `აქ <#view-a-project-dashboard>`__."
 
 #: docs/index.rst:276
 msgid "Click the |pdf| icon in the top right corner of your screen."
-msgstr ""
+msgstr "დააჭირეთ |pdf| ხატულას თქვენი ეკრანის ზედა მარჯვენა კუთხეში."
 
 #: docs/index.rst:282
 msgid "This will open a new tab containing a printable version of the dashboard. Click *CTRL* + *P* to print the dashboard or save it as a pdf."
 msgstr ""
+"ეს გახსნის ახალ ჩანართს, რომელიც შეიცავს საკონტროლო პანელის დასაბეჭდ "
+"ვერსიას. დააწკაპუნეთ *CTRL* + *P* პანელის დასაბეჭდად ან pdf-ად შესანახად."
 
 #: docs/index.rst:285
 msgid "Default dashboard pages"
-msgstr ""
+msgstr "საკონტროლო პანელის სტანდარული გვერდები"
 
 #: docs/index.rst:287
 msgid "The below section provides an overview of the standard pages available in a dashboard. Each page refers to a HeRAMS standard information pillar."
 msgstr ""
+"ქვემოთ მოყვანილ ნაწილში შემოთავაზებულია სტანდარტული გვერდების მიმოხილვა, "
+"რომლებიც ხელმისაწვდომია საკონტროლო პანელზე. თითოეული გვერდი ეხება HeRAMS-ის "
+"სტანდარტულ საინფორმაციო სვეტს."
 
 #: docs/index.rst:289
 msgid "The order and the content of dashboards are customized individually based on each project's need. Your dashboard might, therefore, be substantially different from the example pages displayed below."
