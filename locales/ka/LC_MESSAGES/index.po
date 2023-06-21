@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-21 16:57+0000\n"
+"PO-Revision-Date: 2023-06-21 21:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -1070,205 +1070,361 @@ msgstr ""
 #: docs/index.rst:482
 msgid "The total number of health facilities within a workspace is shown at the bottom of the page (2). To advance to the next page, use the bottom in the bottom right corner (3). The number of health facilities displayed on a page can be adjusted using the drop-down list in the top right corner (4). Similar to the table of workspaces, clicking the column headers will sort the health facilities accordingly (5). Finally, filters can be applied in the top row above the header to limit the number of health facilities displayed (6)."
 msgstr ""
+"სამედიცინო დაწესებულებების საერთო რაოდენობა სამუშაო სივრცეში ნაჩვენებია "
+"გვერდის ბოლოში (2). შემდეგ გვერდზე გადასასვლელად გამოიყენეთ გვერდის ქვედა "
+"მარჯვენა ქვედა კუთხეში ნაჩვენები ღილაკი (3). ერთ გვერდზე მდებარე სამედიცინო "
+"დაწესებულებების რაოდენობა შეიძლება დარეგულირდეს ზედა მარჯვენა კუთხეში "
+"მდებარე ჩამოსაშლელი სიის გამოყენებით (4). სამუშაო სივრცეების ცხრილის "
+"მსგავსად, სვეტის სათაურებზე დაწკაპუნებით სამედიცინო დაწესებულებები "
+"შესაბამისად დალაგდება (5). და ბოლოს, ფილტრები შეიძლება გამოყენებულ იქნას "
+"ზედა მწკრივში, სათაურის ზემოთ, რათა შეიზღუდოს ნაჩვენები სამედიცინო "
+"დაწესებულებების რაოდენობა (6)."
 
 #: docs/index.rst:484
 msgid "For ease of navigation, responses are grouped by health facility. To view individual responses of a health facility, click anywhere in the corresponding row. This will expand the list of existing responses associated with the selected health facility."
 msgstr ""
+"ნავიგაციის გამარტივებისთვის, ჩანაწერები დაჯგუფებულია სამედიცინო "
+"დაწესებულების მიხედვით. სამედიცინო დაწესებულების ინდივიდუალური ჩანაწერების "
+"სანახავად დააწკაპუნეთ შესაბამის მწკრივში ნებისმიერ ადგილას. ეს გააფართოვებს "
+"არსებული ჩანაწერების ჩამონათვალს, რომლებიც დაკავშირებულია არჩეულ სამედიცინო "
+"დაწესებულებასთან."
 
 #: docs/index.rst:492
 msgid "You should now see a list of all responses belonging to the selected health facility. The total number of responses is indicated in the left-most column (1). The|new| label indicates a newly added response. The label automatically disappears after 48h (2)."
 msgstr ""
+"ახლა თქვენ შეგიძლიათ ნახოთ ყველა ჩანაწერის სია, რომელიც ეკუთვნის არჩეულ "
+"სამედიცინო დაწესებულებას. ჩანაწერების საერთო რაოდენობა მითითებულია მარცხნივ "
+"მდებარე ბოლო სვეტში (1). მონიშვნა |new| მიუთითებს ახლად დამატებულ ჩანაწერზე. "
+"ეს მონიშვნა ავტომატურად ქრება 48 საათის შემდეგ (2)."
 
 #: docs/index.rst:494
 msgid "In the left-most column of the list of responses, you should see three buttons allowing you to perform the following actions."
 msgstr ""
+"ჩანაწერების სიის ყველაზე უკიდურეს მარცხენა სვეტში იხილავთ სამი მოქმედების "
+"ღილაკს, რომლებიც საშუალებას გაძლევთ შეასრულოთ შემდეგი."
 
 #: docs/index.rst:496
 msgid "|view| **View**: Click this button to view the full response"
-msgstr ""
+msgstr "|view| **ნახვა**: დააჭირეთ ღილაკს ჩანაწერების სრულად სანახავად"
 
 #: docs/index.rst:497
 msgid "|pencil| **Edit**: This allows you to modify an existing response. This will permanently overwrite the existing information and cannot be undone."
 msgstr ""
+"|pencil| **რედაქტირება**: ეს ღილაკი საშუალებას გაძლევთ შეცვალოთ არსებული "
+"ჩანაწერი. ამ შემთხვევაში ახალი ჩანაწერი სამუდამოდ გადეწერება არსებულ "
+"ინფორმაციას და მისი აღდგენა შეუძლებელი იქნება."
 
 #: docs/index.rst:498
 msgid "|delete| **Delete**: Permanently deletes a response from a health facility. See `remove a response from health facility`_ for more information."
 msgstr ""
+"|delete| **წაშლა**: სამედიცინო დაწესებულების ჩანაწერის სამუდამო წაშლა. "
+"დამატებითი ინფორმაციისთვის იხილეთ `სამედიცინო დაწესებულების ჩანაწერის "
+"წაშლა`_."
 
 #: docs/index.rst:505
 msgid "The number of action buttons visible depends on your project's settings."
 msgstr ""
+"მოქმედების ღილაკების რაოდენობა, რომელსაც თქვენ ხედავთ, დამოკიდებულია თქვენი "
+"პროექტის პარამეტრებზე."
 
 #: docs/index.rst:507
 msgid "To modify a record click the |pencil| icon in the *Actions* columns. You should now be able to edit the selected response. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or to return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
 msgstr ""
+"ჩანაწერის შესაცვლელად, დააჭირეთ |pencil| ხატულას, რომელიც მდებარეობს "
+"*მოქმედებების* სვეტში. ახლა თქვენ უკვე შეგეძლოთ არჩეული ჩანაწერის "
+"რედაქტირება. გამოიყენეთ ქვედა მარჯვენა კუთხეში მდებარე ღილაკები, და "
+"კითხვარის შემდეგ გვერდზე გადასასვლელად დააჭირეთ ღილაკს |next|, ხოლო წინა "
+"გვერდზე დასაბრუნებლად დააჭირეთ ღილაკს |previous|. თქვენ ასევე შეგიძლიათ "
+"გამოიყენოთ გვერდის მარცხენა მხარეს მდებარე ნავიგაციის პანელი კითხვარის "
+"კონკრეტულ სექციაზე წვდომისთვის."
 
 #: docs/index.rst:508
 #: docs/index.rst:539
 #: docs/index.rst:557
 msgid "Make sure to validate and save your changes before exiting the record. To save your changes, navigate to the last page, **Validate**, and click the |submit| button."
 msgstr ""
+"დარწმუნდით, რომ შეამოწმეთ და შეინახეთ თქვენი ცვლილებები ჩანაწერებიდან "
+"გასვლამდე. ცვლილებების შესანახად გადადით ბოლო გვერდზე, **დაადასტურეთ**, და "
+"დააჭირეთ |submit| ღილაკს."
 
 #: docs/index.rst:509
 #: docs/index.rst:540
 #: docs/index.rst:558
 msgid "If you would like to discard your edits, click the |clear| button in the lower right corner of the page."
 msgstr ""
+"თუ გსურთ თქვენი დარედაქტირებული ტექსტების წაშლა, დააჭირეთ ღილაკს |clear| , "
+"რომელიც გვერდის მარჯვენა ქვედა კუთხეში მდებარეობს."
 
 #: docs/index.rst:511
 msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and in the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page (*Validate*) and click the |submit| button."
 msgstr ""
+"მიუხედავად იმისა, რომ თქვენმა პროექტმა შეიძლება მოგცეთ თქვენი ჩანაწერის "
+"შენახვის და მოგვიანებით გაგრძელების საშუალება, მხოლოდ წარდგენილი ჩანაწერები "
+"გამოჩნდება საკონტროლო პანელზე და ექსპორტში. ამრიგად, რედაქტირების დასრულების "
+"შემდეგ, დარწმუნდით, რომ **ყოველთვის** გადადიხართ ბოლო გვერდზე (*დადასტურება*)"
+" და აჭერთ |submit| ღილაკს."
 
 #: docs/index.rst:513
 msgid "The video below summarizes the steps to access your workspace and edit a health facility response."
 msgstr ""
+"ქვემოთ მოცემულ ვიდეოში ნაჩვენებია თქვენს სამუშაო სივრცეზე წვდომისა და "
+"სამედიცინო დაწესებულების ჩანაწერების რედაქტირების ნაბიჯები."
 
 #: docs/index.rst:523
 msgid "Add a New Response"
-msgstr ""
+msgstr "ახალი ჩანაწერის დამატება"
 
 #: docs/index.rst:525
 msgid "If HeRAMS is used as a monitoring tool, you can record changes to a health facility by adding a new response. This will add a new response to your health facility while keeping the history of your updates."
 msgstr ""
+"თუ HeRAMS გამოიყენება როგორც მონიტორინგის ინსტრუმენტი, ახალი ჩანაწერის "
+"დამატებით შეგიძლიათ ასახოთ სამედიცინო დაწესებულებასთან დაკავშირებული "
+"ცვლილებები. ამ შემთხვევაში თქვენს სამედიცინო დაწესებულებას დაემატება ახალი "
+"ჩანაწერი და თქვენი განახლებების ისტორია შეინახება."
 
 #: docs/index.rst:527
 msgid "This feature is not enabled in all projects. Contact your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ for further information."
 msgstr ""
+"ეს ფუნქცია არ არის ჩართული ყველა პროექტში. დამატებითი ინფორმაციისთვის "
+"დაუკავშირდით თქვენი *პროექტის ადმინისტრატორს* ან გაუგზავნეთ წერილი ელ. "
+"ფოსტაზე `herams@who.int <mailto:herams@who.int?>`_ ."
 
 #: docs/index.rst:529
 msgid "To add a new response, access your workspace (see `Access your workspace`_ for details)."
 msgstr ""
+"ახალი ჩანაწერის დასამატებლად, შედით თქვენს სამუშაო სივრცეში (დეტალური "
+"ინფორმაციისთვის იხილეთ `სამუშაო სივრცეზე წვდომა`_)."
 
 #: docs/index.rst:530
 #: docs/index.rst:551
 msgid "Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details)."
 msgstr ""
+"გააფართოვეთ ხელმისაწვდომი ჩანაწერების სია შესაბამისი მწკრივის ნებისმიერ "
+"ადგილას დაწკაპუნებით (დეტალური ინფორმაციისთვის იხილეთ თქვენი `ჩანაწერის "
+"დარედაქტირება`_ )."
 
 #: docs/index.rst:531
 msgid "To add a new response, click the |add-response| button above the most recent response (see below)."
 msgstr ""
+"ახალი ჩანაწერის დასამატებლად დააჭირეთ |add-response| ღილაკს, რომელიც ყველაზე "
+"ბოლოს გაკეთებული ჩანაწერის ზემოთ მდებარეობს (იხილეთ ქვემოთ)."
 
 #: docs/index.rst:538
 msgid "You should now be able to edit the selected record. Use the buttons in the lower right corner to move to the |next| page of the questionnaire or return to the |previous| page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
 msgstr ""
+"ახლა თქვენ უკვე შეგიძლიათ არჩეული ჩანაწერის რედაქტირება. გამოიყენეთ ქვედა "
+"მარჯვენა კუთხეში მდებარე ღილაკი |next| კითხვარის შემდეგ გვერდზე "
+"გადასასვლელად , ან ღილაკი |previous| წინა გვერდზე დასაბრუნებლად. თქვენ ასევე "
+"შეგიძლიათ გამოიყენოთ მარცხნივ მდებარე ნავიგაციის პანელი კითხვარის კონკრეტულ "
+"სექციაზე წვდომისთვის."
 
 #: docs/index.rst:542
 msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, (*Validate*) and click the |submit| button."
 msgstr ""
+"მიუხედავად იმისა, რომ თქვენმა პროექტმა შეიძლება მოგცეთ თქვენი ჩანაწერის "
+"შენახვისა და მოგვიანებით გაგრძელების საშუალება, მხოლოდ წარდგენილი ჩანაწერები "
+"გამოჩნდება საკონტროლო პანელზე და ექსპორტში. ამრიგად, რედაქტირების დასრულების "
+"შემდეგ, დარწმუნდით, რომ **ყოველთვის** გადადიხართ ბოლო გვერდზე (*დადასტურება*)"
+" და აჭერთ |submit| ღილაკს."
 
 #: docs/index.rst:544
 msgid "Upon adding a new response, the previous responses will be locked for editing. This is to prevent users from accidentally overwriting previous responses and thereby losing the history of change."
 msgstr ""
+"ახალი ჩანაწერის დამატების შემდეგ, წინა ჩანაწერები დაიბლოკება "
+"რედაქტირებისთვის. ეს ფუნქცია იმისთვის არსებობს, რომ მომხმარებლებმა "
+"შემთხვევით არ გადააწერონ წინა ჩანაწერებს და შედეგად, დაკარგონ ცვლილებების "
+"ისტორია."
 
 #: docs/index.rst:548
 msgid "Register a New Health Facility"
-msgstr ""
+msgstr "ახალი სამედიცინო დაწესებულების დარეგისტრირება"
 
 #: docs/index.rst:550
 msgid "To register a new health facility, access your workspace (see `Access your workspace`_ for details)."
 msgstr ""
+"ახალი სამედიცინო დაწესებულების დასარეგისტრირებლად შედით თქვენს სამუშაო "
+"სივრცეში (დეტალებისთვის იხილეთ `თქვენს სამუშაო სივრცეში შესვლა`_ )."
 
 #: docs/index.rst:552
 msgid "Click the |new-record| button in the top right corner. This will open a blank form, allowing you to register a new health facility."
 msgstr ""
+"დააწკაპუნეთ |new-record| ღილაკზე, რომელიც ზედა მარჯვენა კუთხეში მდებარეობს. "
+"ეს ღილაკი გახსნის ცარიელ ფორმას, რომელიც საშუალებას მოგცემთ დაარეგისტრიროთ "
+"ახალი სამედიცინო დაწესებულება."
 
 #: docs/index.rst:554
 msgid "The ability to add a new health facility may have been restricted by your project admin. If the button is not visible to you, contact your *project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
+"ახალი სამედიცინო დაწესებულების დამატების შესაძლებლობა შეიძლება შეიზღუდოს "
+"თქვენი პროექტის ადმინისტრატორის მიერ. თუ თქვენ ვერ ხედავთ ამ ღილაკს, "
+"დაუკავშირდით თქვენი *პროექტის ადმინისტრატორს* ან გაგზავნეთ წერილი ელ.ფოსტაზე "
+"`herams@who.int <mailto:herams@who.int?>`_ , სადაც მიუთითებთ თქვენს "
+"ფუნქციასა და როლს, და ასევე მოკლე განმარტებას, თუ რატომ გსურთ თქვენი წვდომის "
+"ნებართვების გადასინჯვა."
 
 #: docs/index.rst:556
 msgid "Use the |next| buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire."
 msgstr ""
+"გამოიყენეთ ქვედა მარჯვენა კუთხეში მდებარე |next| ღილაკი კითხვარის შემდეგ "
+"გვერდზე გადასასვლელად, ან წინა გვერდზე დასაბრუნებლად. თქვენ ასევე შეგიძლიათ "
+"გამოიყენოთ მარცხნივ მდებარე ნავიგაციის პანელი კითხვარის კონკრეტულ სექციაზე "
+"გადასასვლელად."
 
 #: docs/index.rst:560
 msgid "While your project may allow you to save your response and resume later, only records that were submitted will appear on the dashboard and the export. Thus, once you have completed your edits, make sure to **always** navigate to the last page, **Validate**, and click the |submit| button."
 msgstr ""
+"მიუხედავად იმისა, რომ თქვენმა პროექტმა შეიძლება მოგცეთ თქვენი ჩანაწერის "
+"შენახვისა და მოგვიანებით გაგრძელების საშუალება, მხოლოდ წარდგენილი ჩანაწერები "
+"გამოჩნდება საკონტროლო პანელზე და ექსპორტში. ამრიგად, რედაქტირების დასრულების "
+"შემდეგ, დარწმუნდით, რომ **ყოველთვის** გადადიხართ ბოლო გვერდზე "
+"(**დადასტურება**) და აჭერთ |submit| ღილაკს."
 
 #: docs/index.rst:563
 msgid "Remove a Response from Health Facility"
-msgstr ""
+msgstr "სამედიცინო დაწესებულებასთან დაკავშირებული ჩანაწერის წაშლა"
 
 #: docs/index.rst:565
 msgid "To delete a response from a health facility, access your workspace (see `Access your workspace`_ for details)."
 msgstr ""
+"სამედიცინო დაწესებულებასთან დაკავშირებული ჩანაწერის წასაშლელად, შედით თქვენს "
+"სამუშაო სივრცეში (იხილეთ `თქვენს სამუშაო სივრცეში შესვლა`_ დეტალებისთვის)."
 
 #: docs/index.rst:566
 msgid "2. Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details). 2. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column 3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted."
 msgstr ""
+"გააფართოვეთ ხელმისაწვდომი ჩანაწერების სია შესაბამისი მწკრივის ნებისმიერ "
+"ადგილას დაწკაპუნებით (დეტალებისთვის იხილეთ `ჩანაწერის რედაქტირება`_ ). ახლა "
+"თქვენ ხედავთ არჩეულ დაწესებულებასთან დაკავშირებული ჩანაწერების ისტორიას. "
+"კონკრეტული ჩანაწერის წასაშლელად, დააწკაპუნეთ პირველ სვეტში მდებარე |delete| "
+"ხატულაზე. თუ გსურთ სამედიცინო დაწესებულების მთლიანად წაშლა, გაიმეორეთ "
+"ზემოაღნიშნული ნაბიჯი, სანამ ყველა ჩანაწერი არ წაიშლება."
 
 #: docs/index.rst:570
 msgid "It is only possible to delete the most recent response. Previous responses are locked for editing/deleting to preserve the historical changes."
 msgstr ""
+"შესაძლებელია მხოლოდ უახლესი ჩანაწერის წაშლა. წინა ჩანაწერები დაბლოკილია "
+"რედაქტირებისთვის/წაშლისთვის ცვლილებების ისტორიის შესანარჩუნებლად."
 
 #: docs/index.rst:572
 msgid "Only delete all responses to a health facility if you are sure that it was entered by mistake (e.g. duplicated record). For health facilities that are permanently closed, add a new response and change the status to *permanently closed*."
 msgstr ""
+"წაშალეთ სამედიცინო დაწესებულებასთან დაკავშირებული ყველა პასუხი, თუ "
+"დარწმუნებული ხართ, რომ ის შეცდომით იყო შეყვანილი (მაგ., დუბლირებული ჩანაწერი)"
+". სამედიცინო დაწესებულებებისთვის, რომლებიც მუდმივად დახურულია, დაამატეთ "
+"ახალი ჩანაწერი და შეცვალეთ სტატუსი *მუდმივად დახურულზე*."
 
 #: docs/index.rst:575
 msgid "Deleting responses cannot be undone. Thus, be careful when deleting responses."
 msgstr ""
+"ჩანაწერის წაშლის შემდეგ მათი აღდგენა შეუძლებელია. ამიტომ, ფრთხილად იყავით "
+"ჩანაწერის წაშლისას."
 
 #: docs/index.rst:579
 msgid "Download Data"
-msgstr ""
+msgstr "მონაცემების ჩამოტვირთვა"
 
 #: docs/index.rst:581
 msgid "Data for individual health facilities can be downloaded as **CSV** or **Excel** file."
 msgstr ""
+"ინდივიდუალური სამედიცინო დაწესებულებების მონაცემები შეიძლება ჩამოიტვირთოს "
+"**CSV** ან **Excel** ფაილის სახით."
 
 #: docs/index.rst:583
 msgid "Whether you have permissions to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your workspace owner, project admin or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
+"გაქვთ თუ არა მონაცემების ჩამოტვირთვის ნებართვა, დამოკიდებულია თქვენს "
+"ფუნქციასა და როლზე. თუ თქვენი წვდომის ნებართვის შეცვლას ითხოვთ, გთხოვთ, "
+"დაუკავშირდეთ თქვენი სამუშაო სივრცის მფლობელს, პროექტის ადმინისტრატორს ან "
+"გააგზავნოთ წერილი ელ. ფოსტაზე `herams@who.int <mailto:herams@who.int?>`_ , "
+"სადაც მიუთითებთ თქვენი ფუნქციასა და როლს, ასევე მოკლე განმარტებას იმის "
+"შესახებ, თუ რატომ გსურთ თქვენი წვდომის ნებართვების შეცვლა."
 
 #: docs/index.rst:586
 msgid "Download Workspace Data"
-msgstr ""
+msgstr "სამუშაო სივრცის მონაცემების ჩამოტვირთვა"
 
 #: docs/index.rst:588
 msgid "Follow the instructions below to export data from your workspace. If you require data from multiple workspaces, you can repeat the below steps and merge your data in the analysis tool of choice."
 msgstr ""
+"მიჰყევით ქვემოთ მოცემულ ინსტრუქციას თქვენი სამუშაო სივრციდან მონაცემების "
+"ექსპორტისთვის. თუ თქვენ გჭირდებათ მონაცემები რამდენიმე სხვადასხვა სამუშაო "
+"სივრციდან, შეგიძლიათ გაიმეოროთ ქვემოთ მოცემული ნაბიჯები და გააერთიანოთ "
+"თქვენი მონაცემები არჩეულ ანალიტიკურ ინსტრუმენტში."
 
 #: docs/index.rst:590
 msgid "In order to download data, you will require special permissions to the workspace. Contact your system administrator to elevate your access rights if needed."
 msgstr ""
+"მონაცემების ჩამოსატვირთად დაგჭირდებათ სამუშაო სივრცეზე წვდომის სპეციალური "
+"ნებართვები. საჭიროების შემთხვევაში დაუკავშირდით თქვენი სისტემის "
+"ადმინისტრატორს უფრო მაღალი დონის წვდომის უფლების მისაღებად."
 
 #: docs/index.rst:593
 msgid "To export data, access your workspace as outlined `here <#access-your-workspace>`__)."
 msgstr ""
+"მონაცემების ექსპორტისთვის, შედით თქვენს სამუშაო სივრცეში, როგორც ეს "
+"აღწერილია `აქ <#access-your-workspace>`__."
 
 #: docs/index.rst:594
 #: docs/index.rst:614
 msgid "You should now see a table displaying the list of workspaces available in your project. If you have been granted permission to download data, you should see a second tab labeled \"Download\" (1). Click the tab name to open the download settings."
 msgstr ""
+"ახლა თქვენ უკვე შეგიძლიათ დაინახოთ ცხრილი, რომელიც აჩვენებს თქვენს პროექტში "
+"არსებული სამუშაო სივრცეების სიას. თუ თქვენ მონიჭებული გაქვთ მონაცემების "
+"ჩამოტვირთვის ნებართვა, უნდა ნახოთ მეორე ჩანართი სახელწოდებით „ჩამოტვირთვა“ "
+"(1). დააწკაპუნეთ ჩანართის სახელზე ჩამოტვირთვის პარამეტრების გასახსნელად."
 
 #: docs/index.rst:595
 #: docs/index.rst:615
 msgid "In the download tab you have the option to customize your data export. You can choose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options (2)."
 msgstr ""
+"ჩამოტვირთვის ჩანართში თქვენ გაქვთ თქვენი მონაცემების ექსპორტის პარამეტრების "
+"საკუთარ საჭიროებებზე მორგების შესაძლებლობა. თქვენ შეგიძლიათ აირჩიოთ "
+"მონაცემების ექსპორტი ტექსტის ან კოდის სახით, ასევე შეგიძლიათ აირჩიოთ "
+"დასათაურების ტიპი, რომლის ჩართვაც გსურთ მონაცემთა ექსპორტში. გამოიყენეთ "
+"ჩართვა/გამორთვის ღილაკები სტანდარტული ვარიანტების შესაცვლელად (2)."
 
 #: docs/index.rst:597
 #: docs/index.rst:617
 msgid "If you choose to export answers as code, questions with predefined answer options will show coded values instead of the text labels (e.g. A1 instead of \"available\")."
 msgstr ""
+"თუ აირჩევთ პასუხების კოდის სახით ექსპორტირებას, კითხვები წინასწარ "
+"განსაზღვრული პასუხის ვარიანტებით აჩვენებენ კოდირებულ მნიშვნელობებს ტექსტის "
+"იარლიყების ნაცვლად (მაგ. A1 ნაცვლად „ხელმისაწვდომია“)."
 
 #: docs/index.rst:599
 #: docs/index.rst:619
 msgid "If a survey is available in multiple languages, use the drop-down list to specify the export language (3)."
 msgstr ""
+"თუ კითხვარი ხელმისაწვდომია მრავალ ენაზე, გამოიყენეთ ჩამოსაშლელი სია "
+"ექსპორტის ენის დასაზუსტებლად (3)."
 
 #: docs/index.rst:600
 msgid "By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report date** can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4)."
 msgstr ""
+"სტანდარტულად ჩამოტვირთვისას, სამედიცინო დაწესებულებასთან დაკავშირებული ყველა "
+"ხელმისაწვდომი პასუხი ექსპორტირებული იქნება. პროექტებისთვის, რომლებსაც აქვთ "
+"მრავალი პასუხი თითო სამედიცინო დაწესებულებასთან დაკავშირებით, **ანგარიშის "
+"თარიღი** შეიძლება გამოყენებულ იქნას ექსპორტირებული პასუხების რაოდენობის "
+"შესაზღუდად. თუ ანგარიშის წარდგენის თარიღი განსაზღვრულია, თითოეული სამედიცინო "
+"დაწესებულებისთვის ექსპორტირებული იქნება მხოლოდ ბოლო ჩანაწერი არჩეულ "
+"თარიღამდე. უახლესი მონაცემების მისაღებად, დააყენეთ **ანგარიშის თარიღი** "
+"დღევანდელ თარიღზე (4)."
 
 #: docs/index.rst:601
 #: docs/index.rst:621
 msgid "Once you have defined the export settings, select between the two export formats (**CSV** or **Excel**) by clicking the respective button (5)."
 msgstr ""
+"მას შემდეგ რაც განსაზღვრავთ ექსპორტის პარამეტრებს, აირჩიეთ ორ საექსპორტო "
+"ფორმატს შორის (**CSV** ან **Excel**) შესაბამის ღილაკზე დაწკაპუნებით (5)."
 
 #: docs/index.rst:604
 #: docs/index.rst:625
 msgid "To avoid encoding issues, it is recommended that you download your data as an Excel file if you select a language other than English. For more information on the encoding of **CSV** files for use in Excel, see `Data Encoding in Excel`_."
 msgstr ""
+"კოდირების პრობლემების თავიდან ასაცილებლად, რეკომენდებულია თქვენი მონაცემების "
+"ჩამოტვირთვა Excel ფაილის სახით, თუ აირჩევთ ინგლისურის გარდა სხვა ენას. Excel-"
+"ში გამოსაყენებლად **CSV** ფაილების კოდირების შესახებ დამატებითი "
+"ინფორმაციისთვის იხილეთ `მონაცემთა კოდირება ექსელში`_."
 
 #: docs/index.rst:608
 msgid "Download the Entire Data Set"
