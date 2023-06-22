@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-22 08:57+0000\n"
+"PO-Revision-Date: 2023-06-22 10:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -58,9 +58,8 @@ msgstr ""
 "<#creating-a-user-account>`_ და `წვდომასთან <#logging-in>`_ ასევე თქვენი `"
 "მომხმარებლის პროფილის <#update-your-user-profile>`__ მართვასთან დაკავშირებულ "
 "საკითხებს. პლატფორმაზე დამოუკიდებლად და ეფექტურად ნავიგაციაში დაგეხმარებათ "
-"ამ თავის ბოლო ნაწილში\n"
-"მოცემული ინფორმაცია `განმეორებადი ხატულებისა <#icons-and-their-meaning>`_ და "
-"`სანავიგაციო ჯაჭვის`_ შესახებ."
+"ამ თავის ბოლო ნაწილში მოცემული ინფორმაცია `განმეორებადი ხატულებისა <#icons-"
+"and-their-meaning>`_ და `სანავიგაციო ჯაჭვის`_ შესახებ."
 
 #: docs/index.rst:27
 msgid "Creating a User Account"
@@ -588,7 +587,6 @@ msgid "Reorder map layers"
 msgstr "რუკის ფენების გადალაგება"
 
 #: docs/index.rst:262
-#, fuzzy
 msgid "Depending on the zoom level applied to a map, it may happen that several points lie on top of each other, hiding some facilities. To bring a specific category to the front, uncheck the category in the legend. This will remove the category from the map. If you add the category again (click the now empty circle), the category will be added on top of the other points."
 msgstr ""
 "რუკაზე გამოყენებული ზუმის დონის მიხედვით, შეიძლება რუკის რამდენიმე წერტილი "
@@ -609,7 +607,6 @@ msgstr ""
 "დოკუმენტების სახით."
 
 #: docs/index.rst:273
-#, fuzzy
 msgid "The export will include any applied filters."
 msgstr "ექსპორტირებულ მონაცემებში ასახული იქნება ნებისმიერ გამოყენებული ფილტრი."
 
@@ -749,7 +746,6 @@ msgstr ""
 "დაწესებულებების ტიპების გადანაწილებისა და რაოდენობის დასადგენად;"
 
 #: docs/index.rst:337
-#, fuzzy
 msgid "donut charts to summarize the level of functionality as well as main causes of non-functionality; and"
 msgstr ""
 "დონატის ფორმის დიაგრამები ფუნქციონირების დონისა და არფუნქციონირების ძირითადი "
@@ -2456,11 +2452,24 @@ msgstr "მონაცემთა განახლებები არ ჩ
 #: docs/index.rst:1043
 msgid "It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and their Meaning`_."
 msgstr ""
+"მნიშვნელოვანია აღინიშნოს, რომ ინტერაქტიულ საკონტროლო პანელებზე ნაჩვენები "
+"მონაცემების სინქრონიზაცია მხოლოდ ყოველ 30 წუთში ხდება. ამრიგად, "
+"შესაძლებელია, რომ მონაცემების განახლებები დაუყოვნებლივ არ გამოჩნდეს "
+"საკონტროლო პანელებზე. პრობლემის გადასაჭრელად, ხელით დაასინქრონეთ სამუშაო "
+"სივრცის მონაცემთა ქეში. მონაცემთა ქეშირების შესახებ დამატებითი "
+"ინფორმაციისთვის წაიკითხეთ ნაწილი `ხატულები და მათი მნიშვნელობა`_."
 
 #: docs/index.rst:1046
 msgid "Exported data is unreadable / contains strange characters"
-msgstr ""
+msgstr "ექსპორტირებული მონაცემები არ იკითხება /უცნაურ სიმბოლოებს შეიცავენ"
 
 #: docs/index.rst:1048
 msgid "If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not displaying correctly, resulting in unreadable text. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct encoding type to read your data. To correct the issue, follow the instruction outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
+"თუ თქვენ გახსნით HeRAMS-დან ჩამოტვირთულ მონაცემებს Excel-ში, შეიძლება "
+"შეგექმნათ პრობლემა, რომლის დროსაც სპფეციფიკური სიმბოლოები არასწორადაა "
+"ნაჩვენები, და ამის გამო ტექსტის წაკითხვა შეუძლებელია. მაგალითად, **camp de "
+"réfugiés**-ს ნაცვლად თქვენ მიიღებთ **Camp de rÃ©fugiÃ©s**. ამის მიზეზია ის, "
+"რომ Excel არ იყენებს კოდირების სწორ ტიპს თქვენი მონაცემების წასაკითხად. "
+"პრობლემის გამოსასწორებლად, მიჰყევით ინსტრუქციას `აქ <#data-encoding-in-"
+"excel>`__."
