@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 20:59+0000\n"
-"PO-Revision-Date: 2023-06-21 23:57+0000\n"
+"PO-Revision-Date: 2023-06-22 08:57+0000\n"
 "Last-Translator: Nata Gzirishvili <nata.gzirishvili.1@gmail.com>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ka/>\n"
@@ -1402,9 +1402,9 @@ msgstr ""
 msgid "By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report date** can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4)."
 msgstr ""
 "სტანდარტულად ჩამოტვირთვისას, სამედიცინო დაწესებულებასთან დაკავშირებული ყველა "
-"ხელმისაწვდომი პასუხი ექსპორტირებული იქნება. პროექტებისთვის, რომლებსაც აქვთ "
-"მრავალი პასუხი თითო სამედიცინო დაწესებულებასთან დაკავშირებით, **ანგარიშის "
-"თარიღი** შეიძლება გამოყენებულ იქნას ექსპორტირებული პასუხების რაოდენობის "
+"ხელმისაწვდომი ჩანაწერი ექსპორტირებული იქნება. პროექტებისთვის, რომლებსაც აქვთ "
+"მრავალი ჩანაწერი თითო სამედიცინო დაწესებულებასთან დაკავშირებით, **ანგარიშის "
+"თარიღი** შეიძლება გამოყენებულ იქნას ექსპორტირებული ჩანაწერების რაოდენობის "
 "შესაზღუდად. თუ ანგარიშის წარდგენის თარიღი განსაზღვრულია, თითოეული სამედიცინო "
 "დაწესებულებისთვის ექსპორტირებული იქნება მხოლოდ ბოლო ჩანაწერი არჩეულ "
 "თარიღამდე. უახლესი მონაცემების მისაღებად, დააყენეთ **ანგარიშის თარიღი** "
@@ -1452,652 +1452,1006 @@ msgstr ""
 #: docs/index.rst:620
 msgid "By default, all available responses for a health facility will be exported. For projects with multiple responses per health facility, the **report** date can be used to limit the number of responses exported. If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **report date** to today's date (4)."
 msgstr ""
+"სტანდარტულად, სამედიცინო დაწესებულებასთან დაკავშირებული ყველა ხელმისაწვდომი "
+"ჩანაწერი ექსპორტირებული იქნება. პროექტებისთვის, რომლებსაც აქვთ მრავალი "
+"ჩანაწერების თითო სამედიცინო დაწესებულებისათვის, **ანგარიშის** თარიღი "
+"შეიძლება გამოყენებულ იქნას ექსპორტირებული ჩანაწერების რაოდენობის შესაზღუდად. "
+"თუ ანგარიშის წარდგენის თარიღია განსაზღვრული, თითოეული სამედიცინო "
+"დაწესებულებისთვის ექსპორტირებული იქნება მხოლოდ ბოლო ჩანაწერი არჩეულ "
+"თარიღამდე. უახლესი მონაცემების მისაღებად, დააყენეთ **ანგარიშის** თარიღი "
+"დღევანდელ თარიღზე (4)."
 
 #: docs/index.rst:623
 msgid "For large data sets, exporting data in Excel takes substantially longer than exporting as **CSV** format."
 msgstr ""
+"მონაცემთა დიდი წყებების შემთხვევაში, Excel-ში მონაცემების ექსპორტირებას "
+"მნიშვნელოვნად მეტი დრო სჭირდება, ვიდრე ექსპორტირებას **CSV** ფორმატში."
 
 #: docs/index.rst:629
 msgid "Data Encoding in Excel"
-msgstr ""
+msgstr "მონაცემთა კოდირება Excel-ში"
 
 #: docs/index.rst:630
 msgid "If data is downloaded for further analysis in Excel or a statistical software of choice (e.g. R or STATA), data encoding should always be set to UTF-8."
 msgstr ""
+"თუ მონაცემები ჩამოტვირთულია შემდგომი ანალიზისთვის Excel-ში ან არჩეულ "
+"სტატისტიკურ პროგრამაში (მაგ. R ან STATA), მონაცემთა კოდირება ყოველთვის უნდა "
+"იყოს დაყენებული UTF-8-ზე."
 
 #: docs/index.rst:632
 msgid "Encoding issues are particularly prevalent in languages with special character and can result in the data being unreadable. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
+"კოდირების პრობლემები განსაკუთრებით გავრცელებულია ხშირია სპეციალური "
+"სიმბოლოების მქონე ენებში და შეიძლება გამოიწვიოს მონაცემების წაკითხვის "
+"პრობლემები. მაგალითად, **camp de réfugiés**-ის ნაცვლად თქვენ მიიღებთ **de "
+"rÃ©fugiÃ©s**-ს."
 
 #: docs/index.rst:634
 msgid "To avoid encoding issues, it is recommended that you download your data as an **Excel** file."
 msgstr ""
+"კოდირების პრობლემების თავიდან ასაცილებლად, რეკომენდებულია თქვენი მონაცემების "
+"ჩამოტვირთვა **Excel** ფაილის სახით."
 
 #: docs/index.rst:636
 msgid "The below instructions guide users through the steps to define the data encoding in Excel."
 msgstr ""
+"ქვემოთ მოცემული ინსტრუქციები მომხმარებლებს აჩვენებს Excel-ში მონაცემთა "
+"კოდირების ნაბიჯებს."
 
 #: docs/index.rst:638
 msgid "Open a new Excel file."
-msgstr ""
+msgstr "გახსენით ახალი Excel ფაილი."
 
 #: docs/index.rst:639
 msgid "On the Data tab in the **Get & Transform Data** group, click **From Text/CSV**."
 msgstr ""
+"**მონაცემების მიღების და ტრანსფორმაციის** ჯგუფში არსებულ მონაცემთა ჩანართზე "
+"დააწკაპუნეთ **ტექსტიდან/CSV**-ზე."
 
 #: docs/index.rst:640
 msgid "In the **Import Data** dialog box, locate and double-click the text file that you want to import, and click **Import**."
 msgstr ""
+"**მონაცემთა იმპორტის** დიალოგურ ფანჯარაში იპოვნეთ და ორჯერ დააწკაპუნეთ "
+"ტექსტურ ფაილზე, რომლის იმპორტირებაც გსურთ და დააჭირეთ **იმპორტირებას**."
 
 #: docs/index.rst:641
 msgid "In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click **Import**."
 msgstr ""
+"გახსნილი ფანჯრის ზედა მარცხენა კუთხეში შეცვალეთ კოდირების ტიპი **UTF-8**-ით "
+"და დააჭირეთ **იმპორტირებას**."
 
 #: docs/index.rst:650
 msgid "HeRAMS Administration"
-msgstr ""
+msgstr "HeRAMS-ის ადმინისტრირება"
 
 #: docs/index.rst:652
 msgid "This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace owners* and *Project admins*). The first part of the chapter focuses on user management. It provides an overview of the default `User roles`_ used throughout the platform followed by a detailed description of how to add users to workspaces and projects. The remaining parts of this chapter focus on more advanced topics and are intended to guide *Project admins* on how to administer a project locally."
 msgstr ""
+"ამ თავში მოცემულია HeRAMS-ში ადმინისტრატორის გვერდების მიმოხილვა და "
+"შემოთავაზებულია ნაბიჯ-ნაბიჯ ინსტრუქციები მოწინავე მომხმარებლების (მაგ. *"
+"სამუშაო სივრცის მფლობელები* და *პროექტის ადმინისტრატორები*) მიერ შესრულებული "
+"საერთო ამოცანების შესახებ. თავის პირველი ნაწილი ფოკუსირებულია მომხმარებლის "
+"მართვაზე და გვთავაზობს `მომხმარებლის როლების`_ მიმოხილვას, რომლებიც მთელ "
+"პლატფორმაზე გამოიყენება, რასაც მოჰყვება დეტალური აღწერა, თუ როგორ უნდა "
+"დაამატოთ მომხმარებლები სამუშაო სივრცეებსა და პროექტებში. ამ თავის დარჩენილ "
+"ნაწილებში ყურადღება გამახვილებულია უფრო მნიშვნელოვან თემებზე და ისინი მიზნად "
+"ისახავენ *პროექტის ადმინისტრატორებისთვის* სახელმძღვანელო მითითებების "
+"მიწოდებას იმაზე, თუ როგორ მართონ პროექტი ადგილობრივად."
 
 #: docs/index.rst:655
 msgid "Access to different parts of the admin interface depends on your function and role. If you require your permissions to be changed, kindly contact your *Project admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to be altered."
 msgstr ""
+"ადმინისტრატორის ინტერფეისის სხვადასხვა ნაწილზე წვდომა დამოკიდებულია თქვენს "
+"ფუნქციასა და როლზე. თუ თქვენი ნებართვების შეცვლას ითხოვთ გესაჭიროებათ, "
+"გთხოვთ, დაუკავშირდეთ თქვენი *პროექტის ადმინისტრატორს* ან გაუგზავნეთ ელ. "
+"წერილი `HeRAMS-ის მხარდაჭერის გუნდს <mailto:herams@who.int?>`_ , სადაც "
+"მიუთითებთ თქვენ ფუნქციასა და როლს, ასევე მოკლე განმარტებას იმის შესახებ, თუ "
+"რატომ გსურთ თქვენი წვდომის ნებართვის შეცვლა."
 
 #: docs/index.rst:658
 msgid "User Management"
-msgstr ""
+msgstr "მომხმარებლის მართვა"
 
 #: docs/index.rst:661
 msgid "Workspace Permissions"
-msgstr ""
+msgstr "სამუშაო სივრცესთან დაკავშირებული ნებართვები"
 
 #: docs/index.rst:663
 msgid "The use of workspaces permits users to manage a set of health facilities (e.g. all health facilities within a district) autonomously. **Workspace owners** have full control over their workspace and can decide to invite other users to contribute or access their data. There are four permissions at the workspace level:"
 msgstr ""
+"სამუშაო სივრცეების გამოყენება მომხმარებლებს საშუალებას აძლევს, დამოუკიდებლად "
+"მართონ სამედიცინო დაწესებულებების ჯგუფები (მაგ. ყველა სამედიცინო "
+"დაწესებულება რაიონში). **სამუშაო სივრცის მფლობელებს** აქვთ სრული კონტროლი "
+"თავიანთ სამუშაო სივრცეზე და შეუძლიათ გადაწყვიტონ, მოიწვიონ თუ არა სხვა "
+"მომხმარებლები კონტრიბუციისთვის ან მათ მონაცემებზე წვდომისთვის. სამუშაო "
+"სივრცის დონეზე ოთხი ნებართვა არსებობს:"
 
 #: docs/index.rst:666
 msgid "**Edit data**: Allows users to create, edit and delete records."
 msgstr ""
+"**მონაცემთა რედაქტირება**: საშუალებას აძლევს მომხმარებლებს შექმნან, "
+"დაარედაქტირონ და წაშალონ ჩანაწერები."
 
 #: docs/index.rst:668
 msgid "**Download data** Enables users to download all records from a workspace for further analysis in external applications."
 msgstr ""
+"**მონაცემების ჩამოტვირთვა**: მომხმარებლებს საშუალებას აძლევს ჩამოტვირთონთ "
+"ყველა ჩანაწერი სამუშაო სივრციდან შემდგომი ანალიზისთვის გარე აპლიკაციებში."
 
 #: docs/index.rst:670
 msgid "**Manage users**: Permits users to share access to a workspace with other users."
 msgstr ""
+"**მომხმარებლების მართვა**: მომხმარებლებს აძლევს უფლებას გაუზიარონ სამუშაო "
+"სივრცეზე წვდომა სხვა მომხმარებლებს."
 
 #: docs/index.rst:672
 msgid "**Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to **workspace owners**. It provides a user with full admin privileges to a workspace, including the ability to grant another user the permission to invite new users."
 msgstr ""
+"**ადმინისტრატორის ნებართვების მინიჭება**: ეს ნებართვა ხელმისაწვდომია მხოლოდ *"
+"პროექტის ადმინისტრატორებისთვის* და უნდა მიენიჭოს მხოლოდ **სამუშაო სივრცის "
+"მფლობელებს**. ის აძლევს მომხმარებელს სრულ ადმინისტრაციულ პრივილეგიებს "
+"სამუშაო სივრცეზე, მათ შორის, შესაძლებლობას სხვა მომხმარებელს მისცეს ახალი "
+"მომხმარებლების მოწვევის ნებართვა."
 
 #: docs/index.rst:674
 msgid "The ability to invite new users to contribute or manage a workspace depends on the permission of the user granting access. A user with permission to invite other users can only grant permissions they themselves have. Hence, it is possible that a user with the permission to ** manage users** is not able to grant access to edit or download data to other users."
 msgstr ""
+"ახალი მომხმარებლების მოწვევის შესაძლებლობა სამუშაო სივრცეში კონტრიბუციისთვის "
+"ან მართვისთვის დამოკიდებულია მომხმარებლის ნებართვაზე, მისცეს წვდომის უფლება. "
+"მომხმარებლებს, რომლებსაც აქვთ სხვა მომხმარებლების მოწვევის ნებართვა, "
+"შეუძლიათ მიანიჭონ სხვებს მხოლოდ ის ნებართვები, რომლებიც მათ თავად აქვთ. "
+"აქედან გამომდინარე, მომხმარებელს, რომელსაც აქვს **მომხმარებლების მართვის** "
+"ნებართვა, არ შეუძლია სხვა მომხმარებლებს მონაცემების რედაქტირებაზე ან "
+"ჩამოტვირთვაზე წვდომის ნებართვა მიანიჭოს."
 
 #: docs/index.rst:676
 msgid "Access to workspaces and projects should always be granted with regards to the users' roles and responsibilities. For more information on user roles and the recommended permissions for each role consult the sections `user roles`_ and `mapping user roles to permissions`_."
 msgstr ""
+"სამუშაო სივრცეებზე და პროექტებზე წვდომა ყოველთვის უნდა იყოს მინიჭებული "
+"მომხმარებლების როლებისა და პასუხისმგებლობების მიხედვით. მომხმარებლის "
+"როლებისა და თითოეული როლისთვის რეკომენდებული ნებართვებისთვის შესახებ "
+"დამატებითი ინფორმაცია იხილეთ შემდეგ ნაწილში: `მომხმარებლის როლები`_ და `"
+"მომხმარებლის როლების ნებართვებთან კავშირების განსაზღვრა`_."
 
 #: docs/index.rst:680
 msgid "Project Permissions"
-msgstr ""
+msgstr "პროექტთან დაკავშირებული ნებართვები"
 
 #: docs/index.rst:682
 msgid "Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *project level*, users are being granted access to *all* workspaces. For example, if a user is granted *edit* permission at the project level, they can edit data in all workspaces. In contrast, if a user is granted access at the workspace level, they are only able to contribute data to that specific workspace."
 msgstr ""
+"სამუშაო სივრცის ნებართვების მსგავსად, ნებართვები ასევე შეიძლება გაიცეს "
+"პროექტის დონეზე. მნიშვნელოვანია აღინიშნოს, რომ თუ ნებართვები გაიცემა *"
+"როექტის დონეზე*, მომხმარებლებს მიენიჭებათ წვდომა *ყველა* სამუშაო სივრცეზე. "
+"მაგალითად, თუ მომხმარებელს მინიჭებული აქვს *რედაქტირების* ნებართვა პროექტის "
+"დონეზე, მას შეუძლია მონაცემების რედაქტირება ყველა სამუშაო სივრცეში. ამის "
+"საპირისპიროდ, თუ მომხმარებელს მიენიჭება წვდომა სამუშაო სივრცის დონეზე, მას "
+"შეუძლია მხოლოდ მონაცემების შეტანა კონკრეტულ სამუშაო სივრცეში."
 
 #: docs/index.rst:684
 msgid "There are six permissions that can be granted at the project level:"
-msgstr ""
+msgstr "არსებობს ექვსი ნებართვა, რომელიც შეიძლება გაიცეს პროექტის დონეზე:"
 
 #: docs/index.rst:686
 msgid "**View dashboard**: Grants access exclusively to the project dashboard. Granting users explicit access to the project dashboard is only required for *closed* or *private* projects. For all other projects, any user subscribed to the platform will be able to view the project dashboard."
 msgstr ""
+"**საკონტროლო პანელის ნახვა**: ანიჭებს წვდომას ექსკლუზიურად პროექტის "
+"საკონტროლო პანელზე. მომხმარებლისთვის წვდომის მინიჭება პროექტის საკონტროლო "
+"პანელზე საჭიროა მხოლოდ *დახურული* ან *კერძო* პროექტებისთვის. ყველა სხვა "
+"პროექტისთვის, პლატფორმაზე დარეგისტრირებულ ნებისმიერ მომხმარებელს შუძლია "
+"პროექტის საკონტროლო პანელის ნახვა."
 
 #: docs/index.rst:688
 msgid "**Edit data**: Allows users to create, edit and delete records in any workspace of the project."
 msgstr ""
+"**მონაცემთა რედაქტირება**: საშუალებას აძლევს მომხმარებლებს შექმნან, "
+"დაარედაქტირონ და წაშალონ ჩანაწერები პროექტის ნებისმიერ სამუშაო სივრცეში."
 
 #: docs/index.rst:690
 msgid "**Download data**: Enables users to download the entire dataset, including records from all workspaces for further analysis in external applications."
 msgstr ""
+"**მონაცემების ჩამოტვირთვა**: მომხმარებლებს საშუალებას აძლევს ჩამოტვირთონ "
+"მთელი მონაცემთა წყებები, მათ შორის ჩანაწერები ყველა სამუშაო სივრციდან "
+"შემდგომი ანალიზისთვის გარე აპლიკაციებში."
 
 #: docs/index.rst:692
 msgid "**Manage workspaces**: Grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace."
 msgstr ""
+"**სამუშაო სივრცის მართვა**: მომხმარებელს ანიჭებს წვდომას სამუშაო სივრცის "
+"შექმნაზე, შეცვლასა და წაშლაზე, ასევე შესაძლებლობას, მოიწვიოს მომხმარებლები "
+"ცალკეულ სამუშაო სივრცეში კონტრიბუციისთვის."
 
 #: docs/index.rst:694
 msgid "*Workspace owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces."
 msgstr ""
+"*Სამუშაო სივრცის მფლობელებს* უნდა მიეცეთ ნებართვა სამუშაო სივრცის დონეზე. თუ "
+"მომხვარებელს მიენიჭება *სამუშაო სივრცის მართვის* ნაბართვა, მას ექნება წვდომა "
+"**ყველა** სამუშაო სივრცეზე."
 
 #: docs/index.rst:696
 msgid "**Configure dashboard**: Grants users the ability to configure their project dashboard."
 msgstr ""
+"**პანელის კონფიგურაცია**: მომხმარებლებს აძლევს შესაძლებლობას დააკონფიგურირონ "
+"თავიანთი პროექტის საკონტროლო პანელი."
 
 #: docs/index.rst:698
 msgid "**Manage survey** Grants permission to access the survey configurations. This permission can only be granted by a global administrator."
 msgstr ""
+"**კითხვარის მართვა**: იძლევა კითხვარის კონფიგურაციებზე წვდომის ნებართვას. ამ "
+"ნებართვის მინიჭება შესაძლებელია მხოლოდ გლობალური ადმინისტრატორის მიერ."
 
 #: docs/index.rst:702
 msgid "User Roles"
-msgstr ""
+msgstr "მომხმარებლის როლები"
 
 #: docs/index.rst:704
 msgid "There are six standard user roles used accross projects."
 msgstr ""
+"არსებობს ექვსი სტანდარტული მომხმარებლის როლი, რომლებიც გამოიყენება "
+"პროექტებში."
 
 #: docs/index.rst:712
 msgid "**Project owner**: The designated person who is responsible for the HeRAMS project. They can invite users to view the project dashboard or the list of available workspaces but are not expected to conduct the daily activities of managing users and assuring data quality."
 msgstr ""
+"**პროექტის მფლობელი**: დანიშნული პირი, რომელიც პასუხისმგებელია HeRAMS-ის "
+"პროექტზე. მათ შეუძლიათ მოიწვიონ მომხმარებლები პროექტის საკონტროლო პანელის ან "
+"ხელმისაწვდომი სამუშაო სივრცეების სიის სანახავად, მაგრამ მათ ფუნქციებში არ "
+"შედის მომხმარებლების ყოველდღიური მართვა და მონაცემთა ხარისხის უზრუნველყოფა."
 
 #: docs/index.rst:714
 msgid "**Project admin**: The *project owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS project and assigns them the role of *project admin*. The *project admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *project admins* are responsible for the overall training and management of users, they can assign *Workspace owners* to manage individual workspaces."
 msgstr ""
+"**პროექტის ადმინისტრატორი**: *პროექტის მფლობელი*, როგორც წესი, ეყრდნობა "
+"ინფორმაციის მართვის ოფიცერს HeRAMS-ის პროექტთან დაკავშირებული ყოველდღიური "
+"საქმიანობის სამართავად, და ანიჭებს მას *პროექტის ადმინისტრატორის* როლს. *"
+"პროექტის ადმინისტრატორს* აქვს წვდომა ყველა სამუშაო სივრცეზე. პროექტის "
+"პარამეტრებიდან გამომდინარე, პროექტის ადმინისტრატორს შეიძლება ასევე დაევალოს "
+"პროექტის საკონტროლო პანელის კონფიგურაცია. *პროექტის ადმინისტრატორები* "
+"პასუხისმგებელნი არიან მომხმარებლების ზოგად ტრენინგსა და მართვაზე, მათ ასევე "
+"შეუძლიათ *სამუშაო სივრცეების მფლობელებს* დაავალონ ინდივიდუალური სამუშაო "
+"სივრცის მართვა."
 
 #: docs/index.rst:716
 msgid "**Workspace owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *workspace owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard."
 msgstr ""
+"**სამუშაო სივრცის მფლობელი**: ისინი ჩვეულებრივ წარმოდგენილი არიან ქვე-"
+"ეროვნულ დონეზე და ზედამხედველობენ მონაცემთა შეგროვებას კონკრეტული "
+"ტერიტორიისთვის (მაგ. რაიონისთვის). მათ აქვთ სრული კონტროლი სამუშაო სივრცეზე "
+"და შეუძლიათ მოიწვიონ სხვა მომხმარებლები თავიანთ სამუშაო სივრცეში "
+"კონტრიბუციისთვის. მნიშვნელოვანია აღინიშნოს, რომ *სამუშაო სივრცის მფლობელებს* "
+"შეუძლიათ მხოლოდ მათ საკუთრებაში არსებული სამუშაო სივრცეების რედაქტირება ან "
+"გაზიარება. თუმცა, როგორც ნებისმიერ მომხმარებელს, რომელსაც მიენიჭა წვდომა "
+"პროექტზე, მათ შეუძლიათ შეისწავლონ მონაცემები სხვა სამუშაო ადგილებიდან "
+"პროექტის საკონტროლო პანელის გამოყენებით."
 
 #: docs/index.rst:718
 msgid "**Data contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *workspace owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard."
 msgstr ""
+"**მონაცემთა კონტრიბუტორი**: მხარს უჭერს სამუშაო სივრცის მფლობელს "
+"ინდივიდუალური სამედიცინო დაწესებულებების შესახებ ინფორმაციის შეგროვებასა და "
+"მართვაში. *სამუშაო სივრცის მფლობელების* მსგავსად, მათ შეუძლიათ მონაცემების "
+"რედაქტირება მხოლოდ თავიანთ სამუშაო სივრცეში, მაგრამ შეუძლიათ ნახონ მთლიანი "
+"პროექტი მის საკონტროლო პანელზე წვდომის გზით."
 
 #: docs/index.rst:720
 msgid "**Data viewers**: Under exceptional situations, a user might be granted the role of *data viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard."
 msgstr ""
+"**მონაცემთა მნახველები**: გამონაკლის სიტუაციებში, მომხმარებელს შეიძლება "
+"მიენიჭოს *მონაცემთა მნახველის* როლი. ეს ნიშნავს, რომ მათ მინიჭებული აქვთ "
+"წვდომა სამუშაო სივრცის მონაცემების ჩამოსატვირთად, მაგრამ არ შეუძლიათ "
+"მონაცემების რედაქტირება. როგორც ყველა მომხმარებელს, რომელთაც მინიჭებული აქვს "
+"წვდომა პროექტზე, მათაც ასევე შეუძლიათ წვდომა პროექტის საკონტროლო პანელზე."
 
 #: docs/index.rst:722
 msgid "**Project viewer:** The role of *project viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces."
 msgstr ""
+"**პროექტის მნახველები**: *პროექტის მნახველების* როლი განკუთვნილია ნებისმიერი "
+"დონის მომხმარებლებისთვის, რომლებიც ეყრდნობიან HeRAMS-ის მონაცემებს საკუთარი "
+"სამუშაოსთვის. მათი წვდომა შემოიფარგლება პროექტის საკონტროლო პანელზე და "
+"არსებული სამუშაო სივრცეების სიაზე წვდომით."
 
 #: docs/index.rst:724
 msgid "If a project is set to **private** or **closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses."
 msgstr ""
+"თუ პროექტის კონფიგურაცია დაყენებულია როგორც **პირადი** ან **დახურული**, "
+"პროექტის საკონტროლო პანელზე წვდომა შეიძლება კიდევ შეიზღუდოს. გთხოვთ, იხილოთ "
+"პროექტის პარამეტრები პროექტის სტატუსების შესახებ დამატებითი ინფორმაციის "
+"მისაღებად."
 
 #: docs/index.rst:728
 msgid "Mapping User Roles to Permissions"
-msgstr ""
+msgstr "მომხმარებელთა როლების ნებართვებთან კავშირის განსაზღვრა"
 
 #: docs/index.rst:730
 msgid "**Data contributors**: *data contributors* are granted access to *edit data* for individual workspaces."
 msgstr ""
+"**მონაცემთა კონტრიბუტორები**: *მონაცემთა კონტრიბუტორებს* ენიჭებათ წვდომა "
+"ინდივიდუალური სამუშაო სივრცის *მონაცემების რედაქტირებაზე*."
 
 #: docs/index.rst:737
 msgid "Optionally, *data contributors* can also be granted permissions to download data."
 msgstr ""
+"სურვილისამებრ, *მონაცემთა კონტრიბუტორებს* ასევე შეიძლება მიენიჭოთ "
+"მონაცემების ჩამოტვირთვის ნებართვა."
 
 #: docs/index.rst:744
 msgid "**Data viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with the permission to *Edit Data*, under special circumstances, permission might only be granted to download data."
 msgstr ""
+"**მონაცემთა მნახველები**: შესაძლებელია მომხმარებლებს მიეცთ წვდომა "
+"მონაცემების ჩამოტვირთვაზე მათი რედაქტირების უფლებების მინიჭების გარეშე. "
+"მიუხედავად იმისა, რომ ეს ნებართვა ჩვეულებრივ შერწყმულია *მონაცემთა "
+"რედაქტირების* ნებართვასთან, გარკვეულ პირობებში, ნებართვა შეიძლება მინიჭებული "
+"იქნას მხოლოდ მონაცემთა ჩამოტვირთვაზე."
 
 #: docs/index.rst:751
 msgid "**Workspace owners**: In addition to editing and downloading data, *workspace owners* are granted permission to *manage users*. This grants them the ability to invite other users to contribute to their workspace."
 msgstr ""
+"**სამუშაო სივრცის მფლობელები**: გარდა მონაცემების რედაქტირებისა და "
+"ჩამოტვირთვისა, *სამუშაო სივრცის მფლობელებს* აქვთ მომხმარებლების მართვის "
+"უფლება. ეს ანიჭებს მათ შესაძლებლობას მოიწვიონ სხვა მომხმარებლები თავიანთ "
+"სამუშაო სივრცეში კონტრიბუციისთვის."
 
 #: docs/index.rst:758
 msgid "Under special circumstances a *project admin* might grant a *workspace owner* admin permission to a workspace, allowing the *workspace owner* to delegate managing user access for their workspace. This permission should be used carefully and only granted if absolutely necessary."
 msgstr ""
+"გარკვეულ გარემოებებში *პროექტის ადმინისტრატორმა* შეიძლება მიანიჭოს *სამუშაო "
+"სივრცის მფლობელს* ამ სივრცეზე ადმინისტრატორის ნებართვა, რაც საშუალებას "
+"აძლევს *სამუშაო სივრცის მფლობელს* მის სამუშაო სივრცეზე მომხმარებელთა წვდომის "
+"მართვის დელეგირება მოახდინოს. ეს ნებართვა უნდა იქნას გამოყენებული ფრთხილად "
+"და მხოლოდ აუცილებლობის შემთხვევაში."
 
 #: docs/index.rst:765
 msgid "While *workspace owners* may delegate granting access permissions to another user, they remain responsible for their workspace and users having access to it."
 msgstr ""
+"Მიუხედავად იმისა, რომ *სამუშაო სივრცის მფლობელებს* შეუძლიათ სხვა "
+"მომხმარებლებისთვის წვდომის ნებართვის მინიჭების დელეგირება, ისინი "
+"პასუხისმგებელი რჩებიან თავიანთ სამუშაო სივრცეზე და მასზე წვდომის მქონე "
+"მომხმარებლებზე."
 
 #: docs/index.rst:769
 msgid "Add a User"
-msgstr ""
+msgstr "მომხმარებლის დამატება"
 
 #: docs/index.rst:771
 msgid "To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See `Access your workspace`_ for details."
 msgstr ""
+"მომხმარებლისთვის თქვენს პროექტზე წვდომის მისაცემად, გადადით თქვენი პროექტის "
+"სამუშაო სივრცეების სიაში. თუ გსურთ მხოლოდ კონკრეტულ სამუშაო სივრცეზე წვდომის "
+"მინიჭება, გახსენით სამუშაო სივრცე სასურველი სამუშაო სივრცის სახელზე "
+"დაწკაპუნებით. დეტალებისთვის იხილეთ `თქვენს სამუშაო სივრცეზე წვდომა`_."
 
 #: docs/index.rst:773
 msgid "Click the *Users* tab to open the user management section."
 msgstr ""
+"დააწკაპუნეთ *მომხმარებლების* ჩანართზე მომხმარებლის მართვის ნაწილის "
+"გასახსნელად."
 
 #: docs/index.rst:775
 msgid "You should now see a page similar to the image below. On the bottom half of the page, you can see a list of all users currently having access to the workspace including their permissions. In the top half of the page, you have the option to add a new user. Start typing the user’s name in the top field. You will notice that the list of available users dynamically filters as you are typing. Select the user you would like to add."
 msgstr ""
+"ახლა თქვენ შეგიძლიათ დაინახოთ ქვემოთ მოცემული სურათის მსგავსი გვერდი. "
+"გვერდის ქვედა ნახევარში შეგიძლიათ იხილოთ ყველა მომხმარებლის სია, რომლებსაც "
+"ამჟამად აქვთ წვდომა სამუშაო სივრცეზე, მათ შორის, მათი ნებართვებიც. გვერდის "
+"ზედა ნახევარში თქვენ გაქვთ შესაძლებლობა დაამატოთ ახალი მომხმარებელი. დაიწყეთ "
+"მომხმარებლის სახელის აკრეფა ზედა ველში. თქვენ შეამჩნევთ, რომ ხელმისაწვდომი "
+"მომხმარებლების სია დინამიურად იფილტრება ბეჭდვისას. აირჩიეთ მომხმარებელი, "
+"რომლის დამატებაც გსურთ."
 
 #: docs/index.rst:782
 msgid "You can add multiple users add once as shown in the image above."
 msgstr ""
+"შეგიძლიათ ერთდროულად დაამატოთ რამდენიმე მომხმარებელი, როგორც ნაჩვენებია "
+"ზემოთ მოცემულ სურათზე."
 
 #: docs/index.rst:786
 msgid "Use the checkboxes to select the appropriate permission level. See `Workspace Permissions`_ or `Project Permissions`_ for further details on workspace permissions."
 msgstr ""
+"გამოიყენეთ მოსანიშნი ველები შესაბამისი ნებართვის დონის შესარჩევად. სამუშაო "
+"სივრცის ნებართვების შესახებ დამატებითი დეტალებისთვის იხილეთ `სამუშაო სივრცის "
+"ნებართვები`_ ან `პროექტის ნებართვები`_ ."
 
 #: docs/index.rst:788
 msgid "Click the |add| button to grant users the desired permissions."
 msgstr ""
+"დააწკაპუნეთ |add| ღილაკზე , რათა მომხმარებლებს მიანიჭოთ სასურველი ნებართვები."
 
 #: docs/index.rst:797
 msgid "Change a User's Permission"
-msgstr ""
+msgstr "მომხმარებლის ნებართვაში ცვლილებების შეტანა"
 
 #: docs/index.rst:799
 msgid "Follow the instructions outlined  `above <#add-a-user>`__ to open the user management interface of your workspace or project."
 msgstr ""
+"მიჰყევით `ზემოთ <#add-a-user>`__ ჩამოთვლილ ინსტრუქციებს თქვენი სამუშაო "
+"სივრცის ან პროექტის მომხმარებლის მართვასთან დაკავშირებული ინტერფეისის "
+"გასახსნელად."
 
 #: docs/index.rst:800
 #: docs/index.rst:813
 msgid "On the second half of the page you will see a list of all users having access to the workspace or project, including their permissions."
 msgstr ""
+"გვერდის მეორე ნახევარში ნახავთ ყველა მომხმარებლის სიას, რომლებსაც აქვთ "
+"წვდომა სამუშაო სივრცეზე ან პროექტზე, მათ შორის, მათ ნებართვებს."
 
 #: docs/index.rst:801
 msgid "You can change a user's permission by flipping the corresponding switch button to **Allowed** or **Denied**."
 msgstr ""
+"თქვენ შეგიძლიათ შეცვალოთ მომხმარებლის ნებართვა შესაბამისი გადამრთველი "
+"ღილაკით, რათა **დაადასტუროთ** ან **უარყოთ** დაშვება."
 
 #: docs/index.rst:810
 msgid "Remove a User"
-msgstr ""
+msgstr "მომხმარებლის წაშლა"
 
 #: docs/index.rst:812
 msgid "Open the user management interface of your *Workspace* or *Project*. See `here <#add-a-user>`__ for more details on how to access the user management interface."
 msgstr ""
+"გახსენით თქვენი სამუშაო *სივრცის* ან *პროექტის* მომხმარებლის მართვის "
+"ინტერფეისი. დამატებითი ინფორმაცია, თუ როგორ შეხვიდეთ მომხმარებლის მართვის "
+"ინტერფეისზე, იხილეთ `აქ <#add-a-user>`__."
 
 #: docs/index.rst:814
 msgid "To remove a user change all permissions to **Not allowed**. Upon reloading the page, you will see that the user has disappeared from the list (see video above)."
 msgstr ""
+"მომხმარებლის წასაშლელად შეცვალეთ ყველა ნებართვა და მიუთითეთ **არ მიენიჭა** "
+"დაშვება. გვერდის გადატვირთვისას ნახავთ, რომ მომხმარებელი გაქრა სიიდან ("
+"იხილეთ ვიდეო ზემოთ)."
 
 #: docs/index.rst:816
 msgid "Removing a user from a **Workspace** will not revoke their **Project** level permissions and vice versa."
 msgstr ""
+"მომხმარებლის **სამუშაო სივრციდან** წაშლა არ გააუქმებს **როექტის** დონის "
+"ნებართვებს და პირიქით."
 
 #: docs/index.rst:820
 msgid "Manage Workspaces"
-msgstr ""
+msgstr "სამუშაო სივრცეების მართვა"
 
 #: docs/index.rst:821
 msgid "Managing the list of available workspaces is a key component of the *Project admin's* role. In addition to being able to create, edit or delete workspaces, managing workspaces also includes assigning *Workspace owners* and granting them appropriate permissions."
 msgstr ""
+"ხელმისაწვდომი სამუშაო სივრცეების სიის მართვა *პროექტის ადმინისტრატორის* "
+"როლის ძირითადი კომპონენტია. გარდა იმისა, რომ მას შეუძლია შექმნას, "
+"დაარედაქტიროს ან წაშალოს სამუშაო სივრცე, სამუშაო სივრცის მართვა ასევე "
+"მოიცავს *სამუშაო სივრცის მფლობელის* როლის და შესაბამისი ნებართვების "
+"მინიჭებას."
 
 #: docs/index.rst:825
 msgid "Create a Workspace"
-msgstr ""
+msgstr "სამუშაო სივრცის შექმნა"
 
 #: docs/index.rst:827
 msgid "To create a new workspace, navigate to the list of workspaces of your project. See `Access your workspace`_ steps (1-2) for details."
 msgstr ""
+"ახალი სამუშაო სივრცის შესაქმნელად, გადადით თქვენი პროექტის სამუშაო "
+"სივრცეების სიაში. დეტალებისთვის იხილეთ `თქვენ სამუშაო სივრცეზე წვდომა`_ , "
+"ეტაპები (1-2)."
 
 #: docs/index.rst:828
 msgid "In the upper right corner, you will see a button labeled |create-workspace|."
-msgstr ""
+msgstr "ზედა მარჯვენა კუთხეში დაინახავთ ღილაკს წარწერით |create-workspace|."
 
 #: docs/index.rst:829
 msgid "You will be directed to a page where you will be able to create a new workspace."
 msgstr ""
+"თქვენ გადამისამართდებით გვერდზე, სადაც შეძლებთ ახალი სამუშაო სივრცის შექმნას."
 
 #: docs/index.rst:830
 msgid "Enter the workspace's name into the title field."
-msgstr ""
+msgstr "სათაურის ველში შეიყვანეთ სამუშაო სივრცის სახელი."
 
 #: docs/index.rst:831
 msgid "Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**."
 msgstr ""
+"გამოიყენეთ ჩამოსაშლელი სია შესაბამისი **ტოკენის** ასარჩევად ან შექმენით "
+"ახალი ტოკენი **შექმენით ახალი ტოკენი**-ს არჩევით."
 
 #: docs/index.rst:838
 msgid "Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token."
 msgstr ""
+"ტოკენები უნიკალური იდენტიფიკატორებია, რომლებიც სამედიცინო დაწესებულებებს "
+"სამუშაო ადგილებთან აკავშირებენ. სამუშაო სივრცეში სამედიცინო დაწესებულების "
+"დასამატებლად, ჩანაწერის ტოკენი ხელით უნდა შეიცვალოს. დაუკავშირდით თქვენი "
+"სისტემის ადმინისტრატორს ჩანაწერის ტოკენის შეცვლის შესახებ ინსტრუქციისთვის."
 
 #: docs/index.rst:841
 msgid "Rename a Workspace"
-msgstr ""
+msgstr "სამუშაო სივრცისთვის სახელის გადარქმევა"
 
 #: docs/index.rst:843
 msgid "To rename a workspace, open your workspace as outlined `here <#Access-your-workspace>`__ and go to *Workspace settings* tabs."
 msgstr ""
+"სამუშაო სივრცისთვის სახელის გადასარქმევად, გახსენით თქვენი სამუშაო სივრცე, "
+"როგორც ეს აღწერილია `აქ <#Access-your-workspace>`__ , და გადადით *სამუშაო "
+"სივრცის პარამეტრების* ჩანართებში."
 
 #: docs/index.rst:844
 msgid "You should now be able to modify the title and token of your workspace."
 msgstr ""
+"ახლა თქვენ უკვე შეგიძლიათ თქვენი სამუშაო სივრცისთვის სათაურისა და ტოკენის "
+"შეცვლა."
 
 #: docs/index.rst:845
 msgid "Save your changes by clicking the |save| button."
-msgstr ""
+msgstr "შეინახეთ ცვლილებები |save| ღილაკზე დაწკაპუნებით."
 
 #: docs/index.rst:850
 msgid "Delete a Workspace"
-msgstr ""
+msgstr "თქვენი სამუშაო სივრცის წაშლა"
 
 #: docs/index.rst:852
 msgid "Access the workspace settings as outlined `above <#rename-a-workspace>`__."
 msgstr ""
+"შედით სამუშაო სივრცის პარამეტრებში, როგორც ეს აღწერილია `ზემოთ "
+"<#rename-a-workspace>`__."
 
 #: docs/index.rst:853
 msgid "Click the |delete-bt| button in the bottom half of the page to permanently delete the workspace."
 msgstr ""
+"დააჭირეთ გვერდის ქვედა ნახევარში მდებარე |delete-bt| ღილაკს სამუშაო სივრცის "
+"სამუდამოდ წასაშლელად."
 
 #: docs/index.rst:859
 msgid "Configure the Project dashboard"
-msgstr ""
+msgstr "პროექტის საკონტროლო პანელის კონფიგურაცია"
 
 #: docs/index.rst:861
 msgid "For each HeRAMS Project, an interactive dashboard can be configured providing summarizing key indicators and findings of a project. This section provides project administrators with a detailed description on how to edit these dashboards. An overview of the standard dashboard pages is available `here <#default-dashboard-pages>`__."
 msgstr ""
+"HeRAMS-ის ყველა პროექტისთვის შესაძლებელია ინტერაქტიული საკონტროლო პანელის "
+"კონფიგურაცია, რომელიც უზრუნველყოფს პროექტის ძირითადი ინდიკატორებისა და "
+"მიგნებების შეჯამებას. ამ ნაწილში პროექტის ადმინისტრატორებისთვის "
+"შემოთავაზებულია დეტალური აღწერა, თუ როგორ უნდა დარედაქტირდეს საკონტროლო "
+"პანელი. სტანდარტული საკონტროლო პანელის გვერდების მიმოხილვა ხელმისაწვდომია `"
+"აქ <#default-dashboard-pages>`__."
 
 #: docs/index.rst:864
 msgid "Create a Dashboard Page"
-msgstr ""
+msgstr "Საკონტროლო პანელის გვერდის შექმნა"
 
 #: docs/index.rst:866
 msgid "To add a new page to a dashboard, open your project's admin page."
 msgstr ""
+"Საკონტროლო პანელზე ახალი გვერდის დასამატებლად გახსენით თქვენი პროექტის "
+"ადმინისტრატორის გვერდი."
 
 #: docs/index.rst:867
 msgid "Open the `Dashboard settings` tab. You should now see a table with the list of existing dashboard pages."
 msgstr ""
+"გახსენით `საკონტოლო პანელის პარამეტრების` ჩანართი. ახლა თქვენ შეგიძლიათ "
+"ნახოთ ცხრილი საკონტროლო პანელის არსებული გვერდების სიით."
 
 #: docs/index.rst:868
 msgid "To add a new page to the dashboard, click the |add-page| button in the top right corner."
 msgstr ""
+"საკონტროლო პანელზე ახალი გვერდის დასამატებლად დააწკაპუნეთ ზედა მარჯვენა "
+"კუთხეში მდებარე |add-page|ღილაკზე."
 
 #: docs/index.rst:870
 msgid "To create the standard HeRAMS dashboard, export an existing dashboard from another project using the *Export all* button. This will export a JSON file. Return to your project and import the JSON file using the *Import dashboard* button. Once imported, you can adjust individual pages and elements according to your needs."
 msgstr ""
+"HeRAMS-ის სტანდარტული საკონტროლო პანელის შესაქმნელად, მოახდინეთ სხვა "
+"პროექტის არსებული საკონტროლო პანელის ექსპორტირება *ყველას ექსპორტირება* "
+"ღილაკის გამოყენებით. ამ გზით მოხდება JSON ფაილის ექსპორტი. დაბრუნდით თქვენს "
+"პროექტში და მოახდინეთ JSON ფაილის იმპორტირება *საკონტროლო პანელის "
+"იმპორტირების* ღილაკის გამოყენებით. იმპორტის შემდეგ, შეგიძლიათ დაარეგულიროთ "
+"ცალკეული გვერდები და ელემენტები თქვენი საჭიროებების მიხედვით."
 
 #: docs/index.rst:872
 msgid "Enter the page name in the top field. It is recommended to select an item from the drop-down list. This will assure the page title is automatically translated into other languages."
 msgstr ""
+"შეიყვანეთ გვერდის სახელი ზედა ველში. რეკომენდირებულია აირჩიოთ ობიექტი "
+"ჩამოსაშლელი სიიდან. ეს უზრუნველყოფს, რომ გვერდის სათაური ავტომატურად "
+"ითარგმნოს სხვა ენებზე."
 
 #: docs/index.rst:874
 msgid "If you are adding a sub-page to an existing page, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**."
 msgstr ""
+"თუ თქვენ ამატებთ ქვე-გვერდს არსებულ გვერდზე, აირჩიეთ ძირითადი გვერდი **"
+"ძირითადი Id** ჩამოსაშლელი სიიდან. ყველა სხვა გვერდისთვის აირჩიეთ **არა "
+"ძირითადი**."
 
 #: docs/index.rst:875
 msgid "Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page."
 msgstr ""
+"განსაზღვრეთ გვერდის თანმიმდევრობა **სორტირების** ინდექსის შეყვანით. გაზარდეთ "
+"ინდექსი 1-ით ყოველი ახალი გვერდისთვის, დაწყებული **0**-ით პირველი "
+"გვერდისთვის."
 
 #: docs/index.rst:876
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr ""
+"დააწკაპუნეთ |create-page| ღილაკზე საკონტროლო პანელზე გვერდის დასამატებლად."
 
 #: docs/index.rst:877
 #: docs/index.rst:887
 msgid "To return to the list of available dashboard pages click the |back-to-list| button."
 msgstr ""
+"Საკონტროლო პანელზე არსებული გვერდების სიაში დასაბრუნებლად დააწკაპუნეთ |back-"
+"to-list| ღილაკზე."
 
 #: docs/index.rst:879
 msgid "You only created an empty page. To add elements to your page, see section `Create a Dashboard Element`_."
 msgstr ""
+"თქვენ შექმენით მხოლოდ ცარიელი გვერდი. თქვენს გვერდზე საკონტროლო პანელის "
+"ელემენტების დასამატებლად იხილეთ ნაწილი `პანელის ელემენტის შექმნა`_."
 
 #: docs/index.rst:882
 msgid "Modify a Dashboard Page"
-msgstr ""
+msgstr "საკონტროლო პანელის გვერდის მოდიფიცირება"
 
 #: docs/index.rst:884
 msgid "To modify an existing page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
+"არსებული გვერდის შესაცვლელად, შედით არსებული გვერდების სიაში, როგორც "
+"აღწერილია `ზემოთ <#create-a-dashboard-page>`__."
 
 #: docs/index.rst:885
 msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings. You are now able to change the page's settings as well as modifying elements displayed on this page. Go to `create a dashboard element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
+"დააწკაპუნეთ |pencil-thin| ხატულაზე გვერდის სახელის გვერდით. ეს გახსნის "
+"გვერდის პარამეტრებს. თქვენ უკვე შეგიძლიათ შეცვალოთ გვერდის პარამეტრები, და "
+"ასევე ამ გვერდზე ნაჩვენები ელემენტები. დამატებითი ინფორმაციისთვის, თუ როგორ "
+"დაამატოთ ელემენტები თქვენი გვერდის საკონტროლო პანელზე, იხილეთ `საკონტროლო "
+"პანელის ელემენტის შექმნა`_."
 
 #: docs/index.rst:886
 msgid "Save your changes by clicking the |update-page| button."
-msgstr ""
+msgstr "შეინახეთ ცვლილებები |update-page| ღილაკზე დაწკაპუნებით."
 
 #: docs/index.rst:890
 msgid "Delete a Dashboard Page"
-msgstr ""
+msgstr "საკონტროლო პანელის გვერდის წაშლა"
 
 #: docs/index.rst:892
 msgid "To permanently delete a page, access the list of existing pages as detailed `above <#create-a-dashboard-page>`__."
 msgstr ""
+"გვერდის სამუდამოდ წასაშლელად შედით არსებული გვერდების სიაში, როგორც "
+"აღწერილია `ზემოთ <#create-a-dashboard-page>`__."
 
 #: docs/index.rst:893
 msgid "In the list of available pages, use the |delete| icon in the right-most column to permanently delete the page."
 msgstr ""
+"გვერდის სამუდამოდ წასაშლელად გამოიყენეთ ხელმისაწვდომი გვერდების სიაში "
+"არსებული ყველაზე მარჯვენა სვეტში მდებარე |delete| ხატულა."
 
 #: docs/index.rst:895
 msgid "Be careful when deleting pages or elements. Deleting dashboard pages will permanently delete the page including sub-pages. This action cannot be undone."
 msgstr ""
+"ფრთხილად იყავით გვერდების ან ელემენტების წაშლისას. საკონტროლო პანელის "
+"გვერდის ელემენტების წაშლა სამუდამოდ წაშლის გვერდს, ქვე-გვერდების ჩათვლით. ამ "
+"მოქმედების გაუქმება შეუძლებელია."
 
 #: docs/index.rst:898
 msgid "Create a Dashboard Element"
-msgstr ""
+msgstr "Საკონტროლო პანელის ელემენტის შექმნა"
 
 #: docs/index.rst:900
 msgid "This section covers the steps required to add a new element to an existing dashboard page. If you would like to extend your dashboard by adding additional pages, please see `create a dashboard page`_ for further information."
 msgstr ""
+"ეს ნაწილი მოიცავს იმ ეტაპებს, რომლებიც საჭიროა საკონტროლო პანელის არსებულ "
+"გვერდზე ახალი ელემენტის დასამატებლად. თუ გსურთ თქვენი საკონტროლო პანელის "
+"გაფართოება დამატებითი გვერდების დამატების გზით, გთხოვთ, დამატებითი "
+"ინფორმაციისთვის იხილეთ `საკონტროლო პანელის გვერდის შექმნა`_."
 
 #: docs/index.rst:902
 msgid "To modify an existing page, access the list of existing pages as outlined in the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
+"არსებული გვერდის შესაცვლელად, შედით არსებული გვერდების სიაში, როგორც ეს "
+"აღწერილია `წინა <#create-a-dashboard-page>`_ ნაწილში."
 
 #: docs/index.rst:903
 msgid "Click the |pencil-thin| icon next to the page's name. This will open the page's settings."
 msgstr ""
+"დააწკაპუნეთ |pencil-thin| ხატულაზე გვერდის სახელის გვერდით. ეს გახსნის "
+"გვერდის პარამეტრებს."
 
 #: docs/index.rst:904
 msgid "On the right side of the page you should see a list of available dashboard elements. Above this list, you have three buttons |create-elements|. Select the type of element you would like to add by clicking the corresponding button."
 msgstr ""
+"გვერდის მარჯვენა მხარეს იხილავთ საკონტროლო პანელის ხელმისაწვდომი ელემენტების "
+"სიას. ამ სიის ზემოთ თქვენ გაქვთ სამი ღილაკი |create-elements|. აირჩიეთ ის "
+"ელემენტის ტიპი, რომლის დამატებაც გსურთ შესაბამის ღილაკზე დაჭერით."
 
 #: docs/index.rst:911
 msgid "You should now see a page similar to the one displayed below."
 msgstr ""
+"ახლა თქვენ უკვე შეგიძლიათ დაინახოთ ქვემოთ ნაჩვენები გვერდის მსგავსი გვერდი."
 
 #: docs/index.rst:918
 msgid "The **Transpose** feature allows switching between aggregating data at the health facility and the health service level. Set the feature to **No** to display data aggregated at the health facility level."
 msgstr ""
+"ფუნქცია **ტრანსპოზიცია** საშუალებას გაძლევთ სამედიცინო დაწესებულების დონიდან "
+"ერთიანი აგრეგირებული მონაცემები გარდაქმნათ ჯანდაცვის მომსახურების დონეების "
+"მიხედვით. დააყენეთ ფუნქცია **არა**, რათა გამოჩნდეს მხოლოდ სამედიცინო "
+"დაწესებულების დონეზე აგრეგირებული მონაცემები."
 
 #: docs/index.rst:920
 msgid "Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits."
 msgstr ""
+"ელემენტის ტრანსპოზიცია ან შეკითხვის კოდის ცვლილება გამოიწვევს გვერდის "
+"გადატვირთვას, რის შედეგადაც დაიკარგება სხვა რედაქტირებული ტექსტები, რომლებიც "
+"არ იყო შენახული."
 
 #: docs/index.rst:922
 msgid "Select the question to be displayed using the **Code** dropdown list."
 msgstr ""
+"აირჩიეთ კითხვა, რომელიც უნდა იყოს ნაჩვენები **კოდი** ჩამოსაშლელი სიის "
+"გამოყენებით."
 
 #: docs/index.rst:923
 msgid "Define the element position on the dashboard page by specifying the **Sort** index. Increment the index by 1 for each new item, starting with 0 for the first page."
 msgstr ""
+"განსაზღვრეთ ელემენტის პოზიცია საკონტროლო პანელის გვერდზე **სორტირების** "
+"ინდექსის მითითებით. გაზარდეთ ინდექსი 1-ით ყოველი ახალი ელემენტისთვის, "
+"დაწყებული 0-ით პირველი გვერდისთვის."
 
 #: docs/index.rst:924
 msgid "The **Width** and **Height** fields allow creating custom-sized elements."
 msgstr ""
+"ველები **სიგანე** და **სიმაღლე** ველები საშუალებას გაძლევთ შექმნათ თქვენს "
+"საჭიროებებზე მორგებული ზომის ელემენტები."
 
 #: docs/index.rst:926
 msgid "For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly."
 msgstr ""
+"დიაგრამებისთვის, რომელთაც დიდი ლეგენდის ელემენტები აქვთ, რეკომენდებულია "
+"გამოიყენოთ 2 **სიგანე**, რათა დარწმუნდეთ, რომ ლეგენდა სწორად არის ნაჩვენები."
 
 #: docs/index.rst:928
 msgid "Optionally, the **Title** field allows you to overwrite the default title of the element."
 msgstr ""
+"სურვილისამებრ, **სათაურის** ველი საშუალებას გაძლევთ გადააწეროთ ელემენტის "
+"სტანდარტულ სათაურს."
 
 #: docs/index.rst:929
 msgid "For **maps** and **charts**, the bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the category name. This will opens a color picker allowing you to pick custom colors. For **maps**, you can further specify the size of the dots by increasing/decreasing the  **Marker Radius**."
 msgstr ""
+"**რუკებისა** და **დიაგრამებისთვის**, გვერდის ქვედა ნახევარში ნაჩვენებია "
+"არჩეულ კითხვაზე წინასწარ განსაზღვრული პასუხების ვარიანტების სია. დააწკაპუნეთ "
+"ფერზე კატეგორიის სახელის გვერდით. ეს ხსნის ფერების არჩევანს და საშუალებას "
+"გაძლევთ აირჩიოთ თქვენთვის სასურველი ფერები. **რუკებისთვის**, თქვენ შეგიძლიათ "
+"მიუთითოთ წერტილების ზომა **მარკერის რადიუსის** გაზრდით/შემცირების გზით."
 
 #: docs/index.rst:932
 msgid "For **tables**, two additional fields will be displayed to specify the **Reason Code** and **Group Code**."
 msgstr ""
+"**ცხრილებისთვის**, ნაჩვენები იქნება ორი დამატებითი ველი **მიზეზის კოდისა** "
+"და **ჯგუფის კოდის** დასაზუსტებლად."
 
 #: docs/index.rst:939
 msgid "A preview of the element you are creating is shown in the lower half of the page."
 msgstr ""
+"თქვენ მიერ შექმნილი ელემენტის წინასწარ ნახვა შესაძლებელია გვერდის ქვედა "
+"ნახევარში."
 
 #: docs/index.rst:941
 msgid "To save the element, click the |create-element-blue| button or use the |create-return| button save and return to the dashboard."
 msgstr ""
+"ელემენტის შესანახად დააჭირეთ |create-element-blue| ღილაკს, ან გამოიყენეთ "
+"|create-return| ღილაკი, შეინახეთ ელემენტი და დაბრუნდით საკონტროლო პანელზე."
 
 #: docs/index.rst:943
 msgid "To add additional elements, use the breadcrumbs to return to the"
 msgstr ""
+"დამატებითი ელემენტების დასამატებლად გამოიყენეთ სანავიგაციო ჯაჭვი, რომ "
+"დაბრუნდეთ საკონტროლო პანელზე"
 
 #: docs/index.rst:945
 msgid "The below video summarizes how to create a new dashboard page and add elements."
 msgstr ""
+"ქვემოთ მოცემულ ვიდეოში განმარტებულია, თუ როგორ უნდა შექმნათ ახალი საკონტროლო "
+"პანელის გვერდი და დაამატოთ ელემენტები."
 
 #: docs/index.rst:953
 msgid "Modify Dashboard Elements"
-msgstr ""
+msgstr "საკონტროლო პანელის ელემენტების მოდიფიცირება"
 
 #: docs/index.rst:955
 msgid "Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard."
 msgstr ""
+"მომხმარებლებს, რომლებსაც აქვთ საკონტროლო პანელის რედაქტირების ნებართვა, "
+"შეუძლიათ გადააკეთონ დიაგრამები და რუკები უშუალოდ საკონტროლო პანელის შიგნით."
 
 #: docs/index.rst:957
 msgid "To modify the order of dashboard pages or rename a page, see `here <#update-a-dashboard-page>`__."
 msgstr ""
+"საკონტროლო პანელის გვერდების თანმიმდევრობის შეცვლასთან ან გვერდის სახელის "
+"გადარქმევასთან დაკავშირებული ინფორმაცია იხილეთ `აქ <#update-a-dashboard-"
+"page>`__."
 
 #: docs/index.rst:959
 msgid "Open the dashboard and navigate to the element you would like to change."
-msgstr ""
+msgstr "გახსენით საკონტროლო პანელი და გადადით ელემენტზე, რომლის შეცვლაც გსურთ."
 
 #: docs/index.rst:960
 msgid "In the top right corner of the element you would like to change, you should see a |pencil-thin| icon. Right-click the icon to open the element's configuration page."
 msgstr ""
+"ელემენტის ზედა მარჯვენა კუთხეში, რომლის შეცვლაც გსურთ, დაინახავთ |pencil-"
+"thin| ხატულას . დააწკაპუნეთ მაუსის მარჯვენა ღილაკით ხატულაზე ელემენტის "
+"კონფიგურაციის გვერდის გასახსნელად."
 
 #: docs/index.rst:961
 msgid "You should now be able:"
-msgstr ""
+msgstr "ახლა თქვენ უკვე შეგეძლოთ შემდეგი:"
 
 #: docs/index.rst:963
 msgid "to change the variables displayed;"
-msgstr ""
+msgstr "ნაჩვენები ცვლადების შეცვლა;"
 
 #: docs/index.rst:964
 msgid "to change the colors of a map or a chart; and"
-msgstr ""
+msgstr "რუკის ან დიაგრამის ფერების შეცვლა; და"
 
 #: docs/index.rst:965
 msgid "to rename the element."
-msgstr ""
+msgstr "ელემენტის სახელის გადარქმევა."
 
 #: docs/index.rst:969
 msgid "Save your changes by clicking the |update-element| button."
-msgstr ""
+msgstr "შეინახეთ ცვლილებები |update-element| ღილაკზე დაწკაპუნებით."
 
 #: docs/index.rst:974
 msgid "Delete Dashboard Elements"
-msgstr ""
+msgstr "Საკონტროლო პანელის ელემენტების წაშლა"
 
 #: docs/index.rst:976
 msgid "Access the list of existing dashboard elements as described `here <#create-a-dashboard-element>`__."
 msgstr ""
+"შედით საკონტროლო პანელის არსებული ელემენტების სიაში, როგორც ეს აღწერილია `აქ "
+"<#create-a-dashboard-element>`__."
 
 #: docs/index.rst:977
 msgid "In the bottom half of the page you will see a list of all available dashboard pages. Click the |pencil-thin| icon to open the page you would like to modify."
 msgstr ""
+"გვერდის ქვედა ნახევარში დაინახავთ საკონტროლო პანელის ყველა ხელმისაწვდომი "
+"გვერდის სიას. დააწკაპუნეთ |pencil-thin| ხატულაზე იმ გვერდის გასახსნელად, "
+"რომლის შეცვლაც გსურთ."
 
 #: docs/index.rst:978
 msgid "In the lower half of the page you will see a list of all elements displayed on the dashboard page. Use the |delete| to permanently delete the element."
 msgstr ""
+"გვერდის ქვედა ნახევარში დაინახავთ საკონტროლო პანელის გვერდზე ნაჩვენები ყველა "
+"ელემენტის ჩამონათვალს. გამოიყენეთ |delete| ელემენტის სამუდამოდ წასაშლელად."
 
 #: docs/index.rst:980
 msgid "Be careful when deleting dashboard elements. Deleted elements cannot be restored."
 msgstr ""
+"ფრთხილად იყავით საკონტროლო პანელის ელემენტების წაშლისას. წაშლილი ელემენტების "
+"აღდგენა შეუძლებელია."
 
 #: docs/index.rst:984
 msgid "FAQ"
-msgstr ""
+msgstr "ყველაზე ხშირად დასმული შეკითხვები"
 
 #: docs/index.rst:986
 msgid "This section aims to help users troubleshoot frequently encountered issues. In case you encounter an issue that is not addressed here, please contact your country administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
+"ეს ნაწილი მიზნად ისახავს დაეხმაროს მომხმარებლებს ხშირად წარმოქმნილი "
+"პრობლემების გადაჭრაში. თუ შეგხვდებათ პრობლემა, რომელიც აქ არ არის განხილული, "
+"გთხოვთ, დაუკავშირდეთ თქვენი ქვეყნის ადმინისტრატორს, ან გამოაგზავნოთ წერილი "
+"ელფოსტაზე `hearms@who.int <mailto:herams@who.int?>`_."
 
 #: docs/index.rst:988
 msgid "`General`_"
-msgstr ""
+msgstr "`ზოგადი`_"
 
 #: docs/index.rst:990
 msgid "`Confirmation email not received`_"
-msgstr ""
+msgstr "`დამადასტურებელი იმეილი არ იქნა გამოგზავნილი`_"
 
 #: docs/index.rst:991
 msgid "`How to reset your password?`_"
-msgstr ""
+msgstr "`როგორ უნდა შევცალოთ პაროლი?`_"
 
 #: docs/index.rst:993
 msgid "`View a project/dashboard`_"
-msgstr ""
+msgstr "`პროექტის/საკონტროლო პანელის ნახვა`_"
 
 #: docs/index.rst:995
 msgid "`Can't access a project dashboard`_"
-msgstr ""
+msgstr "`ვერ შევდივარ პროექტის საკონტროლო პანელზე`_"
 
 #: docs/index.rst:996
 msgid "`Who has access to your project/workspace?`_"
-msgstr ""
+msgstr "`ვის აქვს წვდომა თქვენს პროექტზე/სამუშაო სივრცეზე?`_"
 
 #: docs/index.rst:998
 msgid "`Data editing & downloading`_"
-msgstr ""
+msgstr "`მონაცემთა რედაქტირება & ჩამოტვირთვა`_"
 
 #: docs/index.rst:1000
 msgid "`Data updates don't appear on the dashboard`_"
-msgstr ""
+msgstr "`მონაცემთა განახლებები არ ჩანს საკონტროლო პანელზე`_"
 
 #: docs/index.rst:1001
 msgid "`Exported data is unreadable / contains strange characters`_"
-msgstr ""
+msgstr "`ექსპორტირებული მონაცემები არ იკითხება / შეიცავს უცნაურ სიმბოლოებს`_"
 
 #: docs/index.rst:1005
 msgid "General"
-msgstr ""
+msgstr "ზოგადი"
 
 #: docs/index.rst:1008
 msgid "Confirmation email not received"
-msgstr ""
+msgstr "დამადასტურებელი წერილი არ იქნა გამოგზავნილი"
 
 #: docs/index.rst:1010
 msgid "If you did not receive an email upon registering or resetting your password, follow the steps below to troubleshoot the issue."
 msgstr ""
+"თუ პაროლის რეგისტრაციის ან შეცვლისას არ მიგიღიათ ელ. წერილი, მიჰყევით ქვემოთ "
+"მოცემულ ნაბიჯებს პრობლემის მოსაგვარებლად."
 
 #: docs/index.rst:1012
 msgid "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
+"გადატვირთეთ თქვენი ელ. ფოსტის შემომავალი წერილები. წერილის გამოჩენას "
+"შესაძლოა რამდენიმე წუთი დასჭირდეს."
 
 #: docs/index.rst:1013
 msgid "Check your spam/junk folder."
-msgstr ""
+msgstr "შეამოწმეთ თქვენი სპამის/ჯანქის ფოლდერი."
 
 #: docs/index.rst:1014
 msgid "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
+"სცადეთ ხელახლა დარეგისტრირება. თქვენ შეიძლება შემთხვევით შეცდომით დაწერეთ "
+"თქვენი ელექტრონული ფოსტის მისამართი."
 
 #: docs/index.rst:1015
 msgid "If the above steps did not solve your issue, please contact your system administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
+"თუ ზემოთაღნიშნულმა ნაბიჯებმა არ გადაჭრა თქვენი პრობლემა, გთხოვთ, "
+"დაუკავშირდეთ თქვენი სისტემის ადმინისტრატორს ან გამოაგზავნოთ წერილი "
+"ელ.ფოსტაზე `hearms@who.int <mailto:herams@who.int?>`_."
 
 #: docs/index.rst:1018
 msgid "How to reset your password?"
-msgstr ""
+msgstr "როგორ უნდა შეცვალოთ პაროლი?"
 
 #: docs/index.rst:1020
 msgid "If you forgot your password, follow the instructions provided `here <#reset-password>`__ to reset your password."
 msgstr ""
+"თუ დაგავიწყდათ პაროლი, მიჰყევით `აქ <#reset-password>`__ მოცემულ ინსტრუქციას "
+"თქვენი პაროლის შესაცვლელად."
 
 #: docs/index.rst:1023
 msgid "View a project/dashboard"
-msgstr ""
+msgstr "Პროექტის/საკონტროლო პანელის ნახვა"
 
 #: docs/index.rst:1026
 msgid "Can't access a project dashboard"
-msgstr ""
+msgstr "ვერ შევდივარ პროექტის საკონტროლო პანელზე"
 
 #: docs/index.rst:1028
 msgid "For data protection reasons, access to the project dashboards is only granted upon request. If you require access to a project, please contact your country focal point or send an email to `hearms@who.int <mailto:herams@who.int?>`_, specifying why you require access to the project."
 msgstr ""
+"მონაცემთა დაცვის მიზეზებიდან გამომდინარე, პროექტის საკონტროლო პანელზე "
+"წვდომის მინიჭება მხოლოდ მოთხოვნის საფუძველზეა შესაძლებელი. თუ თქვენ "
+"გჭირდებათ პროექტზე წვდომა, დაუკავშირდით თქვენი ქვეყნის საკონტაქტო პირს, ან "
+"გამოაგზავნეთ წერილი ელ.ფოსტაზე `hearms@who.int <mailto:herams@who.int?>`_, "
+"სადაც მიუთითებთ, თუ რატომ გჭირდებათ პროექტზე წვდომა."
 
 #: docs/index.rst:1031
 msgid "Who has access to your project/workspace?"
-msgstr ""
+msgstr "ვის აქვს წვდომა თქვენს პროექტზე/სამუშაო სივრცეზე?"
 
 #: docs/index.rst:1033
 msgid "In-country administrators and users responsible for a project or workspace can verify the list of users having access to the project and/or workspace as well as their permission levels. See `Add a user`_ for more information on granting users access to a *Project* or *Workspace*."
 msgstr ""
+"ქვეყნის შიდა ადმინისტრატორებს და პროექტზე ან სამუშაო სივრცეზე პასუხისმგებელ "
+"მომხმარებლებს შეუძლიათ დაადასტურონ იმ მომხმარებლების სია, რომლებსაც პროექტზე "
+"და/ან სამუშაო სივრცეზე აქვთ წვდომა. მათ ასევე შეუძლიათ შეამოწმონ "
+"მომხმარებელთა ნებართვების დონეები. *პროექტზე* ან *სამუშაო სივრცეზე* წვდომის "
+"მინიჭების შესახებ დამატებითი ინფორმაცია იხილეთ აქ `მომხმარებლის დამატება`_."
 
 #: docs/index.rst:1038
 msgid "Data editing & downloading"
-msgstr ""
+msgstr "მონაცემთა რედაქტირება & ჩამოტვირთვა"
 
 #: docs/index.rst:1041
 msgid "Data updates don't appear on the dashboard"
-msgstr ""
+msgstr "მონაცემთა განახლებები არ ჩანს საკონტროლო პანელზე"
 
 #: docs/index.rst:1043
 msgid "It is important to note that the data displayed on the interactive dashboards are only synchronized every 30 minutes. Thus, is it is possible that updates to the data don't show immediately on the dashboards. To solve the issue, manually sync the data cache of the workspace. For more information on data caching read the section on `Icons and their Meaning`_."
