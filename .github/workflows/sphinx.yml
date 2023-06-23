@@ -23,8 +23,7 @@ jobs:
       - name: Install sphinx-intl
         run: pip install Sphinx sphinx-intl
       - name: Dynamically update .po files for all languages
-        run: |
-          sphinx-intl update -p . -l pt
+        run: sphinx-intl update -p . -all
       - name: Run msgmerge
         run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
