@@ -21,7 +21,7 @@ jobs:
       - name: Install gettext
         run: sudo apt install gettext
       - name: Install sphinx-intl
-        run: pip install sphinx-intl
+        run: pip install Sphinx sphinx-intl
       - name: Dynamically update .po files for all languages
         run: |
           sphinx-intl update -p . -l pt
