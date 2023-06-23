@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
+01# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, Caroline Fuhrer
 # This file is distributed under the same license as the HeRAMS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My Project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-06-23 20:59+0000\n"
+"PO-Revision-Date: 2023-06-23 20:59+0000\n"
 "Last-Translator: Your Name <your.email@example.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt\n"
