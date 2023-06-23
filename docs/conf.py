@@ -57,4 +57,7 @@ html_css_files = [
 locale_dirs = ['../locales/']
 gettext_compact = False
 
+# Specify languages
+gettext_languages = ['en', 'ar', 'fr', 'nl', 'uk', 'pt']
+
 master_doc = 'index'
