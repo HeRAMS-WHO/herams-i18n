@@ -1,7 +1,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
 "PO-Revision-Date: 2022-02-15 12:11+0000\n"
 "Last-Translator: Caroline Test Account <fuhrerc@who.int>\n"
 "Language-Team: Portuguese <https://weblate.herams-staging.org/projects/"
