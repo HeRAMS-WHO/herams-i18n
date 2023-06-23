@@ -23,7 +23,16 @@ jobs:
       - name: Install sphinx-intl
         run: pip install Sphinx sphinx-intl
       - name: Dynamically update .po files for all languages
-        run: sphinx-intl update -p . --all
+        run: |
+          for lang_dir in $(find locales -type d -name LC_MESSAGES); do
+            echo "Processing language directory: $lang_dir"
+            lang_code=$(basename $(dirname "$lang_dir"))
+            
+            for po_file in $(find "$lang_dir" -type f -name "*.po"); do
+              sed -i 's/POT-Creation-Date: .*$/POT-Creation-Date: 2023-06-23 18:00+0000/' "$po_file"
+            done
+            sphinx-intl update -p . -l "$lang_code"
+          done
       - name: Run msgmerge
         run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
