@@ -23,6 +23,7 @@ jobs:
       - name: Dynamically update .po files for all languages
         run: |
           for lang_dir in $(find locales -type d -name LC_MESSAGES); do
+            echo "Processing language directory: $lang_dir"
             lang_code=$(basename $(dirname "$lang_dir"))
             sphinx-intl update -p . -l "$lang_code"
           done
