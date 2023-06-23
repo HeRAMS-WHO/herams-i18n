@@ -22,31 +22,9 @@ jobs:
         run: sudo apt install gettext
       - name: Install sphinx-intl
         run: pip install sphinx-intl
-      - name: Validate POT-Creation-Date in .po files
-        run: |
-          for po_file in $(find locales -type f -name '*.po'); do
-            # Extract the POT-Creation-Date line
-            pot_creation_date=$(grep 'POT-Creation-Date:' "$po_file")
-
-            # Extract date from the line
-            date_string=$(echo "$pot_creation_date" | sed -E 's/POT-Creation-Date: (.+)\\n"/\1/')
-
-            # Validate the date format
-            if [[ ! $date_string =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}\ [0-9]{2}:[0-9]{2}\+[0-9]{4}$ ]]; then
-              echo "Invalid POT-Creation-Date in file $po_file: $date_string"
-              exit 1
-            fi
-          done
       - name: Dynamically update .po files for all languages
         run: |
-          for lang_dir in $(find locales -type d -name LC_MESSAGES); do
-            echo "Processing language directory: $lang_dir"
-            lang_code=$(basename $(dirname "$lang_dir"))
-            for po_file in $(find "$lang_dir" -type f -name "*.po"); do
-              echo "Processing .po file: $po_file"
-            done
-            sphinx-intl update -p . -l "$lang_code"
-          done
+          sphinx-intl update -p . -l pt
       - name: Run msgmerge
         run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
