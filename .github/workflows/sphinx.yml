@@ -1,4 +1,5 @@
 name: Update POT file
+
 on:
   workflow_dispatch:
   push:
@@ -6,6 +7,7 @@ on:
       - 'docs/index.rst'
     branches:
       - 'master'
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,11 +25,11 @@ jobs:
       - name: Update POT-Creation-Date in .po files
         run: |
           find locales -type f -name '*.po' | while read -r file; do
-              if grep -q 'POT-Creation-Date:' "$file" && ! grep -q 'POT-Creation-Date: .\+' "$file"; then
-                  current_date=$(date '+%Y-%m-%d %H:%M')
-                  sed -i "s/POT-Creation-Date:/POT-Creation-Date: $current_date/" "$file"
-              fi
-          done  
+            if grep -q 'POT-Creation-Date:' "$file" && ! grep -q 'POT-Creation-Date: .\+' "$file"; then
+              current_date=$(date '+%Y-%m-%d %H:%M')
+              sed -i "s/POT-Creation-Date:/POT-Creation-Date: $current_date/" "$file"
+            fi
+          done
       - name: Dynamically update .po files for all languages
         run: |
           for lang_dir in $(find locales -type d -name LC_MESSAGES); do
