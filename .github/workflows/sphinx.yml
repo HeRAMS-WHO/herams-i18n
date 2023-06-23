@@ -24,17 +24,16 @@ jobs:
         run: pip install sphinx-intl
       - name: Update POT-Creation-Date in .po files
         run: |
-          find locales -type f -name '*.po' | while read -r file; do
-            if grep -q 'POT-Creation-Date:' "$file" && ! grep -q 'POT-Creation-Date: .\+' "$file"; then
-              current_date=$(date '+%Y-%m-%d %H:%M')
-              sed -i "s/POT-Creation-Date:/POT-Creation-Date: $current_date/" "$file"
-            fi
-          done
+          current_date=$(date '+%Y-%m-%d %H:%M%z')
+          find locales -type f -name '*.po' -exec sed -i "s/POT-Creation-Date: .*/POT-Creation-Date: $current_date/" {} \;
       - name: Dynamically update .po files for all languages
         run: |
           for lang_dir in $(find locales -type d -name LC_MESSAGES); do
             echo "Processing language directory: $lang_dir"
             lang_code=$(basename $(dirname "$lang_dir"))
+            for po_file in $(find "$lang_dir" -type f -name "*.po"); do
+              echo "Processing .po file: $po_file"
+            done
             sphinx-intl update -p . -l "$lang_code"
           done
       - name: Run msgmerge
