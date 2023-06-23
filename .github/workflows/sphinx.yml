@@ -22,10 +22,6 @@ jobs:
         run: sudo apt install gettext
       - name: Install sphinx-intl
         run: pip install sphinx-intl
-      - name: Update POT-Creation-Date in .po files
-        run: |
-          current_date=$(date '+%Y-%m-%d %H:%M%z')
-          find locales -type f -name '*.po' -exec sed -i "s/POT-Creation-Date: .*/POT-Creation-Date: $current_date/" {} \;
       - name: Validate POT-Creation-Date in .po files
         run: |
           for po_file in $(find locales -type f -name '*.po'); do
