@@ -26,6 +26,15 @@ jobs:
         run: |
           current_date=$(date '+%Y-%m-%d %H:%M%z')
           find locales -type f -name '*.po' -exec sed -i "s/POT-Creation-Date: .*/POT-Creation-Date: $current_date/" {} \;
+      - name: Validate POT-Creation-Date in .po files
+        run: |
+          for po_file in $(find locales -type f -name '*.po'); do
+            pot_date=$(grep -oP '(?<=POT-Creation-Date: ).*' "$po_file")
+            if ! date -d "$pot_date" &> /dev/null; then
+              echo "Invalid POT-Creation-Date in file $po_file: $pot_date"
+              exit 1
+            fi
+          done
       - name: Dynamically update .po files for all languages
         run: |
           for lang_dir in $(find locales -type d -name LC_MESSAGES); do
