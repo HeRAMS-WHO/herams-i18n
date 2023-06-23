@@ -25,9 +25,15 @@ jobs:
       - name: Validate POT-Creation-Date in .po files
         run: |
           for po_file in $(find locales -type f -name '*.po'); do
-            pot_date=$(grep -oP '(?<=POT-Creation-Date: ).*' "$po_file")
-            if ! date -d "$pot_date" &> /dev/null; then
-              echo "Invalid POT-Creation-Date in file $po_file: $pot_date"
+            # Extract the POT-Creation-Date line
+            pot_creation_date=$(grep 'POT-Creation-Date:' "$po_file")
+
+            # Extract date from the line
+            date_string=$(echo "$pot_creation_date" | sed -E 's/POT-Creation-Date: (.+)\\n"/\1/')
+
+            # Validate the date format
+            if [[ ! $date_string =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}\ [0-9]{2}:[0-9]{2}\+[0-9]{4}$ ]]; then
+              echo "Invalid POT-Creation-Date in file $po_file: $date_string"
               exit 1
             fi
           done
