@@ -18,6 +18,14 @@ jobs:
         run: git config --global user.name "Github Action" && git config --global user.email '<>'
       - name: Install gettext
         run: sudo apt install gettext
+      - name: Install sphinx-intl
+        run: pip install sphinx-intl
+      - name: Dynamically update .po files for all languages
+        run: |
+          for lang_dir in $(find locales -type d -name LC_MESSAGES); do
+            lang_code=$(basename $(dirname "$lang_dir"))
+            sphinx-intl update -p . -l "$lang_code"
+          done
       - name: Run msgmerge
         run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
