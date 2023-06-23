@@ -1,5 +1,6 @@
 name: Update PO Files
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'docs/**' # Modify this pattern to match your documentation directory
