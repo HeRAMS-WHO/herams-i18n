@@ -22,11 +22,6 @@ jobs:
         run: sudo apt install gettext
       - name: Install sphinx-intl
         run: pip install Sphinx sphinx-intl
-      - name: Update PO Files
-        run: |
-          make gettext
-          sphinx-intl update -p _build/gettext -l pt
-          make -e SPHINXOPTS="-Dlanguage='pt'" html
       - name: Run msgmerge
         run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
