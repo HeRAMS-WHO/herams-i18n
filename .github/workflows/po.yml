@@ -23,4 +23,7 @@ jobs:
           pip install sphinx sphinx-intl
 
       - name: Update PO Files
-        run: sphinx-intl update -p . -l pt # Modify the language code as needed
+        run: |
+          make gettext
+          sphinx-intl update -p _build/gettext -l pt
+          make -e SPHINXOPTS="-Dlanguage='pt'" html
