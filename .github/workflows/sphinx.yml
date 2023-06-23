@@ -22,13 +22,11 @@ jobs:
         run: sudo apt install gettext
       - name: Install sphinx-intl
         run: pip install Sphinx sphinx-intl
-      - name: Dynamically update .po files for all languages
+      - name: Update PO Files
         run: |
-          for lang_dir in $(find locales -type d -name LC_MESSAGES); do
-            echo "Processing language directory: $lang_dir"
-            lang_code=$(basename $(dirname "$lang_dir"))
-            sphinx-intl update -p . -l "$lang_code"
-          done
+          make gettext
+          sphinx-intl update -p _build/gettext -l pt
+          make -e SPHINXOPTS="-Dlanguage='pt'" html
       - name: Run msgmerge
         run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
