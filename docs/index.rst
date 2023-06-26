@@ -567,6 +567,7 @@ Remove a Response from Health Facility
 2. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column 
 3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted. 
 
+
 .. note:: It is only possible to delete the most recent response. Previous responses are locked for editing/deleting to preserve the historical changes. 
 
 .. note:: Only delete all responses to a health facility if you are sure that it was entered by mistake (e.g. duplicated record). For health facilities that are permanently closed, add a new response and change the status to *permanently closed*. 
