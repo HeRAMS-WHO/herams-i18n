@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-26 16:55+0000\n"
+"POT-Creation-Date: 2023-06-26 17:25+0000\n"
 "PO-Revision-Date: 2019-09-17 14:00+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language-Team: Dutch <https://weblate.herams-staging.org/projects/herams/"
@@ -1225,13 +1225,13 @@ msgid ""
 "responses have been deleted."
 msgstr ""
 
-#: docs/index.rst:570
+#: docs/index.rst:571
 msgid ""
 "It is only possible to delete the most recent response. Previous responses "
 "are locked for editing/deleting to preserve the historical changes."
 msgstr ""
 
-#: docs/index.rst:572
+#: docs/index.rst:573
 msgid ""
 "Only delete all responses to a health facility if you are sure that it was "
 "entered by mistake (e.g. duplicated record). For health facilities that are "
@@ -1239,23 +1239,23 @@ msgid ""
 "closed*."
 msgstr ""
 
-#: docs/index.rst:575
+#: docs/index.rst:576
 msgid ""
 "Deleting responses cannot be undone. Thus, be careful when deleting "
 "responses."
 msgstr ""
 
-#: docs/index.rst:579
+#: docs/index.rst:580
 msgid "Download Data"
 msgstr ""
 
-#: docs/index.rst:581
+#: docs/index.rst:582
 msgid ""
 "Data for individual health facilities can be downloaded as **CSV** or "
 "**Excel** file."
 msgstr ""
 
-#: docs/index.rst:583
+#: docs/index.rst:584
 msgid ""
 "Whether you have permissions to download data depends on your function and "
 "role. If you require your access permissions to be changed, kindly contact "
@@ -1265,29 +1265,29 @@ msgid ""
 "altered."
 msgstr ""
 
-#: docs/index.rst:586
+#: docs/index.rst:587
 msgid "Download Workspace Data"
 msgstr ""
 
-#: docs/index.rst:588
+#: docs/index.rst:589
 msgid ""
 "Follow the instructions below to export data from your workspace. If you "
 "require data from multiple workspaces, you can repeat the below steps and "
 "merge your data in the analysis tool of choice."
 msgstr ""
 
-#: docs/index.rst:590
+#: docs/index.rst:591
 msgid ""
 "In order to download data, you will require special permissions to the "
 "workspace. Contact your system administrator to elevate your access rights "
 "if needed."
 msgstr ""
 
-#: docs/index.rst:593
+#: docs/index.rst:594
 msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
 msgstr ""
 
-#: docs/index.rst:594 docs/index.rst:614
+#: docs/index.rst:595 docs/index.rst:615
 msgid ""
 "You should now see a table displaying the list of workspaces available in "
 "your project. If you have been granted permission to download data, you "
@@ -1295,7 +1295,7 @@ msgid ""
 "the download settings."
 msgstr ""
 
-#: docs/index.rst:595 docs/index.rst:615
+#: docs/index.rst:596 docs/index.rst:616
 msgid ""
 "In the download tab you have the option to customize your data export. You "
 "can choose between exporting data as text or code as well as the type of "
@@ -1303,20 +1303,20 @@ msgid ""
 "default options (2)."
 msgstr ""
 
-#: docs/index.rst:597 docs/index.rst:617
+#: docs/index.rst:598 docs/index.rst:618
 msgid ""
 "If you choose to export answers as code, questions with predefined answer "
 "options will show coded values instead of the text labels (e.g. A1 instead "
 "of \"available\")."
 msgstr ""
 
-#: docs/index.rst:599 docs/index.rst:619
+#: docs/index.rst:600 docs/index.rst:620
 msgid ""
 "If a survey is available in multiple languages, use the drop-down list to "
 "specify the export language (3)."
 msgstr ""
 
-#: docs/index.rst:600
+#: docs/index.rst:601
 msgid ""
 "By default, all available responses for a health facility will be exported. "
 "For projects with multiple responses per health facility, the **report "
@@ -1326,13 +1326,13 @@ msgid ""
 "the **report date** to today's date (4)."
 msgstr ""
 
-#: docs/index.rst:601 docs/index.rst:621
+#: docs/index.rst:602 docs/index.rst:622
 msgid ""
 "Once you have defined the export settings, select between the two export "
 "formats (**CSV** or **Excel**) by clicking the respective button (5)."
 msgstr ""
 
-#: docs/index.rst:604 docs/index.rst:625
+#: docs/index.rst:605 docs/index.rst:626
 msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an Excel file if you select a language other than English. For more "
@@ -1340,27 +1340,27 @@ msgid ""
 "Encoding in Excel`_."
 msgstr ""
 
-#: docs/index.rst:608
+#: docs/index.rst:609
 msgid "Download the Entire Data Set"
 msgstr ""
 
-#: docs/index.rst:609
+#: docs/index.rst:610
 msgid ""
 "Project administrators or users with special permissions can export the "
 "entire project data from the admin interface."
 msgstr ""
 
-#: docs/index.rst:611
+#: docs/index.rst:612
 msgid ""
 "Access to project level data is limited to selected users only. Contact your "
 "country administrator for further information."
 msgstr ""
 
-#: docs/index.rst:613
+#: docs/index.rst:614
 msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
 msgstr ""
 
-#: docs/index.rst:620
+#: docs/index.rst:621
 msgid ""
 "By default, all available responses for a health facility will be exported. "
 "For projects with multiple responses per health facility, the **report** "
@@ -1370,69 +1370,69 @@ msgid ""
 "**report date** to today's date (4)."
 msgstr ""
 
-#: docs/index.rst:623
+#: docs/index.rst:624
 msgid ""
 "For large data sets, exporting data in Excel takes substantially longer than "
 "exporting as **CSV** format."
 msgstr ""
 
-#: docs/index.rst:629
+#: docs/index.rst:630
 msgid "Data Encoding in Excel"
 msgstr ""
 
-#: docs/index.rst:630
+#: docs/index.rst:631
 msgid ""
 "If data is downloaded for further analysis in Excel or a statistical "
 "software of choice (e.g. R or STATA), data encoding should always be set to "
 "UTF-8."
 msgstr ""
 
-#: docs/index.rst:632
+#: docs/index.rst:633
 msgid ""
 "Encoding issues are particularly prevalent in languages with special "
 "character and can result in the data being unreadable. For example, instead "
 "of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
 
-#: docs/index.rst:634
+#: docs/index.rst:635
 msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an **Excel** file."
 msgstr ""
 
-#: docs/index.rst:636
+#: docs/index.rst:637
 msgid ""
 "The below instructions guide users through the steps to define the data "
 "encoding in Excel."
 msgstr ""
 
-#: docs/index.rst:638
+#: docs/index.rst:639
 msgid "Open a new Excel file."
 msgstr ""
 
-#: docs/index.rst:639
+#: docs/index.rst:640
 msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From Text/"
 "CSV**."
 msgstr ""
 
-#: docs/index.rst:640
+#: docs/index.rst:641
 msgid ""
 "In the **Import Data** dialog box, locate and double-click the text file "
 "that you want to import, and click **Import**."
 msgstr ""
 
-#: docs/index.rst:641
+#: docs/index.rst:642
 msgid ""
 "In the top left corner of the pop-up window that opens, change the encoding "
 "type to **UTF-8**, and click **Import**."
 msgstr ""
 
-#: docs/index.rst:650
+#: docs/index.rst:651
 msgid "HeRAMS Administration"
 msgstr ""
 
-#: docs/index.rst:652
+#: docs/index.rst:653
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers "
 "step-by-step instructions for common tasks performed by advanced users (e.g. "
@@ -1444,7 +1444,7 @@ msgid ""
 "admins* on how to administer a project locally."
 msgstr ""
 
-#: docs/index.rst:655
+#: docs/index.rst:656
 msgid ""
 "Access to different parts of the admin interface depends on your function "
 "and role. If you require your permissions to be changed, kindly contact your "
@@ -1453,15 +1453,15 @@ msgid ""
 "why you would like your access permissions to be altered."
 msgstr ""
 
-#: docs/index.rst:658
+#: docs/index.rst:659
 msgid "User Management"
 msgstr ""
 
-#: docs/index.rst:661
+#: docs/index.rst:662
 msgid "Workspace Permissions"
 msgstr ""
 
-#: docs/index.rst:663
+#: docs/index.rst:664
 msgid ""
 "The use of workspaces permits users to manage a set of health facilities (e."
 "g. all health facilities within a district) autonomously. **Workspace "
@@ -1470,23 +1470,23 @@ msgid ""
 "at the workspace level:"
 msgstr ""
 
-#: docs/index.rst:666
+#: docs/index.rst:667
 msgid "**Edit data**: Allows users to create, edit and delete records."
 msgstr ""
 
-#: docs/index.rst:668
+#: docs/index.rst:669
 msgid ""
 "**Download data** Enables users to download all records from a workspace for "
 "further analysis in external applications."
 msgstr ""
 
-#: docs/index.rst:670
+#: docs/index.rst:671
 msgid ""
 "**Manage users**: Permits users to share access to a workspace with other "
 "users."
 msgstr ""
 
-#: docs/index.rst:672
+#: docs/index.rst:673
 msgid ""
 "**Grant admin permissions**: This permission is only available to *Project "
 "administrators* and should only be granted to **workspace owners**. It "
@@ -1494,7 +1494,7 @@ msgid ""
 "ability to grant another user the permission to invite new users."
 msgstr ""
 
-#: docs/index.rst:674
+#: docs/index.rst:675
 msgid ""
 "The ability to invite new users to contribute or manage a workspace depends "
 "on the permission of the user granting access. A user with permission to "
@@ -1503,7 +1503,7 @@ msgid ""
 "able to grant access to edit or download data to other users."
 msgstr ""
 
-#: docs/index.rst:676
+#: docs/index.rst:677
 msgid ""
 "Access to workspaces and projects should always be granted with regards to "
 "the users' roles and responsibilities. For more information on user roles "
@@ -1511,11 +1511,11 @@ msgid ""
 "roles`_ and `mapping user roles to permissions`_."
 msgstr ""
 
-#: docs/index.rst:680
+#: docs/index.rst:681
 msgid "Project Permissions"
 msgstr ""
 
-#: docs/index.rst:682
+#: docs/index.rst:683
 msgid ""
 "Similar to workspace permissions, permissions can also be granted at the "
 "project level. It is important to note that if permissions are granted at "
@@ -1526,11 +1526,11 @@ msgid ""
 "workspace."
 msgstr ""
 
-#: docs/index.rst:684
+#: docs/index.rst:685
 msgid "There are six permissions that can be granted at the project level:"
 msgstr ""
 
-#: docs/index.rst:686
+#: docs/index.rst:687
 msgid ""
 "**View dashboard**: Grants access exclusively to the project dashboard. "
 "Granting users explicit access to the project dashboard is only required for "
@@ -1538,53 +1538,53 @@ msgid ""
 "to the platform will be able to view the project dashboard."
 msgstr ""
 
-#: docs/index.rst:688
+#: docs/index.rst:689
 msgid ""
 "**Edit data**: Allows users to create, edit and delete records in any "
 "workspace of the project."
 msgstr ""
 
-#: docs/index.rst:690
+#: docs/index.rst:691
 msgid ""
 "**Download data**: Enables users to download the entire dataset, including "
 "records from all workspaces for further analysis in external applications."
 msgstr ""
 
-#: docs/index.rst:692
+#: docs/index.rst:693
 msgid ""
 "**Manage workspaces**: Grants a user access to create, modify and delete "
 "workspaces as well as the ability to invite users to contribute to an "
 "individual workspace."
 msgstr ""
 
-#: docs/index.rst:694
+#: docs/index.rst:695
 msgid ""
 "*Workspace owners* must be granted permission at the workspace level. If a "
 "user is granted permissions to *Manage workspaces* they will have access to "
 "**all** workspaces."
 msgstr ""
 
-#: docs/index.rst:696
+#: docs/index.rst:697
 msgid ""
 "**Configure dashboard**: Grants users the ability to configure their project "
 "dashboard."
 msgstr ""
 
-#: docs/index.rst:698
+#: docs/index.rst:699
 msgid ""
 "**Manage survey** Grants permission to access the survey configurations. "
 "This permission can only be granted by a global administrator."
 msgstr ""
 
-#: docs/index.rst:702
+#: docs/index.rst:703
 msgid "User Roles"
 msgstr ""
 
-#: docs/index.rst:704
+#: docs/index.rst:705
 msgid "There are six standard user roles used accross projects."
 msgstr ""
 
-#: docs/index.rst:712
+#: docs/index.rst:713
 msgid ""
 "**Project owner**: The designated person who is responsible for the HeRAMS "
 "project. They can invite users to view the project dashboard or the list of "
@@ -1592,7 +1592,7 @@ msgid ""
 "managing users and assuring data quality."
 msgstr ""
 
-#: docs/index.rst:714
+#: docs/index.rst:715
 msgid ""
 "**Project admin**: The *project owner* typically relies on an Information "
 "Management Officer to manage the daily activities of the HeRAMS project and "
@@ -1603,7 +1603,7 @@ msgid ""
 "owners* to manage individual workspaces."
 msgstr ""
 
-#: docs/index.rst:716
+#: docs/index.rst:717
 msgid ""
 "**Workspace owner:** Are commonly at the sub-national level, overseeing data "
 "collection for a specific area (e.g. a district). They have full control "
@@ -1614,7 +1614,7 @@ msgid ""
 "using the project dashboard."
 msgstr ""
 
-#: docs/index.rst:718
+#: docs/index.rst:719
 msgid ""
 "**Data contributor:** Support the workspace owner in collecting and managing "
 "information on individual health facilities. Like *workspace owners* they "
@@ -1622,7 +1622,7 @@ msgid ""
 "project by accessing the project dashboard."
 msgstr ""
 
-#: docs/index.rst:720
+#: docs/index.rst:721
 msgid ""
 "**Data viewers**: Under exceptional situations, a user might be granted the "
 "role of *data viewer*. This means they are granted access to download the "
@@ -1631,37 +1631,37 @@ msgid ""
 "dashboard."
 msgstr ""
 
-#: docs/index.rst:722
+#: docs/index.rst:723
 msgid ""
 "**Project viewer:** The role of *project viewer* is intended for users at "
 "any level who rely on HeRAMS data for their own work. Their access is "
 "limited to the project dashboard and the list of available workspaces."
 msgstr ""
 
-#: docs/index.rst:724
+#: docs/index.rst:725
 msgid ""
 "If a project is set to **private** or **closed** access to the project "
 "dashboard can be further restricted. Please consult `Project Settings` for "
 "further information on project statuses."
 msgstr ""
 
-#: docs/index.rst:728
+#: docs/index.rst:729
 msgid "Mapping User Roles to Permissions"
 msgstr ""
 
-#: docs/index.rst:730
+#: docs/index.rst:731
 msgid ""
 "**Data contributors**: *data contributors* are granted access to *edit data* "
 "for individual workspaces."
 msgstr ""
 
-#: docs/index.rst:737
+#: docs/index.rst:738
 msgid ""
 "Optionally, *data contributors* can also be granted permissions to download "
 "data."
 msgstr ""
 
-#: docs/index.rst:744
+#: docs/index.rst:745
 msgid ""
 "**Data viewers**: It is possible to grant users access to download data "
 "without providing them with edit rights. While this permission is commonly "
@@ -1669,14 +1669,14 @@ msgid ""
 "permission might only be granted to download data."
 msgstr ""
 
-#: docs/index.rst:751
+#: docs/index.rst:752
 msgid ""
 "**Workspace owners**: In addition to editing and downloading data, "
 "*workspace owners* are granted permission to *manage users*. This grants "
 "them the ability to invite other users to contribute to their workspace."
 msgstr ""
 
-#: docs/index.rst:758
+#: docs/index.rst:759
 msgid ""
 "Under special circumstances a *project admin* might grant a *workspace "
 "owner* admin permission to a workspace, allowing the *workspace owner* to "
@@ -1684,18 +1684,18 @@ msgid ""
 "used carefully and only granted if absolutely necessary."
 msgstr ""
 
-#: docs/index.rst:765
+#: docs/index.rst:766
 msgid ""
 "While *workspace owners* may delegate granting access permissions to another "
 "user, they remain responsible for their workspace and users having access to "
 "it."
 msgstr ""
 
-#: docs/index.rst:769
+#: docs/index.rst:770
 msgid "Add a User"
 msgstr ""
 
-#: docs/index.rst:771
+#: docs/index.rst:772
 msgid ""
 "To grant a user access to your project, navigate to the list of workspaces "
 "of your project. If you would like to grant access to a specific workspace "
@@ -1703,11 +1703,11 @@ msgid ""
 "for details."
 msgstr ""
 
-#: docs/index.rst:773
+#: docs/index.rst:774
 msgid "Click the *Users* tab to open the user management section."
 msgstr ""
 
-#: docs/index.rst:775
+#: docs/index.rst:776
 msgid ""
 "You should now see a page similar to the image below. On the bottom half of "
 "the page, you can see a list of all users currently having access to the "
@@ -1717,72 +1717,72 @@ msgid ""
 "are typing. Select the user you would like to add."
 msgstr ""
 
-#: docs/index.rst:782
+#: docs/index.rst:783
 msgid "You can add multiple users add once as shown in the image above."
 msgstr ""
 
-#: docs/index.rst:786
+#: docs/index.rst:787
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`Workspace Permissions`_ or `Project Permissions`_ for further details on "
 "workspace permissions."
 msgstr ""
 
-#: docs/index.rst:788
+#: docs/index.rst:789
 msgid "Click the |add| button to grant users the desired permissions."
 msgstr ""
 
-#: docs/index.rst:797
+#: docs/index.rst:798
 msgid "Change a User's Permission"
 msgstr ""
 
-#: docs/index.rst:799
+#: docs/index.rst:800
 msgid ""
 "Follow the instructions outlined  `above <#add-a-user>`__ to open the user "
 "management interface of your workspace or project."
 msgstr ""
 
-#: docs/index.rst:800 docs/index.rst:813
+#: docs/index.rst:801 docs/index.rst:814
 msgid ""
 "On the second half of the page you will see a list of all users having "
 "access to the workspace or project, including their permissions."
 msgstr ""
 
-#: docs/index.rst:801
+#: docs/index.rst:802
 msgid ""
 "You can change a user's permission by flipping the corresponding switch "
 "button to **Allowed** or **Denied**."
 msgstr ""
 
-#: docs/index.rst:810
+#: docs/index.rst:811
 msgid "Remove a User"
 msgstr ""
 
-#: docs/index.rst:812
+#: docs/index.rst:813
 msgid ""
 "Open the user management interface of your *Workspace* or *Project*. See "
 "`here <#add-a-user>`__ for more details on how to access the user management "
 "interface."
 msgstr ""
 
-#: docs/index.rst:814
+#: docs/index.rst:815
 msgid ""
 "To remove a user change all permissions to **Not allowed**. Upon reloading "
 "the page, you will see that the user has disappeared from the list (see "
 "video above)."
 msgstr ""
 
-#: docs/index.rst:816
+#: docs/index.rst:817
 msgid ""
 "Removing a user from a **Workspace** will not revoke their **Project** level "
 "permissions and vice versa."
 msgstr ""
 
-#: docs/index.rst:820
+#: docs/index.rst:821
 msgid "Manage Workspaces"
 msgstr ""
 
-#: docs/index.rst:821
+#: docs/index.rst:822
 msgid ""
 "Managing the list of available workspaces is a key component of the *Project "
 "admin's* role. In addition to being able to create, edit or delete "
@@ -1790,38 +1790,38 @@ msgid ""
 "and granting them appropriate permissions."
 msgstr ""
 
-#: docs/index.rst:825
+#: docs/index.rst:826
 msgid "Create a Workspace"
 msgstr ""
 
-#: docs/index.rst:827
+#: docs/index.rst:828
 msgid ""
 "To create a new workspace, navigate to the list of workspaces of your "
 "project. See ``_ steps (1-2) for details."
 msgstr ""
 
-#: docs/index.rst:828
+#: docs/index.rst:829
 msgid ""
 "In the upper right corner, you will see a button labeled |create-workspace|."
 msgstr ""
 
-#: docs/index.rst:829
+#: docs/index.rst:830
 msgid ""
 "You will be directed to a page where you will be able to create a new "
 "workspace."
 msgstr ""
 
-#: docs/index.rst:830
+#: docs/index.rst:831
 msgid "Enter the workspace's name into the title field."
 msgstr ""
 
-#: docs/index.rst:831
+#: docs/index.rst:832
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a new "
 "token by selecting **Create new token**."
 msgstr ""
 
-#: docs/index.rst:838
+#: docs/index.rst:839
 msgid ""
 "Tokens are unique identifiers that link health facilities to workspaces. To "
 "add a health facility to a workspace the token of the record in question has "
@@ -1829,44 +1829,44 @@ msgid ""
 "how to change a record's token."
 msgstr ""
 
-#: docs/index.rst:841
+#: docs/index.rst:842
 msgid "Rename a Workspace"
 msgstr ""
 
-#: docs/index.rst:843
+#: docs/index.rst:844
 msgid ""
 "To rename a workspace, open your workspace as outlined `here <#Access-your-"
 "workspace>`__ and go to *Workspace settings* tabs."
 msgstr ""
 
-#: docs/index.rst:844
+#: docs/index.rst:845
 msgid "You should now be able to modify the title and token of your workspace."
 msgstr ""
 
-#: docs/index.rst:845
+#: docs/index.rst:846
 msgid "Save your changes by clicking the |save| button."
 msgstr ""
 
-#: docs/index.rst:850
+#: docs/index.rst:851
 msgid "Delete a Workspace"
 msgstr ""
 
-#: docs/index.rst:852
+#: docs/index.rst:853
 msgid ""
 "Access the workspace settings as outlined `above <#rename-a-workspace>`__."
 msgstr ""
 
-#: docs/index.rst:853
+#: docs/index.rst:854
 msgid ""
 "Click the |delete-bt| button in the bottom half of the page to permanently "
 "delete the workspace."
 msgstr ""
 
-#: docs/index.rst:859
+#: docs/index.rst:860
 msgid "Configure the Project dashboard"
 msgstr ""
 
-#: docs/index.rst:861
+#: docs/index.rst:862
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This section "
@@ -1875,27 +1875,27 @@ msgid ""
 "`here <#default-dashboard-pages>`__."
 msgstr ""
 
-#: docs/index.rst:864
+#: docs/index.rst:865
 msgid "Create a Dashboard Page"
 msgstr ""
 
-#: docs/index.rst:866
+#: docs/index.rst:867
 msgid "To add a new page to a dashboard, open your project's admin page."
 msgstr ""
 
-#: docs/index.rst:867
+#: docs/index.rst:868
 msgid ""
 "Open the `Dashboard settings` tab. You should now see a table with the list "
 "of existing dashboard pages."
 msgstr ""
 
-#: docs/index.rst:868
+#: docs/index.rst:869
 msgid ""
 "To add a new page to the dashboard, click the |add-page| button in the top "
 "right corner."
 msgstr ""
 
-#: docs/index.rst:870
+#: docs/index.rst:871
 msgid ""
 "To create the standard HeRAMS dashboard, export an existing dashboard from "
 "another project using the *Export all* button. This will export a JSON file. "
@@ -1904,53 +1904,53 @@ msgid ""
 "according to your needs."
 msgstr ""
 
-#: docs/index.rst:872
+#: docs/index.rst:873
 msgid ""
 "Enter the page name in the top field. It is recommended to select an item "
 "from the drop-down list. This will assure the page title is automatically "
 "translated into other languages."
 msgstr ""
 
-#: docs/index.rst:874
+#: docs/index.rst:875
 msgid ""
 "If you are adding a sub-page to an existing page, select the parent page "
 "from the **Parent Id** drop-down list. For all other pages select **No "
 "parent**."
 msgstr ""
 
-#: docs/index.rst:875
+#: docs/index.rst:876
 msgid ""
 "Define the page order by entering a **Sort** index. Increment the index by 1 "
 "for each new page, starting with **0** for the first page."
 msgstr ""
 
-#: docs/index.rst:876
+#: docs/index.rst:877
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr ""
 
-#: docs/index.rst:877 docs/index.rst:887
+#: docs/index.rst:878 docs/index.rst:888
 msgid ""
 "To return to the list of available dashboard pages click the |back-to-list| "
 "button."
 msgstr ""
 
-#: docs/index.rst:879
+#: docs/index.rst:880
 msgid ""
 "You only created an empty page. To add elements to your page, see section "
 "`Create a Dashboard Element`_."
 msgstr ""
 
-#: docs/index.rst:882
+#: docs/index.rst:883
 msgid "Modify a Dashboard Page"
 msgstr ""
 
-#: docs/index.rst:884
+#: docs/index.rst:885
 msgid ""
 "To modify an existing page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:885
+#: docs/index.rst:886
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings. You are now able to change the page's settings as well as "
@@ -1958,38 +1958,38 @@ msgid ""
 "element`_ for more information on how to add dashboard elements to your page."
 msgstr ""
 
-#: docs/index.rst:886
+#: docs/index.rst:887
 msgid "Save your changes by clicking the |update-page| button."
 msgstr ""
 
-#: docs/index.rst:890
+#: docs/index.rst:891
 msgid "Delete a Dashboard Page"
 msgstr ""
 
-#: docs/index.rst:892
+#: docs/index.rst:893
 msgid ""
 "To permanently delete a page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:893
+#: docs/index.rst:894
 msgid ""
 "In the list of available pages, use the |delete| icon in the right-most "
 "column to permanently delete the page."
 msgstr ""
 
-#: docs/index.rst:895
+#: docs/index.rst:896
 msgid ""
 "Be careful when deleting pages or elements. Deleting dashboard pages will "
 "permanently delete the page including sub-pages. This action cannot be "
 "undone."
 msgstr ""
 
-#: docs/index.rst:898
+#: docs/index.rst:899
 msgid "Create a Dashboard Element"
 msgstr ""
 
-#: docs/index.rst:900
+#: docs/index.rst:901
 msgid ""
 "This section covers the steps required to add a new element to an existing "
 "dashboard page. If you would like to extend your dashboard by adding "
@@ -1997,19 +1997,19 @@ msgid ""
 "information."
 msgstr ""
 
-#: docs/index.rst:902
+#: docs/index.rst:903
 msgid ""
 "To modify an existing page, access the list of existing pages as outlined in "
 "the `previous <#create-a-dashboard-page>`_ section."
 msgstr ""
 
-#: docs/index.rst:903
+#: docs/index.rst:904
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings."
 msgstr ""
 
-#: docs/index.rst:904
+#: docs/index.rst:905
 msgid ""
 "On the right side of the page you should see a list of available dashboard "
 "elements. Above this list, you have three buttons |create-elements|. Select "
@@ -2017,52 +2017,52 @@ msgid ""
 "button."
 msgstr ""
 
-#: docs/index.rst:911
+#: docs/index.rst:912
 msgid "You should now see a page similar to the one displayed below."
 msgstr ""
 
-#: docs/index.rst:918
+#: docs/index.rst:919
 msgid ""
 "The **Transpose** feature allows switching between aggregating data at the "
 "health facility and the health service level. Set the feature to **No** to "
 "display data aggregated at the health facility level."
 msgstr ""
 
-#: docs/index.rst:920
+#: docs/index.rst:921
 msgid ""
 "Transposing the element or changing the question code or will reload the "
 "page making you lose all other unsaved edits."
 msgstr ""
 
-#: docs/index.rst:922
+#: docs/index.rst:923
 msgid "Select the question to be displayed using the **Code** dropdown list."
 msgstr ""
 
-#: docs/index.rst:923
+#: docs/index.rst:924
 msgid ""
 "Define the element position on the dashboard page by specifying the **Sort** "
 "index. Increment the index by 1 for each new item, starting with 0 for the "
 "first page."
 msgstr ""
 
-#: docs/index.rst:924
+#: docs/index.rst:925
 msgid ""
 "The **Width** and **Height** fields allow creating custom-sized elements."
 msgstr ""
 
-#: docs/index.rst:926
+#: docs/index.rst:927
 msgid ""
 "For charts with large legend elements, it is recommended to use a **Width** "
 "of 2 to assure the legend is displayed correctly."
 msgstr ""
 
-#: docs/index.rst:928
+#: docs/index.rst:929
 msgid ""
 "Optionally, the **Title** field allows you to overwrite the default title of "
 "the element."
 msgstr ""
 
-#: docs/index.rst:929
+#: docs/index.rst:930
 msgid ""
 "For **maps** and **charts**, the bottom half of the page, displays the list "
 "of pre-defined answer options of the selected question. Click the color next "
@@ -2071,116 +2071,116 @@ msgid ""
 "increasing/decreasing the  **Marker Radius**."
 msgstr ""
 
-#: docs/index.rst:932
+#: docs/index.rst:933
 msgid ""
 "For **tables**, two additional fields will be displayed to specify the "
 "**Reason Code** and **Group Code**."
 msgstr ""
 
-#: docs/index.rst:939
+#: docs/index.rst:940
 msgid ""
 "A preview of the element you are creating is shown in the lower half of the "
 "page."
 msgstr ""
 
-#: docs/index.rst:941
+#: docs/index.rst:942
 msgid ""
 "To save the element, click the |create-element-blue| button or use the |"
 "create-return| button save and return to the dashboard."
 msgstr ""
 
-#: docs/index.rst:943
+#: docs/index.rst:944
 msgid "To add additional elements, use the breadcrumbs to return to the"
 msgstr ""
 
-#: docs/index.rst:945
+#: docs/index.rst:946
 msgid ""
 "The below video summarizes how to create a new dashboard page and add "
 "elements."
 msgstr ""
 
-#: docs/index.rst:953
+#: docs/index.rst:954
 msgid "Modify Dashboard Elements"
 msgstr ""
 
-#: docs/index.rst:955
+#: docs/index.rst:956
 msgid ""
 "Users with the permissions to edit dashboards can modify charts and maps "
 "directly from within the dashboard."
 msgstr ""
 
-#: docs/index.rst:957
+#: docs/index.rst:958
 msgid ""
 "To modify the order of dashboard pages or rename a page, see `here <#update-"
 "a-dashboard-page>`__."
 msgstr ""
 
-#: docs/index.rst:959
+#: docs/index.rst:960
 msgid ""
 "Open the dashboard and navigate to the element you would like to change."
 msgstr ""
 
-#: docs/index.rst:960
+#: docs/index.rst:961
 msgid ""
 "In the top right corner of the element you would like to change, you should "
 "see a |pencil-thin| icon. Right-click the icon to open the element's "
 "configuration page."
 msgstr ""
 
-#: docs/index.rst:961
+#: docs/index.rst:962
 msgid "You should now be able:"
 msgstr ""
 
-#: docs/index.rst:963
+#: docs/index.rst:964
 msgid "to change the variables displayed;"
 msgstr ""
 
-#: docs/index.rst:964
+#: docs/index.rst:965
 msgid "to change the colors of a map or a chart; and"
 msgstr ""
 
-#: docs/index.rst:965
+#: docs/index.rst:966
 msgid "to rename the element."
 msgstr ""
 
-#: docs/index.rst:969
+#: docs/index.rst:970
 msgid "Save your changes by clicking the |update-element| button."
 msgstr ""
 
-#: docs/index.rst:974
+#: docs/index.rst:975
 msgid "Delete Dashboard Elements"
 msgstr ""
 
-#: docs/index.rst:976
+#: docs/index.rst:977
 msgid ""
 "Access the list of existing dashboard elements as described `here <#create-a-"
 "dashboard-element>`__."
 msgstr ""
 
-#: docs/index.rst:977
+#: docs/index.rst:978
 msgid ""
 "In the bottom half of the page you will see a list of all available "
 "dashboard pages. Click the |pencil-thin| icon to open the page you would "
 "like to modify."
 msgstr ""
 
-#: docs/index.rst:978
+#: docs/index.rst:979
 msgid ""
 "In the lower half of the page you will see a list of all elements displayed "
 "on the dashboard page. Use the |delete| to permanently delete the element."
 msgstr ""
 
-#: docs/index.rst:980
+#: docs/index.rst:981
 msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
 msgstr ""
 
-#: docs/index.rst:984
+#: docs/index.rst:985
 msgid "FAQ"
 msgstr ""
 
-#: docs/index.rst:986
+#: docs/index.rst:987
 msgid ""
 "This section aims to help users troubleshoot frequently encountered issues. "
 "In case you encounter an issue that is not addressed here, please contact "
@@ -2188,95 +2188,95 @@ msgid ""
 "herams@who.int?>`_."
 msgstr ""
 
-#: docs/index.rst:988
+#: docs/index.rst:989
 msgid "`General`_"
 msgstr ""
 
-#: docs/index.rst:990
+#: docs/index.rst:991
 msgid "`Confirmation email not received`_"
 msgstr ""
 
-#: docs/index.rst:991
+#: docs/index.rst:992
 msgid "`How to reset your password?`_"
 msgstr ""
 
-#: docs/index.rst:993
+#: docs/index.rst:994
 msgid "`View a project/dashboard`_"
 msgstr ""
 
-#: docs/index.rst:995
+#: docs/index.rst:996
 msgid "`Can't access a project dashboard`_"
 msgstr ""
 
-#: docs/index.rst:996
+#: docs/index.rst:997
 msgid "`Who has access to your project/workspace?`_"
 msgstr ""
 
-#: docs/index.rst:998
+#: docs/index.rst:999
 msgid "`Data editing & downloading`_"
 msgstr ""
 
-#: docs/index.rst:1000
+#: docs/index.rst:1001
 msgid "`Data updates don't appear on the dashboard`_"
 msgstr ""
 
-#: docs/index.rst:1001
+#: docs/index.rst:1002
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr ""
 
-#: docs/index.rst:1005
+#: docs/index.rst:1006
 msgid "General"
 msgstr ""
 
-#: docs/index.rst:1008
+#: docs/index.rst:1009
 msgid "Confirmation email not received"
 msgstr ""
 
-#: docs/index.rst:1010
+#: docs/index.rst:1011
 msgid ""
 "If you did not receive an email upon registering or resetting your password, "
 "follow the steps below to troubleshoot the issue."
 msgstr ""
 
-#: docs/index.rst:1012
+#: docs/index.rst:1013
 msgid ""
 "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
 
-#: docs/index.rst:1013
+#: docs/index.rst:1014
 msgid "Check your spam/junk folder."
 msgstr ""
 
-#: docs/index.rst:1014
+#: docs/index.rst:1015
 msgid ""
 "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
 
-#: docs/index.rst:1015
+#: docs/index.rst:1016
 msgid ""
 "If the above steps did not solve your issue, please contact your system "
 "administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
 msgstr ""
 
-#: docs/index.rst:1018
+#: docs/index.rst:1019
 msgid "How to reset your password?"
 msgstr ""
 
-#: docs/index.rst:1020
+#: docs/index.rst:1021
 msgid ""
 "If you forgot your password, follow the instructions provided `here <#reset-"
 "password>`__ to reset your password."
 msgstr ""
 
-#: docs/index.rst:1023
+#: docs/index.rst:1024
 msgid "View a project/dashboard"
 msgstr ""
 
-#: docs/index.rst:1026
+#: docs/index.rst:1027
 msgid "Can't access a project dashboard"
 msgstr ""
 
-#: docs/index.rst:1028
+#: docs/index.rst:1029
 msgid ""
 "For data protection reasons, access to the project dashboards is only "
 "granted upon request. If you require access to a project, please contact "
@@ -2284,11 +2284,11 @@ msgid ""
 "herams@who.int?>`_, specifying why you require access to the project."
 msgstr ""
 
-#: docs/index.rst:1031
+#: docs/index.rst:1032
 msgid "Who has access to your project/workspace?"
 msgstr ""
 
-#: docs/index.rst:1033
+#: docs/index.rst:1034
 msgid ""
 "In-country administrators and users responsible for a project or workspace "
 "can verify the list of users having access to the project and/or workspace "
@@ -2296,15 +2296,15 @@ msgid ""
 "on granting users access to a *Project* or *Workspace*."
 msgstr ""
 
-#: docs/index.rst:1038
+#: docs/index.rst:1039
 msgid "Data editing & downloading"
 msgstr ""
 
-#: docs/index.rst:1041
+#: docs/index.rst:1042
 msgid "Data updates don't appear on the dashboard"
 msgstr ""
 
-#: docs/index.rst:1043
+#: docs/index.rst:1044
 msgid ""
 "It is important to note that the data displayed on the interactive "
 "dashboards are only synchronized every 30 minutes. Thus, is it is possible "
@@ -2313,11 +2313,11 @@ msgid ""
 "information on data caching read the section on `Icons and their Meaning`_."
 msgstr ""
 
-#: docs/index.rst:1046
+#: docs/index.rst:1047
 msgid "Exported data is unreadable / contains strange characters"
 msgstr ""
 
-#: docs/index.rst:1048
+#: docs/index.rst:1049
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an "
 "issue with special characters not displaying correctly, resulting in "

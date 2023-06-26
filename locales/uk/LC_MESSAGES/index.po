@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-26 16:55+0000\n"
+"POT-Creation-Date: 2023-06-26 17:25+0000\n"
 "PO-Revision-Date: 2023-06-19 13:57+0000\n"
 "Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
@@ -1653,7 +1653,7 @@ msgstr ""
 "стовпчику. 3. Якщо потрібно видалити заклад охорони здоров’я повністю, "
 "повторюйте попередній крок, доки не буде видалено всі відповіді."
 
-#: docs/index.rst:570
+#: docs/index.rst:571
 msgid ""
 "It is only possible to delete the most recent response. Previous responses "
 "are locked for editing/deleting to preserve the historical changes."
@@ -1661,7 +1661,7 @@ msgstr ""
 "Видалити можливо тільки останню відповідь. Попередні відповіді блокуються "
 "для редагування/видалення з метою збереження історії змін."
 
-#: docs/index.rst:572
+#: docs/index.rst:573
 msgid ""
 "Only delete all responses to a health facility if you are sure that it was "
 "entered by mistake (e.g. duplicated record). For health facilities that are "
@@ -1674,18 +1674,18 @@ msgstr ""
 "зачиненими, додавайте нову відповідь зі зміненням стану на «permanently "
 "closed» (Закритий назавжди)."
 
-#: docs/index.rst:575
+#: docs/index.rst:576
 msgid ""
 "Deleting responses cannot be undone. Thus, be careful when deleting "
 "responses."
 msgstr ""
 "Видалення відповідей є незворотною дією. Видаляючи відповіді, будьте обачні."
 
-#: docs/index.rst:579
+#: docs/index.rst:580
 msgid "Download Data"
 msgstr "Завантаження даних"
 
-#: docs/index.rst:581
+#: docs/index.rst:582
 msgid ""
 "Data for individual health facilities can be downloaded as **CSV** or "
 "**Excel** file."
@@ -1693,7 +1693,7 @@ msgstr ""
 "Дані про окремі заклади охорони здоров’я можна завантажувати у вигляді файлу "
 "**CSV** або **Excel**."
 
-#: docs/index.rst:583
+#: docs/index.rst:584
 msgid ""
 "Whether you have permissions to download data depends on your function and "
 "role. If you require your access permissions to be changed, kindly contact "
@@ -1709,11 +1709,11 @@ msgstr ""
 "посаду та роль і надавши стисле пояснення того, навіщо Вам потрібно змінити "
 "права доступу."
 
-#: docs/index.rst:586
+#: docs/index.rst:587
 msgid "Download Workspace Data"
 msgstr "Завантаження даних робочого простору"
 
-#: docs/index.rst:588
+#: docs/index.rst:589
 msgid ""
 "Follow the instructions below to export data from your workspace. If you "
 "require data from multiple workspaces, you can repeat the below steps and "
@@ -1724,7 +1724,7 @@ msgstr ""
 "кроки для кожного з них, після чого об’єднайте дані в потрібному "
 "аналітичному засобі."
 
-#: docs/index.rst:590
+#: docs/index.rst:591
 msgid ""
 "In order to download data, you will require special permissions to the "
 "workspace. Contact your system administrator to elevate your access rights "
@@ -1734,14 +1734,14 @@ msgstr ""
 "просторі. За потреби зверніться до свого системного адміністратора для "
 "підвищення рівня прав доступу."
 
-#: docs/index.rst:593
+#: docs/index.rst:594
 #, fuzzy
 msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
 msgstr ""
 "Щоб експортувати дані, відкрийте робочий простір, як описано `тут <#Доступ-"
 "до-робочого-простору>`__."
 
-#: docs/index.rst:594 docs/index.rst:614
+#: docs/index.rst:595 docs/index.rst:615
 msgid ""
 "You should now see a table displaying the list of workspaces available in "
 "your project. If you have been granted permission to download data, you "
@@ -1753,7 +1753,7 @@ msgstr ""
 "під назвою «Download» (Експорт даних) (1). Натисніть на назву вкладки, щоб "
 "відкрити налаштування завантаження."
 
-#: docs/index.rst:595 docs/index.rst:615
+#: docs/index.rst:596 docs/index.rst:616
 msgid ""
 "In the download tab you have the option to customize your data export. You "
 "can choose between exporting data as text or code as well as the type of "
@@ -1766,7 +1766,7 @@ msgstr ""
 "перемикання варіантів за промовчанням скористайтеся перемикачами «увімк./"
 "вимк.» (2)."
 
-#: docs/index.rst:597 docs/index.rst:617
+#: docs/index.rst:598 docs/index.rst:618
 msgid ""
 "If you choose to export answers as code, questions with predefined answer "
 "options will show coded values instead of the text labels (e.g. A1 instead "
@@ -1776,7 +1776,7 @@ msgstr ""
 "визначеними варіантами відповідей будуть відображені кодові значення замість "
 "текстових написів (наприклад, A1 замість «доступний»)."
 
-#: docs/index.rst:599 docs/index.rst:619
+#: docs/index.rst:600 docs/index.rst:620
 msgid ""
 "If a survey is available in multiple languages, use the drop-down list to "
 "specify the export language (3)."
@@ -1784,7 +1784,7 @@ msgstr ""
 "Якщо опитувальник доступний кількома мовами, скористайтеся випадним списком "
 "(3) для задання мови експорту."
 
-#: docs/index.rst:600
+#: docs/index.rst:601
 msgid ""
 "By default, all available responses for a health facility will be exported. "
 "For projects with multiple responses per health facility, the **report "
@@ -1801,7 +1801,7 @@ msgstr ""
 "збігається з визначеною або передує їй. Для отримання найбільш свіжих даних "
 "задайте для параметра **Report date** (Дата звіту) сьогоднішню дату (4)."
 
-#: docs/index.rst:601 docs/index.rst:621
+#: docs/index.rst:602 docs/index.rst:622
 msgid ""
 "Once you have defined the export settings, select between the two export "
 "formats (**CSV** or **Excel**) by clicking the respective button (5)."
@@ -1809,7 +1809,7 @@ msgstr ""
 "Визначивши налаштування експорту, виберіть один із двох форматів експорту "
 "(**CSV** або **Excel**), натиснувши відповідну кнопку (5)."
 
-#: docs/index.rst:604 docs/index.rst:625
+#: docs/index.rst:605 docs/index.rst:626
 msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an Excel file if you select a language other than English. For more "
@@ -1821,11 +1821,11 @@ msgstr ""
 "про кодування файлів **CSV** для використання їх у програмі Excel див. у "
 "розділі `Кодування даних в Excel`_."
 
-#: docs/index.rst:608
+#: docs/index.rst:609
 msgid "Download the Entire Data Set"
 msgstr "Завантаження всього набору даних"
 
-#: docs/index.rst:609
+#: docs/index.rst:610
 msgid ""
 "Project administrators or users with special permissions can export the "
 "entire project data from the admin interface."
@@ -1833,7 +1833,7 @@ msgstr ""
 "Адміністратори проєкту і користувачі зі спеціальними дозволами можуть через "
 "інтерфейс адміністрування експортувати всі дані проєкту."
 
-#: docs/index.rst:611
+#: docs/index.rst:612
 msgid ""
 "Access to project level data is limited to selected users only. Contact your "
 "country administrator for further information."
@@ -1841,14 +1841,14 @@ msgstr ""
 "Доступ до даних рівня проєкту надається тільки обраним користувачам. По "
 "додаткову інформацію зверніться до адміністратора Вашої країни."
 
-#: docs/index.rst:613
+#: docs/index.rst:614
 #, fuzzy
 msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
 msgstr ""
 "Відкрийте сторінку адміністрування Вашого проєкту (докладніше про це див. у "
 "кроках 1–2 розділу `Доступ до робочого простору`_)."
 
-#: docs/index.rst:620
+#: docs/index.rst:621
 msgid ""
 "By default, all available responses for a health facility will be exported. "
 "For projects with multiple responses per health facility, the **report** "
@@ -1865,7 +1865,7 @@ msgstr ""
 "збігається з визначеною або передує їй. Для отримання найбільш свіжих даних "
 "задайте для параметра **Report date** (Дата звіту) сьогоднішню дату (4)."
 
-#: docs/index.rst:623
+#: docs/index.rst:624
 msgid ""
 "For large data sets, exporting data in Excel takes substantially longer than "
 "exporting as **CSV** format."
@@ -1873,11 +1873,11 @@ msgstr ""
 "Експортування великих наборів даних у формат Excel займає суттєво більше "
 "часу, аніж у формат **CSV**."
 
-#: docs/index.rst:629
+#: docs/index.rst:630
 msgid "Data Encoding in Excel"
 msgstr "Кодування даних в Excel"
 
-#: docs/index.rst:630
+#: docs/index.rst:631
 msgid ""
 "If data is downloaded for further analysis in Excel or a statistical "
 "software of choice (e.g. R or STATA), data encoding should always be set to "
@@ -1887,7 +1887,7 @@ msgstr ""
 "відповідному статистичному програмному забезпеченні (наприклад, R чи STATA), "
 "завжди потрібно вибирати кодування даних UTF-8."
 
-#: docs/index.rst:632
+#: docs/index.rst:633
 msgid ""
 "Encoding issues are particularly prevalent in languages with special "
 "character and can result in the data being unreadable. For example, instead "
@@ -1898,7 +1898,7 @@ msgstr ""
 "Наприклад, замість **camp de réfugiés** може утворитися **Camp de "
 "rÃ©fugiÃ©s**."
 
-#: docs/index.rst:634
+#: docs/index.rst:635
 msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an **Excel** file."
@@ -1906,18 +1906,18 @@ msgstr ""
 "Щоб уникнути проблем із кодуванням, рекомендовано завантажувати дані у файлі "
 "**Excel**."
 
-#: docs/index.rst:636
+#: docs/index.rst:637
 msgid ""
 "The below instructions guide users through the steps to define the data "
 "encoding in Excel."
 msgstr ""
 "Нижче описано кроки інструкції з визначення кодування даних у файлі Excel."
 
-#: docs/index.rst:638
+#: docs/index.rst:639
 msgid "Open a new Excel file."
 msgstr "Відкрийте новий файл Excel."
 
-#: docs/index.rst:639
+#: docs/index.rst:640
 msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From Text/"
 "CSV**."
@@ -1925,7 +1925,7 @@ msgstr ""
 "На вкладці «Data» (Дані) у групі **Get & Transform Data** (Отримання та "
 "перетворення даних) натисніть **From Text/CSV** (Із тексту/CSV)."
 
-#: docs/index.rst:640
+#: docs/index.rst:641
 msgid ""
 "In the **Import Data** dialog box, locate and double-click the text file "
 "that you want to import, and click **Import**."
@@ -1934,7 +1934,7 @@ msgstr ""
 "файл, який потрібно імпортувати, натисніть на нього двічі та натисніть "
 "кнопку **Import** (Імпорт)."
 
-#: docs/index.rst:641
+#: docs/index.rst:642
 msgid ""
 "In the top left corner of the pop-up window that opens, change the encoding "
 "type to **UTF-8**, and click **Import**."
@@ -1942,11 +1942,11 @@ msgstr ""
 "У верхньому лівому куті спливного вікна, яке відкриється, змініть кодування "
 "на **UTF-8** і натисніть кнопку **Import** (Імпорт)."
 
-#: docs/index.rst:650
+#: docs/index.rst:651
 msgid "HeRAMS Administration"
 msgstr "Адміністрування HeRAMS"
 
-#: docs/index.rst:652
+#: docs/index.rst:653
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers "
 "step-by-step instructions for common tasks performed by advanced users (e.g. "
@@ -1967,7 +1967,7 @@ msgstr ""
 "поглибленим темам, і вони мають на меті допомагати адміністраторам проєктів "
 "у локальному адмініструванні проєктів."
 
-#: docs/index.rst:655
+#: docs/index.rst:656
 msgid ""
 "Access to different parts of the admin interface depends on your function "
 "and role. If you require your permissions to be changed, kindly contact your "
@@ -1981,15 +1981,15 @@ msgstr ""
 "HeRAMS <mailto:herams@who.int?>`_ , зазначивши свої посаду та роль і надавши "
 "стисле пояснення того, навіщо Вам потрібно змінити права доступу."
 
-#: docs/index.rst:658
+#: docs/index.rst:659
 msgid "User Management"
 msgstr "Адміністрування користувачів"
 
-#: docs/index.rst:661
+#: docs/index.rst:662
 msgid "Workspace Permissions"
 msgstr "Дозволи в робочому просторі"
 
-#: docs/index.rst:663
+#: docs/index.rst:664
 msgid ""
 "The use of workspaces permits users to manage a set of health facilities (e."
 "g. all health facilities within a district) autonomously. **Workspace "
@@ -2004,13 +2004,13 @@ msgstr ""
 "користувачів для реєстрації нових даних або доступу до наявних даних. На "
 "рівні робочого простору існують чотири дозволи:"
 
-#: docs/index.rst:666
+#: docs/index.rst:667
 msgid "**Edit data**: Allows users to create, edit and delete records."
 msgstr ""
 "**Редагування даних**: Дозвіл користувачам на створення, редагування та "
 "видалення записів."
 
-#: docs/index.rst:668
+#: docs/index.rst:669
 msgid ""
 "**Download data** Enables users to download all records from a workspace for "
 "further analysis in external applications."
@@ -2018,7 +2018,7 @@ msgstr ""
 "**Експорт даних**: Дозвіл користувачам на завантаження всіх записів із "
 "робочого простору для подальшого аналізу в зовнішніх прикладних програмах."
 
-#: docs/index.rst:670
+#: docs/index.rst:671
 msgid ""
 "**Manage users**: Permits users to share access to a workspace with other "
 "users."
@@ -2026,7 +2026,7 @@ msgstr ""
 "**Керувати користувачами**: Дозвіл користувачам на надання доступу до "
 "робочого простору іншим користувачам."
 
-#: docs/index.rst:672
+#: docs/index.rst:673
 msgid ""
 "**Grant admin permissions**: This permission is only available to *Project "
 "administrators* and should only be granted to **workspace owners**. It "
@@ -2039,7 +2039,7 @@ msgstr ""
 "робочому просторі, у тому числі змогу надавати іншим користувачам дозвіл "
 "запрошувати нових користувачів."
 
-#: docs/index.rst:674
+#: docs/index.rst:675
 msgid ""
 "The ability to invite new users to contribute or manage a workspace depends "
 "on the permission of the user granting access. A user with permission to "
@@ -2055,7 +2055,7 @@ msgstr ""
 "не зможе надавати іншим користувачам доступ для редагування або завантаження "
 "даних."
 
-#: docs/index.rst:676
+#: docs/index.rst:677
 msgid ""
 "Access to workspaces and projects should always be granted with regards to "
 "the users' roles and responsibilities. For more information on user roles "
@@ -2067,11 +2067,11 @@ msgstr ""
 "користувачів і рекомендовані дозволи для кожної ролі див. у розділах `Ролі "
 "користувачів`_ і `Зіставлення ролей користувачів і дозволів`_ ."
 
-#: docs/index.rst:680
+#: docs/index.rst:681
 msgid "Project Permissions"
 msgstr "Дозволи у проєкті"
 
-#: docs/index.rst:682
+#: docs/index.rst:683
 msgid ""
 "Similar to workspace permissions, permissions can also be granted at the "
 "project level. It is important to note that if permissions are granted at "
@@ -2089,11 +2089,11 @@ msgstr ""
 "якщо користувачеві надано доступ на рівні робочого простору, він зможе "
 "реєструвати дані тільки в цьому конкретному робочому просторі."
 
-#: docs/index.rst:684
+#: docs/index.rst:685
 msgid "There are six permissions that can be granted at the project level:"
 msgstr "На рівні проєкту можуть надаватися шість дозволів:"
 
-#: docs/index.rst:686
+#: docs/index.rst:687
 msgid ""
 "**View dashboard**: Grants access exclusively to the project dashboard. "
 "Granting users explicit access to the project dashboard is only required for "
@@ -2106,7 +2106,7 @@ msgstr ""
 "проєктах переглядати аналітичну панель може будь-який користувач із "
 "підпискою на платформу."
 
-#: docs/index.rst:688
+#: docs/index.rst:689
 msgid ""
 "**Edit data**: Allows users to create, edit and delete records in any "
 "workspace of the project."
@@ -2114,7 +2114,7 @@ msgstr ""
 "**Редагувати дані**: Дозвіл користувачам на створення, редагування та "
 "видалення записів у будь-якому робочому просторі проєкту."
 
-#: docs/index.rst:690
+#: docs/index.rst:691
 msgid ""
 "**Download data**: Enables users to download the entire dataset, including "
 "records from all workspaces for further analysis in external applications."
@@ -2123,7 +2123,7 @@ msgstr ""
 "разом із записами з усіх робочих просторів для подальшого аналізу в "
 "зовнішніх прикладних програмах."
 
-#: docs/index.rst:692
+#: docs/index.rst:693
 msgid ""
 "**Manage workspaces**: Grants a user access to create, modify and delete "
 "workspaces as well as the ability to invite users to contribute to an "
@@ -2134,7 +2134,7 @@ msgstr ""
 "запрошувати користувачів для реєстрації даних у конкретному робочому "
 "просторі."
 
-#: docs/index.rst:694
+#: docs/index.rst:695
 msgid ""
 "*Workspace owners* must be granted permission at the workspace level. If a "
 "user is granted permissions to *Manage workspaces* they will have access to "
@@ -2144,7 +2144,7 @@ msgstr ""
 "простору. Якщо користувачеві надано дозвіл на *адміністрування робочих "
 "просторів*, він матиме доступ до всіх робочих просторів."
 
-#: docs/index.rst:696
+#: docs/index.rst:697
 msgid ""
 "**Configure dashboard**: Grants users the ability to configure their project "
 "dashboard."
@@ -2152,7 +2152,7 @@ msgstr ""
 "**Конфігурування аналітичної панелі**: Надання користувачам змоги "
 "конфігурувати аналітичну панель у своєму проєкті."
 
-#: docs/index.rst:698
+#: docs/index.rst:699
 msgid ""
 "**Manage survey** Grants permission to access the survey configurations. "
 "This permission can only be granted by a global administrator."
@@ -2160,17 +2160,17 @@ msgstr ""
 "**Адміністрування опитувань**: Надання дозволу на доступ до конфігурації "
 "опитування. Цей дозвіл може надавати тільки глобальний адміністратор."
 
-#: docs/index.rst:702
+#: docs/index.rst:703
 msgid "User Roles"
 msgstr "Ролі користувачів"
 
-#: docs/index.rst:704
+#: docs/index.rst:705
 msgid "There are six standard user roles used accross projects."
 msgstr ""
 "Існують шість стандартних ролей користувачів, які використовуються у "
 "проєктах."
 
-#: docs/index.rst:712
+#: docs/index.rst:713
 msgid ""
 "**Project owner**: The designated person who is responsible for the HeRAMS "
 "project. They can invite users to view the project dashboard or the list of "
@@ -2182,7 +2182,7 @@ msgstr ""
 "списку наявних робочих просторів, але виконання рутинних дій із керування "
 "користувачами та забезпечення якості даних від неї не очікується."
 
-#: docs/index.rst:714
+#: docs/index.rst:715
 msgid ""
 "**Project admin**: The *project owner* typically relies on an Information "
 "Management Officer to manage the daily activities of the HeRAMS project and "
@@ -2201,7 +2201,7 @@ msgstr ""
 "підготовку користувачів і їх адміністрування, вони можуть призначати "
 "*власників робочих просторів* для адміністрування окремих робочих просторів."
 
-#: docs/index.rst:716
+#: docs/index.rst:717
 msgid ""
 "**Workspace owner:** Are commonly at the sub-national level, overseeing data "
 "collection for a specific area (e.g. a district). They have full control "
@@ -2221,7 +2221,7 @@ msgstr ""
 "переглядати дані з інших робочих просторів за допомогою аналітичної панелі "
 "проєкту."
 
-#: docs/index.rst:718
+#: docs/index.rst:719
 msgid ""
 "**Data contributor:** Support the workspace owner in collecting and managing "
 "information on individual health facilities. Like *workspace owners* they "
@@ -2234,7 +2234,7 @@ msgstr ""
 "просторі, але також може переглядати проєкт загалом за допомогою аналітичної "
 "панелі проєкту."
 
-#: docs/index.rst:720
+#: docs/index.rst:721
 msgid ""
 "**Data viewers**: Under exceptional situations, a user might be granted the "
 "role of *data viewer*. This means they are granted access to download the "
@@ -2248,7 +2248,7 @@ msgstr ""
 "яким було надано доступ до проєкту, він може відкривати аналітичну панель "
 "проєкту."
 
-#: docs/index.rst:722
+#: docs/index.rst:723
 msgid ""
 "**Project viewer:** The role of *project viewer* is intended for users at "
 "any level who rely on HeRAMS data for their own work. Their access is "
@@ -2259,7 +2259,7 @@ msgstr ""
 "роботи. Їхній доступ обмежується аналітичною панеллю проєкту та списком "
 "наявних робочих просторів."
 
-#: docs/index.rst:724
+#: docs/index.rst:725
 msgid ""
 "If a project is set to **private** or **closed** access to the project "
 "dashboard can be further restricted. Please consult `Project Settings` for "
@@ -2268,11 +2268,11 @@ msgstr ""
 "Якщо проєкт є **приватним** або **закритим**, доступ до аналітичної панелі "
 "проєкту можливо обмежити ще більше."
 
-#: docs/index.rst:728
+#: docs/index.rst:729
 msgid "Mapping User Roles to Permissions"
 msgstr "Зіставлення ролей користувачів і дозволів"
 
-#: docs/index.rst:730
+#: docs/index.rst:731
 msgid ""
 "**Data contributors**: *data contributors* are granted access to *edit data* "
 "for individual workspaces."
@@ -2280,7 +2280,7 @@ msgstr ""
 "**Реєстратор даних**: *Реєстраторові даних* надається доступ для редагування "
 "даних в окремих робочих просторах."
 
-#: docs/index.rst:737
+#: docs/index.rst:738
 msgid ""
 "Optionally, *data contributors* can also be granted permissions to download "
 "data."
@@ -2288,7 +2288,7 @@ msgstr ""
 "На додачу *реєстраторові даних* можуть також бути надані дозволи на "
 "завантаження даних."
 
-#: docs/index.rst:744
+#: docs/index.rst:745
 msgid ""
 "**Data viewers**: It is possible to grant users access to download data "
 "without providing them with edit rights. While this permission is commonly "
@@ -2300,7 +2300,7 @@ msgstr ""
 "поєднується з дозволом на *редагування даних*, за особливих обставин можна "
 "надати доступ лише для завантаження даних."
 
-#: docs/index.rst:751
+#: docs/index.rst:752
 msgid ""
 "**Workspace owners**: In addition to editing and downloading data, "
 "*workspace owners* are granted permission to *manage users*. This grants "
@@ -2311,7 +2311,7 @@ msgstr ""
 "користувачів. Це дає йому змогу запрошувати інших користувачів для "
 "реєстрації даних у його робочому просторі."
 
-#: docs/index.rst:758
+#: docs/index.rst:759
 msgid ""
 "Under special circumstances a *project admin* might grant a *workspace "
 "owner* admin permission to a workspace, allowing the *workspace owner* to "
@@ -2324,7 +2324,7 @@ msgstr ""
 "користувачів до його робочого простору. Цей дозвіл слід використовувати "
 "обачливо та надавати його тільки за крайньої потреби."
 
-#: docs/index.rst:765
+#: docs/index.rst:766
 msgid ""
 "While *workspace owners* may delegate granting access permissions to another "
 "user, they remain responsible for their workspace and users having access to "
@@ -2334,11 +2334,11 @@ msgstr ""
 "доступ іншому користувачеві, він залишається відповідальним як за свій "
 "робочий простір, так і за користувачів, які мають доступ до нього."
 
-#: docs/index.rst:769
+#: docs/index.rst:770
 msgid "Add a User"
 msgstr "Додавання користувача"
 
-#: docs/index.rst:771
+#: docs/index.rst:772
 #, fuzzy
 msgid ""
 "To grant a user access to your project, navigate to the list of workspaces "
@@ -2351,13 +2351,13 @@ msgstr ""
 "робочого простору, відкрийте відповідний робочий простір, натиснувши на його "
 "назву. Детальнішу інформацію див. у розділі `Доступ до робочого простору`_."
 
-#: docs/index.rst:773
+#: docs/index.rst:774
 msgid "Click the *Users* tab to open the user management section."
 msgstr ""
 "Натисніть вкладку *Користувачі*, щоб відкрити розділ адміністрування "
 "користувачів."
 
-#: docs/index.rst:775
+#: docs/index.rst:776
 msgid ""
 "You should now see a page similar to the image below. On the bottom half of "
 "the page, you can see a list of all users currently having access to the "
@@ -2374,12 +2374,12 @@ msgstr ""
 "фільтруватися список наявних користувачів. Виберіть користувача, якого "
 "потрібно додати."
 
-#: docs/index.rst:782
+#: docs/index.rst:783
 msgid "You can add multiple users add once as shown in the image above."
 msgstr ""
 "Можна додати кількох користувачів одночасно, як показано на зображенні вище."
 
-#: docs/index.rst:786
+#: docs/index.rst:787
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`Workspace Permissions`_ or `Project Permissions`_ for further details on "
@@ -2389,16 +2389,16 @@ msgstr ""
 "про дозволи в робочих просторах див. у розділах `Дозволи в робочому "
 "просторі`_ та `Дозволи у проєкті`_."
 
-#: docs/index.rst:788
+#: docs/index.rst:789
 msgid "Click the |add| button to grant users the desired permissions."
 msgstr ""
 "Натисніть кнопку |add| (Додати), щоб надати користувачам потрібні дозволи."
 
-#: docs/index.rst:797
+#: docs/index.rst:798
 msgid "Change a User's Permission"
 msgstr "Змінення дозволів користувача"
 
-#: docs/index.rst:799
+#: docs/index.rst:800
 msgid ""
 "Follow the instructions outlined  `above <#add-a-user>`__ to open the user "
 "management interface of your workspace or project."
@@ -2406,7 +2406,7 @@ msgstr ""
 "Дотримуйтеся інструкцій `вище <#Додавання-користувача>`__, щоб відкрити "
 "інтерфейс адміністрування користувачів робочого простору або проєкту."
 
-#: docs/index.rst:800 docs/index.rst:813
+#: docs/index.rst:801 docs/index.rst:814
 msgid ""
 "On the second half of the page you will see a list of all users having "
 "access to the workspace or project, including their permissions."
@@ -2414,7 +2414,7 @@ msgstr ""
 "У другій половині сторінки буде список усіх користувачів, які мають доступ "
 "до робочого простору або проєкту, разом із їхніми дозволами."
 
-#: docs/index.rst:801
+#: docs/index.rst:802
 msgid ""
 "You can change a user's permission by flipping the corresponding switch "
 "button to **Allowed** or **Denied**."
@@ -2422,11 +2422,11 @@ msgstr ""
 "Ви можете змінити дозволи користувача за допомогою кнопок-перемикачів "
 "«Allowed/Denied» (Дозволено/заборонено)."
 
-#: docs/index.rst:810
+#: docs/index.rst:811
 msgid "Remove a User"
 msgstr "Видалення користувача"
 
-#: docs/index.rst:812
+#: docs/index.rst:813
 msgid ""
 "Open the user management interface of your *Workspace* or *Project*. See "
 "`here <#add-a-user>`__ for more details on how to access the user management "
@@ -2436,7 +2436,7 @@ msgstr ""
 "*проєкту*. Детальнішу інформацію про доступ до інтерфейсу адміністрування "
 "користувачів див. `тут <#Додавання-користувача>`__."
 
-#: docs/index.rst:814
+#: docs/index.rst:815
 msgid ""
 "To remove a user change all permissions to **Not allowed**. Upon reloading "
 "the page, you will see that the user has disappeared from the list (see "
@@ -2446,7 +2446,7 @@ msgstr ""
 "дозволено). Перезавантаживши сторінку, Ви побачите, що цей користувач зник "
 "зі списку (див. відео вище)."
 
-#: docs/index.rst:816
+#: docs/index.rst:817
 msgid ""
 "Removing a user from a **Workspace** will not revoke their **Project** level "
 "permissions and vice versa."
@@ -2454,11 +2454,11 @@ msgstr ""
 "Видалення користувача з **робочого простору** не призведе до відкликання "
 "його дозволів на рівні **проєкту**, і навпаки."
 
-#: docs/index.rst:820
+#: docs/index.rst:821
 msgid "Manage Workspaces"
 msgstr "Адміністрування робочих просторів"
 
-#: docs/index.rst:821
+#: docs/index.rst:822
 msgid ""
 "Managing the list of available workspaces is a key component of the *Project "
 "admin's* role. In addition to being able to create, edit or delete "
@@ -2470,11 +2470,11 @@ msgstr ""
 "видаляти робочі простори, їх адміністрування також передбачає призначання "
 "*власників робочих просторів* і надавання їм належних дозволів."
 
-#: docs/index.rst:825
+#: docs/index.rst:826
 msgid "Create a Workspace"
 msgstr "Створення робочого простору"
 
-#: docs/index.rst:827
+#: docs/index.rst:828
 #, fuzzy
 msgid ""
 "To create a new workspace, navigate to the list of workspaces of your "
@@ -2484,25 +2484,25 @@ msgstr ""
 "проєкту. Детальнішу інформацію про це див. у кроках 1–2 розділу `Доступ до "
 "робочого простору`_ ."
 
-#: docs/index.rst:828
+#: docs/index.rst:829
 msgid ""
 "In the upper right corner, you will see a button labeled |create-workspace|."
 msgstr ""
 "У верхньому правому куті буде кнопка |create-workspace| (Створити робочий "
 "простір)."
 
-#: docs/index.rst:829
+#: docs/index.rst:830
 msgid ""
 "You will be directed to a page where you will be able to create a new "
 "workspace."
 msgstr ""
 "Вас буде перенаправлено на сторінку, де можна створити новий робочий простір."
 
-#: docs/index.rst:830
+#: docs/index.rst:831
 msgid "Enter the workspace's name into the title field."
 msgstr "Введіть назву робочого простору в поле заголовка."
 
-#: docs/index.rst:831
+#: docs/index.rst:832
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a new "
 "token by selecting **Create new token**."
@@ -2510,7 +2510,7 @@ msgstr ""
 "За допомого розкривного списку виберіть відповідний **токен** або створіть "
 "новий токен, вибравши варіант **Create new token** (Створити новий токен)."
 
-#: docs/index.rst:838
+#: docs/index.rst:839
 msgid ""
 "Tokens are unique identifiers that link health facilities to workspaces. To "
 "add a health facility to a workspace the token of the record in question has "
@@ -2523,11 +2523,11 @@ msgstr ""
 "допомогу у зміненні токена запису зверніться до свого системного "
 "адміністратора."
 
-#: docs/index.rst:841
+#: docs/index.rst:842
 msgid "Rename a Workspace"
 msgstr "Перейменування робочого простору"
 
-#: docs/index.rst:843
+#: docs/index.rst:844
 msgid ""
 "To rename a workspace, open your workspace as outlined `here <#Access-your-"
 "workspace>`__ and go to *Workspace settings* tabs."
@@ -2536,26 +2536,26 @@ msgstr ""
 "до-робочого-простору>`__, і перейдіть на вкладку «Workspace "
 "settings» (Налаштування робочого простору)."
 
-#: docs/index.rst:844
+#: docs/index.rst:845
 msgid "You should now be able to modify the title and token of your workspace."
 msgstr "Після цього ви зможете змінити заголовок і токен робочого простору."
 
-#: docs/index.rst:845
+#: docs/index.rst:846
 msgid "Save your changes by clicking the |save| button."
 msgstr "Збережіть зміни, натиснувши кнопку |save| (Зберегти)."
 
-#: docs/index.rst:850
+#: docs/index.rst:851
 msgid "Delete a Workspace"
 msgstr "Видалення робочого простору"
 
-#: docs/index.rst:852
+#: docs/index.rst:853
 msgid ""
 "Access the workspace settings as outlined `above <#rename-a-workspace>`__."
 msgstr ""
 "Відкрийте налаштування робочого простору, як описано `вище <#Перейменування-"
 "робочого-простору>`__."
 
-#: docs/index.rst:853
+#: docs/index.rst:854
 msgid ""
 "Click the |delete-bt| button in the bottom half of the page to permanently "
 "delete the workspace."
@@ -2563,11 +2563,11 @@ msgstr ""
 "Натисніть кнопку |delete-bt| (Видалити) в нижній половні сторінки, щоб "
 "незворотно видалити цей робочий простір."
 
-#: docs/index.rst:859
+#: docs/index.rst:860
 msgid "Configure the Project dashboard"
 msgstr "Конфігурування аналітичної панелі проєкту"
 
-#: docs/index.rst:861
+#: docs/index.rst:862
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This section "
@@ -2581,17 +2581,17 @@ msgstr ""
 "проєктів. Огляд стандартних сторінок аналітичної панелі приведено `тут "
 "<#Сторінки-аналітичних-панелей-за-замовчанням>`__."
 
-#: docs/index.rst:864
+#: docs/index.rst:865
 msgid "Create a Dashboard Page"
 msgstr "Створення сторінки аналітичної панелі"
 
-#: docs/index.rst:866
+#: docs/index.rst:867
 msgid "To add a new page to a dashboard, open your project's admin page."
 msgstr ""
 "Щоб додати до аналітичної панелі нову сторінку, відкрийте сторінку "
 "адміністратора проєкту."
 
-#: docs/index.rst:867
+#: docs/index.rst:868
 msgid ""
 "Open the `Dashboard settings` tab. You should now see a table with the list "
 "of existing dashboard pages."
@@ -2599,7 +2599,7 @@ msgstr ""
 "Відкрийте вкладку `Dashboard settings` (Налаштування аналітичної панелі). Ви "
 "побачите таблицю зі списком наявних сторінок аналітичної панелі."
 
-#: docs/index.rst:868
+#: docs/index.rst:869
 msgid ""
 "To add a new page to the dashboard, click the |add-page| button in the top "
 "right corner."
@@ -2607,7 +2607,7 @@ msgstr ""
 "Щоб додати нову сторінку до аналітичної панелі, натисніть кнопку |add-page| "
 "(Додати сторінку) у верхньому правому куті."
 
-#: docs/index.rst:870
+#: docs/index.rst:871
 msgid ""
 "To create the standard HeRAMS dashboard, export an existing dashboard from "
 "another project using the *Export all* button. This will export a JSON file. "
@@ -2622,7 +2622,7 @@ msgstr ""
 "*Import dashboard* (Імпортувати аналітичну панель). Після імпортування можна "
 "налаштувати окремі сторінки й елементи відповідно до потреб."
 
-#: docs/index.rst:872
+#: docs/index.rst:873
 msgid ""
 "Enter the page name in the top field. It is recommended to select an item "
 "from the drop-down list. This will assure the page title is automatically "
@@ -2632,7 +2632,7 @@ msgstr ""
 "розкривного списку. Це забезпечить автоматичний переклад заголовка сторінки "
 "іншими мовами."
 
-#: docs/index.rst:874
+#: docs/index.rst:875
 msgid ""
 "If you are adding a sub-page to an existing page, select the parent page "
 "from the **Parent Id** drop-down list. For all other pages select **No "
@@ -2643,7 +2643,7 @@ msgstr ""
 "сторінки). Для решти сторінок виберіть **No parent** (Немає батьківської "
 "сторінки)."
 
-#: docs/index.rst:875
+#: docs/index.rst:876
 msgid ""
 "Define the page order by entering a **Sort** index. Increment the index by 1 "
 "for each new page, starting with **0** for the first page."
@@ -2652,13 +2652,13 @@ msgstr ""
 "Збільшуйте індекс на 1 для кожної нової сторінки, починаючи з **0** для "
 "першої."
 
-#: docs/index.rst:876
+#: docs/index.rst:877
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr ""
 "Натисніть кнопку |create-page| (Створити сторінку), щоб додати сторінку "
 "аналітичної панелі."
 
-#: docs/index.rst:877 docs/index.rst:887
+#: docs/index.rst:878 docs/index.rst:888
 msgid ""
 "To return to the list of available dashboard pages click the |back-to-list| "
 "button."
@@ -2666,7 +2666,7 @@ msgstr ""
 "Щоб повернутися до списку наявних сторінок аналітичної панелі, натисніть "
 "кнопку |back-to-list| (Назад до списку)."
 
-#: docs/index.rst:879
+#: docs/index.rst:880
 msgid ""
 "You only created an empty page. To add elements to your page, see section "
 "`Create a Dashboard Element`_."
@@ -2674,11 +2674,11 @@ msgstr ""
 "У результаті Ви створите порожню сторінку. Щоб додати на неї елементи, див. "
 "розділ `Створення елемента аналітичної панелі»`_."
 
-#: docs/index.rst:882
+#: docs/index.rst:883
 msgid "Modify a Dashboard Page"
 msgstr "Змінення сторінки аналітичної панелі"
 
-#: docs/index.rst:884
+#: docs/index.rst:885
 msgid ""
 "To modify an existing page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
@@ -2686,7 +2686,7 @@ msgstr ""
 "Щоб змінити наявну сторінку, перейдіть до списку наявних сторінок, як "
 "описано `вище <#Створення-сторінки-аналітичної-панелі>`__."
 
-#: docs/index.rst:885
+#: docs/index.rst:886
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings. You are now able to change the page's settings as well as "
@@ -2699,15 +2699,15 @@ msgstr ""
 "додавання елементів на сторінку аналітичної панелі див. у розділі `Створення-"
 "елемента-аналітичної-панелі`_."
 
-#: docs/index.rst:886
+#: docs/index.rst:887
 msgid "Save your changes by clicking the |update-page| button."
 msgstr "Збережіть зміни, натиснувши кнопку |update-page| (Оновити сторінку)."
 
-#: docs/index.rst:890
+#: docs/index.rst:891
 msgid "Delete a Dashboard Page"
 msgstr "Видалення сторінки аналітичної панелі"
 
-#: docs/index.rst:892
+#: docs/index.rst:893
 msgid ""
 "To permanently delete a page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
@@ -2715,7 +2715,7 @@ msgstr ""
 "Щоб незворотно видалити сторінку, перейдіть до списку наявних сторінок, як "
 "описано `вище <#Створення елемента аналітичної панелі>`_."
 
-#: docs/index.rst:893
+#: docs/index.rst:894
 msgid ""
 "In the list of available pages, use the |delete| icon in the right-most "
 "column to permanently delete the page."
@@ -2723,7 +2723,7 @@ msgstr ""
 "У списку наявних сторінок натисніть піктограму |delete| у крайньому правому "
 "стовпчику навпроти відповідної сторінки, щоб незворотно видалити її."
 
-#: docs/index.rst:895
+#: docs/index.rst:896
 msgid ""
 "Be careful when deleting pages or elements. Deleting dashboard pages will "
 "permanently delete the page including sub-pages. This action cannot be "
@@ -2733,11 +2733,11 @@ msgstr ""
 "видалення сторінки аналітичної панелі її буде незворотно видалено разом із "
 "її підсторінками. Цю дію скасувати неможливо."
 
-#: docs/index.rst:898
+#: docs/index.rst:899
 msgid "Create a Dashboard Element"
 msgstr "Створення елемента аналітичної панелі"
 
-#: docs/index.rst:900
+#: docs/index.rst:901
 msgid ""
 "This section covers the steps required to add a new element to an existing "
 "dashboard page. If you would like to extend your dashboard by adding "
@@ -2749,7 +2749,7 @@ msgstr ""
 "аналітичну панель новими сторінками, див. детальнішу інформацію в розділі "
 "`Створення сторінки аналітичної панелі`_."
 
-#: docs/index.rst:902
+#: docs/index.rst:903
 msgid ""
 "To modify an existing page, access the list of existing pages as outlined in "
 "the `previous <#create-a-dashboard-page>`_ section."
@@ -2757,7 +2757,7 @@ msgstr ""
 "Щоб змінити наявну сторінку, перейдіть до списку наявних сторінок, як "
 "описано у `попередньому розділі <#Створення-сторінки-аналітичної-панелі>`_."
 
-#: docs/index.rst:903
+#: docs/index.rst:904
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings."
@@ -2765,7 +2765,7 @@ msgstr ""
 "Натисніть піктограму |pencil-thin| поряд із назвою сторінки. Відкриються "
 "налаштування сторінки."
 
-#: docs/index.rst:904
+#: docs/index.rst:905
 msgid ""
 "On the right side of the page you should see a list of available dashboard "
 "elements. Above this list, you have three buttons |create-elements|. Select "
@@ -2776,11 +2776,11 @@ msgstr ""
 "Над списком буде три кнопки: |create-elements| (Створити елементи). Виберіть "
 "тип елемента, який потрібно додати, натиснувши відповідну кнопку."
 
-#: docs/index.rst:911
+#: docs/index.rst:912
 msgid "You should now see a page similar to the one displayed below."
 msgstr "Відкриється сторінка, подібна до зображеної нижче."
 
-#: docs/index.rst:918
+#: docs/index.rst:919
 msgid ""
 "The **Transpose** feature allows switching between aggregating data at the "
 "health facility and the health service level. Set the feature to **No** to "
@@ -2791,7 +2791,7 @@ msgstr ""
 "Встановіть цю функцію в значення **No** (Ні), щоб відображалися дані, "
 "зведені на рівні закладу охорони здоров’я."
 
-#: docs/index.rst:920
+#: docs/index.rst:921
 msgid ""
 "Transposing the element or changing the question code or will reload the "
 "page making you lose all other unsaved edits."
@@ -2799,13 +2799,13 @@ msgstr ""
 "Транспонування елемента або зміна коду запитання призведе до "
 "перезавантаження сторінки та втрати всіх незбережених змін."
 
-#: docs/index.rst:922
+#: docs/index.rst:923
 msgid "Select the question to be displayed using the **Code** dropdown list."
 msgstr ""
 "Виберіть запитання, яке повинне відображатися, за допомогою розкривного "
 "списку **Code** (Код)."
 
-#: docs/index.rst:923
+#: docs/index.rst:924
 msgid ""
 "Define the element position on the dashboard page by specifying the **Sort** "
 "index. Increment the index by 1 for each new item, starting with 0 for the "
@@ -2815,14 +2815,14 @@ msgstr ""
 "**Sort** (Порядок). Збільшуйте індекс на 1 для кожного нового елемента, "
 "починаючи з 0 для першого."
 
-#: docs/index.rst:924
+#: docs/index.rst:925
 msgid ""
 "The **Width** and **Height** fields allow creating custom-sized elements."
 msgstr ""
 "Поля **Width** (Ширина) і **Height** (Висота) дають змогу створювати "
 "елементи довільних розмірів."
 
-#: docs/index.rst:926
+#: docs/index.rst:927
 msgid ""
 "For charts with large legend elements, it is recommended to use a **Width** "
 "of 2 to assure the legend is displayed correctly."
@@ -2831,7 +2831,7 @@ msgstr ""
 "параметру **Width** (Ширина) значення 2, щоб умовні позначення відображалися "
 "коректно."
 
-#: docs/index.rst:928
+#: docs/index.rst:929
 msgid ""
 "Optionally, the **Title** field allows you to overwrite the default title of "
 "the element."
@@ -2839,7 +2839,7 @@ msgstr ""
 "Додатково можна скористатися полем **Title** (Заголовок), щоб замінити "
 "заголовок елемента за промовчанням."
 
-#: docs/index.rst:929
+#: docs/index.rst:930
 msgid ""
 "For **maps** and **charts**, the bottom half of the page, displays the list "
 "of pre-defined answer options of the selected question. Click the color next "
@@ -2854,7 +2854,7 @@ msgstr ""
 "можна додатково визначати розмір точок, збільшуючи/зменшуючи значення "
 "параметра **Marker Radius**(Радіус маркера)."
 
-#: docs/index.rst:932
+#: docs/index.rst:933
 msgid ""
 "For **tables**, two additional fields will be displayed to specify the "
 "**Reason Code** and **Group Code**."
@@ -2862,7 +2862,7 @@ msgstr ""
 "Для **таблиць** будуть відображатися два додаткові поля для вказання "
 "параметрів **Reason Code** (Код причини) і **Group Code** (Код групи)."
 
-#: docs/index.rst:939
+#: docs/index.rst:940
 msgid ""
 "A preview of the element you are creating is shown in the lower half of the "
 "page."
@@ -2870,7 +2870,7 @@ msgstr ""
 "Попередній перегляд елемента, який Ви створюєте, відображається в нижній "
 "половині сторінки."
 
-#: docs/index.rst:941
+#: docs/index.rst:942
 msgid ""
 "To save the element, click the |create-element-blue| button or use the |"
 "create-return| button save and return to the dashboard."
@@ -2879,13 +2879,13 @@ msgstr ""
 "елемент), або скористайтеся кнопкою |create-return| (Створити й "
 "повернутися), щоб зберегти елемент та повернутися до аналітичної панелі."
 
-#: docs/index.rst:943
+#: docs/index.rst:944
 msgid "To add additional elements, use the breadcrumbs to return to the"
 msgstr ""
 "Щоб додати більше елементів, скористайтеся навігаційним ланцюжком для "
 "повернення до створення елемента"
 
-#: docs/index.rst:945
+#: docs/index.rst:946
 msgid ""
 "The below video summarizes how to create a new dashboard page and add "
 "elements."
@@ -2893,11 +2893,11 @@ msgstr ""
 "У відео нижче розглянуто створення нової сторінки аналітичної панелі та "
 "додавання елементів."
 
-#: docs/index.rst:953
+#: docs/index.rst:954
 msgid "Modify Dashboard Elements"
 msgstr "Змінення елементів аналітичної панелі"
 
-#: docs/index.rst:955
+#: docs/index.rst:956
 msgid ""
 "Users with the permissions to edit dashboards can modify charts and maps "
 "directly from within the dashboard."
@@ -2905,7 +2905,7 @@ msgstr ""
 "Користувачі з дозволами на редагування аналітичних панелей можуть змінювати "
 "діаграми та мапи безпосередньо на аналітичній панелі."
 
-#: docs/index.rst:957
+#: docs/index.rst:958
 msgid ""
 "To modify the order of dashboard pages or rename a page, see `here <#update-"
 "a-dashboard-page>`__."
@@ -2913,13 +2913,13 @@ msgstr ""
 "Щоб змінити порядок сторінок аналітичної панелі або перейменувати сторінку, "
 "див. інформацію `тут <#Змінення-сторінки-аналітичної-панелі>`__."
 
-#: docs/index.rst:959
+#: docs/index.rst:960
 msgid ""
 "Open the dashboard and navigate to the element you would like to change."
 msgstr ""
 "Відкрийте аналітичну панель і перейдіть до елемента, який потрібно змінити."
 
-#: docs/index.rst:960
+#: docs/index.rst:961
 msgid ""
 "In the top right corner of the element you would like to change, you should "
 "see a |pencil-thin| icon. Right-click the icon to open the element's "
@@ -2929,31 +2929,31 @@ msgstr ""
 "піктограму |pencil-thin|. Натисніть на цю піктограму правою кнопкою миші, "
 "щоб відкрити сторінку конфігурації цього елемента."
 
-#: docs/index.rst:961
+#: docs/index.rst:962
 msgid "You should now be able:"
 msgstr "Після цього Ви зможете:"
 
-#: docs/index.rst:963
+#: docs/index.rst:964
 msgid "to change the variables displayed;"
 msgstr "змінити відображувані змінні;"
 
-#: docs/index.rst:964
+#: docs/index.rst:965
 msgid "to change the colors of a map or a chart; and"
 msgstr "змінити кольори мапи або діаграми; та"
 
-#: docs/index.rst:965
+#: docs/index.rst:966
 msgid "to rename the element."
 msgstr "перейменувати елемент."
 
-#: docs/index.rst:969
+#: docs/index.rst:970
 msgid "Save your changes by clicking the |update-element| button."
 msgstr "Збережіть зміни, натиснувши кнопку |update-element| (Оновити елемент)."
 
-#: docs/index.rst:974
+#: docs/index.rst:975
 msgid "Delete Dashboard Elements"
 msgstr "Видалення елементів аналітичної панелі"
 
-#: docs/index.rst:976
+#: docs/index.rst:977
 msgid ""
 "Access the list of existing dashboard elements as described `here <#create-a-"
 "dashboard-element>`__."
@@ -2961,7 +2961,7 @@ msgstr ""
 "Перейдіть до списку наявних елементів аналітичної панелі, як описано `тут "
 "<#Створення-елемента-аналітичної-панелі>`__."
 
-#: docs/index.rst:977
+#: docs/index.rst:978
 msgid ""
 "In the bottom half of the page you will see a list of all available "
 "dashboard pages. Click the |pencil-thin| icon to open the page you would "
@@ -2971,7 +2971,7 @@ msgstr ""
 "панелі. Натисніть піктограму |pencil-thin|, щоб відкрити сторінку, яку "
 "потрібно змінити."
 
-#: docs/index.rst:978
+#: docs/index.rst:979
 msgid ""
 "In the lower half of the page you will see a list of all elements displayed "
 "on the dashboard page. Use the |delete| to permanently delete the element."
@@ -2980,7 +2980,7 @@ msgstr ""
 "сторінці аналітичної панелі. Скористайтеся піктограмою |delete|, щоб "
 "незворотно видалити елемент."
 
-#: docs/index.rst:980
+#: docs/index.rst:981
 msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
@@ -2988,11 +2988,11 @@ msgstr ""
 "Видаляючи елементи аналітичної панелі, будьте обачні. Видалені елементи "
 "неможливо відновити."
 
-#: docs/index.rst:984
+#: docs/index.rst:985
 msgid "FAQ"
 msgstr "Часті запитання"
 
-#: docs/index.rst:986
+#: docs/index.rst:987
 msgid ""
 "This section aims to help users troubleshoot frequently encountered issues. "
 "In case you encounter an issue that is not addressed here, please contact "
@@ -3004,51 +3004,51 @@ msgstr ""
 "адміністратора Вашої країни або надішліть електронний лист на адресу "
 "`hearms@who.int <mailto:herams@who.int?>`_."
 
-#: docs/index.rst:988
+#: docs/index.rst:989
 msgid "`General`_"
 msgstr "`Загальні проблеми`_"
 
-#: docs/index.rst:990
+#: docs/index.rst:991
 msgid "`Confirmation email not received`_"
 msgstr "`Повідомлення з підтвердженням не надійшло`_"
 
-#: docs/index.rst:991
+#: docs/index.rst:992
 msgid "`How to reset your password?`_"
 msgstr "`Як скинути пароль?`_"
 
-#: docs/index.rst:993
+#: docs/index.rst:994
 msgid "`View a project/dashboard`_"
 msgstr "`Перегляд проєкту/аналітичної панелі`_"
 
-#: docs/index.rst:995
+#: docs/index.rst:996
 msgid "`Can't access a project dashboard`_"
 msgstr "`Не вдається отримати доступ до аналітичної панелі проєкту`_"
 
-#: docs/index.rst:996
+#: docs/index.rst:997
 msgid "`Who has access to your project/workspace?`_"
 msgstr "`Хто має доступ до мого проєкту/робочого простору?`_"
 
-#: docs/index.rst:998
+#: docs/index.rst:999
 msgid "`Data editing & downloading`_"
 msgstr "`Редагування та завантаження даних`_"
 
-#: docs/index.rst:1000
+#: docs/index.rst:1001
 msgid "`Data updates don't appear on the dashboard`_"
 msgstr "`Оновлення даних не відображається на аналітичній панелі`_"
 
-#: docs/index.rst:1001
+#: docs/index.rst:1002
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr "`Експортовані дані неможливо читати/містять дивні символи`_"
 
-#: docs/index.rst:1005
+#: docs/index.rst:1006
 msgid "General"
 msgstr "Загальні проблеми"
 
-#: docs/index.rst:1008
+#: docs/index.rst:1009
 msgid "Confirmation email not received"
 msgstr "Повідомлення з підтвердженням не надійшло"
 
-#: docs/index.rst:1010
+#: docs/index.rst:1011
 msgid ""
 "If you did not receive an email upon registering or resetting your password, "
 "follow the steps below to troubleshoot the issue."
@@ -3056,25 +3056,25 @@ msgstr ""
 "Якщо Ви не отримали повідомлення під час реєстрації або скидання пароля, "
 "виконайте описані нижче кроки для усунення проблеми."
 
-#: docs/index.rst:1012
+#: docs/index.rst:1013
 msgid ""
 "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
 "Оновіть теку вхідних повідомлень. Повідомлення може з’явитися за кілька "
 "хвилин."
 
-#: docs/index.rst:1013
+#: docs/index.rst:1014
 msgid "Check your spam/junk folder."
 msgstr "Перевірте теку зі спамом."
 
-#: docs/index.rst:1014
+#: docs/index.rst:1015
 msgid ""
 "Try to register again. You might have accidentally misspelled your email."
 msgstr ""
 "Спробуйте зареєструватися ще раз. Ви могли допустити помилку під час "
 "введення своєї адреси електронної пошти."
 
-#: docs/index.rst:1015
+#: docs/index.rst:1016
 msgid ""
 "If the above steps did not solve your issue, please contact your system "
 "administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
@@ -3083,11 +3083,11 @@ msgstr ""
 "системного адміністратора або надішліть електронний лист на адресу "
 "`hearms@who.int <mailto:herams@who.int?>`_."
 
-#: docs/index.rst:1018
+#: docs/index.rst:1019
 msgid "How to reset your password?"
 msgstr "Як скинути пароль?"
 
-#: docs/index.rst:1020
+#: docs/index.rst:1021
 msgid ""
 "If you forgot your password, follow the instructions provided `here <#reset-"
 "password>`__ to reset your password."
@@ -3095,15 +3095,15 @@ msgstr ""
 "Якщо Ви забули пароль, дотримуйтеся інструкцій, наведених `тут <#Скидання-"
 "пароля>`__, щоб скинути пароль."
 
-#: docs/index.rst:1023
+#: docs/index.rst:1024
 msgid "View a project/dashboard"
 msgstr "Перегляд проєкту/аналітичної панелі"
 
-#: docs/index.rst:1026
+#: docs/index.rst:1027
 msgid "Can't access a project dashboard"
 msgstr "Не вдається отримати доступ до аналітичної панелі проєкту"
 
-#: docs/index.rst:1028
+#: docs/index.rst:1029
 msgid ""
 "For data protection reasons, access to the project dashboards is only "
 "granted upon request. If you require access to a project, please contact "
@@ -3116,11 +3116,11 @@ msgstr ""
 "`hearms@who.int <mailto:herams@who.int?>`_, надавши пояснення того, навіщо "
 "Вам потрібен доступ до проєкту."
 
-#: docs/index.rst:1031
+#: docs/index.rst:1032
 msgid "Who has access to your project/workspace?"
 msgstr "Хто має доступ до мого проєкту/робочого простору?"
 
-#: docs/index.rst:1033
+#: docs/index.rst:1034
 msgid ""
 "In-country administrators and users responsible for a project or workspace "
 "can verify the list of users having access to the project and/or workspace "
@@ -3133,15 +3133,15 @@ msgstr ""
 "інформацію щодо надання користувачам доступу до *проєкту* або *робочого "
 "простору* див. у розділі `Додавання користувача`_."
 
-#: docs/index.rst:1038
+#: docs/index.rst:1039
 msgid "Data editing & downloading"
 msgstr "Редагування та завантаження даних"
 
-#: docs/index.rst:1041
+#: docs/index.rst:1042
 msgid "Data updates don't appear on the dashboard"
 msgstr "Оновлення даних не відображається на аналітичній панелі"
 
-#: docs/index.rst:1043
+#: docs/index.rst:1044
 msgid ""
 "It is important to note that the data displayed on the interactive "
 "dashboards are only synchronized every 30 minutes. Thus, is it is possible "
@@ -3156,11 +3156,11 @@ msgstr ""
 "Додаткову інформацію щодо кешування даних див. у розділі `Піктограми та їхні "
 "значення`_."
 
-#: docs/index.rst:1046
+#: docs/index.rst:1047
 msgid "Exported data is unreadable / contains strange characters"
 msgstr "Експортовані дані неможливо читати/містять дивні символи"
 
-#: docs/index.rst:1048
+#: docs/index.rst:1049
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an "
 "issue with special characters not displaying correctly, resulting in "

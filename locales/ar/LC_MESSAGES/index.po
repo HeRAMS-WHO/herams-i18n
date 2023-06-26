@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-26 16:55+0000\n"
+"POT-Creation-Date: 2023-06-26 17:25+0000\n"
 "PO-Revision-Date: 2022-06-15 11:25+0000\n"
 "Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
@@ -1576,7 +1576,7 @@ msgstr ""
 "في العمود الأول 3. إذا كنت ترغب في إزالة منشأة صحية تمامًا، كرر الخطوة أعلاه "
 "حتى يتم حذف جميع الاستجابات."
 
-#: docs/index.rst:570
+#: docs/index.rst:571
 msgid ""
 "It is only possible to delete the most recent response. Previous responses "
 "are locked for editing/deleting to preserve the historical changes."
@@ -1584,7 +1584,7 @@ msgstr ""
 "من الممكن فقط حذف أحدث استجابة. الاستجابات السابقة مقفلة للتحرير / الحذف "
 "للحفاظ على التغييرات التاريخية."
 
-#: docs/index.rst:572
+#: docs/index.rst:573
 msgid ""
 "Only delete all responses to a health facility if you are sure that it was "
 "entered by mistake (e.g. duplicated record). For health facilities that are "
@@ -1595,25 +1595,25 @@ msgstr ""
 "الخطأ (على سبيل المثال، سجل مكرر). بالنسبة للمنشآت الصحية المغلقة نهائيًا، "
 "أضف استجابة جديدًة وقم بتغيير الحالة إلى * مغلق نهائيًا *."
 
-#: docs/index.rst:575
+#: docs/index.rst:576
 msgid ""
 "Deleting responses cannot be undone. Thus, be careful when deleting "
 "responses."
 msgstr ""
 "اذا تم حذف إجابات من السجلات فلن يمكن استرجاعها. لذا، كن حذرا عند حذف إجابة."
 
-#: docs/index.rst:579
+#: docs/index.rst:580
 msgid "Download Data"
 msgstr "تحميل البيانات"
 
-#: docs/index.rst:581
+#: docs/index.rst:582
 msgid ""
 "Data for individual health facilities can be downloaded as **CSV** or "
 "**Excel** file."
 msgstr ""
 "يمكن تحميل بيانات المنشآت الصحية بصورة فردية كملف **CSV** أو **Excel**."
 
-#: docs/index.rst:583
+#: docs/index.rst:584
 msgid ""
 "Whether you have permissions to download data depends on your function and "
 "role. If you require your access permissions to be changed, kindly contact "
@@ -1628,11 +1628,11 @@ msgstr ""
 "herams@who.int?>`_ مع تحديد وظيفتك ودورك بالاضافة لشرح موجز حول سبب رغبتك في "
 "تغيير صلاحياتك."
 
-#: docs/index.rst:586
+#: docs/index.rst:587
 msgid "Download Workspace Data"
 msgstr "تحميل بيانات مساحة العمل"
 
-#: docs/index.rst:588
+#: docs/index.rst:589
 msgid ""
 "Follow the instructions below to export data from your workspace. If you "
 "require data from multiple workspaces, you can repeat the below steps and "
@@ -1642,7 +1642,7 @@ msgstr ""
 "إلى بيانات من مساحات عمل متعددة، فيمكنك تكرار الخطوات التالية ودمج بياناتك "
 "في أداة التحليل التي تختارها."
 
-#: docs/index.rst:590
+#: docs/index.rst:591
 msgid ""
 "In order to download data, you will require special permissions to the "
 "workspace. Contact your system administrator to elevate your access rights "
@@ -1651,14 +1651,14 @@ msgstr ""
 "لتحميل البيانات، ستحتاج إلى أذنوات خاصة بمساحة العمل. اتصل بمسؤول النظام "
 "لرفع مستوى الأذونات الخاصة بك إذا لزم الأمر."
 
-#: docs/index.rst:593
+#: docs/index.rst:594
 #, fuzzy
 msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
 msgstr ""
 "لتصدير البيانات ، قم بالوصول إلى مساحة العمل الخاصة بك كما هو موضح هنا "
 "<الوصول إلى مساحة العمل الخاصة بك>`__)."
 
-#: docs/index.rst:594 docs/index.rst:614
+#: docs/index.rst:595 docs/index.rst:615
 msgid ""
 "You should now see a table displaying the list of workspaces available in "
 "your project. If you have been granted permission to download data, you "
@@ -1669,7 +1669,7 @@ msgstr ""
 "إذنًا لتنزيل البيانات، فمن المفترض أن ترى علامة تبويب ثانية بعنوان "
 "\"تنزيل\" (1). انقر فوق اسم علامة التبويب لفتح إعدادات التنزيل."
 
-#: docs/index.rst:595 docs/index.rst:615
+#: docs/index.rst:596 docs/index.rst:616
 msgid ""
 "In the download tab you have the option to customize your data export. You "
 "can choose between exporting data as text or code as well as the type of "
@@ -1680,7 +1680,7 @@ msgstr ""
 "الاختيار بين تصدير البيانات كنص أو رمز بالإضافة إلى نوع الرأس المراد تضمينه "
 "في التصدير. استخدم مفاتيح التشغيل / الإيقاف لتعديل الخيارات الافتراضية (2)."
 
-#: docs/index.rst:597 docs/index.rst:617
+#: docs/index.rst:598 docs/index.rst:618
 msgid ""
 "If you choose to export answers as code, questions with predefined answer "
 "options will show coded values instead of the text labels (e.g. A1 instead "
@@ -1690,7 +1690,7 @@ msgstr ""
 "مسبقًا القيم المشفرة بدلاً من التسميات النصية (على سبيل المثال، A1 بدلاً من "
 "\"متاح\")."
 
-#: docs/index.rst:599 docs/index.rst:619
+#: docs/index.rst:600 docs/index.rst:620
 msgid ""
 "If a survey is available in multiple languages, use the drop-down list to "
 "specify the export language (3)."
@@ -1698,7 +1698,7 @@ msgstr ""
 "إذا كان الاستطلاع متاحًا بلغات متعددة ، فاستخدم القائمة المنسدلة لتحديد لغة "
 "التصدير (3)."
 
-#: docs/index.rst:600
+#: docs/index.rst:601
 msgid ""
 "By default, all available responses for a health facility will be exported. "
 "For projects with multiple responses per health facility, the **report "
@@ -1713,7 +1713,7 @@ msgstr ""
 "تصدير السجل الأخير فقط قبل التاريخ المحدد أو مساويًا له لكل منشأة صحية. "
 "للحصول على أحدث البيانات، اضبط ** تاريخ التقرير ** على تاريخ اليوم (4)."
 
-#: docs/index.rst:601 docs/index.rst:621
+#: docs/index.rst:602 docs/index.rst:622
 msgid ""
 "Once you have defined the export settings, select between the two export "
 "formats (**CSV** or **Excel**) by clicking the respective button (5)."
@@ -1721,7 +1721,7 @@ msgstr ""
 "بمجرد تحديد إعدادات التصدير ، حدد بين تنسيقي التصدير (** CSV ** أو ** اكسل "
 "**) بالنقر فوق الزر المعني (5)."
 
-#: docs/index.rst:604 docs/index.rst:625
+#: docs/index.rst:605 docs/index.rst:626
 msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an Excel file if you select a language other than English. For more "
@@ -1732,11 +1732,11 @@ msgstr ""
 "غير الإنجليزية. لمزيد من المعلومات حول ترميز ملفات ** CSV ** للاستخدام في "
 "اكسل ، راجع \"ترميز البيانات في اكسل\" _."
 
-#: docs/index.rst:608
+#: docs/index.rst:609
 msgid "Download the Entire Data Set"
 msgstr "قم بتحميل مجموعة البيانات بالكامل"
 
-#: docs/index.rst:609
+#: docs/index.rst:610
 msgid ""
 "Project administrators or users with special permissions can export the "
 "entire project data from the admin interface."
@@ -1744,7 +1744,7 @@ msgstr ""
 "يمكن لمسؤولي المشروع أو المستخدمين الذين لديهم أذونات خاصة تصدير بيانات "
 "المشروع بالكامل من واجهة إدارة المشاريع."
 
-#: docs/index.rst:611
+#: docs/index.rst:612
 msgid ""
 "Access to project level data is limited to selected users only. Contact your "
 "country administrator for further information."
@@ -1752,14 +1752,14 @@ msgstr ""
 "يقتصر الوصول إلى البيانات على مستوى المشروع على مستخدمين محددين فقط. اتصل "
 "بمسؤول هيرامس ببلدك للحصول على مزيد من المعلومات."
 
-#: docs/index.rst:613
+#: docs/index.rst:614
 #, fuzzy
 msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
 msgstr ""
 "افتح صفحات مسؤول مشروعك (راجع \"الوصول إلى مساحة العمل الخاصة بك\" _ "
 "الخطوتين 1 و 2 للحصول على التفاصيل)."
 
-#: docs/index.rst:620
+#: docs/index.rst:621
 msgid ""
 "By default, all available responses for a health facility will be exported. "
 "For projects with multiple responses per health facility, the **report** "
@@ -1774,7 +1774,7 @@ msgstr ""
 "تصدير السجل الأخير فقط قبل التاريخ المحدد أو مساويًا له لكل منشأة صحية. "
 "للحصول على أحدث البيانات، اضبط ** تاريخ التقرير ** على تاريخ اليوم (4)."
 
-#: docs/index.rst:623
+#: docs/index.rst:624
 msgid ""
 "For large data sets, exporting data in Excel takes substantially longer than "
 "exporting as **CSV** format."
@@ -1782,11 +1782,11 @@ msgstr ""
 "بالنسبة للمجموعات الكبيرة من البيانات، يستغرق تصدير البيانات في Excel وقتًا "
 "أطول بكثير من التصدير بتنسيق **CSV**."
 
-#: docs/index.rst:629
+#: docs/index.rst:630
 msgid "Data Encoding in Excel"
 msgstr "ترميز البيانات في برنامج اكسيل"
 
-#: docs/index.rst:630
+#: docs/index.rst:631
 msgid ""
 "If data is downloaded for further analysis in Excel or a statistical "
 "software of choice (e.g. R or STATA), data encoding should always be set to "
@@ -1795,7 +1795,7 @@ msgstr ""
 "إذا تم تحميل البيانات لإجراء مزيد من التحليل في Excel أو برنامج إحصائي من "
 "اختيارك (مثل R أو STATA)، فيجب دائماً ضبط تشفير البيانات على UTF-8."
 
-#: docs/index.rst:632
+#: docs/index.rst:633
 msgid ""
 "Encoding issues are particularly prevalent in languages with special "
 "character and can result in the data being unreadable. For example, instead "
@@ -1805,13 +1805,13 @@ msgstr ""
 "إمكانية قراءة البيانات. مثال، بدلاً من **camp de réfugiés**، تحصل على **Camp "
 "de rÃ © fugiÃ © s**."
 
-#: docs/index.rst:634
+#: docs/index.rst:635
 msgid ""
 "To avoid encoding issues, it is recommended that you download your data as "
 "an **Excel** file."
 msgstr "لتجنب مشاكل الترميز، يوصى بتحميل بياناتك كملف **Excel**."
 
-#: docs/index.rst:636
+#: docs/index.rst:637
 msgid ""
 "The below instructions guide users through the steps to define the data "
 "encoding in Excel."
@@ -1819,11 +1819,11 @@ msgstr ""
 "توجه الإرشادات أدناه المستخدمين خلال خطوات تحديد ترميز البيانات في برنامج "
 "اكسيل."
 
-#: docs/index.rst:638
+#: docs/index.rst:639
 msgid "Open a new Excel file."
 msgstr "افتح ملف اكسيل جديد."
 
-#: docs/index.rst:639
+#: docs/index.rst:640
 msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From Text/"
 "CSV**."
@@ -1831,7 +1831,7 @@ msgstr ""
 "في علامة تبويب البيانات ضمن مجموعة **Get & Transform Data**، اضغط على **From "
 "Text / CSV**."
 
-#: docs/index.rst:640
+#: docs/index.rst:641
 msgid ""
 "In the **Import Data** dialog box, locate and double-click the text file "
 "that you want to import, and click **Import**."
@@ -1839,7 +1839,7 @@ msgstr ""
 "في حقل **استيراد البيانات**، حدد موقع الملف النصي الذي تريد استيراده وانقر "
 "فوقه نقراً مزدوجاً، ثم انقر فوق **استيراد**."
 
-#: docs/index.rst:641
+#: docs/index.rst:642
 msgid ""
 "In the top left corner of the pop-up window that opens, change the encoding "
 "type to **UTF-8**, and click **Import**."
@@ -1847,11 +1847,11 @@ msgstr ""
 "في الزاوية العلوية اليسرى من النافذة التي تظهر، قم بتغيير نوع الترميز إلى "
 "**UTF-8**، واضغط على زر **استيراد**."
 
-#: docs/index.rst:650
+#: docs/index.rst:651
 msgid "HeRAMS Administration"
 msgstr "إدارة هيرامس"
 
-#: docs/index.rst:652
+#: docs/index.rst:653
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers "
 "step-by-step instructions for common tasks performed by advanced users (e.g. "
@@ -1870,7 +1870,7 @@ msgstr ""
 "مساحات العمل والمشاريع. تركز الأجزاء المتبقية من هذا الفصل على مواضيع أكثر "
 "تقدمًا وتهدف إلى توجيه * مسؤولي المشروع * حول كيفية إدارة المشروع محليًا."
 
-#: docs/index.rst:655
+#: docs/index.rst:656
 msgid ""
 "Access to different parts of the admin interface depends on your function "
 "and role. If you require your permissions to be changed, kindly contact your "
@@ -1884,15 +1884,15 @@ msgstr ""
 "وظيفتك ودورك بالإضافة إلى شرح موجز عن سبب رغبتك في تغيير صلاحيات الوصول "
 "الخاصة بك."
 
-#: docs/index.rst:658
+#: docs/index.rst:659
 msgid "User Management"
 msgstr "إدارة المستخدمين"
 
-#: docs/index.rst:661
+#: docs/index.rst:662
 msgid "Workspace Permissions"
 msgstr "صلاحيات مساحة العمل"
 
-#: docs/index.rst:663
+#: docs/index.rst:664
 msgid ""
 "The use of workspaces permits users to manage a set of health facilities (e."
 "g. all health facilities within a district) autonomously. **Workspace "
@@ -1906,11 +1906,11 @@ msgstr ""
 "آخرين للمساهمة أو الوصول إلى بياناتهم. توجد أربع صلاحيات على مستوى مساحة "
 "العمل:"
 
-#: docs/index.rst:666
+#: docs/index.rst:667
 msgid "**Edit data**: Allows users to create, edit and delete records."
 msgstr "** تحرير البيانات **: يسمح للمستخدمين بإنشاء السجلات وتحريرها وحذفها."
 
-#: docs/index.rst:668
+#: docs/index.rst:669
 msgid ""
 "**Download data** Enables users to download all records from a workspace for "
 "further analysis in external applications."
@@ -1918,7 +1918,7 @@ msgstr ""
 "**تحميل البيانات** يُمكِّن المستخدمين من تحميل جميع السجلات من مساحة العمل "
 "لإجراء مزيد من التحليل في تطبيقات خارجية."
 
-#: docs/index.rst:670
+#: docs/index.rst:671
 msgid ""
 "**Manage users**: Permits users to share access to a workspace with other "
 "users."
@@ -1926,7 +1926,7 @@ msgstr ""
 "**إدارة المستخدمين**: تسمح للمستخدمين بمشاركة الوصول إلى مساحة العمل مع "
 "مستخدمين آخرين."
 
-#: docs/index.rst:672
+#: docs/index.rst:673
 msgid ""
 "**Grant admin permissions**: This permission is only available to *Project "
 "administrators* and should only be granted to **workspace owners**. It "
@@ -1938,7 +1938,7 @@ msgstr ""
 "الكاملة لمساحة العمل، بما في ذلك القدرة على منح مستخدم آخر الصَّلاحِيَة لدعوة "
 "مستخدمين جدد."
 
-#: docs/index.rst:674
+#: docs/index.rst:675
 msgid ""
 "The ability to invite new users to contribute or manage a workspace depends "
 "on the permission of the user granting access. A user with permission to "
@@ -1952,7 +1952,7 @@ msgstr ""
 "ألا يكون المستخدم الذي لديه صَلاحِيَة ** إدارة المستخدمين ** قادرًا على منح حق "
 "الوصول لتحرير البيانات أو تنزيلها إلى مستخدمين آخرين."
 
-#: docs/index.rst:676
+#: docs/index.rst:677
 msgid ""
 "Access to workspaces and projects should always be granted with regards to "
 "the users' roles and responsibilities. For more information on user roles "
@@ -1963,11 +1963,11 @@ msgstr ""
 "المستخدمين. لمزيد من المعلومات حول أدوار المستخدم والصلاحيات الموصى بها لكل "
 "دور، راجع أقسام \"أدوار المستخدم\" _ و \"تعيين أدوار المستخدم للصلاحيات\" _."
 
-#: docs/index.rst:680
+#: docs/index.rst:681
 msgid "Project Permissions"
 msgstr "صلاحيات المشروع"
 
-#: docs/index.rst:682
+#: docs/index.rst:683
 msgid ""
 "Similar to workspace permissions, permissions can also be granted at the "
 "project level. It is important to note that if permissions are granted at "
@@ -1984,11 +1984,11 @@ msgstr ""
 "مساحات العمل. في المقابل، إذا تم منح المستخدم حق الوصول على مستوى مساحة "
 "العمل، فسيكون قادرًا فقط على المساهمة بالبيانات في مساحة العمل المحددة هذه."
 
-#: docs/index.rst:684
+#: docs/index.rst:685
 msgid "There are six permissions that can be granted at the project level:"
 msgstr "هناك ست صلاحيات يمكن منحها على مستوى المشروع:"
 
-#: docs/index.rst:686
+#: docs/index.rst:687
 msgid ""
 "**View dashboard**: Grants access exclusively to the project dashboard. "
 "Granting users explicit access to the project dashboard is only required for "
@@ -2000,7 +2000,7 @@ msgstr ""
 "المغلقة * أو * الخاصة *. بالنسبة لجميع المشروعات الأخرى، سيتمكن أي مستخدم "
 "مشترك في النظام الأساسي من عرض لوحة تحكم المشروع."
 
-#: docs/index.rst:688
+#: docs/index.rst:689
 msgid ""
 "**Edit data**: Allows users to create, edit and delete records in any "
 "workspace of the project."
@@ -2008,7 +2008,7 @@ msgstr ""
 "** تحرير البيانات **: يسمح للمستخدمين بإنشاء وتعديل وحذف السجلات في أي مساحة "
 "عمل في المشروع."
 
-#: docs/index.rst:690
+#: docs/index.rst:691
 msgid ""
 "**Download data**: Enables users to download the entire dataset, including "
 "records from all workspaces for further analysis in external applications."
@@ -2016,7 +2016,7 @@ msgstr ""
 "** تنزيل البيانات **: يمكّن المستخدمين من تنزيل مجموعة البيانات كُلََّها، بما في "
 "ذلك السجلات من جميع مساحات العمل لمزيد من التحليل في التطبيقات الخارجية."
 
-#: docs/index.rst:692
+#: docs/index.rst:693
 msgid ""
 "**Manage workspaces**: Grants a user access to create, modify and delete "
 "workspaces as well as the ability to invite users to contribute to an "
@@ -2025,7 +2025,7 @@ msgstr ""
 "**إدارة مساحات العمل**: تمنح المستخدم حق الدخول لإنشاء مساحات العمل وتعديلها "
 "وحذفها بالإضافة إلى القدرة على دعوة المستخدمين للمساهمة في مساحة عمل فردية."
 
-#: docs/index.rst:694
+#: docs/index.rst:695
 msgid ""
 "*Workspace owners* must be granted permission at the workspace level. If a "
 "user is granted permissions to *Manage workspaces* they will have access to "
@@ -2035,7 +2035,7 @@ msgstr ""
 "المستخدم صلاحيات ل *إدارة مساحات العمل*، فسيكون بإمكانه الدخول إلى **جميع** "
 "مساحات العمل."
 
-#: docs/index.rst:696
+#: docs/index.rst:697
 msgid ""
 "**Configure dashboard**: Grants users the ability to configure their project "
 "dashboard."
@@ -2043,7 +2043,7 @@ msgstr ""
 "**تكوين لوحة المعلومات**: يمنح المستخدمين القدرة على تكوين لوحة المعلومات "
 "الخاصة بمشروعهم."
 
-#: docs/index.rst:698
+#: docs/index.rst:699
 msgid ""
 "**Manage survey** Grants permission to access the survey configurations. "
 "This permission can only be granted by a global administrator."
@@ -2051,15 +2051,15 @@ msgstr ""
 "** إدارة الاستطلاع ** يمنح الصَّلاحِيَة للوصول إلى تكوينات الاستطلاع. لا يمكن "
 "منح هذا الإذن إلا من قبل مسؤول عام."
 
-#: docs/index.rst:702
+#: docs/index.rst:703
 msgid "User Roles"
 msgstr "أدوار المستخدمين"
 
-#: docs/index.rst:704
+#: docs/index.rst:705
 msgid "There are six standard user roles used accross projects."
 msgstr "هناك ستة أدوار قياسية للمستخدمين تُستخدم عبر المشاريع."
 
-#: docs/index.rst:712
+#: docs/index.rst:713
 msgid ""
 "**Project owner**: The designated person who is responsible for the HeRAMS "
 "project. They can invite users to view the project dashboard or the list of "
@@ -2070,7 +2070,7 @@ msgstr ""
 "المستخدمين لعرض لوحة معلومات المشروع أو قائمة مساحات العمل المتاحة ولكن لا "
 "يُتوقع منهم إجراء الأنشطة اليومية لإدارة المستخدمين وضمان جودة البيانات."
 
-#: docs/index.rst:714
+#: docs/index.rst:715
 msgid ""
 "**Project admin**: The *project owner* typically relies on an Information "
 "Management Officer to manage the daily activities of the HeRAMS project and "
@@ -2087,7 +2087,7 @@ msgstr ""
 "المشروع* مسؤولين عن التدريب العام وإدارة المستخدمين، يمكنهم تعيين *مالكي "
 "مساحة العمل* لإدارة مساحات العمل الفردية."
 
-#: docs/index.rst:716
+#: docs/index.rst:717
 msgid ""
 "**Workspace owner:** Are commonly at the sub-national level, overseeing data "
 "collection for a specific area (e.g. a district). They have full control "
@@ -2104,7 +2104,7 @@ msgstr ""
 "التي يمتلكونها. ومع ذلك، مثل أي مستخدم تم منحه حق الدخول إلى مشروع، يمكنه "
 "الاطلاع على البيانات من مساحات العمل الأخرى باستخدام لوحة معلومات المشروع."
 
-#: docs/index.rst:718
+#: docs/index.rst:719
 msgid ""
 "**Data contributor:** Support the workspace owner in collecting and managing "
 "information on individual health facilities. Like *workspace owners* they "
@@ -2116,7 +2116,7 @@ msgstr ""
 "داخل مساحة العمل الخاصة بهم ولكن يمكنهم رؤية المشروع بالكامل من خلال الدخول "
 "إلى لوحة معلومات المشروع."
 
-#: docs/index.rst:720
+#: docs/index.rst:721
 msgid ""
 "**Data viewers**: Under exceptional situations, a user might be granted the "
 "role of *data viewer*. This means they are granted access to download the "
@@ -2129,7 +2129,7 @@ msgstr ""
 "لا يمكنهم تحرير البيانات. مثل جميع المستخدمين الذين تم منحهم حق الوصول إلى "
 "المشروع، يمكنهم أيضًا الوصول إلى لوحة تحكم المشروع."
 
-#: docs/index.rst:722
+#: docs/index.rst:723
 msgid ""
 "**Project viewer:** The role of *project viewer* is intended for users at "
 "any level who rely on HeRAMS data for their own work. Their access is "
@@ -2139,7 +2139,7 @@ msgstr ""
 "ممن يعتمدون على بيانات هيرامس في عملهم. تقتصر صلاحياتهم على رؤية لوحة "
 "معلومات المشروع وقائمة مساحات العمل المتاحة."
 
-#: docs/index.rst:724
+#: docs/index.rst:725
 msgid ""
 "If a project is set to **private** or **closed** access to the project "
 "dashboard can be further restricted. Please consult `Project Settings` for "
@@ -2149,11 +2149,11 @@ msgstr ""
 "معلومات المشروع بشكل كبير. يرجى الرجوع إلى `إعدادات المشروع` لمزيد من "
 "المعلومات حول حالات المشروع."
 
-#: docs/index.rst:728
+#: docs/index.rst:729
 msgid "Mapping User Roles to Permissions"
 msgstr "تعيين صلاحيات المستخدمين بحسب ادوارهم"
 
-#: docs/index.rst:730
+#: docs/index.rst:731
 msgid ""
 "**Data contributors**: *data contributors* are granted access to *edit data* "
 "for individual workspaces."
@@ -2161,14 +2161,14 @@ msgstr ""
 "**المساهمون بالبيانات**: *المساهمون بالبيانات* يُمنحون حق الدخول إلى *تعديل "
 "البيانات* في مساحات العمل الفردية."
 
-#: docs/index.rst:737
+#: docs/index.rst:738
 msgid ""
 "Optionally, *data contributors* can also be granted permissions to download "
 "data."
 msgstr ""
 "اختيارياً، يمكن أيضاً منح *المساهمين في البيانات* صلاحيات لتحميل البيانات."
 
-#: docs/index.rst:744
+#: docs/index.rst:745
 msgid ""
 "**Data viewers**: It is possible to grant users access to download data "
 "without providing them with edit rights. While this permission is commonly "
@@ -2180,7 +2180,7 @@ msgstr ""
 "البيانات والإذن ب *تعديل البيانات*، ولكن احيانا وفي ظل ظروف خاصة، قد يتم منح "
 "الإذن لتحميل البيانات فقط."
 
-#: docs/index.rst:751
+#: docs/index.rst:752
 msgid ""
 "**Workspace owners**: In addition to editing and downloading data, "
 "*workspace owners* are granted permission to *manage users*. This grants "
@@ -2190,7 +2190,7 @@ msgstr ""
 "مالكي مساحة العمل * صَلاحِيَة * لإدارة المستخدمين *. يمنحهم هذا القدرة على دعوة "
 "مستخدمين آخرين للمساهمة في مساحة عملهم."
 
-#: docs/index.rst:758
+#: docs/index.rst:759
 msgid ""
 "Under special circumstances a *project admin* might grant a *workspace "
 "owner* admin permission to a workspace, allowing the *workspace owner* to "
@@ -2202,7 +2202,7 @@ msgstr ""
 "لمساحة العمل الخاصة به. يجب استخدام هذا الإذن بعناية ومنحه فقط عند الضرورة "
 "القصوى."
 
-#: docs/index.rst:765
+#: docs/index.rst:766
 msgid ""
 "While *workspace owners* may delegate granting access permissions to another "
 "user, they remain responsible for their workspace and users having access to "
@@ -2212,11 +2212,11 @@ msgstr ""
 "أنهم يظلون مسؤولين عن مساحة العمل الخاصة بهم والمستخدمين الذين يمكنهم الوصول "
 "إليها."
 
-#: docs/index.rst:769
+#: docs/index.rst:770
 msgid "Add a User"
 msgstr "اضف مستخدم"
 
-#: docs/index.rst:771
+#: docs/index.rst:772
 #, fuzzy
 msgid ""
 "To grant a user access to your project, navigate to the list of workspaces "
@@ -2229,11 +2229,11 @@ msgstr ""
 "العمل بالنقر فوق اسم مساحة العمل المطلوبة. راجع \"الوصول إلى مساحة العمل "
 "الخاصة بك\" _ للحصول على التفاصيل."
 
-#: docs/index.rst:773
+#: docs/index.rst:774
 msgid "Click the *Users* tab to open the user management section."
 msgstr "انقر فوق علامة التبويب * المستخدمون * لفتح قسم إدارة المستخدم."
 
-#: docs/index.rst:775
+#: docs/index.rst:776
 msgid ""
 "You should now see a page similar to the image below. On the bottom half of "
 "the page, you can see a list of all users currently having access to the "
@@ -2248,11 +2248,11 @@ msgstr ""
 "كتابة اسم المستخدم في الحقل العلوي و ستلاحظ أن قائمة المستخدمين الحاليين يتم "
 "تصفيتها بشكل ديناميكى اثناء الكتابة. حدد المستخدم الذي ترغب في إضافته."
 
-#: docs/index.rst:782
+#: docs/index.rst:783
 msgid "You can add multiple users add once as shown in the image above."
 msgstr "يمكنك إضافة عدة مستخدمين مرة واحدة كما هو موضح بالصورة أعلاه."
 
-#: docs/index.rst:786
+#: docs/index.rst:787
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`Workspace Permissions`_ or `Project Permissions`_ for further details on "
@@ -2261,15 +2261,15 @@ msgstr ""
 "استخدم مربعات الاختيار لتحديد مستوى الصَّلاحِيَة المناسب. راجع \"صلاحيات مساحة "
 "العمل\" _ أو \"صلاحيات المشروع\" لمزيد من التفاصيل حول صلاحيات مساحة العمل."
 
-#: docs/index.rst:788
+#: docs/index.rst:789
 msgid "Click the |add| button to grant users the desired permissions."
 msgstr "انقر فوق زر | إضافة | لمنح المستخدمين الصلاحيات المطلوبة."
 
-#: docs/index.rst:797
+#: docs/index.rst:798
 msgid "Change a User's Permission"
 msgstr "تغيير صلاحية المستخدم"
 
-#: docs/index.rst:799
+#: docs/index.rst:800
 msgid ""
 "Follow the instructions outlined  `above <#add-a-user>`__ to open the user "
 "management interface of your workspace or project."
@@ -2277,7 +2277,7 @@ msgstr ""
 "اتبع الإرشادات الموضحة `أعلاه <# add-a-user>`_ لفتح واجهة إدارة المستخدمين "
 "الخاصة بمساحة عملك أو مشروعك."
 
-#: docs/index.rst:800 docs/index.rst:813
+#: docs/index.rst:801 docs/index.rst:814
 msgid ""
 "On the second half of the page you will see a list of all users having "
 "access to the workspace or project, including their permissions."
@@ -2285,7 +2285,7 @@ msgstr ""
 "في النصف الثاني من الصفحة، سترى قائمة بجميع المستخدمين الذين لديهم حق الدخول "
 "إلى مساحة العمل أو المشروع، بما في ذللك صلاحياتهم."
 
-#: docs/index.rst:801
+#: docs/index.rst:802
 msgid ""
 "You can change a user's permission by flipping the corresponding switch "
 "button to **Allowed** or **Denied**."
@@ -2293,11 +2293,11 @@ msgstr ""
 "يمكنك تغيير صَلاحِيَة المستخدم عن طريق قلب زر التبديل المقابل إلى ** مسموح به "
 "** أو ** مرفوض **."
 
-#: docs/index.rst:810
+#: docs/index.rst:811
 msgid "Remove a User"
 msgstr "حذف مستخدم"
 
-#: docs/index.rst:812
+#: docs/index.rst:813
 msgid ""
 "Open the user management interface of your *Workspace* or *Project*. See "
 "`here <#add-a-user>`__ for more details on how to access the user management "
@@ -2307,7 +2307,7 @@ msgstr ""
 "<# add-a-user>`_ لمزيد من التفاصيل حول كيفية الدخول إلى واجهة إدارة "
 "المستخدمين."
 
-#: docs/index.rst:814
+#: docs/index.rst:815
 msgid ""
 "To remove a user change all permissions to **Not allowed**. Upon reloading "
 "the page, you will see that the user has disappeared from the list (see "
@@ -2316,7 +2316,7 @@ msgstr ""
 "لإزالة مستخدم ، قم بتغيير جميع الصلاحيات إلى ** غير مسموح بها **. عند إعادة "
 "تحميل الصفحة، سترى أن المستخدم قد اختفى من القائمة (انظر الفيديو أعلاه)."
 
-#: docs/index.rst:816
+#: docs/index.rst:817
 msgid ""
 "Removing a user from a **Workspace** will not revoke their **Project** level "
 "permissions and vice versa."
@@ -2324,11 +2324,11 @@ msgstr ""
 "حذف مستخدم من **مساحة العمل** لن يؤدي إلى إلغاء أذونات مستوى **المشروع** "
 "والعكس صحيح."
 
-#: docs/index.rst:820
+#: docs/index.rst:821
 msgid "Manage Workspaces"
 msgstr "إدارة مساحات العمل"
 
-#: docs/index.rst:821
+#: docs/index.rst:822
 msgid ""
 "Managing the list of available workspaces is a key component of the *Project "
 "admin's* role. In addition to being able to create, edit or delete "
@@ -2339,11 +2339,11 @@ msgstr ""
 "بالإضافة إلى القدرة على إنشاء مساحات العمل أو تحريرها أو حذفها، تتضمن إدارة "
 "مساحات العمل أيضًا تعيين * مالكي مساحات العمل * ومنحهم الصلاحيات المناسبة."
 
-#: docs/index.rst:825
+#: docs/index.rst:826
 msgid "Create a Workspace"
 msgstr "إنشاء مساحة عمل"
 
-#: docs/index.rst:827
+#: docs/index.rst:828
 #, fuzzy
 msgid ""
 "To create a new workspace, navigate to the list of workspaces of your "
@@ -2352,22 +2352,22 @@ msgstr ""
 "لإنشاء مساحة عمل جديدة، انتقل إلى قائمة مساحات العمل الخاصة بمشروعك. راجع "
 "\"الوصول إلى مساحة العمل الخاصة بك\" _ الخطوات (1-2) للحصول على التفاصيل."
 
-#: docs/index.rst:828
+#: docs/index.rst:829
 msgid ""
 "In the upper right corner, you will see a button labeled |create-workspace|."
 msgstr "في الزاوية اليمنى العليا، سترى زرًا باسم | إنشاء-مساحة العمل |."
 
-#: docs/index.rst:829
+#: docs/index.rst:830
 msgid ""
 "You will be directed to a page where you will be able to create a new "
 "workspace."
 msgstr "ستتم إعادة توجيهك الى صفحة حيث تتمكن من إنشاء مساحة عمل جديدة."
 
-#: docs/index.rst:830
+#: docs/index.rst:831
 msgid "Enter the workspace's name into the title field."
 msgstr "أدخل اسم مساحة العمل في حقل العنوان."
 
-#: docs/index.rst:831
+#: docs/index.rst:832
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a new "
 "token by selecting **Create new token**."
@@ -2375,7 +2375,7 @@ msgstr ""
 "استخدم القائمة المنسدلة لتحديد الرمز المميز **Token** أو إنشاء رمز مميز جديد "
 "عن طريق تحديد إنشاء رمز مميز جديد **Create new token**."
 
-#: docs/index.rst:838
+#: docs/index.rst:839
 msgid ""
 "Tokens are unique identifiers that link health facilities to workspaces. To "
 "add a health facility to a workspace the token of the record in question has "
@@ -2386,11 +2386,11 @@ msgstr ""
 "العمل. لإضافة منشأة صحية إلى مساحة عمل، يجب تغيير رمز السجل المعني يدوياً. "
 "اتصل بمسؤول المشروع للحصول على إرشادات حول كيفية تغيير رمز السجل."
 
-#: docs/index.rst:841
+#: docs/index.rst:842
 msgid "Rename a Workspace"
 msgstr "إعادة تسمية مساحة العمل"
 
-#: docs/index.rst:843
+#: docs/index.rst:844
 msgid ""
 "To rename a workspace, open your workspace as outlined `here <#Access-your-"
 "workspace>`__ and go to *Workspace settings* tabs."
@@ -2399,38 +2399,38 @@ msgstr ""
 "إلى مساحة العمل الخاصة بك#> `__ وانتقل إلى علامات التبويب * إعدادات مساحة "
 "العمل *."
 
-#: docs/index.rst:844
+#: docs/index.rst:845
 msgid "You should now be able to modify the title and token of your workspace."
 msgstr ""
 "ستكون الآن قادرًا على تعديل العنوان والرمز المميز لمساحة العمل الخاصة بك."
 
-#: docs/index.rst:845
+#: docs/index.rst:846
 msgid "Save your changes by clicking the |save| button."
 msgstr "احفظ التغييرات بالنقر فوق زر | حفظ |."
 
-#: docs/index.rst:850
+#: docs/index.rst:851
 msgid "Delete a Workspace"
 msgstr "حذف مساحة العمل"
 
-#: docs/index.rst:852
+#: docs/index.rst:853
 msgid ""
 "Access the workspace settings as outlined `above <#rename-a-workspace>`__."
 msgstr ""
 "قم بالوصول إلى إعدادات مساحة العمل كما هو موضح أعلاه<#إعادة تسمية مساحة "
 "العمل> `__."
 
-#: docs/index.rst:853
+#: docs/index.rst:854
 msgid ""
 "Click the |delete-bt| button in the bottom half of the page to permanently "
 "delete the workspace."
 msgstr ""
 "انقر فوق | delete-bt | في النصف السفلي من الصفحة لحذف مساحة العمل نهائيًا."
 
-#: docs/index.rst:859
+#: docs/index.rst:860
 msgid "Configure the Project dashboard"
 msgstr "قم بتهيئة لوحة معلومات المشروع"
 
-#: docs/index.rst:861
+#: docs/index.rst:862
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This section "
@@ -2443,15 +2443,15 @@ msgstr ""
 "كيفية تعديل لوحات المعلومات هذه. ملخص صفحة لوحة المعلومات القياسية متاح `هنا "
 "<#default-dashboard-pages>`__."
 
-#: docs/index.rst:864
+#: docs/index.rst:865
 msgid "Create a Dashboard Page"
 msgstr "قم بإنشاء صفحة معلومات"
 
-#: docs/index.rst:866
+#: docs/index.rst:867
 msgid "To add a new page to a dashboard, open your project's admin page."
 msgstr "لإضافة صفحة جديدة إلى لوحة التحكم، افتح صفحة مدير مشروعك."
 
-#: docs/index.rst:867
+#: docs/index.rst:868
 msgid ""
 "Open the `Dashboard settings` tab. You should now see a table with the list "
 "of existing dashboard pages."
@@ -2459,7 +2459,7 @@ msgstr ""
 "افتح علامة التبويب \"إعدادات لوحة التحكم\". ستشاهد الآن جدولاً يحتوي على "
 "قائمة بصفحات لوحة المعلومات الموجودة."
 
-#: docs/index.rst:868
+#: docs/index.rst:869
 msgid ""
 "To add a new page to the dashboard, click the |add-page| button in the top "
 "right corner."
@@ -2467,7 +2467,7 @@ msgstr ""
 "لإضافة صفحة جديدة إلى لوحة المعلومات، انقر فوق زر | إضافة صفحة | في الزاوية "
 "اليمنى العليا."
 
-#: docs/index.rst:870
+#: docs/index.rst:871
 msgid ""
 "To create the standard HeRAMS dashboard, export an existing dashboard from "
 "another project using the *Export all* button. This will export a JSON file. "
@@ -2480,7 +2480,7 @@ msgstr ""
 "مشروعك وقم باستيراد مِلَفّ جاسون باستخدام زر * استيراد لوحة المعلومات *. بمجرد "
 "الاستيراد، يمكنك ضبط الصفحات والعناصر الفردية وفقًا لاحتياجاتك."
 
-#: docs/index.rst:872
+#: docs/index.rst:873
 msgid ""
 "Enter the page name in the top field. It is recommended to select an item "
 "from the drop-down list. This will assure the page title is automatically "
@@ -2489,7 +2489,7 @@ msgstr ""
 "أدخل اسم الصفحة في الحقل العلوي. يوصى بتحديد عنصر من القائمة المنسدلة. سيضمن "
 "ذلك ترجمة عنوان الصفحة تلقائيًا إلى لغات أخرى."
 
-#: docs/index.rst:874
+#: docs/index.rst:875
 msgid ""
 "If you are adding a sub-page to an existing page, select the parent page "
 "from the **Parent Id** drop-down list. For all other pages select **No "
@@ -2499,7 +2499,7 @@ msgstr ""
 "**Parent Id** من القائمة المنسدلة. لجميع الصفحات الأخرى قم باختيار **No "
 "parent**."
 
-#: docs/index.rst:875
+#: docs/index.rst:876
 msgid ""
 "Define the page order by entering a **Sort** index. Increment the index by 1 "
 "for each new page, starting with **0** for the first page."
@@ -2507,11 +2507,11 @@ msgstr ""
 "حدد ترتيب الصفحة عن طريق إدخال فهرس **Sort**. قم بزيادة الفهرس بمقدار 1 لكل "
 "صفحة جديدة ، بدءاً من **0** للصفحة الأولى."
 
-#: docs/index.rst:876
+#: docs/index.rst:877
 msgid "Click the |create-page| button to add the page to the dashboard."
 msgstr "اضغط على زر |create-page| لإضافة الصفحة إلى لوحة المعلومات."
 
-#: docs/index.rst:877 docs/index.rst:887
+#: docs/index.rst:878 docs/index.rst:888
 msgid ""
 "To return to the list of available dashboard pages click the |back-to-list| "
 "button."
@@ -2519,7 +2519,7 @@ msgstr ""
 "للعودة إلى قائمة صفحات لوحة المعلومات المتوفرة، انقر فوق زر | العودة إلى "
 "القائمة |."
 
-#: docs/index.rst:879
+#: docs/index.rst:880
 msgid ""
 "You only created an empty page. To add elements to your page, see section "
 "`Create a Dashboard Element`_."
@@ -2527,11 +2527,11 @@ msgstr ""
 "قمت فقط بإنشاء صفحة فارغة. لإضافة عناصر إلى صفحتك، راجع القسم \"إنشاء عنصر "
 "لوحة معلومات\" _."
 
-#: docs/index.rst:882
+#: docs/index.rst:883
 msgid "Modify a Dashboard Page"
 msgstr "تعديل صفحة المعلومات"
 
-#: docs/index.rst:884
+#: docs/index.rst:885
 msgid ""
 "To modify an existing page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
@@ -2539,7 +2539,7 @@ msgstr ""
 "لتعديل صفحة موجودة، قم بالدخول إلى قائمة الصفحات الموجودة كما هو موضح `أعلاه "
 "<# create-a-dashboard-page>`__."
 
-#: docs/index.rst:885
+#: docs/index.rst:886
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings. You are now able to change the page's settings as well as "
@@ -2551,15 +2551,15 @@ msgstr ""
 "في هذه الصفحة. انتقل إلى \"إنشاء عنصر لوحة معلومات\" _ لمزيد من المعلومات "
 "حول كيفية إضافة عناصر لوحة المعلومات إلى صفحتك."
 
-#: docs/index.rst:886
+#: docs/index.rst:887
 msgid "Save your changes by clicking the |update-page| button."
 msgstr "احفظ تغييراتك من خلال النقر فوق زر |update-page| ."
 
-#: docs/index.rst:890
+#: docs/index.rst:891
 msgid "Delete a Dashboard Page"
 msgstr "حذف صفحة بلوحة المعلومات"
 
-#: docs/index.rst:892
+#: docs/index.rst:893
 msgid ""
 "To permanently delete a page, access the list of existing pages as detailed "
 "`above <#create-a-dashboard-page>`__."
@@ -2567,7 +2567,7 @@ msgstr ""
 "لحذف صفحة بشكل دائم، قم بالدخول إلى قائمة الصفحات الموجودة كما هو موضح "
 "`أعلاه <# create-a-dashboard-page>`__."
 
-#: docs/index.rst:893
+#: docs/index.rst:894
 msgid ""
 "In the list of available pages, use the |delete| icon in the right-most "
 "column to permanently delete the page."
@@ -2575,7 +2575,7 @@ msgstr ""
 "في قائمة الصفحات المتوفرة، استخدم رمز| حذف | في العمود أقصى اليمين لحذف "
 "الصفحة نهائيًا."
 
-#: docs/index.rst:895
+#: docs/index.rst:896
 msgid ""
 "Be careful when deleting pages or elements. Deleting dashboard pages will "
 "permanently delete the page including sub-pages. This action cannot be "
@@ -2584,11 +2584,11 @@ msgstr ""
 "كن حذرًا عند حذف الصفحات أو العناصر. سيؤدي حذف صفحات لوحة التحكم إلى حذف "
 "الصفحة بما في ذلك الصفحات الفرعية نهائيًا. لا يمكن التراجع عن هذا الإجراء."
 
-#: docs/index.rst:898
+#: docs/index.rst:899
 msgid "Create a Dashboard Element"
 msgstr "قم بإنشاء عنصر بلوحة المعلومات"
 
-#: docs/index.rst:900
+#: docs/index.rst:901
 msgid ""
 "This section covers the steps required to add a new element to an existing "
 "dashboard page. If you would like to extend your dashboard by adding "
@@ -2599,7 +2599,7 @@ msgstr ""
 "الحالية. إذا كنت ترغب في زيادة لوحة المعلومات الخاصة بك عن طريق إضافة صفحات "
 "إضافية، يرجى الاطلاع على `إنشاء صفحة بلوحة المعلومات`_ لمزيد من المعلومات."
 
-#: docs/index.rst:902
+#: docs/index.rst:903
 msgid ""
 "To modify an existing page, access the list of existing pages as outlined in "
 "the `previous <#create-a-dashboard-page>`_ section."
@@ -2607,7 +2607,7 @@ msgstr ""
 "لتعديل صفحة موجودة، قم بالدخول إلى قائمة الصفحات الموجودة كما هو موضح في "
 "`القسم السابق <# create-a-dashboard-page>`_."
 
-#: docs/index.rst:903
+#: docs/index.rst:904
 msgid ""
 "Click the |pencil-thin| icon next to the page's name. This will open the "
 "page's settings."
@@ -2615,7 +2615,7 @@ msgstr ""
 "اضغط على زر |pencil-thin| الموجود بجانب اسم الصفحة. سيؤدي هذا إلى فتح صفحة "
 "الاعدادات."
 
-#: docs/index.rst:904
+#: docs/index.rst:905
 msgid ""
 "On the right side of the page you should see a list of available dashboard "
 "elements. Above this list, you have three buttons |create-elements|. Select "
@@ -2626,11 +2626,11 @@ msgstr ""
 "لديك فوق هذه القائمة ثلاثة أزرار |create-elements|. قم بإختيار نوع العنصر "
 "الذي ترغب في إضافته بالضغط على الزر المقابل."
 
-#: docs/index.rst:911
+#: docs/index.rst:912
 msgid "You should now see a page similar to the one displayed below."
 msgstr "يجب أن تشاهد الآن صفحة مشابهة للصفحة المعروضة أدناه."
 
-#: docs/index.rst:918
+#: docs/index.rst:919
 msgid ""
 "The **Transpose** feature allows switching between aggregating data at the "
 "health facility and the health service level. Set the feature to **No** to "
@@ -2640,7 +2640,7 @@ msgstr ""
 "ومستوى الخدمة الصحية. اضبط المِيزة على ** لا ** لعرض البيانات المجمعة على "
 "مستوى المنشأة الصحية."
 
-#: docs/index.rst:920
+#: docs/index.rst:921
 msgid ""
 "Transposing the element or changing the question code or will reload the "
 "page making you lose all other unsaved edits."
@@ -2648,11 +2648,11 @@ msgstr ""
 "سيؤدي تبديل العنصر أو تغيير رمز السؤال إلى إعادة تحميل الصفحة مما يجعلك تفقد "
 "جميع التعديلات الأخرى غير المحفوظة."
 
-#: docs/index.rst:922
+#: docs/index.rst:923
 msgid "Select the question to be displayed using the **Code** dropdown list."
 msgstr "حدد السؤال الذي سيتم عرضه باستخدام القائمة المنسدلة ** شفرة **."
 
-#: docs/index.rst:923
+#: docs/index.rst:924
 msgid ""
 "Define the element position on the dashboard page by specifying the **Sort** "
 "index. Increment the index by 1 for each new item, starting with 0 for the "
@@ -2661,12 +2661,12 @@ msgstr ""
 "حدد موضع العنصر في صفحة لوحة المعلومات عن طريق تحديد فهرس **Sort**. قم "
 "بزيادة الفهرس بمقدار 1 لكل عنصر جديد، بدءاً من 0 للصفحة الأولى."
 
-#: docs/index.rst:924
+#: docs/index.rst:925
 msgid ""
 "The **Width** and **Height** fields allow creating custom-sized elements."
 msgstr "يسمح حقلا ** العرض ** و ** الارتفاع ** بإنشاء عناصر ذات حجم مخصص."
 
-#: docs/index.rst:926
+#: docs/index.rst:927
 msgid ""
 "For charts with large legend elements, it is recommended to use a **Width** "
 "of 2 to assure the legend is displayed correctly."
@@ -2674,14 +2674,14 @@ msgstr ""
 "بالنسبة للمخططات التي تحتوي على عناصر وسيلة إيضاح كبيرة، يوصى باستخدام ** "
 "العرض** 2 لضمان عرض وسيلة الإيضاح بشكل صحيح."
 
-#: docs/index.rst:928
+#: docs/index.rst:929
 msgid ""
 "Optionally, the **Title** field allows you to overwrite the default title of "
 "the element."
 msgstr ""
 "اختياريًا ، يسمح لك حقل ** العنوان ** بالكتابة فوق العنوان الافتراضي للعنصر."
 
-#: docs/index.rst:929
+#: docs/index.rst:930
 msgid ""
 "For **maps** and **charts**, the bottom half of the page, displays the list "
 "of pre-defined answer options of the selected question. Click the color next "
@@ -2695,7 +2695,7 @@ msgstr ""
 "مخصصة. بالنسبة إلى ** الخرائط **، يمكنك تحديد حجم النِّقَاط بشكل أكبر عن طريق "
 "زيادة / تقليل ** نصف قطر العلامة **."
 
-#: docs/index.rst:932
+#: docs/index.rst:933
 msgid ""
 "For **tables**, two additional fields will be displayed to specify the "
 "**Reason Code** and **Group Code**."
@@ -2703,13 +2703,13 @@ msgstr ""
 "بالنسبة **للجداول**، سيتم عرض حقلين إضافيين لتحديد **Reason Code** و **Group "
 "Code**."
 
-#: docs/index.rst:939
+#: docs/index.rst:940
 msgid ""
 "A preview of the element you are creating is shown in the lower half of the "
 "page."
 msgstr "تظهر معاينة للعنصر الذي تقوم بإنشائه في النصف السفلي من الصفحة."
 
-#: docs/index.rst:941
+#: docs/index.rst:942
 msgid ""
 "To save the element, click the |create-element-blue| button or use the |"
 "create-return| button save and return to the dashboard."
@@ -2717,21 +2717,21 @@ msgstr ""
 "لحفظ العنصر، انقر فوق زر | create-element-blue | أو استخدم زر| create-return "
 "| حفظ والعودة إلى لوحة القيادة."
 
-#: docs/index.rst:943
+#: docs/index.rst:944
 msgid "To add additional elements, use the breadcrumbs to return to the"
 msgstr "لإضافة عناصر إضافية، استخدم مسار التنقل للعودة إلى"
 
-#: docs/index.rst:945
+#: docs/index.rst:946
 msgid ""
 "The below video summarizes how to create a new dashboard page and add "
 "elements."
 msgstr "يلخص الفيديو أدناه كيفية إنشاء صفحة لوحة معلومات جديدة وإضافة عناصر."
 
-#: docs/index.rst:953
+#: docs/index.rst:954
 msgid "Modify Dashboard Elements"
 msgstr "تعديل عناصر لوحة المعلومات"
 
-#: docs/index.rst:955
+#: docs/index.rst:956
 msgid ""
 "Users with the permissions to edit dashboards can modify charts and maps "
 "directly from within the dashboard."
@@ -2739,7 +2739,7 @@ msgstr ""
 "يمكن للمستخدمين الذين لديهم صلاحيات تعديل لوحات المعلومات تعديل المخططات "
 "والخرائط مباشرةً من داخل لوحة المعلومات."
 
-#: docs/index.rst:957
+#: docs/index.rst:958
 msgid ""
 "To modify the order of dashboard pages or rename a page, see `here <#update-"
 "a-dashboard-page>`__."
@@ -2747,12 +2747,12 @@ msgstr ""
 "لتعديل ترتيب صفحات لوحة المعلومات أو إعادة تسمية الصفحة، قم بمراجعة `هنا <# "
 "update-a-dashboard-page> `__."
 
-#: docs/index.rst:959
+#: docs/index.rst:960
 msgid ""
 "Open the dashboard and navigate to the element you would like to change."
 msgstr "افتح لوحة المعلومات وانتقل إلى العنصر الذي تريد تغييره."
 
-#: docs/index.rst:960
+#: docs/index.rst:961
 msgid ""
 "In the top right corner of the element you would like to change, you should "
 "see a |pencil-thin| icon. Right-click the icon to open the element's "
@@ -2761,31 +2761,31 @@ msgstr ""
 "في الركن الأيمن العلوي من العنصر الذي تريد تغييره، يجب أن ترى زر |pencil-"
 "thin|. اضغط زر الماوس الأيمن فوق الرمز لفتح صفحة تكوين العنصر."
 
-#: docs/index.rst:961
+#: docs/index.rst:962
 msgid "You should now be able:"
 msgstr "يجب أن تكون قادراً الآن:"
 
-#: docs/index.rst:963
+#: docs/index.rst:964
 msgid "to change the variables displayed;"
 msgstr "لتغيير المتغيرات المعروضة;"
 
-#: docs/index.rst:964
+#: docs/index.rst:965
 msgid "to change the colors of a map or a chart; and"
 msgstr "لتغيير ألوان خريطة أو مخطط ؛ و"
 
-#: docs/index.rst:965
+#: docs/index.rst:966
 msgid "to rename the element."
 msgstr "لإعادة تسمية العنصر."
 
-#: docs/index.rst:969
+#: docs/index.rst:970
 msgid "Save your changes by clicking the |update-element| button."
 msgstr "احفظ التغييرات عن طريق النقر فوق زر |update-element| ."
 
-#: docs/index.rst:974
+#: docs/index.rst:975
 msgid "Delete Dashboard Elements"
 msgstr "حذف عناصر لوحة المعلومات"
 
-#: docs/index.rst:976
+#: docs/index.rst:977
 msgid ""
 "Access the list of existing dashboard elements as described `here <#create-a-"
 "dashboard-element>`__."
@@ -2793,7 +2793,7 @@ msgstr ""
 "قم بالدخول إلى قائمة العناصر الموجودة بلوحة المعلومات كما هو موضح `هنا "
 "<#create-a-dashboard-element>`_."
 
-#: docs/index.rst:977
+#: docs/index.rst:978
 msgid ""
 "In the bottom half of the page you will see a list of all available "
 "dashboard pages. Click the |pencil-thin| icon to open the page you would "
@@ -2802,7 +2802,7 @@ msgstr ""
 "في النصف السفلي من الصفحة، سترى قائمة بجميع الصفحات المتاحة للوحة المعلومات. "
 "اضغط على زر |pencil-thin| لفتح الصفحة التي ترغب في تعديلها."
 
-#: docs/index.rst:978
+#: docs/index.rst:979
 msgid ""
 "In the lower half of the page you will see a list of all elements displayed "
 "on the dashboard page. Use the |delete| to permanently delete the element."
@@ -2810,18 +2810,18 @@ msgstr ""
 "في النصف السفلي من الصفحة، سترى قائمة بجميع العناصر المعروضة على صفحة لوحة "
 "المعلومات. استخدم |delete| لحذف العنصر بشكل نهائي."
 
-#: docs/index.rst:980
+#: docs/index.rst:981
 msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
 msgstr ""
 "كن حذرا عند حذف عناصر لوحة المعلومات. لا يمكن استعادة العناصر المحذوفة."
 
-#: docs/index.rst:984
+#: docs/index.rst:985
 msgid "FAQ"
 msgstr "الأسئلة المتكررة"
 
-#: docs/index.rst:986
+#: docs/index.rst:987
 msgid ""
 "This section aims to help users troubleshoot frequently encountered issues. "
 "In case you encounter an issue that is not addressed here, please contact "
@@ -2832,51 +2832,51 @@ msgstr ""
 "متكرر. في حالة مواجهة مشكلة لم يتم تناولها هنا، يرجى الاتصال بمسؤول بلدك أو "
 "إرسال بريد إلكتروني إلى `HeRAMS Support Team <mailto:herams@who.int?>`_."
 
-#: docs/index.rst:988
+#: docs/index.rst:989
 msgid "`General`_"
 msgstr "`عام`_"
 
-#: docs/index.rst:990
+#: docs/index.rst:991
 msgid "`Confirmation email not received`_"
 msgstr "`لم يتم استلام بريد إلكتروني بالتأكيد`_"
 
-#: docs/index.rst:991
+#: docs/index.rst:992
 msgid "`How to reset your password?`_"
 msgstr "`كيفية إعادة تعيين كلمة المرور الخاصة بك؟`_"
 
-#: docs/index.rst:993
+#: docs/index.rst:994
 msgid "`View a project/dashboard`_"
 msgstr "`عرض مشروع / لوحة المعلومات`_"
 
-#: docs/index.rst:995
+#: docs/index.rst:996
 msgid "`Can't access a project dashboard`_"
 msgstr "`لا يمكن الوصول إلى لوحة معلومات المشروع`_"
 
-#: docs/index.rst:996
+#: docs/index.rst:997
 msgid "`Who has access to your project/workspace?`_"
 msgstr "`من لديه صلاحية الدخول إلى مشروعك/مساحة عملك؟`_"
 
-#: docs/index.rst:998
+#: docs/index.rst:999
 msgid "`Data editing & downloading`_"
 msgstr "`تعديل البيانات وتحميلها`_"
 
-#: docs/index.rst:1000
+#: docs/index.rst:1001
 msgid "`Data updates don't appear on the dashboard`_"
 msgstr "`لا تظهر تحديثات البيانات على لوحة المعلومات`_"
 
-#: docs/index.rst:1001
+#: docs/index.rst:1002
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr "`تصدير البيانات غير قابل للقراءة / يحتوي على أحرف غريبة`_"
 
-#: docs/index.rst:1005
+#: docs/index.rst:1006
 msgid "General"
 msgstr "عام"
 
-#: docs/index.rst:1008
+#: docs/index.rst:1009
 msgid "Confirmation email not received"
 msgstr "لم يتم استلام بريد إلكتروني بالتأكيد"
 
-#: docs/index.rst:1010
+#: docs/index.rst:1011
 msgid ""
 "If you did not receive an email upon registering or resetting your password, "
 "follow the steps below to troubleshoot the issue."
@@ -2884,22 +2884,22 @@ msgstr ""
 "إذا لم تتلق رسالة بريد إلكتروني عند التسجيل أو إعادة تشغيل كلمة المرور "
 "الخاصة بك، فاتبع الخطوات أدناه لمعالجة المشكلة."
 
-#: docs/index.rst:1012
+#: docs/index.rst:1013
 msgid ""
 "Refresh your inbox. It might take a few minutes for the email to appear."
 msgstr ""
 "قم بتحديث صندوق الوارد الخاص بك. قد يستغرق ظهور البريد الإلكتروني بضع دقائق."
 
-#: docs/index.rst:1013
+#: docs/index.rst:1014
 msgid "Check your spam/junk folder."
 msgstr "تحقق من مجلد البريد العشوائي / البريد غير المرغوب فيه."
 
-#: docs/index.rst:1014
+#: docs/index.rst:1015
 msgid ""
 "Try to register again. You might have accidentally misspelled your email."
 msgstr "حاول التسجيل مرة أخرى. ربما أخطأت في كتابة بريدك الإلكتروني."
 
-#: docs/index.rst:1015
+#: docs/index.rst:1016
 msgid ""
 "If the above steps did not solve your issue, please contact your system "
 "administrator or send an email to `hearms@who.int <mailto:herams@who.int?>`_."
@@ -2907,11 +2907,11 @@ msgstr ""
 "إذا لم تنجح الخطوات المذكورة أعلاه في حل مشكلتك، فيرجى الاتصال بمسؤول النظام "
 "أو إرسال بريد إلكتروني إلى `HeRAMS Support Team <mailto:herams@who.int?>`_."
 
-#: docs/index.rst:1018
+#: docs/index.rst:1019
 msgid "How to reset your password?"
 msgstr "كيفية إعادة تعيين كلمة المرور الخاصة بك؟"
 
-#: docs/index.rst:1020
+#: docs/index.rst:1021
 msgid ""
 "If you forgot your password, follow the instructions provided `here <#reset-"
 "password>`__ to reset your password."
@@ -2919,15 +2919,15 @@ msgstr ""
 "إذا نسيت كلمة المرور الخاصة بك، فاتبع الإرشادات المتوفرة `هنا <#reset-"
 "password>`__ لإعادة تشغيل كلمة المرور الخاصة بك."
 
-#: docs/index.rst:1023
+#: docs/index.rst:1024
 msgid "View a project/dashboard"
 msgstr "عرض مشروع / لوحة المعلومات"
 
-#: docs/index.rst:1026
+#: docs/index.rst:1027
 msgid "Can't access a project dashboard"
 msgstr "لا يمكن الوصول إلى لوحة معلومات المشروع"
 
-#: docs/index.rst:1028
+#: docs/index.rst:1029
 msgid ""
 "For data protection reasons, access to the project dashboards is only "
 "granted upon request. If you require access to a project, please contact "
@@ -2939,11 +2939,11 @@ msgstr ""
 "التنسيق في بلدك أو إرسال بريد إلكتروني إلى `HeRAMS Support Team <mailto:"
 "herams@who.int?>`_، لتحديد سبب طلب الدخول إلى المشروع."
 
-#: docs/index.rst:1031
+#: docs/index.rst:1032
 msgid "Who has access to your project/workspace?"
 msgstr "من لديه حق الدخول إلى مشروعك/مساحة عملك؟"
 
-#: docs/index.rst:1033
+#: docs/index.rst:1034
 msgid ""
 "In-country administrators and users responsible for a project or workspace "
 "can verify the list of users having access to the project and/or workspace "
@@ -2955,15 +2955,15 @@ msgstr ""
 "إلى مستويات صلاحياتهم. راجع `إضافة مستخدم`_ لمزيد من المعلومات حول منح "
 "المستخدمين صلاحية الوصول الى **المشروع** أو **مساحات العمل**."
 
-#: docs/index.rst:1038
+#: docs/index.rst:1039
 msgid "Data editing & downloading"
 msgstr "تعديل البيانات وتحميلها"
 
-#: docs/index.rst:1041
+#: docs/index.rst:1042
 msgid "Data updates don't appear on the dashboard"
 msgstr "تحديثات البيانات لا تظهر على لوحة المعلومات"
 
-#: docs/index.rst:1043
+#: docs/index.rst:1044
 msgid ""
 "It is important to note that the data displayed on the interactive "
 "dashboards are only synchronized every 30 minutes. Thus, is it is possible "
@@ -2977,11 +2977,11 @@ msgstr ""
 "بمساحة العمل، يدوياً. لمزيد من المعلومات حول التخزين المؤقت للبيانات، اقرأ "
 "القسم الخاص ب `الرموز ومعانيها`_."
 
-#: docs/index.rst:1046
+#: docs/index.rst:1047
 msgid "Exported data is unreadable / contains strange characters"
 msgstr "البيانات التي تم تصديرها غير قابلة للقراءة او تحتوي على أحرف غريبة"
 
-#: docs/index.rst:1048
+#: docs/index.rst:1049
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an "
 "issue with special characters not displaying correctly, resulting in "
