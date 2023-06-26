@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2023-06-22 08:57+0000\n"
+"PO-Revision-Date: 2023-06-26 09:57+0000\n"
 "Last-Translator: Mariami BERIDZE <beridzem@who.int>\n"
 "Language-Team: Georgian <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ka/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18\n"
+"X-Generator: Weblate 4.18.1\n"
 
 msgctxt "app"
 msgid "# Contributors"
@@ -54,7 +54,7 @@ msgstr "სვეტოვანი დიაგრამა"
 
 msgctxt "app"
 msgid "A chart"
-msgstr "ცხრილი"
+msgstr "დიაგრამა"
 
 msgctxt "app"
 msgid "A dashboard element that shows a map"
@@ -297,7 +297,7 @@ msgstr "ანგარიშის შექმნა"
 
 msgctxt "app"
 msgid "Create chart"
-msgstr "ცხრილის შექმნა"
+msgstr "დიაგრამის შექმნა"
 
 msgctxt "app"
 msgid "Create element"
@@ -386,7 +386,7 @@ msgstr "პროექტის წაშლა"
 
 msgctxt "app"
 msgid "Delete this user"
-msgstr "მომხმარებლის წაშლა"
+msgstr "ამ მომხმარებლის წაშლა"
 
 msgctxt "app"
 msgid "Delete workspace"
@@ -1102,7 +1102,7 @@ msgstr "შეცვალეთ თქვენი პაროლი"
 
 msgctxt "app"
 msgid "Respond"
-msgstr "პასუხი"
+msgstr "პასუხის გაცემა"
 
 msgctxt "app"
 msgid "Respond to: {modelName}"
