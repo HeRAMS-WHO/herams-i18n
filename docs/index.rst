@@ -1087,7 +1087,7 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :alt: create-element
    :align: top
 
-.. |create-page| image:: media/img/bt_create_page.png
+.. |create-page| image:: media/img/bt_create_page_blue.png
    :height: 1.3em
    :alt: create-element
    :align: top
