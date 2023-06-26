@@ -1062,7 +1062,7 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
      :align: top
      :alt: apply filter
 
-.. |back-to-list| image:: media/img/bt_back-to-list.png
+.. |back-to-list| image:: media/img/bt_return-to-list.png
    :height: 1.3em
    :alt: clear
    :align: top	
