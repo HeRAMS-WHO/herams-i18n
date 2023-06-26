@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-01 20:59+0000\n"
+"POT-Creation-Date: 2023-06-26 16:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -616,10 +616,6 @@ msgstr ""
 msgid "Access to the data edit interface is limited to users responsible to update data. If you require your access permissions to be changed, kindly contact the *Workspace owner*, your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered."
 msgstr ""
 
-#: docs/index.rst:410
-msgid "Access your workspace"
-msgstr ""
-
 #: docs/index.rst:412
 msgid "HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data. A workspace may include all health facilities of a geographical region, health facilities managed by a specific partner, or any other logical entity. Each workspace has a dedicated focal point, the *Workspace owner*, who is responsible for updating the health facilities within their workspace. *Workspace owners* may invite additional users to contribute to their data. For more information on how to grant users access to a workspace please view the `user management`_ section."
 msgstr ""
@@ -654,7 +650,7 @@ msgid "If your workspace does not appear, use the page navigation at the bottom 
 msgstr ""
 
 #: docs/index.rst:441
-msgid "By clicking the |star-hollow| icon in the first column you can mark a workspace as a **favorite**. This will make it easier to access your workspace in the future. See `below <#favorites>`__ for more information on how to access your favorite workspaces"
+msgid "By clicking the |star-hollow| icon in the first column you can mark a workspace as a **favorite**. This will make it easier to  in the future. See `below <#favorites>`__ for more information on how to access your favorite workspaces"
 msgstr ""
 
 #: docs/index.rst:448
@@ -879,7 +875,7 @@ msgid "In order to download data, you will require special permissions to the wo
 msgstr ""
 
 #: docs/index.rst:593
-msgid "To export data, access your workspace as outlined `here <#access-your-workspace>`__)."
+msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
 msgstr ""
 
 #: docs/index.rst:594
@@ -929,7 +925,7 @@ msgid "Access to project level data is limited to selected users only. Contact y
 msgstr ""
 
 #: docs/index.rst:613
-msgid "Open your project's admin pages (see `Access your workspace`_ steps 1-2 for details)."
+msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
 msgstr ""
 
 #: docs/index.rst:620
@@ -1133,7 +1129,7 @@ msgid "Add a User"
 msgstr ""
 
 #: docs/index.rst:771
-msgid "To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See `Access your workspace`_ for details."
+msgid "To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See ``_ for details."
 msgstr ""
 
 #: docs/index.rst:773
@@ -1202,7 +1198,7 @@ msgid "Create a Workspace"
 msgstr ""
 
 #: docs/index.rst:827
-msgid "To create a new workspace, navigate to the list of workspaces of your project. See `Access your workspace`_ steps (1-2) for details."
+msgid "To create a new workspace, navigate to the list of workspaces of your project. See ``_ steps (1-2) for details."
 msgstr ""
 
 #: docs/index.rst:828

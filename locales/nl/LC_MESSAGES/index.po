@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-01 20:59+0000\n"
+"POT-Creation-Date: 2023-06-26 16:55+0000\n"
 "PO-Revision-Date: 2019-09-17 14:00+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language-Team: Dutch <https://weblate.herams-staging.org/projects/herams/"
@@ -863,10 +863,6 @@ msgid ""
 "altered."
 msgstr ""
 
-#: docs/index.rst:410
-msgid "Access your workspace"
-msgstr ""
-
 #: docs/index.rst:412
 msgid ""
 "HeRAMS uses so-called **workspaces** to manage access permissions to the "
@@ -933,9 +929,9 @@ msgstr ""
 #: docs/index.rst:441
 msgid ""
 "By clicking the |star-hollow| icon in the first column you can mark a "
-"workspace as a **favorite**. This will make it easier to access your "
-"workspace in the future. See `below <#favorites>`__ for more information on "
-"how to access your favorite workspaces"
+"workspace as a **favorite**. This will make it easier to  in the future. See "
+"`below <#favorites>`__ for more information on how to access your favorite "
+"workspaces"
 msgstr ""
 
 #: docs/index.rst:448
@@ -1288,9 +1284,7 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:593
-msgid ""
-"To export data, access your workspace as outlined `here <#access-your-"
-"workspace>`__)."
+msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
 msgstr ""
 
 #: docs/index.rst:594 docs/index.rst:614
@@ -1363,9 +1357,7 @@ msgid ""
 msgstr ""
 
 #: docs/index.rst:613
-msgid ""
-"Open your project's admin pages (see `Access your workspace`_ steps 1-2 for "
-"details)."
+msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
 msgstr ""
 
 #: docs/index.rst:620
@@ -1707,8 +1699,8 @@ msgstr ""
 msgid ""
 "To grant a user access to your project, navigate to the list of workspaces "
 "of your project. If you would like to grant access to a specific workspace "
-"only, open the workspace by clicking the desired workspace's name. See "
-"`Access your workspace`_ for details."
+"only, open the workspace by clicking the desired workspace's name. See ``_ "
+"for details."
 msgstr ""
 
 #: docs/index.rst:773
@@ -1805,7 +1797,7 @@ msgstr ""
 #: docs/index.rst:827
 msgid ""
 "To create a new workspace, navigate to the list of workspaces of your "
-"project. See `Access your workspace`_ steps (1-2) for details."
+"project. See ``_ steps (1-2) for details."
 msgstr ""
 
 #: docs/index.rst:828

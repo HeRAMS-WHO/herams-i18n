@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-01 20:59+0000\n"
+"POT-Creation-Date: 2023-06-26 16:55+0000\n"
 "PO-Revision-Date: 2023-06-19 13:57+0000\n"
 "Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
@@ -1125,10 +1125,6 @@ msgstr ""
 "int?>`_, зазначивши свої посаду та роль і надавши стисле пояснення того, "
 "навіщо Вам потрібно змінити права доступу."
 
-#: docs/index.rst:410
-msgid "Access your workspace"
-msgstr "Доступ до робочого простору"
-
 #: docs/index.rst:412
 msgid ""
 "HeRAMS uses so-called **workspaces** to manage access permissions to the "
@@ -1232,11 +1228,12 @@ msgstr ""
 "назву робочого простору в поле під рядком заголовків (5)."
 
 #: docs/index.rst:441
+#, fuzzy
 msgid ""
 "By clicking the |star-hollow| icon in the first column you can mark a "
-"workspace as a **favorite**. This will make it easier to access your "
-"workspace in the future. See `below <#favorites>`__ for more information on "
-"how to access your favorite workspaces"
+"workspace as a **favorite**. This will make it easier to  in the future. See "
+"`below <#favorites>`__ for more information on how to access your favorite "
+"workspaces"
 msgstr ""
 "Натиснувши піктограму у першому стовпчику, можна позначити робочий простір "
 "як обраний. Завдяки цьому буде зручніше переходити до робочого простору в "
@@ -1738,9 +1735,8 @@ msgstr ""
 "підвищення рівня прав доступу."
 
 #: docs/index.rst:593
-msgid ""
-"To export data, access your workspace as outlined `here <#access-your-"
-"workspace>`__)."
+#, fuzzy
+msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
 msgstr ""
 "Щоб експортувати дані, відкрийте робочий простір, як описано `тут <#Доступ-"
 "до-робочого-простору>`__."
@@ -1846,9 +1842,8 @@ msgstr ""
 "додаткову інформацію зверніться до адміністратора Вашої країни."
 
 #: docs/index.rst:613
-msgid ""
-"Open your project's admin pages (see `Access your workspace`_ steps 1-2 for "
-"details)."
+#, fuzzy
+msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
 msgstr ""
 "Відкрийте сторінку адміністрування Вашого проєкту (докладніше про це див. у "
 "кроках 1–2 розділу `Доступ до робочого простору`_)."
@@ -2344,11 +2339,12 @@ msgid "Add a User"
 msgstr "Додавання користувача"
 
 #: docs/index.rst:771
+#, fuzzy
 msgid ""
 "To grant a user access to your project, navigate to the list of workspaces "
 "of your project. If you would like to grant access to a specific workspace "
-"only, open the workspace by clicking the desired workspace's name. See "
-"`Access your workspace`_ for details."
+"only, open the workspace by clicking the desired workspace's name. See ``_ "
+"for details."
 msgstr ""
 "Щоб надати користувачеві доступ до проєкту, перейдіть до списку робочих "
 "просторів проєкту. Якщо потрібно надати доступ тільки до конкретного "
@@ -2479,9 +2475,10 @@ msgid "Create a Workspace"
 msgstr "Створення робочого простору"
 
 #: docs/index.rst:827
+#, fuzzy
 msgid ""
 "To create a new workspace, navigate to the list of workspaces of your "
-"project. See `Access your workspace`_ steps (1-2) for details."
+"project. See ``_ steps (1-2) for details."
 msgstr ""
 "Щоб створити новий робочий простір, перейдіть до списку робочих просторів "
 "проєкту. Детальнішу інформацію про це див. у кроках 1–2 розділу `Доступ до "
@@ -3179,3 +3176,6 @@ msgstr ""
 "використовує для зчитування даних неправильне кодування. Для усунення цієї "
 "проблеми дотримуйтеся інструкції, описаної `тут <#Кодування-даних-в-"
 "Excel>`__."
+
+#~ msgid "Access your workspace"
+#~ msgstr "Доступ до робочого простору"
