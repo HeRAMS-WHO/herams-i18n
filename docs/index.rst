@@ -1302,4 +1302,4 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
 .. |workspace-button| image:: media/img/bt_workspace.png
    :height: 1.3em
    :alt: workspace
-   :align: tod 
+   :align: top
