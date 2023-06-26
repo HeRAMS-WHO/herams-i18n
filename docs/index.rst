@@ -1254,7 +1254,7 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :align: top
    
    
-.. |update-data| image:: media/img/icon_data_update_black.png
+.. |update-data| image:: media/img/icon_refresh_data.png
    :height: 1.3em
    :alt: update-data
    :align: top 
