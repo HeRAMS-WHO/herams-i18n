@@ -406,7 +406,7 @@ This chapter is intended for data managers responsible to update HeRAMS data. It
 
 .. note:: Access to the data edit interface is limited to users responsible to update data. If you require your access permissions to be changed, kindly contact the *Workspace owner*, your *Project admin* or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to be altered.
 
-Access your workspace
+
 ---------------------
 
 HeRAMS uses so-called **workspaces** to manage access permissions to the underlying data.
@@ -438,7 +438,7 @@ For each workspace, the table displays the date when a workspace was **last upda
 
 5. If your workspace does not appear, use the page navigation at the bottom (4) or filter the workspaces by typing the workspace name in the field below the header row (5).
 
-6. By clicking the |star-hollow| icon in the first column you can mark a workspace as a **favorite**. This will make it easier to access your workspace in the future. See `below <#favorites>`__ for more information on how to access your favorite workspaces
+6. By clicking the |star-hollow| icon in the first column you can mark a workspace as a **favorite**. This will make it easier to  in the future. See `below <#favorites>`__ for more information on how to access your favorite workspaces
 
 .. image:: media/img/HeRAMS_workspace_table.png
    :height: 300px
@@ -564,8 +564,8 @@ Remove a Response from Health Facility
 
 1. To delete a response from a health facility, access your workspace (see `Access your workspace`_ for details). 
 2. Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details).  
-2. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column
-3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted.
+2. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column 
+3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted. 
 
 .. note:: It is only possible to delete the most recent response. Previous responses are locked for editing/deleting to preserve the historical changes. 
 
@@ -590,7 +590,7 @@ Follow the instructions below to export data from your workspace. If you require
 .. note:: In order to download data, you will require special permissions to the workspace. Contact your system administrator to elevate your access rights if needed.
 
 
-1. To export data, access your workspace as outlined `here <#access-your-workspace>`__). 
+1. To export data,  as outlined `here <#access-your-workspace>`__). 
 2. You should now see a table displaying the list of workspaces available in your project. If you have been granted permission to download data, you should see a second tab labeled "Download" (1). Click the tab name to open the download settings.
 3. In the download tab you have the option to customize your data export. You can choose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options (2).
 
@@ -610,7 +610,7 @@ Project administrators or users with special permissions can export the entire p
 
 .. note:: Access to project level data is limited to selected users only. Contact your country administrator for further information.
 
-1. Open your project's admin pages (see `Access your workspace`_ steps 1-2 for details). 
+1. Open your project's admin pages (see ``_ steps 1-2 for details). 
 2. You should now see a table displaying the list of workspaces available in your project. If you have been granted permission to download data, you should see a second tab labeled "Download" (1). Click the tab name to open the download settings.
 3. In the download tab you have the option to customize your data export. You can choose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options (2).
 
@@ -768,7 +768,7 @@ Under special circumstances a *project admin* might grant a *workspace owner* ad
 Add a User
 ~~~~~~~~~~~~
 
-1. To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See `Access your workspace`_ for details. 
+1. To grant a user access to your project, navigate to the list of workspaces of your project. If you would like to grant access to a specific workspace only, open the workspace by clicking the desired workspace's name. See ``_ for details. 
 	
 2. Click the *Users* tab to open the user management section. 
 
@@ -824,7 +824,7 @@ Managing the list of available workspaces is a key component of the *Project adm
 Create a Workspace
 ~~~~~~~~~~~~~~~~~~
 
-1. To create a new workspace, navigate to the list of workspaces of your project. See `Access your workspace`_ steps (1-2) for details. 
+1. To create a new workspace, navigate to the list of workspaces of your project. See ``_ steps (1-2) for details. 
 2. In the upper right corner, you will see a button labeled |create-workspace|.
 3. You will be directed to a page where you will be able to create a new workspace.
 4. Enter the workspace's name into the title field.
@@ -1293,6 +1293,11 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :height: 1.3em
    :alt: user-guide
    :align: top  
+
+.. |icon_view| image:: media/img/icon_view.png
+   :height: 1.3em
+   :alt: user-guide
+   :align: top
    
 .. |workspace| image:: media/img/icon_workspace.png
    :height: 1.3em
