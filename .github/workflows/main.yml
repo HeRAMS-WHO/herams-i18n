@@ -26,7 +26,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install Sphinx
 
-      # Build the documentation
+  # Navigate to the 'docs' directory and build the documentation
       - name: Build docs
         run: |
-          make html  # or your specific build command
+          cd docs
+          make html
