@@ -2,6 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-06-26 16:26+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.herams-staging.org/"
@@ -1729,7 +1730,19 @@ msgid "Maternal and newborn health"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "NCD & mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases & mental health"
 msgstr ""
 
 msgctxt "app.pagetitle"

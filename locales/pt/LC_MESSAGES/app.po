@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-06-26 16:26+0000\n"
 "Last-Translator: Caroline Test Account <fuhrerc@who.int>\n"
 "Language-Team: Portuguese <https://weblate.herams-staging.org/projects/"
@@ -1725,7 +1726,21 @@ msgid "Maternal and newborn health"
 msgstr "Cuidados maternos & recém-nascidos"
 
 msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr "Saúde mental"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "NCD & mental health"
+msgstr "Saúde mental"
+
+msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
+msgstr "Doenças não transmissíveis"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases & mental health"
 msgstr "Doenças não transmissíveis"
 
 msgctxt "app.pagetitle"
@@ -1808,7 +1823,3 @@ msgstr ""
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr ""
-
-#~ msgctxt "app.pagetitle"
-#~ msgid "Mental health"
-#~ msgstr "Saúde mental"

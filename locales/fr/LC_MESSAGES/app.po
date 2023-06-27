@@ -2,6 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-06-26 16:26+0000\n"
 "Last-Translator: Caroline Test Account <fuhrerc@who.int>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
@@ -798,7 +799,8 @@ msgstr "Gestion des espaces de travail"
 
 msgctxt "app"
 msgid "Map facility types for use in the world map"
-msgstr "Cartographier les types de structures à utiliser dans la carte du monde"
+msgstr ""
+"Cartographier les types de structures à utiliser dans la carte du monde"
 
 msgctxt "app"
 msgid "Marker radius"
@@ -1543,8 +1545,8 @@ msgid ""
 "</strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
 "L'espace de travail <strong>{modelName}</strong> a été partagé avec : "
-"<strong>{users}</strong> et les utilisateurs invités : "
-"<strong>{invitedUsers}</strong>"
+"<strong>{users}</strong> et les utilisateurs invités : <strong>{invitedUsers}"
+"</strong>"
 
 msgctxt "app"
 msgid "Workspace owner"
@@ -1787,7 +1789,21 @@ msgid "Maternal and newborn health"
 msgstr "Santé maternelle et néonatale"
 
 msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr "Santé mentale"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "NCD & mental health"
+msgstr "Santé mentale"
+
+msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
+msgstr "Maladies non transmissible"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases & mental health"
 msgstr "Maladies non transmissible"
 
 msgctxt "app.pagetitle"
@@ -1869,10 +1885,6 @@ msgstr "Type cible"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr "Le code de pays {valeur} n'est pas valide"
-
-#~ msgctxt "app.pagetitle"
-#~ msgid "Mental health"
-#~ msgstr "Santé mentale"
 
 #~ msgctxt "app"
 #~ msgid "Allowed"

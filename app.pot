@@ -1683,7 +1683,19 @@ msgid "Maternal and newborn health"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "NCD & mental health"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases & mental health"
 msgstr ""
 
 msgctxt "app.pagetitle"

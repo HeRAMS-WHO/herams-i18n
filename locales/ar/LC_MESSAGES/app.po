@@ -2,6 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-06-26 16:26+0000\n"
 "Last-Translator: HeRAMS Tester <herams.tester@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
@@ -973,8 +974,8 @@ msgid ""
 "Private, this project is visible on the map and in the list, but people need "
 "permission to view it"
 msgstr ""
-"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَ"
-"ة لمشاهدته"
+"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَة "
+"لمشاهدته"
 
 msgctxt "app"
 msgid "Profile"
@@ -1766,7 +1767,21 @@ msgid "Maternal and newborn health"
 msgstr "صحة الأم والوليد"
 
 msgctxt "app.pagetitle"
+msgid "Mental health"
+msgstr "الصحة النفسية"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "NCD & mental health"
+msgstr "الصحة النفسية"
+
+msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
+msgstr "الأمراض غير المعدية"
+
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Non-communicable diseases & mental health"
 msgstr "الأمراض غير المعدية"
 
 msgctxt "app.pagetitle"
@@ -1848,10 +1863,6 @@ msgstr "نوع المستهدف"
 msgctxt "app.validator.country"
 msgid "Country code {value} is not valid"
 msgstr "رمز البلد {القيمة} غير صالح"
-
-#~ msgctxt "app.pagetitle"
-#~ msgid "Mental health"
-#~ msgstr "الصحة النفسية"
 
 #~ msgctxt "app"
 #~ msgid "Allowed"
