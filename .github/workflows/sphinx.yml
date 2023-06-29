@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'docs/**' # <-- Here change to consider all files under docs
+      - 'docs/**'
     branches:
       - 'master'
 jobs:
@@ -15,7 +15,7 @@ jobs:
       # Build documentation with gettext builder to generate .pot files
       - uses: ammaraskar/sphinx-action@master
         with:
-          build-command: "sphinx-build -b gettext . ../locales" # <-- Here, make sure it's considering all your docs
+          build-command: "sphinx-build -b gettext . locales" 
       
       # Configure Git
       - name: Configure git
@@ -27,7 +27,7 @@ jobs:
         
       # Update the .po files with the new .pot file using msgmerge
       - name: Run msgmerge
-        run: find locales -regex ".*\.po$"  | xargs -I "{}" msgmerge -U {} ../locales/index.pot --backup=off
+        run: find locales -regex ".*/LC_MESSAGES/.*\.po$" | xargs -I "{}" msgmerge -U {} locales/index.pot --backup=off
       
       # Commit changes
       - name: Commit changes
