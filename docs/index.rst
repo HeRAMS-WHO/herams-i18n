@@ -564,8 +564,8 @@ Remove a Response from Health Facility
 
 1. To delete a response from a health facility, access your workspace (see `Access your workspace`_ for details).
 2. Expand the list of available responses by clicking anywhere in the corresponding row (see `Edit a Response`_ for details).
-2. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column
-3. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted.
+3. You should now see the history of responses to the selected record. To remove a specific response, click the |delete| icon in the first column
+4. If you would like the completely remove a health facility, repeat the above step until all responses have been deleted.
 
 
 .. note:: It is only possible to delete the most recent response. Previous responses are locked for editing/deleting to preserve the historical changes.
