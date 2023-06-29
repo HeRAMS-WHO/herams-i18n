@@ -15,7 +15,7 @@ jobs:
       # Build documentation with gettext builder to generate .pot files
       - uses: ammaraskar/sphinx-action@master
         with:
-          build-command: "sphinx-build -b gettext . locales" 
+          build-command: "sphinx-build -b gettext . locales"
       
       # Configure Git
       - name: Configure git
@@ -25,13 +25,9 @@ jobs:
       - name: Install gettext
         run: sudo apt install gettext
         
-      # List files in locales directory to check if .pot file is present
-      - name: List files in locales directory
-        run: ls -l locales
-        
       # Update the .po files with the new .pot file using msgmerge
       - name: Run msgmerge
-        run: find locales -regex ".*/LC_MESSAGES/.*\.po$" | xargs -I "{}" msgmerge -U {} locales/index.pot --backup=off
+        run: find locales -type f -path '*/LC_MESSAGES/*.po' -execdir msgmerge -U {} index.pot --backup=off \;
       
       # Commit changes
       - name: Commit changes
