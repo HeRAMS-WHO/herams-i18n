@@ -473,7 +473,7 @@ To simplify navigation, it is recommended that you add frequently accessed works
 Edit a Response
 ----------------
 
-.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a New Response>`_.
+.. caution:: Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a New Response`_.
 
 1. Access your workspace as outlined `above <#access-your-workspace>`__.
 
