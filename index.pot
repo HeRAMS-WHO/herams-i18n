@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-29 14:33+0000\n"
+"POT-Creation-Date: 2023-06-29 14:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -702,7 +702,7 @@ msgid "Edit a Response"
 msgstr ""
 
 #: docs/index.rst:476
-msgid "Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a New Response>`_."
+msgid "Editing a response will overwrite the existing response. If you would like to update the status of a health facility while keeping the history of changes, go to `Add a New Response`_."
 msgstr ""
 
 #: docs/index.rst:478
