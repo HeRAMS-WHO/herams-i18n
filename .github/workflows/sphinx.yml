@@ -25,6 +25,10 @@ jobs:
       - name: Install gettext
         run: sudo apt install gettext
         
+      # List files in locales directory to check if .pot file is present
+      - name: List files in locales directory
+        run: ls -l locales
+        
       # Update the .po files with the new .pot file using msgmerge
       - name: Run msgmerge
         run: find locales -regex ".*/LC_MESSAGES/.*\.po$" | xargs -I "{}" msgmerge -U {} locales/index.pot --backup=off
