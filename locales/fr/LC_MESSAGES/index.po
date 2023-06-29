@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-26 17:25+0000\n"
+"POT-Creation-Date: 2023-06-29 14:27+0000\n"
 "PO-Revision-Date: 2023-06-19 13:57+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
@@ -1201,6 +1201,10 @@ msgstr ""
 "votre rôle ainsi qu'une brève explication sur les raisons pour lesquelles "
 "vous souhaitez que vos autorisations d'accès soient modifiées."
 
+#: docs/index.rst:410
+msgid "Access your workspace"
+msgstr "Accéder à votre espace de travail"
+
 #: docs/index.rst:412
 #, fuzzy
 msgid ""
@@ -1295,9 +1299,9 @@ msgstr ""
 #: docs/index.rst:441
 msgid ""
 "By clicking the |star-hollow| icon in the first column you can mark a "
-"workspace as a **favorite**. This will make it easier to  in the future. See "
-"`below <#favorites>`__ for more information on how to access your favorite "
-"workspaces"
+"workspace as a **favorite**. This will make it easier to access your "
+"workspace in the future. See `below <#favorites>`__ for more information on "
+"how to access your favorite workspaces"
 msgstr ""
 
 #: docs/index.rst:448
@@ -1816,7 +1820,9 @@ msgstr ""
 
 #: docs/index.rst:594
 #, fuzzy
-msgid "To export data,  as outlined `here <#access-your-workspace>`__)."
+msgid ""
+"To export data, access your workspace as outlined `here <#access-your-"
+"workspace>`__)."
 msgstr ""
 "Pour modifier l'autorisation d'un utilisateur, supprimez-le de l'espace de "
 "travail comme indiqué `ci-dessus  <#remove-a-user-from-a-workspace>`__."
@@ -1928,7 +1934,9 @@ msgstr ""
 
 #: docs/index.rst:614
 #, fuzzy
-msgid "Open your project's admin pages (see ``_ steps 1-2 for details)."
+msgid ""
+"Open your project's admin pages (see `Access your workspace`_ steps 1-2 for "
+"details)."
 msgstr ""
 "Accédez à la page de l'espace de travail de votre projet (voir `Accéder "
 "l’interface de mise à jour de données`_ étapes 1 à 4 pour des instructions "
@@ -2457,8 +2465,8 @@ msgstr "Ajouter un utilisateur à un projet"
 msgid ""
 "To grant a user access to your project, navigate to the list of workspaces "
 "of your project. If you would like to grant access to a specific workspace "
-"only, open the workspace by clicking the desired workspace's name. See ``_ "
-"for details."
+"only, open the workspace by clicking the desired workspace's name. See "
+"`Access your workspace`_ for details."
 msgstr ""
 "Pour accorder à un utilisateur l'accès à un espace de travail ou à un "
 "projet, accédez à la liste des espaces de travail ou des projets, "
@@ -2605,7 +2613,7 @@ msgstr "Créer un nouvel espace de travail"
 #, fuzzy
 msgid ""
 "To create a new workspace, navigate to the list of workspaces of your "
-"project. See ``_ steps (1-2) for details."
+"project. See `Access your workspace`_ steps (1-2) for details."
 msgstr ""
 "Pour créer un nouvel espace de travail, accédez à la page des espaces de "
 "travail de votre projet. (Suivez les étapes 1 à 5 décrites `ci-dessus <#add-"
@@ -3334,9 +3342,6 @@ msgstr ""
 "de réfugiés** vous obtenez **Camp de rÃ©fugiÃ©s**. La raison en est qu'Excel "
 "n'utilise pas le bon type d'encodage pour lire vos données. Pour corriger le "
 "problème, suivez les instructions décrites `ici <#data-encodage-in-excel>`__."
-
-#~ msgid "Access your workspace"
-#~ msgstr "Accéder à votre espace de travail"
 
 #~ msgid ""
 #~ "|workspace| **Workspaces**: This opens the list of workspaces belonging "
