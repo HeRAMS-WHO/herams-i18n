@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-29 14:36+0000\n"
+"POT-Creation-Date: 2023-06-29 15:07+0000\n"
 "PO-Revision-Date: 2021-06-23 20:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1130,7 +1130,7 @@ msgid ""
 "for details)."
 msgstr ""
 
-#: docs/index.rst:530 docs/index.rst:551 docs/index.rst:566
+#: docs/index.rst:530 docs/index.rst:551
 msgid ""
 "Expand the list of available responses by clicking anywhere in the "
 "corresponding row (see `Edit a Response`_ for details)."
@@ -1216,16 +1216,14 @@ msgid ""
 "`Access your workspace`_ for details)."
 msgstr ""
 
-#: docs/index.rst:567
+#: docs/index.rst:566
 msgid ""
-"You should now see the history of responses to the selected record. To "
-"remove a specific response, click the |delete| icon in the first column"
-msgstr ""
-
-#: docs/index.rst:568
-msgid ""
-"If you would like the completely remove a health facility, repeat the above "
-"step until all responses have been deleted."
+"2. Expand the list of available responses by clicking anywhere in the "
+"corresponding row (see `Edit a Response`_ for details). 2. You should now "
+"see the history of responses to the selected record. To remove a specific "
+"response, click the |delete| icon in the first column 4. If you would like "
+"the completely remove a health facility, repeat the above step until all "
+"responses have been deleted."
 msgstr ""
 
 #: docs/index.rst:571
