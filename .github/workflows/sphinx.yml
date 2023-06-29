@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'docs/index.rst'
+      - 'docs/**' # <-- Here change to consider all files under docs
     branches:
       - 'master'
 jobs:
@@ -11,16 +11,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
+      # Build documentation with gettext builder to generate .pot files
       - uses: ammaraskar/sphinx-action@master
         with:
-          build-command: "sphinx-build -b gettext . ../"
+          build-command: "sphinx-build -b gettext . ../locales" # <-- Here, make sure it's considering all your docs
+      
+      # Configure Git
       - name: Configure git
         run: git config --global user.name "Github Action" && git config --global user.email '<>'
+        
+      # Install gettext
       - name: Install gettext
         run: sudo apt install gettext
+        
+      # Update the .po files with the new .pot file using msgmerge
       - name: Run msgmerge
-        run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
+        run: find locales -regex ".*\.po$"  | xargs -I "{}" msgmerge -U {} ../locales/index.pot --backup=off
+      
+      # Commit changes
       - name: Commit changes
         run: git commit -a -m "Updated doc strings" || echo "No changes"
+      
+      # Push changes
       - name: Push changes
         run: git push
