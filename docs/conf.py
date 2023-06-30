@@ -58,6 +58,6 @@ locale_dirs = ['../locales/']
 gettext_compact = False
 
 # Specify languages
-gettext_languages = ['en', 'ar', 'fr', 'nl', 'uk', 'pt']
+gettext_languages = ['en', 'ar', 'fr', 'uk', 'ka']
 
 master_doc = 'index'
