@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'docs/**'
+      - 'docs/index.rst'
     branches:
       - 'master'
 jobs:
@@ -11,28 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      # Build documentation with gettext builder to generate .pot files
       - uses: ammaraskar/sphinx-action@master
         with:
-          build-command: "sphinx-build -b gettext . locales"
-      
-      # Configure Git
+          build-command: "sphinx-build -b gettext . ../"
       - name: Configure git
         run: git config --global user.name "Github Action" && git config --global user.email '<>'
-        
-      # Install gettext
       - name: Install gettext
         run: sudo apt install gettext
-        
-      # Update the .po files with the new .pot file using msgmerge
       - name: Run msgmerge
-        run: find locales -type f -path '*/LC_MESSAGES/*.po' -execdir msgmerge -U {} index.pot --backup=off \;
-      
-      # Commit changes
+        run: find locales -regex ".*index\.po$"  | xargs -I "{}" msgmerge -U {} index.pot --backup=off
       - name: Commit changes
         run: git commit -a -m "Updated doc strings" || echo "No changes"
-      
-      # Push changes
       - name: Push changes
         run: git push
