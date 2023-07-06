@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-26 16:26+0000\n"
-"Last-Translator: HeRAMS Tester <herams.tester@gmail.com>\n"
+"PO-Revision-Date: 2023-07-06 14:57+0000\n"
+"Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
 "Language: ar\n"
@@ -1740,7 +1740,7 @@ msgstr "الخدمات السريرية العامة ورعاية الإصابا
 
 msgctxt "app.pagetitle"
 msgid "Hand hygiene"
-msgstr "نظافة اليدين"
+msgstr "نظافة الأيدي"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
@@ -1768,21 +1768,19 @@ msgstr "صحة الأم والوليد"
 
 msgctxt "app.pagetitle"
 msgid "Mental health"
-msgstr "الصحة النفسية"
+msgstr "الصحة النفسية والعقلية"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "NCD & mental health"
-msgstr "الصحة النفسية"
+msgstr "الامراض غير السارية والصحة النفسية والعقلية"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
 msgstr "الأمراض غير المعدية"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases & mental health"
-msgstr "الأمراض غير المعدية"
+msgstr "الامراض غير السارية والصحة النفسية والعقلية"
 
 msgctxt "app.pagetitle"
 msgid "Nutrition"
