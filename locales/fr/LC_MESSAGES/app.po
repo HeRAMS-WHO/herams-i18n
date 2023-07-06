@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-06-26 16:26+0000\n"
-"Last-Translator: Caroline Test Account <fuhrerc@who.int>\n"
+"PO-Revision-Date: 2023-07-06 10:57+0000\n"
+"Last-Translator: Raphael Brechard <brechardr@who.int>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
 "Language: fr\n"
@@ -1792,19 +1792,17 @@ msgctxt "app.pagetitle"
 msgid "Mental health"
 msgstr "Santé mentale"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "NCD & mental health"
-msgstr "Santé mentale"
+msgstr "MNT & Santé mentale"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
 msgstr "Maladies non transmissible"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases & mental health"
-msgstr "Maladies non transmissible"
+msgstr "Maladies non transmissibles & santé mentale"
 
 msgctxt "app.pagetitle"
 msgid "Nutrition"
