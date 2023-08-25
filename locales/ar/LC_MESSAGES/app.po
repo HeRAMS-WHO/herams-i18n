@@ -258,6 +258,12 @@ msgid "Chart type"
 msgstr "نوع المخطط"
 
 msgctxt "app"
+msgid ""
+"Choose the desired workspaces up to 1.000 or use the Sync all workspaces "
+"button"
+msgstr ""
+
+msgctxt "app"
 msgid "Clear"
 msgstr "أمسح"
 
@@ -1226,6 +1232,11 @@ msgstr "الاستطلاع {id} غير موجود"
 msgctxt "app"
 msgid "Sync"
 msgstr "مزامنة"
+
+#, fuzzy
+msgctxt "app"
+msgid "Sync all workspaces"
+msgstr "مزامنة مساحات العمل"
 
 msgctxt "app"
 msgid "Sync workspaces"

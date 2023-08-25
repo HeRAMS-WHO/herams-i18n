@@ -258,6 +258,12 @@ msgid "Chart type"
 msgstr "დიაგრამის ტიპი"
 
 msgctxt "app"
+msgid ""
+"Choose the desired workspaces up to 1.000 or use the Sync all workspaces "
+"button"
+msgstr ""
+
+msgctxt "app"
 msgid "Clear"
 msgstr "გასუფთავება"
 
@@ -1237,6 +1243,11 @@ msgstr "კითხვარი {id} არ არსებობს"
 msgctxt "app"
 msgid "Sync"
 msgstr "სინქრონიზაცია"
+
+#, fuzzy
+msgctxt "app"
+msgid "Sync all workspaces"
+msgstr "სამუშაო სივრცეების სინქრონიზაცია"
 
 msgctxt "app"
 msgid "Sync workspaces"

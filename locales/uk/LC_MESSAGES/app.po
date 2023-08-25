@@ -259,6 +259,12 @@ msgid "Chart type"
 msgstr "Основна частина"
 
 msgctxt "app"
+msgid ""
+"Choose the desired workspaces up to 1.000 or use the Sync all workspaces "
+"button"
+msgstr ""
+
+msgctxt "app"
 msgid "Clear"
 msgstr "Очистити"
 
@@ -1237,6 +1243,11 @@ msgstr "Опитувальник {id} не існує"
 msgctxt "app"
 msgid "Sync"
 msgstr "Синхронізувати"
+
+#, fuzzy
+msgctxt "app"
+msgid "Sync all workspaces"
+msgstr "Синхронізувати робочі простори"
 
 msgctxt "app"
 msgid "Sync workspaces"

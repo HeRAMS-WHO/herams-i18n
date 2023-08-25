@@ -264,6 +264,12 @@ msgid "Chart type"
 msgstr "Type de graphique"
 
 msgctxt "app"
+msgid ""
+"Choose the desired workspaces up to 1.000 or use the Sync all workspaces "
+"button"
+msgstr ""
+
+msgctxt "app"
 msgid "Clear"
 msgstr "Effacer"
 
@@ -1248,6 +1254,11 @@ msgstr "Formulaire {id} inexistant"
 msgctxt "app"
 msgid "Sync"
 msgstr "Synchroniser"
+
+#, fuzzy
+msgctxt "app"
+msgid "Sync all workspaces"
+msgstr "Synchronisation des espaces de travail"
 
 msgctxt "app"
 msgid "Sync workspaces"

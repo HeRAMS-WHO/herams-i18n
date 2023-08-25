@@ -251,6 +251,10 @@ msgid "Chart type"
 msgstr ""
 
 msgctxt "app"
+msgid "Choose the desired workspaces up to 1.000 or use the Sync all workspaces button"
+msgstr ""
+
+msgctxt "app"
 msgid "Clear"
 msgstr ""
 
@@ -1176,6 +1180,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Sync"
+msgstr ""
+
+msgctxt "app"
+msgid "Sync all workspaces"
 msgstr ""
 
 msgctxt "app"
