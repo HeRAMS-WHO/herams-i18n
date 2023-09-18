@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-29 15:20+0000\n"
-"PO-Revision-Date: 2023-06-19 13:57+0000\n"
+"PO-Revision-Date: 2023-09-18 15:57+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18\n"
+"X-Generator: Weblate 5.0\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: docs/index.rst:11
@@ -180,7 +180,6 @@ msgstr ""
 "le bouton |login|."
 
 #: docs/index.rst:68
-#, fuzzy
 msgid "It is strongly recommended to use either FireFox or Chrome."
 msgstr ""
 "Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
