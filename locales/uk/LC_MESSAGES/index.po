@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-29 15:20+0000\n"
+"POT-Creation-Date: 2023-09-20 13:46+0000\n"
 "PO-Revision-Date: 2023-06-19 13:57+0000\n"
 "Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
 "Language-Team: Ukrainian <https://weblate.herams-staging.org/projects/herams/"
@@ -3166,13 +3166,14 @@ msgid "Exported data is unreadable / contains strange characters"
 msgstr "Експортовані дані неможливо читати/містять дивні символи"
 
 #: docs/index.rst:1049
+#, fuzzy
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an "
 "issue with special characters not displaying correctly, resulting in "
 "unreadable text. For example, instead of **camp de réfugiés** you get **Camp "
 "de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct "
 "encoding type to read your data. To correct the issue, follow the "
-"instruction outlined `here <#data-encoding-in-excel>`__."
+"instructions outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
 "Якщо Ви відкриваєте дані, завантажені з HeRAMS, у програмі Excel, ви можете "
 "зіткнутися з проблемою, коли спеціальні символи відображаються некоректно, "
@@ -3181,6 +3182,10 @@ msgstr ""
 "використовує для зчитування даних неправильне кодування. Для усунення цієї "
 "проблеми дотримуйтеся інструкції, описаної `тут <#Кодування-даних-в-"
 "Excel>`__."
+
+#: docs/index.rst:1052
+msgid "Testing hosted weblate translations."
+msgstr ""
 
 #, fuzzy
 #~ msgid ""

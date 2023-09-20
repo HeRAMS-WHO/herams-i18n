@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-29 15:20+0000\n"
+"POT-Creation-Date: 2023-09-20 13:46+0000\n"
 "PO-Revision-Date: 2022-06-15 11:25+0000\n"
 "Last-Translator: Rehab Rayan <rayanr@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
@@ -2993,13 +2993,14 @@ msgid "Exported data is unreadable / contains strange characters"
 msgstr "البيانات التي تم تصديرها غير قابلة للقراءة او تحتوي على أحرف غريبة"
 
 #: docs/index.rst:1049
+#, fuzzy
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an "
 "issue with special characters not displaying correctly, resulting in "
 "unreadable text. For example, instead of **camp de réfugiés** you get **Camp "
 "de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct "
 "encoding type to read your data. To correct the issue, follow the "
-"instruction outlined `here <#data-encoding-in-excel>`__."
+"instructions outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
 "إذا قمت بفتح البيانات التي تم تحميلها من هيرامس في برنامح اكسيل، فقد تواجه "
 "مشكلة عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. على "
@@ -3007,6 +3008,10 @@ msgstr ""
 "s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح لقراءة "
 "بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة `هنا <#data-encoding-in-"
 "excel>`_."
+
+#: docs/index.rst:1052
+msgid "Testing hosted weblate translations."
+msgstr ""
 
 #, fuzzy
 #~ msgid ""
