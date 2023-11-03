@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-09-20 13:39+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/herams/"
-"herams-platform/ar/>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/herams/herams-"
+"platform/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -980,8 +980,8 @@ msgid ""
 "Private, this project is visible on the map and in the list, but people need "
 "permission to view it"
 msgstr ""
-"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَ"
-"ة لمشاهدته"
+"خاص، هذا المشروع مرئي على الخريطة وفي القائمة، لكن يحتاج الأشخاص إلى صَلاحِيَة "
+"لمشاهدته"
 
 msgctxt "app"
 msgid "Profile"
@@ -1662,6 +1662,15 @@ msgid "Facilities"
 msgstr "مرافق صحية"
 
 msgctxt "app.model.workspace"
+msgid "Last sync by User id"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Last sync date"
+msgstr "آخر تحديث"
+
+msgctxt "app.model.workspace"
 msgid "Latest update"
 msgstr "آخر تحديث"
 
@@ -1672,6 +1681,15 @@ msgstr "مشروع"
 msgctxt "app.model.workspace"
 msgid "Responses"
 msgstr "الإستجابات/الردود"
+
+msgctxt "app.model.workspace"
+msgid "Sync error"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Sync status"
+msgstr "الحالة"
 
 msgctxt "app.model.workspace"
 msgid "Token"

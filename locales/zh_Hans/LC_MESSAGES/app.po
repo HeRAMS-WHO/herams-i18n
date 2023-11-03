@@ -1624,6 +1624,14 @@ msgid "Facilities"
 msgstr ""
 
 msgctxt "app.model.workspace"
+msgid "Last sync by User id"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Last sync date"
+msgstr ""
+
+msgctxt "app.model.workspace"
 msgid "Latest update"
 msgstr ""
 
@@ -1633,6 +1641,14 @@ msgstr ""
 
 msgctxt "app.model.workspace"
 msgid "Responses"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Sync error"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Sync status"
 msgstr ""
 
 msgctxt "app.model.workspace"

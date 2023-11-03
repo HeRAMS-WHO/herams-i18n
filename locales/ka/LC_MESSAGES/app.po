@@ -1675,6 +1675,15 @@ msgid "Facilities"
 msgstr "დაწესებულებები"
 
 msgctxt "app.model.workspace"
+msgid "Last sync by User id"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Last sync date"
+msgstr "ბოლო განახლება"
+
+msgctxt "app.model.workspace"
 msgid "Latest update"
 msgstr "ბოლო განახლება"
 
@@ -1685,6 +1694,15 @@ msgstr "პროექტი"
 msgctxt "app.model.workspace"
 msgid "Responses"
 msgstr "პასუხები"
+
+msgctxt "app.model.workspace"
+msgid "Sync error"
+msgstr ""
+
+#, fuzzy
+msgctxt "app.model.workspace"
+msgid "Sync status"
+msgstr "სტატუსი"
 
 msgctxt "app.model.workspace"
 msgid "Token"

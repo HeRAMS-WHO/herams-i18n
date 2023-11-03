@@ -4,8 +4,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-09-20 13:39+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Armenian <https://hosted.weblate.org/projects/herams/"
-"herams-platform/hy/>\n"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/herams/herams-"
+"platform/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1619,6 +1619,14 @@ msgid "Facilities"
 msgstr ""
 
 msgctxt "app.model.workspace"
+msgid "Last sync by User id"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Last sync date"
+msgstr ""
+
+msgctxt "app.model.workspace"
 msgid "Latest update"
 msgstr ""
 
@@ -1628,6 +1636,14 @@ msgstr ""
 
 msgctxt "app.model.workspace"
 msgid "Responses"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Sync error"
+msgstr ""
+
+msgctxt "app.model.workspace"
+msgid "Sync status"
 msgstr ""
 
 msgctxt "app.model.workspace"
