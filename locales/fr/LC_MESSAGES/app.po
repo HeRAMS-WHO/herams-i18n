@@ -1565,7 +1565,7 @@ msgstr "Propriétaire de l'espace de travail"
 
 msgctxt "app"
 msgid "Workspace settings"
-msgstr "Paramêtres de l'espaces de travail"
+msgstr "Paramètres de l'espace de travail"
 
 msgctxt "app"
 msgid "Workspace {workspace}"
