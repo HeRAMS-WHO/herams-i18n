@@ -2,17 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-09-20 13:39+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/herams/herams-"
-"platform/uk/>\n"
+"PO-Revision-Date: 2024-01-09 12:06+0000\n"
+"Last-Translator: Mariia Yashchenko <yashchenkom@who.int>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/herams/"
+"herams-platform/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 msgctxt "app"
 msgid "# Contributors"
@@ -177,7 +177,7 @@ msgstr "Чи Ви АБСОЛЮТНО ВПЕВНЕНІ, що бажаєте ви�
 
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete this project?"
-msgstr "Чи Ви АБСОЛЮТНО ВПЕВНЕНІ, що бажаєте видалити проект?"
+msgstr "Чи Ви АБСОЛЮТНО ВПЕВНЕНІ, що бажаєте видалити проєкт?"
 
 msgctxt "app"
 msgid "Are you ABSOLUTELY SURE you wish to delete this workspace?"
@@ -212,7 +212,7 @@ msgstr "Чи Ви впевнені, що бажаєте видалити цей 
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
-msgstr "Чи Ви впевнені, що бажаєте видалити цей проект із системи?"
+msgstr "Чи Ви впевнені, що бажаєте видалити цей проєкт із системи?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this workspace from the system?"
@@ -256,13 +256,15 @@ msgstr "Причини недоступності"
 
 msgctxt "app"
 msgid "Chart type"
-msgstr "Основна частина"
+msgstr "Тип діаграми"
 
 msgctxt "app"
 msgid ""
 "Choose the desired workspaces up to 1.000 or use the Sync all workspaces "
 "button"
 msgstr ""
+"Визначте бажані робочі простори (до 1000) чи використайте кнопку "
+"\"Синхронізувати всі робочі простори\""
 
 msgctxt "app"
 msgid "Clear"
@@ -286,7 +288,7 @@ msgstr "Підтвердити пароль"
 
 msgctxt "app"
 msgid "Contribute data"
-msgstr "Внести дані"
+msgstr "Додати дані"
 
 msgctxt "app"
 msgid "Contributors"
@@ -298,7 +300,7 @@ msgstr "Країна"
 
 msgctxt "app"
 msgid "Create a new project"
-msgstr "Створити новий проект"
+msgstr "Створити новий проєкт"
 
 msgctxt "app"
 msgid "Create account"
@@ -334,7 +336,7 @@ msgstr "Створити сторінку"
 
 msgctxt "app"
 msgid "Create project"
-msgstr "Створити проект"
+msgstr "Створити проєкт"
 
 msgctxt "app"
 msgid "Create table"
@@ -355,8 +357,8 @@ msgstr "Створено ким"
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr ""
-"Створено {success} робочих областей, не вдалося створити {fail} робочих "
-"областей"
+"Створено {success} робочих просторів, не вдалося створити {fail} робочих "
+"просторів"
 
 msgctxt "app"
 msgid "Creating a new account for email:"
@@ -388,11 +390,11 @@ msgstr "Видалити всі робочі простори"
 
 msgctxt "app"
 msgid "Delete all workspaces in project"
-msgstr "Видалити всі робочі простори в проекті"
+msgstr "Видалити всі робочі простори в проєкті"
 
 msgctxt "app"
 msgid "Delete project"
-msgstr "Видалити проект"
+msgstr "Видалити проєкт"
 
 msgctxt "app"
 msgid "Delete this user"
@@ -428,7 +430,7 @@ msgstr "Вимкнено"
 
 msgctxt "app"
 msgid "Discard & go back"
-msgstr "Відкинути та повернутися назад"
+msgstr "Відкинути зміни та повернутися назад"
 
 msgctxt "app"
 msgid "Display name"
@@ -484,7 +486,7 @@ msgstr "Електронна пошта"
 
 msgctxt "app"
 msgid "Email already taken"
-msgstr "Електронна пошта уже отримана"
+msgstr "Електронна пошта уже зайнята"
 
 msgctxt "app"
 msgid "Emergency specific"
@@ -492,7 +494,7 @@ msgstr "Специфічно до надзвичайної ситуації"
 
 msgctxt "app"
 msgid "Empty project"
-msgstr "Пустий проект"
+msgstr "Пустий проєкт"
 
 msgctxt "app"
 msgid "Enabled"
@@ -506,12 +508,12 @@ msgid ""
 msgstr ""
 "Введіть дату, щоб обмежити експорт до останнього запису, який передує або "
 "дорівнює вибраній даті для кожного медичного закладу. Щоб експортувати всі "
-"історичні записи медичної установи, залиште поле порожнім."
+"історичні записи медичного закладу, залиште поле порожнім."
 
 msgctxt "app"
 msgid "Enter the email address you want to use for your account."
 msgstr ""
-"Введіть адресу електронної пошти, яку ви хочете використовувати для свого "
+"Введіть адресу електронної пошти, яку Ви хочете використовувати для свого "
 "облікового запису."
 
 msgctxt "app"
@@ -524,11 +526,11 @@ msgstr "Термін дії закінчується о"
 
 msgctxt "app"
 msgid "Explain what permissions you need and why you need them."
-msgstr "Поясніть, які дозволи вам потрібні та навіщо вони потрібні."
+msgstr "Поясніть, які дозволи Вам потрібні та навіщо вони потрібні."
 
 msgctxt "app"
 msgid "Explanation of grant or deny"
-msgstr "Пояснення щодо надання чи відмови"
+msgstr "Пояснення щодо надання чи відмови доступу"
 
 msgctxt "app"
 msgid "Export CSV"
@@ -548,7 +550,7 @@ msgstr "Експорт даних"
 
 msgctxt "app"
 msgid "Export data from project {project}"
-msgstr "Експорт даних з проекту {project}"
+msgstr "Експорт даних з проєкту {project}"
 
 msgctxt "app"
 msgid "Export data from workspace {workspace}"
@@ -596,7 +598,7 @@ msgstr "Повністю доступно"
 
 msgctxt "app"
 msgid "Fully functional"
-msgstr "Повністю фіункціонально"
+msgstr "Повністю функціонально"
 
 msgctxt "app"
 msgid "Functionality"
@@ -636,7 +638,7 @@ msgstr "Скидання пароля HeRAMS"
 
 msgctxt "app"
 msgid "HeRAMS projects"
-msgstr "Проекти HeRAMS"
+msgstr "Проєкти HeRAMS"
 
 msgctxt "app"
 msgid "Health Facilities"
@@ -656,7 +658,7 @@ msgstr "Приховано"
 
 msgctxt "app"
 msgid "Hidden, this project is only visible to people with permissions"
-msgstr "Цей проект приховано, його бачать лише люди з відповідними дозволами"
+msgstr "Цей проєкт приховано, його бачать лише люди з відповідними дозволами"
 
 msgctxt "app"
 msgid "Home"
@@ -668,13 +670,11 @@ msgstr "Ідентифікатор"
 
 msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
-msgstr ""
-"Якщо ви використовуєте попередньо визначений параметр, його буде автоматично "
-"перекладено"
+msgstr "Буде автоматично перекладено за попередньо визначеними параметрами"
 
 msgctxt "app"
 msgid "Implicitly granted"
-msgstr "Неявно надано"
+msgstr "Надано (імпліцитно)"
 
 msgctxt "app"
 msgid "Import Pages"
@@ -698,7 +698,7 @@ msgstr "Додати заголовок коду"
 
 msgctxt "app"
 msgid "Include text header"
-msgstr "Додайте заголовок тексту"
+msgstr "Додати заголовок тексту"
 
 msgctxt "app"
 msgid "Info"
@@ -770,7 +770,7 @@ msgstr "Завантаження не вдалось"
 
 msgctxt "app"
 msgid "Loading project summary"
-msgstr "Завантаження підсумку проекту"
+msgstr "Завантаження підсумку проєкту"
 
 msgctxt "app"
 msgid "Log in"
@@ -782,7 +782,7 @@ msgstr "Довгота"
 
 msgctxt "app"
 msgid "Manage data implies creating facilities"
-msgstr "Управління даними має на увазі створення ЗОЗ"
+msgstr "Управління даними включає створення ЗОЗ"
 
 msgctxt "app"
 msgid "Manage surveys"
@@ -842,7 +842,7 @@ msgstr "Ні"
 
 msgctxt "app"
 msgid "No data loaded"
-msgstr "Не завантажені дані"
+msgstr "Дані не завантажені"
 
 msgctxt "app"
 msgid "No extra information is available at this time"
@@ -866,7 +866,7 @@ msgstr "Не функціонує"
 
 msgctxt "app"
 msgid "Not normally provided"
-msgstr "Не застосовно"
+msgstr "Зазвичай не надається"
 
 msgctxt "app"
 msgid "Notifications"
@@ -926,7 +926,7 @@ msgstr "Елементи сторінки"
 
 msgctxt "app"
 msgid "Parent page"
-msgstr "Батьківська сторінка"
+msgstr "Материнська сторінка"
 
 msgctxt "app"
 msgid "Partial"
@@ -938,7 +938,7 @@ msgstr "Частково доступні"
 
 msgctxt "app"
 msgid "Partially functional"
-msgstr "Частково доступні"
+msgstr "Частково функціональні"
 
 msgctxt "app"
 msgid "Password"
@@ -989,7 +989,7 @@ msgid ""
 "Private, this project is visible on the map and in the list, but people need "
 "permission to view it"
 msgstr ""
-"Приватний, цей проект видно на карті та в списку, але людям потрібен дозвіл "
+"Приватний. Цей проєкт видно на карті та в списку, але людям потрібен дозвіл "
 "на його перегляд"
 
 msgctxt "app"
@@ -998,47 +998,47 @@ msgstr "Профіль"
 
 msgctxt "app"
 msgid "Project"
-msgstr "Проект"
+msgstr "Проєкт"
 
 msgctxt "app"
 msgid ""
 "Project <strong>{modelName}</strong> has been shared with: <strong>{users}</"
 "strong> and invited users: <strong>{invitedUsers}</strong>"
 msgstr ""
-"Проектом <strong>{modelName}</strong> поділилися: <strong>{users}</strong> "
-"та були запрошені користувачі: <strong>{invitedUsers}6</strong>"
+"Ви поділилися проєктом <strong>{modelName}</strong>з: <strong>{users}</"
+"strong> та запросили користувачів: <strong>{invitedUsers}6</strong>"
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
-msgstr "Проект <strong>{project}</strong> створено"
+msgstr "Проєкт <strong>{project}</strong> створено"
 
 msgctxt "app"
 msgid "Project coordinator"
-msgstr "Координатор проекту"
+msgstr "Координатор проєкту"
 
 msgctxt "app"
 msgid "Project dashboard"
-msgstr "Дашборд проекту"
+msgstr "Дашборд проєкту"
 
 msgctxt "app"
 msgid "Project settings"
-msgstr "Налаштування проекту"
+msgstr "Налаштування проєкту"
 
 msgctxt "app"
 msgid "Project status is shown on the world map"
-msgstr "Статус проекту показано на карті світу"
+msgstr "Статус проєкту показано на карті світу"
 
 msgctxt "app"
 msgid "Project updated"
-msgstr "Проект оновлено"
+msgstr "Проєкт оновлено"
 
 msgctxt "app"
 msgid "Projects"
-msgstr "Проекти"
+msgstr "Проєкти"
 
 msgctxt "app"
 msgid "Public, anyone can view this project"
-msgstr "Загальний доступ, всі можуть переглядати проект"
+msgstr "Загальнодоступний. Всі можуть переглядати проєкт"
 
 msgctxt "app"
 msgid "Question code containing the name (case sensitive)"
@@ -1075,7 +1075,7 @@ msgid ""
 msgstr ""
 "Оновлення даних зайняло {time} секунд;\n"
 "         {new} нових записів,\n"
-"         {updated} існуючі записи,\n"
+"         {updated} існуючих записів,\n"
 "         {deleted} видалених записів,\n"
 "         {unchanged} незмінених записів,\n"
 "         {failed} недійсних записів"
@@ -1094,11 +1094,11 @@ msgstr "Зареєструвати новий заклад"
 
 msgctxt "app"
 msgid "Repeat password"
-msgstr "Повторити пароль"
+msgstr "Повторіть введення пароля"
 
 msgctxt "app"
 msgid "Report date"
-msgstr "Повідомити дату"
+msgstr "Вкажіть дату"
 
 msgctxt "app"
 msgid "Request"
@@ -1159,7 +1159,7 @@ msgid ""
 "granted permissions empty. Explain your decision in the textarea."
 msgstr ""
 "Перегляньте запитуваний дозвіл. Або надайте дозволи, вибравши дозволи, які, "
-"на вашу думку, можна застосувати, або відхиліть запит, залишивши надані "
+"на Вашу думку, можна застосувати, або відхиліть запит, залишивши надані "
 "дозволи пустими. Поясніть своє рішення в текстовому полі."
 
 msgctxt "app"
@@ -1181,8 +1181,7 @@ msgstr "Вторинні"
 
 msgctxt "app"
 msgid "Select and sync any number of workspaces in the project"
-msgstr ""
-"Виберіть і синхронізуйте будь-яку кількість робочих просторів у проекті"
+msgstr "Виберіть і синхронізуйте будь-яку кількість робочих просторів у проєкті"
 
 msgctxt "app"
 msgid "Send confirmation"
@@ -1218,7 +1217,7 @@ msgstr "Статус"
 
 msgctxt "app"
 msgid "Subject"
-msgstr "Надіслати до"
+msgstr "Тема"
 
 msgctxt "app"
 msgid "Subscribe to newsletter"
@@ -1244,10 +1243,9 @@ msgctxt "app"
 msgid "Sync"
 msgstr "Синхронізувати"
 
-#, fuzzy
 msgctxt "app"
 msgid "Sync all workspaces"
-msgstr "Синхронізувати робочі простори"
+msgstr "Синхронізувати всі робочі простори"
 
 msgctxt "app"
 msgid "Sync workspaces"
@@ -1263,7 +1261,7 @@ msgstr "Цільовий клас"
 
 msgctxt "app"
 msgid "Target title"
-msgstr "Цільвий заголовок"
+msgstr "Цільовий заголовок"
 
 msgctxt "app"
 msgid "Target type"
@@ -1296,7 +1294,7 @@ msgstr "Запрошення було прийнято"
 
 msgctxt "app"
 msgid "The page you are looking for doesn't exist"
-msgstr "Сторінка, яку ви шукаєте, не існує"
+msgstr "Сторінка, яку Ви шукаєте, не існує"
 
 msgctxt "app"
 msgid ""
@@ -1308,16 +1306,16 @@ msgstr ""
 
 msgctxt "app"
 msgid "There are open access requests that you can respond to."
-msgstr "Є запити на відкриття доступу, на які ви можете відповісти."
+msgstr "Є запити на відкриття доступу, на які Ви можете відповісти."
 
 msgctxt "app"
 msgid "This action cannot be undone."
-msgstr "Ця дія не можу бути обернена."
+msgstr "Ця дія не може бути обернена."
 
 msgctxt "app"
 msgid "This email is already in use, log in and click the link again."
 msgstr ""
-"Ця електронна адреса вже використовується, увійдіть і натисніть посилання ще "
+"Ця електронна адреса ВЖЕ ВИКОРИСТОВУЄТЬСЯ, увійдіть і натисніть посилання ще "
 "раз."
 
 msgctxt "app"
@@ -1328,16 +1326,15 @@ msgctxt "app"
 msgid ""
 "This link is no longer valid; your password has been changed since it was "
 "issued"
-msgstr ""
-"Це посилання більше не дійсне; ваш пароль було змінено після його видачі"
+msgstr "Це посилання більше не дійсне; Ви вже змінили Ваш пароль"
 
 msgctxt "app"
 msgid "This will permanently delete all workspaces in the project."
-msgstr "Це назавжди видалить усі робочі простори в проекті."
+msgstr "Це назавжди видалить усі робочі простори в проєкті."
 
 msgctxt "app"
 msgid "This will permanently delete the project and all its workspaces."
-msgstr "Це остаточно видалить проект і всі його робочі простори."
+msgstr "Це остаточно видалить проєкт і всі його робочі простори."
 
 msgctxt "app"
 msgid "This will permanently delete the workspace."
@@ -1369,7 +1366,7 @@ msgstr "Переміщувати"
 
 msgctxt "app"
 msgid "Try refreshing the project"
-msgstr "Спробуйте оновити проект"
+msgstr "Спробуйте оновити проєкт"
 
 msgctxt "app"
 msgid "Type"
@@ -1457,7 +1454,7 @@ msgstr "Користувача не знайдено"
 
 msgctxt "app"
 msgid "User updated"
-msgstr "Користувача оновлення"
+msgstr "Користувача оновлено"
 
 msgctxt "app"
 msgid "Users"
@@ -1485,7 +1482,7 @@ msgstr "Переглянути дашборд"
 
 msgctxt "app"
 msgid "View project"
-msgstr "Переглянути проект"
+msgstr "Переглянути проєкт"
 
 msgctxt "app"
 msgid "View user permissions"
@@ -1501,11 +1498,11 @@ msgstr "Попередження"
 
 msgctxt "app"
 msgid "We use this field to store the country for the project"
-msgstr "Ми використовуємо це поле, щоб зберегти країну проекту"
+msgstr "Ми використовуємо це поле, щоб зберегти країну проєкту"
 
 msgctxt "app"
 msgid "We use this field to store the last name of the project owner"
-msgstr "Ми використовуємо це поле, щоб зберегти власника проекту"
+msgstr "Ми використовуємо це поле, щоб зберегти прізвище власника проєкту"
 
 msgctxt "app"
 msgid "We will send a confirmation message to this address"
@@ -1526,7 +1523,7 @@ msgstr ""
 msgctxt "app"
 msgid ""
 "Whether this element needs data at facility (HF) or subject (service) level"
-msgstr "Збір даних на рівні закладу (ЗОЗ) чи предмета (послуги)"
+msgstr "Збір даних на рівні закладу (ЗОЗ) чи домена (послуги)"
 
 msgctxt "app"
 msgid "Width"
@@ -1555,7 +1552,7 @@ msgstr "Власник робочого простору"
 
 msgctxt "app"
 msgid "Workspace settings"
-msgstr "Налашутвання робочого простору"
+msgstr "Налаштування робочого простору"
 
 msgctxt "app"
 msgid "Workspace {workspace}"
@@ -1575,7 +1572,7 @@ msgstr "Робочі простори ({n})"
 
 msgctxt "app"
 msgid "Workspaces for {project}"
-msgstr "Робочі простори проекту {project}"
+msgstr "Робочі простори проєкту {project}"
 
 msgctxt "app"
 msgid "World overview"
@@ -1594,12 +1591,12 @@ msgid ""
 "You are currently logged in with {user}. You can either accept the "
 "invitation with the current account or create a new account below."
 msgstr ""
-"Зараз ви ввійшли як {user}. Ви можете прийняти запрошення з поточним "
+"Зараз Ви ввійшли як {user}. Ви можете прийняти запрошення з поточним "
 "обліковим записом або створити новий обліковий запис нижче."
 
 msgctxt "app"
 msgid "You are not allowed to request access to this project"
-msgstr "Ви не можете запитувати доступ до цього проекту"
+msgstr "Ви не можете запитувати доступ до цього проєкту"
 
 msgctxt "app"
 msgid "You are not allowed to request access to this workspace"
@@ -1607,7 +1604,7 @@ msgstr "Ви не можете запитувати доступ до цього
 
 msgctxt "app"
 msgid "You are not allowed to share this project"
-msgstr "Ви не можете ділитись цим проектом"
+msgstr "Ви не можете ділитись цим проєктом"
 
 msgctxt "app"
 msgid ""
@@ -1675,12 +1672,11 @@ msgstr "Заклади"
 
 msgctxt "app.model.workspace"
 msgid "Last sync by User id"
-msgstr ""
+msgstr "Остання синхронізація за ідентифікатором користувача"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Last sync date"
-msgstr "Останнє оновлення"
+msgstr "Дата останньої синхронізації"
 
 msgctxt "app.model.workspace"
 msgid "Latest update"
@@ -1688,7 +1684,7 @@ msgstr "Останнє оновлення"
 
 msgctxt "app.model.workspace"
 msgid "Project"
-msgstr "Проект"
+msgstr "Проєкт"
 
 msgctxt "app.model.workspace"
 msgid "Responses"
@@ -1696,12 +1692,11 @@ msgstr "Відповіді"
 
 msgctxt "app.model.workspace"
 msgid "Sync error"
-msgstr ""
+msgstr "Помилка синхронізації"
 
-#, fuzzy
 msgctxt "app.model.workspace"
 msgid "Sync status"
-msgstr "Статус"
+msgstr "Статус синхронізації"
 
 msgctxt "app.model.workspace"
 msgid "Token"
@@ -1811,19 +1806,17 @@ msgctxt "app.pagetitle"
 msgid "Mental health"
 msgstr "Психічне здоровʼя"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "NCD & mental health"
-msgstr "Психічне здоровʼя"
+msgstr "НІЗи та Психічне здоровʼя"
 
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases"
 msgstr "Неінфекційні захворювання"
 
-#, fuzzy
 msgctxt "app.pagetitle"
 msgid "Non-communicable diseases & mental health"
-msgstr "Неінфекційні захворювання"
+msgstr "Неінфекційні захворювання та психічне здоровʼя"
 
 msgctxt "app.pagetitle"
 msgid "Nutrition"
@@ -1887,7 +1880,7 @@ msgstr "Дозвіл"
 
 msgctxt "app.permission"
 msgid "Source ID"
-msgstr "Джерело ідентифікатора"
+msgstr "Вихідний ідентифікатор"
 
 msgctxt "app.permission"
 msgid "Source type"
