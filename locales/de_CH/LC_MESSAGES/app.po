@@ -1663,6 +1663,10 @@ msgid "Building and equipment condition"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Cancer services"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Child health"
 msgstr ""
 
@@ -1696,6 +1700,10 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Connectivity"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Environmental cleaning"
 msgstr ""
 
 msgctxt "app.pagetitle"
@@ -1772,6 +1780,10 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Overview"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Personal protective equipment"
 msgstr ""
 
 msgctxt "app.pagetitle"

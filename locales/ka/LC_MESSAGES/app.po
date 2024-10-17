@@ -1720,6 +1720,11 @@ msgctxt "app.pagetitle"
 msgid "Building and equipment condition"
 msgstr "შენობის და აღჭურვილობის მდგომარეობა"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Cancer services"
+msgstr "სერვისების დამატება"
+
 msgctxt "app.pagetitle"
 msgid "Child health"
 msgstr "ბავშვის ჯანმრთელობა"
@@ -1755,6 +1760,10 @@ msgstr "პირობები"
 msgctxt "app.pagetitle"
 msgid "Connectivity"
 msgstr "კავშირგაბმულობა"
+
+msgctxt "app.pagetitle"
+msgid "Environmental cleaning"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1831,6 +1840,10 @@ msgstr "კვება"
 msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr "მიმოხილვა"
+
+msgctxt "app.pagetitle"
+msgid "Personal protective equipment"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Power"

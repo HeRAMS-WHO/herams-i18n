@@ -1662,6 +1662,11 @@ msgctxt "app.pagetitle"
 msgid "Building and equipment condition"
 msgstr "Condição de Construção e Equipamento"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Cancer services"
+msgstr "Serviços Slínicos Gerais"
+
 msgctxt "app.pagetitle"
 msgid "Child health"
 msgstr "Saúde Infantil"
@@ -1697,6 +1702,10 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Connectivity"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Environmental cleaning"
 msgstr ""
 
 msgctxt "app.pagetitle"
@@ -1776,6 +1785,10 @@ msgstr "Nutrição"
 msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr "Visão geral"
+
+msgctxt "app.pagetitle"
+msgid "Personal protective equipment"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Power"

@@ -1707,6 +1707,11 @@ msgctxt "app.pagetitle"
 msgid "Building and equipment condition"
 msgstr "حالة المبنى والمعدات الطبية"
 
+#, fuzzy
+msgctxt "app.pagetitle"
+msgid "Cancer services"
+msgstr "اضف خدمات"
+
 msgctxt "app.pagetitle"
 msgid "Child health"
 msgstr "صحة الطفل"
@@ -1742,6 +1747,10 @@ msgstr "حالة المبنى"
 msgctxt "app.pagetitle"
 msgid "Connectivity"
 msgstr "الاتصال"
+
+msgctxt "app.pagetitle"
+msgid "Environmental cleaning"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
@@ -1818,6 +1827,10 @@ msgstr "التغذية"
 msgctxt "app.pagetitle"
 msgid "Overview"
 msgstr "نظرة عامة"
+
+msgctxt "app.pagetitle"
+msgid "Personal protective equipment"
+msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Power"
