@@ -875,6 +875,10 @@ msgid "Ongoing"
 msgstr ""
 
 msgctxt "app"
+msgid "Only complete responses"
+msgstr ""
+
+msgctxt "app"
 msgid ""
 "Only countries with an ISO3166 Alpha-3:wq\n"
 "             code are listed"
